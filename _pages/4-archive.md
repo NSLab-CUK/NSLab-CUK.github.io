@@ -17,6 +17,8 @@ description: Archive of events, memories and achievements of the Network Science
 ##### Mar 16th, 2024
 {:.no_toc}
 
+<p align="center"><img width="700" src="/images/240316_2.jpg"></p>
+
 <p align="center"><img width="700" src="/images/240316.jpg"></p>
 
 ***
