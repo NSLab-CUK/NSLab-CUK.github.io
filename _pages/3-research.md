@@ -119,8 +119,10 @@ toc_label: "Table of Contents"
 [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=flat-square&logo=YouTube)](https://youtu.be/vqhk6fCCGR0)
 
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. <br>
+[![arXiv](https://img.shields.io/badge/arXiv-2403.17384-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2403.17384)
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1M3CRNVjsjQJMn5q1laPEk3BSPPjaJhUr/view?usp=sharing)
 [![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/13-Z4fC7e1nGaVGg9fYbsX2z1lte0zLnE/view?usp=sharing)
+[![Website](https://img.shields.io/badge/URL-XAI4Sci%20Proceedings-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://xai4sci.github.io/#papers)
 
 ***
 # Digital Humanities and Social Sciences
