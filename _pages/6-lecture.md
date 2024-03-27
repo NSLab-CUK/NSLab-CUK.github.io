@@ -20,7 +20,7 @@ toc_label: "Table of Contents"
 * Advanced Artificial Intelligence (Graduate Course)
   * Instructor: O-Joun Lee
 
-* 06837-01 Graph Mining
+* [06837-01 Graph Mining](https://ns-cuk.notion.site/06837-Graph-Mining-Spring-2024-d61162f663a141929559c406d83ca187?pvs=4)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/thanhdo19730), and [Huy Quang Tran](https://nslab-cuk.github.io/member/huy)
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2024)
