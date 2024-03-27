@@ -116,11 +116,12 @@ toc_label: "Table of Contents"
 # Conference Proceedings
 
 ***
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. 
 [![Link](https://img.shields.io/badge/AAAIw%20'24-0C2E86?style=flat-square)](https://xai4sci.github.io/)
 
-* Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
+* Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. DOI:10.1609/aaai.v38i11.29138
 [![Link](https://img.shields.io/badge/AAAI%20'24-0C2E86?style=flat-square)](https://aaai.org/aaai-conference/)
+<span class="__dimensions_badge_embed__" data-doi="10.1609/aaai.v38i11.29138" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Daehun Kim, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Development of an Automatic Monitoring System for Ultrasound Signals Using Artificial Intelligence and Convolutional Neural Networks. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 ([Poster](https://drive.google.com/file/d/1UmF5wgWtroScELO2_vaKRavFpiiDnnWx/view?usp=sharing); in Korean)
 
