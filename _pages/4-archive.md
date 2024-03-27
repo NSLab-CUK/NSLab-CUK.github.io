@@ -22,6 +22,14 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><img width="700" src="/images/240316.jpg"></p>
 
 ***
+##### Mar 12th, 2024 -- Jun 4th, 2024
+{:.no_toc}
+
+* NS Lab@CUK organizes [the 2024 Spring CUK Artificial Intelligence Seminar Series (2024년 봄 가톨릭대학교 인공지능 세미나)](https://nslab-cuk.github.io/2024/02/22/Seminar/) with the Department of AI. This seminar series consists of 12 invited talks given by experts from both the corporate world and research institutions and is scheduled to take place over a period of 13 weeks, from March 12th, 2024, to June 4th, 2024. 
+
+<p align="center"><img width="700" src="/images/2024-1-Seminar-Poster.webp"></p>
+
+***
 ##### Mar 8th, 2024
 {:.no_toc}
 
