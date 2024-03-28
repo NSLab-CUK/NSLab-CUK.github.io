@@ -20,6 +20,7 @@ description: Curriculum vitae of O-Joun Lee
 [![Pure](https://img.shields.io/badge/Pure-FF6C00?style=flat-square&logo=elsevier&logoColor=white)](https://cuk.elsevierpure.com/en/persons/o-joun-lee) 
 [![Loop](https://img.shields.io/badge/Loop-F29400?style=flat-square&logo=loop&logoColor=white)](https://loop.frontiersin.org/people/800687/) 
 [![WOS](https://img.shields.io/badge/Web%20of%20Science-black?style=flat-square&logo=Clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/537246) 
+[![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://o-jounlee.github.io/)
 
 <br>
 
