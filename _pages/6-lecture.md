@@ -146,7 +146,7 @@ toc_label: "Table of Contents"
  
 ***
 ### Winter 2022
-
+{:.no_toc}
 ***
 * [Winter School on Ethics of AI and Robots](https://nslab-cuk.github.io/2022/12/05/WS/) (Special Course)
   * Instructor: Eun-Soon You
