@@ -68,7 +68,7 @@ toc_label: "Table of Contents"
 * 54495-01 Advanced Machine Learning (Graduate Course)
   * Instructor: O-Joun Lee
 
-* 06838-01 Graph Neural Networks
+* [06838-01 Graph Neural Networks](https://ns-cuk.notion.site/06838-Graph-Neural-Networks-Fall-2023-f147ff0f52ab41acbcb8636de7e44d46?pvs=4)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2023)
