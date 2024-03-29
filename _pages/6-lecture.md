@@ -14,12 +14,12 @@ toc_label: "Table of Contents"
 {:toc}
 
 ***
-## 2024
+### 2024
  
 ***
-### Spring 2024
+#### Spring 2024
 {:.no_toc}
-***
+
 * Advanced Artificial Intelligence (Graduate Course)
   * Instructor: O-Joun Lee
 
@@ -50,12 +50,12 @@ toc_label: "Table of Contents"
   * Instructor: Eun-Soon You
 
 ***
-## 2023
+### 2023
  
 ***
-### Winter 2023
+#### Winter 2023
 {:.no_toc}
-***
+
 * [Winter School on Digital Humanities](https://nslab-cuk.github.io/2023/11/22/WS/) (Special Course)
   * Instructor: Eun-Soon You
   * TA: [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
@@ -68,9 +68,9 @@ toc_label: "Table of Contents"
   * Instructor: Faculty members of Dept. of AI
 
 ***
-### Fall 2023
+#### Fall 2023
 {:.no_toc}
-***
+
 * 54495-01 Advanced Machine Learning (Graduate Course)
   * Instructor: O-Joun Lee
 
@@ -98,9 +98,9 @@ toc_label: "Table of Contents"
   * Instructor: Faculty members of Dept. of AI
 
 ***
-### Summer 2023
+#### Summer 2023
 {:.no_toc}
-***
+
 * [Summer School on Digital Humanities](https://nslab-cuk.github.io/2023/05/24/SS/) (Special Course)
   * Instructor: Eun-Soon You
   * TA: [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
@@ -121,9 +121,9 @@ toc_label: "Table of Contents"
   * Instructor: Faculty members of Dept. of AI
 
 ***
-### Spring 2023
+#### Spring 2023
 {:.no_toc}
-***
+
 * [54369-01 Advanced Graph Neural Networks](https://ns-cuk.notion.site/Advanced-Graph-Neural-Networks-a4162478f7d942d8a73447e28b05c179) (Graduate Course)
   * Instructor: O-Joun Lee
 
@@ -142,20 +142,20 @@ toc_label: "Table of Contents"
   * Instructor: Eun-Soon You
 
 ***
-## 2022
+### 2022
  
 ***
-### Winter 2022
+#### Winter 2022
 {:.no_toc}
-***
+
 * [Winter School on Ethics of AI and Robots](https://nslab-cuk.github.io/2022/12/05/WS/) (Special Course)
   * Instructor: Eun-Soon You
   * TA: [Se Eun Cho](https://nslab-cuk.github.io/member/secho) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
 
 ***
-### Fall 2022
+#### Fall 2022
 {:.no_toc}
-***
+
 * 54347-01 Advanced Graph Mining (Graduate Course)
   * Instructor: O-Joun Lee
 
@@ -167,9 +167,9 @@ toc_label: "Table of Contents"
   * Instructor: Eun-Soon You
 
 ***
-### Spring 2022
+#### Spring 2022
 {:.no_toc}
-***
+
 * 54256-01 Network Embedding (Graduate Course)
   * Instructor: O-Joun Lee
 
@@ -180,12 +180,12 @@ toc_label: "Table of Contents"
   * Instructor: Faculty members of Dept. of AI
 
 ***
-## 2021
+### 2021
  
 ***
-### Fall 2021
+#### Fall 2021
 {:.no_toc}
-***
+
 * 02922-05 Computers & Programming 2
   * Instructor: O-Joun Lee
 
