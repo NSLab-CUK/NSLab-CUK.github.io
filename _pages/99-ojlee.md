@@ -6,8 +6,7 @@ image: 191103.jpg
 description: Curriculum vitae of O-Joun Lee
 ---
 
-> Narratives structure our understanding of the world and ourselves. <br>
-> [_(Lakoff and Narayanan, 2010)_](https://www.aaai.org/ocs/index.php/FSS/FSS10/paper/viewFile/2323/2834)
+> Graphs illustrate intricate patterns in our perception of the world and ourselves; graph mining enhances this comprehension by highlighting overlooked details.
 
 <br>
 
