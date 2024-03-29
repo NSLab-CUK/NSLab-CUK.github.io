@@ -304,6 +304,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
          <li>Mar 2020 -- Present: School of Information, Department of Mathematics, The Catholic University of Korea, Bucheon, Korea</li>      
          <li>Research Interest: voice recognition</li>
          <li><a href="mailto:zeus0208b@catholic.ac.kr"><img src="https://img.shields.io/badge/-zeus0208b@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
+	 <li><a href="https://velog.io/@zeus0208b"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
       </ul></td>
    </tr>
 </table>
