@@ -76,7 +76,7 @@ toc_label: "Table of Contents"
 <span class="__dimensions_badge_embed__" data-doi="10.1007/s12652-018-1083-x" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Hyeon-Ju Jeon, O-Joun Lee, Jason. J. Jung: Is Performance of Scholars Correlated to Their Research Collaboration Patterns?. Frontiers in Big Data 11/2019; 2(39)., DOI:10.3389/fdata.2019.00039
-[![Link](https://img.shields.io/badge/CIKMw%20'19-0C2E86?style=flat-square)](https://dl.acm.org/doi/10.1145/3357384.3358806)
+[![Link](https://img.shields.io/badge/CIKMw'19-0C2E86?style=flat-square)](https://dl.acm.org/doi/10.1145/3357384.3358806)
 <span class="__dimensions_badge_embed__" data-doi="10.3389/fdata.2019.00039" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Jason J. Jung: Integrating character networks for extracting narratives from multimodal data. Information Processing & Management 09/2019; 56(5): 1894-1923., DOI:10.1016/j.ipm.2019.02.005
@@ -117,10 +117,10 @@ toc_label: "Table of Contents"
 
 ***
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. 
-[![Link](https://img.shields.io/badge/AAAIw%20'24-0C2E86?style=flat-square)](https://xai4sci.github.io/)
+[![Link](https://img.shields.io/badge/AAAIw'24-0C2E86?style=flat-square)](https://xai4sci.github.io/)
 
 * Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. DOI:10.1609/aaai.v38i11.29138
-[![Link](https://img.shields.io/badge/AAAI%20'24-0C2E86?style=flat-square)](https://aaai.org/aaai-conference/)
+[![Link](https://img.shields.io/badge/AAAI'24-0C2E86?style=flat-square)](https://aaai.org/aaai-conference/)
 <span class="__dimensions_badge_embed__" data-doi="10.1609/aaai.v38i11.29138" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Daehun Kim, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Development of an Automatic Monitoring System for Ultrasound Signals Using Artificial Intelligence and Convolutional Neural Networks. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 ([Poster](https://drive.google.com/file/d/1UmF5wgWtroScELO2_vaKRavFpiiDnnWx/view?usp=sharing); in Korean)
@@ -142,7 +142,7 @@ toc_label: "Table of Contents"
 * Daehun Kim, Hyeon-Ju Jeon, Hye Yun Jeong, O-Joun Lee, Hae Gyun Lim: Automatic Monitoring System for Red Tide Detection using Ultrasonic Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023. ([Poster](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing); in Korean)
 
 * San-Hee Park, Kang-Min Kim, O-Joun Lee, Youjin Kang, Jaewon Lee, Su-Min Lee, SangKeun Lee: "Why do I feel offended?" - Korean Dataset for Offensive Language Identification. Findings of the Association for Computational Linguistics - The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Dubrovnik, Croatia; 05/2023. DOI:10.18653/v1/2023.findings-eacl.85
-[![Link](https://img.shields.io/badge/EACL%20'23-0C2E86?style=flat-square)](https://2023.eacl.org/)
+[![Link](https://img.shields.io/badge/EACL'23-0C2E86?style=flat-square)](https://2023.eacl.org/)
 <span class="__dimensions_badge_embed__" data-doi="10.18653/v1/2023.findings-eacl.85" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Min-Woo Choi, Hyeon-Ju Jeon, [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), O-Joun Lee: Topographic-aware wind forecasting system using multi-modal spatio-temporal graph neural network. The 2023 Conference of Korea Institute of Smart Media (KISM 2023), Jeju, Korea; 04/2023. (in Korean)
@@ -162,18 +162,18 @@ toc_label: "Table of Contents"
 * O-Joun Lee, Jin-Taek Kim, Eun-Soon You: Quantifying Conflicts in Narrative Multimedia by Analyzing Visual Storytelling Techniques. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021.
 
 * O-Joun Lee, Jason J Jung: Story Embedding: Learning Distributed Representations of Stories based on Character Networks (Extended Abstract). The 29th International Joint Conference on Artificial Intelligence (IJCAI 2020) and the 17th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2020), Yokohama, Japan; 01/2021. DOI:10.24963/ijcai.2020/709
-[![Link](https://img.shields.io/badge/IJCAI%20'20-0C2E86?style=flat-square)](https://ijcai20.org/)
+[![Link](https://img.shields.io/badge/IJCAI'20-0C2E86?style=flat-square)](https://ijcai20.org/)
 <span class="__dimensions_badge_embed__" data-doi="10.24963/ijcai.2020/709" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Sung Youn Park, Jin-Taek Kim: IdeaNet: Potential Opportunity Discovery for Business Innovation. Artificial Intelligence for Narratives Workshop (AI4Narratives 2020) held in conjunction with the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020) and the 17th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2020), Yokohama, Japan; 01/2021.
-[![Link](https://img.shields.io/badge/IJCAIw%20'20-0C2E86?style=flat-square)](https://dblp.org/db/conf/ijcai/ai4narratives2020.html)
+[![Link](https://img.shields.io/badge/IJCAIw'20-0C2E86?style=flat-square)](https://dblp.org/db/conf/ijcai/ai4narratives2020.html)
 
 * O-Joun Lee, Jin-Taek Kim, Eun-Soon You: Towards Story-based Summarization of Narrative Multimedia. The 2020 ACM International Conference on Intelligent Computing and its Emerging Applications (ICEA 2020), Gangwon, Korea; 12/2020. DOI:10.1145/3440943.3444719 <span class="__dimensions_badge_embed__" data-doi="10.1145/3440943.3444719" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Jin-Taek Kim: Learning Multi-modal Representations of Narrative Multimedia: a Case Study of Webtoons. The 2020 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2020), Gwangju, Korea; 10/2020. DOI:10.1145/3400286.3418216 <span class="__dimensions_badge_embed__" data-doi="10.1145/3400286.3418216" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Jin-Taek Kim: Measuring Narrative Fluency by Analyzing Dynamic Interaction Networks in Textual Narratives. The 3rd Workshop on Narrative Extraction From Texts (Text2Story 2020), co-located with the 42nd European Conference on Information Retrieval (ECIR 2020), Lisbon, Portugal; 04/2020.
-[![Link](https://img.shields.io/badge/ECIRw%20'20-0C2E86?style=flat-square)](https://dl.acm.org/doi/10.1145/3451964.3451975)
+[![Link](https://img.shields.io/badge/ECIRw'20-0C2E86?style=flat-square)](https://dl.acm.org/doi/10.1145/3451964.3451975)
 
 * Jin-Taek Kim, Jason J. Jung, Eunsoon You, O-Joun Lee: Computing4Human 2020: The 1st International Workshop on Computational Humanities and Social Sciences. The 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020), Pohang, Korea; 02/2020. (Editorial)
 
@@ -186,10 +186,10 @@ toc_label: "Table of Contents"
 * O-Joun Lee, Jason J. Jung: Character Network Embedding-based Plot Structure Discovery in Narrative Multimedia. The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea; 06/2019. DOI:10.1145/3326467.3326485 <span class="__dimensions_badge_embed__" data-doi="10.1145/3326467.3326485" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Nayoung Jo, Jason J. Jung: Measuring Character-based Story Similarity by Analyzing Movie Scripts. The 1st Workshop on Narrative Extraction From Text (Text2Story 2018), co-located with the 40th European Conference on Information Retrieval (ECIR 2018), Grenoble, France; 03/2018.
-[![Link](https://img.shields.io/badge/ECIRw%20'18-0C2E86?style=flat-square)](https://dl.acm.org/doi/10.1145/3274784.3274801)
+[![Link](https://img.shields.io/badge/ECIRw'18-0C2E86?style=flat-square)](https://dl.acm.org/doi/10.1145/3274784.3274801)
 
 * O-Joun Lee, Jason J. Jung: Explainable Movie Recommendation Systems by using Story-based Similarity. The workshop on Explainable Smart Systems (ExSS 2018), held in conjunction with the 23rd International Conference on Intelligent User Interfaces (IUI 2018), Tokyo, Japan; 03/2018.
-[![Link](https://img.shields.io/badge/IUIw%20'18-0C2E86?style=flat-square)](https://dblp.org/db/conf/iui/iui2018w.html)
+[![Link](https://img.shields.io/badge/IUIw'18-0C2E86?style=flat-square)](https://dblp.org/db/conf/iui/iui2018w.html)
 
 * Jason J. Jung, Minsung Hong, O-Joun Lee, Jaehong Park, Chang Choi: Towards Affective Lifelogging with Information Fusion. The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea; 08/2017. DOI:10.1109/IE.2017.25 <span class="__dimensions_badge_embed__" data-doi="10.1109/IE.2017.25" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
