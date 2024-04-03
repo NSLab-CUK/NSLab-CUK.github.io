@@ -27,6 +27,7 @@ toc_label: "Table of Contents"
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/thanhdo19730), and [Huy Quang Tran](https://nslab-cuk.github.io/member/huy)
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2024)
+  * [![Kaggle](https://img.shields.io/badge/kaggle-Term%20Project-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/competitions/2024-1-cuk-gm-project/overview)
 
 * 06535-01 Career exploration of Artificial Intelligence (Joint Lecture)
   * Instructor: Faculty members of Dept. of AI
