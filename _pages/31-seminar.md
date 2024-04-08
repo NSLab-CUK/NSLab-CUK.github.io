@@ -28,25 +28,25 @@ This page is an archive for papers reviewed by members of the Network Science La
 #### Apr 08th
 {:.no_toc}
 <details markdown="1">
-  <summary>V.T. Hoang,Weisfeiler and Lehman Go Cellular: CW Networks + Weisfeiler and Lehman Go Paths: Learning Topological Features via Path Complexes, NeurIPS21, AAAI24</summary>
+  <summary>V.T. Hoang, Review on "Weisfeiler and Lehman Go Cellular: CW Networks + Weisfeiler and Lehman Go Paths: Learning Topological Features via Path Complexes", NeurIPS21, AAAI24</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/fOZuc8A9yPP10Y?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Region Graph Embedding Network for Zero-Shot Learning, ECCV, 2020</summary>
+  <summary>T.B.T. Do, Review on "Region Graph Embedding Network for Zero-Shot Learning", ECCV, 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/I4k7Ia4BgGJiQW?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>Q.H. Tran, Spatio-Temporal Pivotal Graph Neural Networks for Traffic Flow Forecasting, AAAI, 2024</summary>
+  <summary>Q.H. Tran, Review on "Spatio-Temporal Pivotal Graph Neural Networks for Traffic Flow Forecasting", AAAI, 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ChasEFunVpvjDk?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Asymmetric Transitivity Preserving Graph Embedding, Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining, 2016</summary>
+  <summary>J.W. Jeong,Review on "Asymmetric Transitivity Preserving Graph Embedding", Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining, 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/r4FzEmCp9cEL3s?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
