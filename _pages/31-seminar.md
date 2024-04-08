@@ -51,6 +51,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 ***
+
 #### Apr 01st
 {:.no_toc}
 <details markdown="1">
