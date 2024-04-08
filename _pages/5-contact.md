@@ -106,6 +106,7 @@ The Network Science Lab operates under The Department of Artificial Intelligence
 * <a href="https://velog.io/@ojlee/%ED%95%99%EC%88%A0%EB%AC%B8%ED%97%8C-%EC%84%9C%EC%A7%80%EC%A0%95%EB%B3%B4-%EC%A0%95%EB%A6%AC-%EB%B0%A9%EB%B2%95-BibTex-%ED%99%9C%EC%9A%A9%EB%B2%95%EC%9D%84-%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C"><img src="https://img.shields.io/badge/BibTex%20사용자%20가이드-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 * <a href="https://velog.io/@ojlee/series/Reading-Lists"><img src="https://img.shields.io/badge/Reading%20Lists-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 * [![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://o-jounlee.github.io/)
+* [![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/cuknslab)
 
 ***
 
