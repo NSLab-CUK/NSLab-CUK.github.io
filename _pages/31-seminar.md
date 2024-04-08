@@ -33,21 +33,18 @@ This page is an archive for papers reviewed by members of the Network Science La
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
-{:.no_toc}
 <details markdown="1">
   <summary>T.B.T. Do, Region Graph Embedding Network for Zero-Shot Learning, ECCV, 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/I4k7Ia4BgGJiQW?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
-{:.no_toc}
 <details markdown="1">
   <summary>Q.H. Tran, Spatio-Temporal Pivotal Graph Neural Networks for Traffic Flow Forecasting, AAAI, 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ChasEFunVpvjDk?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
-{:.no_toc}
 <details markdown="1">
   <summary>J.W. Jeong, Asymmetric Transitivity Preserving Graph Embedding, Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining, 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/r4FzEmCp9cEL3s?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
