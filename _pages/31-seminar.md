@@ -46,8 +46,34 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong,Review on "Asymmetric Transitivity Preserving Graph Embedding", Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining, 2016</summary>
+  <summary>J.W. Jeong,Review on "Asymmetric Transitivity Preserving Graph Embedding", KDD, 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/r4FzEmCp9cEL3s?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+***
+#### Apr 01st
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Train Once and Explain Everywhere: Pre-training Interpretable GNNs", NeurIPS, 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/oQi9tBOCdc0GDp?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Person Re-identification using Heterogeneous Local Graph Attention Networks", CVPR, 2021</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/muR4Ppa3x7HTd1?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "Transfer graph neural networks for pandemic forecasting", AAAI, 2021</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/IyBJqnNWmZMvpj?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W. Jeong,Review on "LINE: Large-scale Information Network Embedding", Proceedings of the 24th international conference on world wide web, 2015</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4HIAb9HD6B7OPm?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 ***
