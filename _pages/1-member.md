@@ -40,7 +40,7 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 # Post-Doctoral Researchers
 ***
 
-###### Dr. Eun-Soon You (Sep 2022 -- Present)
+###### Dr. [Eun-Soon You](https://nslab-cuk.github.io/member/esyou) (Sep 2022 -- Present)
 
 <table border="0">  
 	<tr valign="top">
