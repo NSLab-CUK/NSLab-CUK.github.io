@@ -79,13 +79,124 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 ***
 
+#### Mar 25th
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "GeoTMI: Predicting Quantum Chemical Property with Easy-to-Obtain Geometry via Positional Denoising", NIPS, 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/g4oRQklnG1b42A?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Learning Skeletal Graph Neural Networks for Hard 3D Pose Estimation", ICCV, 2021</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/99GjEH6CZtg8wl?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting", AAAI, 2021</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7HkOGWtHfgpxOb?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W. Jeong,Review on "node2vec: Scalable Feature Learning for Networks", KDD, 2016</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/oHK1pCr9pjAA93?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+***
+
+#### Mar 18th
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Fragment-based Pretraining and Finetuning on Molecular Graphs", NIPS, 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sUxIUpimpB0grd?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Learning Graph Embeddings for Compositional Zero-shot Learning", CVPR, 2021</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4ZUWDINWVJDCrB?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction", IJCAI, 2019</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Ab9VRdwhmR3pc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W. Jeong,Review on "Attention Is All You Need", NeurIPS, 2017</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sXHRiXPHjgcHP4?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+***
+
+#### Mar 11th
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Contrastive Multi-View Representation Learning on Graphs", PMLR, 2020</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rCZtQZiIRgICC3?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Translating Embeddings for Modeling Multi-relational Data", NIPS, 2013</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/6W4Bq3anovofo?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "LINE: Large-scale Information Network Embedding", Proceedings of the 24th international conference on world wide web, 2015</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1fOr7grwYqscxT?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W. Jeong,Review on "Sequence to Sequence Learning with Neural Networks", Advances in neural information processing systems, 2014</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/smQjIo8ITISOar?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+***
+
+#### Mar 04th
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation", WWW, 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/smQjIo8ITISOar?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Pure Transformers are Powerful Graph Learners", NeurIPS, 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/cxJ3dgqIOtC9GP?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "DeepWalk: Online Learning of Social Representations", KDD, 2014</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/umLF6qnFDBvF2M?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 ### Winter 2024
+
+***
+#### Feb 26th
+{:.no_toc}
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Structure-Aware Transformer for Graph Representation Learning", IEEE Transactions on Knowledge and Data Engineering, 2021</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/K2j1qRbcVsatDj?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
 
 ***
 #### Feb 20th
 {:.no_toc}
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Sparse Graph Attention Networks", IEEE Transactions on Knowledge and Data Engineering, 2021</summary>
+  <summary>T.B.T. Do, Review on "Sparse Graph Attention Networks", International Conference on Machine Learning, 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/qPdDA0ldBr8TqA?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -93,11 +204,26 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 ***
 #### Jan 22nd
 {:.no_toc}
+<details markdown="1">
+  <summary>M.S. Kim, Review on "Attention Is All You Need", NeurIPS, 2017</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/iZazasbsqrg1zl?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
 
 ***
 #### Jan 15th
 {:.no_toc}
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Don't walk, skip! online learning of multi-scale network embeddings", Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, 2017</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/MmPN4AejB4ojf2?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
 
+<details markdown="1">
+  <summary>M.S. Kim, Review on "Attention Is All You Need", NeurIPS, 2017</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/10u2YRO8KptlIS?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
 ***
 #### Jan 8th
 {:.no_toc}
