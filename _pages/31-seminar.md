@@ -25,6 +25,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### Spring 2024
 
 ***
+
 #### Apr 08th
 {:.no_toc}
 <details markdown="1">
@@ -252,6 +253,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 #### Jan 2nd
 {:.no_toc}
 <details markdown="1">
@@ -267,6 +269,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 ### Winter 2023
 
 ***
@@ -291,6 +294,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 #### Dec 18th
 {:.no_toc}
 <details markdown="1">
@@ -299,14 +303,12 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
-{:.no_toc}
 <details markdown="1">
   <summary>T.B.T. Do, Review on "DeepWalk: Online Learning of Social Representations", KDD 2014 </summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/y81gPVybUrD7Qz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
-{:.no_toc}
 <details markdown="1">
   <summary>H.B.Kim, Review on "Knowledge Graph Convolutional Networks for Recommender Systems", WWW 2019</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rLKQnlAqSEUy3l?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
@@ -314,6 +316,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 #### Dec 4th
 {:.no_toc}
 <details markdown="1">
@@ -323,9 +326,11 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 ### Fall 2023
 
 ***
+
 #### Nov 27th
 {:.no_toc}
 <details markdown="1">
@@ -347,6 +352,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 #### Nov 20th
 {:.no_toc}
 <details markdown="1">
@@ -362,6 +368,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 #### Nov 13th
 {:.no_toc}
 <details markdown="1">
@@ -377,6 +384,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 #### Nov 6th
 {:.no_toc}
 <details markdown="1">
@@ -392,6 +400,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 #### Oct 22nd
 {:.no_toc}
 <details markdown="1">
@@ -413,6 +422,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 #### Oct 21st
 {:.no_toc}
 <details markdown="1">
@@ -428,6 +438,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 #### Oct 20th
 {:.no_toc}
 <details markdown="1">
@@ -443,6 +454,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 #### Oct 9th
 {:.no_toc}
 
@@ -453,7 +465,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Oct 2nd, 2023
+
+#### Oct 2nd
 {:.no_toc}
 
 <details markdown="1">
@@ -463,7 +476,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Sep 25th, 2023
+
+#### Sep 25th
 {:.no_toc}
 
 <details markdown="1">
@@ -491,7 +505,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Sep 18th, 2023
+
+#### Sep 18th
 {:.no_toc}
 
 <details markdown="1">
@@ -519,7 +534,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Sep 11th, 2023
+
+#### Sep 11th
 {:.no_toc}
 
 <details markdown="1">
@@ -553,7 +569,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Sep 4th, 2023
+
+#### Sep 4th
 {:.no_toc}
 
 <details markdown="1">
@@ -582,11 +599,12 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 
 ***
+
 ### Summer 2023
 
 ***
 
-#### Aug 28th, 2023
+#### Aug 28th
 {:.no_toc}
 
 <details markdown="1">
@@ -608,7 +626,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Aug 21st, 2023
+
+#### Aug 21st
 {:.no_toc}
 
 <details markdown="1">
@@ -630,7 +649,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Aug 14th, 2023
+
+#### Aug 14th
 {:.no_toc}
 
 <details markdown="1">
@@ -646,7 +666,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Aug 7th, 2023
+
+#### Aug 7th
 {:.no_toc}
 
 <details markdown="1">
@@ -668,7 +689,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jul 31st, 2023
+
+#### Jul 31st
 {:.no_toc}
 
 <details markdown="1">
@@ -696,7 +718,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jul 24th, 2023
+
+#### Jul 24th
 {:.no_toc}
 
 <details markdown="1">
@@ -724,7 +747,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jul 17th, 2023
+
+#### Jul 17th
 {:.no_toc}
 
 <details markdown="1">
@@ -748,7 +772,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jul 10th, 2023
+
+#### Jul 10th
 {:.no_toc}
 
 <details markdown="1">
@@ -772,7 +797,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jul 3rd, 2023
+
+#### Jul 3rd
 {:.no_toc}
 
 <details markdown="1">
@@ -796,7 +822,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jun 26th, 2023
+
+#### Jun 26th
 {:.no_toc}
 
 <details markdown="1">
@@ -815,7 +842,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jun 22nd, 2023
+
+#### Jun 22nd
 {:.no_toc}
 
 <details markdown="1">
@@ -834,10 +862,11 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 ### Spring 2023
 
 ***
-#### Jun 15th, 2023
+#### Jun 15th
 {:.no_toc}
 
 <details markdown="1">
@@ -851,7 +880,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jun 8th, 2023
+
+#### Jun 8th
 {:.no_toc}
 
 <details markdown="1">
@@ -865,7 +895,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jun 1st, 2023
+
+#### Jun 1st
 {:.no_toc}
 
 <details markdown="1">
@@ -884,7 +915,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### May 25th, 2023
+
+#### May 25th
 {:.no_toc}
 
 <details markdown="1">
@@ -903,7 +935,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### May 19th, 2023
+
+#### May 19th
 {:.no_toc}
 
 <details markdown="1">
@@ -917,7 +950,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### May 12th, 2023
+
+#### May 12th
 {:.no_toc}
 
 <details markdown="1">
@@ -936,7 +970,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### May 5th, 2023
+
+#### May 5th
 {:.no_toc}
 
 <details markdown="1">
@@ -955,7 +990,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Apr 28th, 2023
+
+#### Apr 28th
 {:.no_toc}
 
 <details markdown="1">
@@ -969,7 +1005,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Apr 21st, 2023
+
+#### Apr 21st
 {:.no_toc}
 
 <details markdown="1">
@@ -983,7 +1020,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Apr 14th, 2023
+
+#### Apr 14th
 {:.no_toc}
 
 <details markdown="1">
@@ -1002,7 +1040,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Apr 7th, 2023
+
+#### Apr 7th
 {:.no_toc}
 
 <details markdown="1">
@@ -1021,7 +1060,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Mar 31st, 2023
+
+#### Mar 31st
 {:.no_toc}
 
 <details markdown="1">
@@ -1040,7 +1080,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Mar 24th, 2023
+
+#### Mar 24th
 {:.no_toc}
 
 <details markdown="1">
@@ -1059,7 +1100,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Mar 17th, 2023
+
+#### Mar 17th
 {:.no_toc}
 
 <details markdown="1">
@@ -1078,7 +1120,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Mar 6th, 2023
+
+#### Mar 6th
 {:.no_toc}
 
 <details markdown="1">
@@ -1097,10 +1140,11 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 ### Winter 2022
 
 ***
-#### Feb 27th, 2023
+#### Feb 27th
 {:.no_toc}
 
 <details markdown="1">
