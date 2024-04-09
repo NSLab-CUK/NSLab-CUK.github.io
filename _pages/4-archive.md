@@ -14,6 +14,14 @@ description: Archive of events, memories and achievements of the Network Science
 ### 2024
 
 ***
+##### Apr 9th, 2024
+{:.no_toc}
+
+* We started an intramural research project on "Topography-aware Wind Speed and Direction Forecasting System based on Multi-modal Spatio-temporal Graph Neural Networks," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Mar 2024 -- Feb 2025, 7 Mil KRW).
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
 ##### Apr 4th, 2024 -- May 13th, 2024
 {:.no_toc}
 
@@ -368,6 +376,14 @@ description: Archive of events, memories and achievements of the Network Science
   * [Presentation material](https://drive.google.com/file/d/1q_nXWi1Xw5xo-S4hBhHkv-0EgSYbX4x2/view?usp=sharing)
 
 <p align="center"><img width="700" src="/images/2023-1-admission.jpg"></p>
+
+***
+##### Apr 11th, 2024
+{:.no_toc}
+
+* We started an intramural research project on "Topography-aware Wind Speed and Direction Forecasting System based on Multi-modal Spatio-temporal Graph Neural Networks," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Mar 2023 -- Feb 2024, 7 Mil KRW).
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
 
 ***
 ##### Mar 28th, 2023
