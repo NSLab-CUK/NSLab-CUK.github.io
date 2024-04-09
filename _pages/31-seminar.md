@@ -181,9 +181,11 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 ### Winter 2024
 
 ***
+
 #### Feb 26th
 {:.no_toc}
 <details markdown="1">
@@ -193,6 +195,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 #### Feb 20th
 {:.no_toc}
 <details markdown="1">
@@ -202,6 +205,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 #### Jan 22nd
 {:.no_toc}
 <details markdown="1">
@@ -211,6 +215,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+
 #### Jan 15th
 {:.no_toc}
 <details markdown="1">
@@ -225,6 +230,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 ***
+
 #### Jan 8th
 {:.no_toc}
 <details markdown="1">
