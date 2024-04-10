@@ -47,7 +47,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong,Review on "Asymmetric Transitivity Preserving Graph Embedding", KDD, 2016</summary>
+  <summary>J.W. Jeong, Review on "Asymmetric Transitivity Preserving Graph Embedding", KDD, 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/r4FzEmCp9cEL3s?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -74,7 +74,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong,Review on "LINE: Large-scale Information Network Embedding", Proceedings of the 24th international conference on world wide web, 2015</summary>
+  <summary>J.W. Jeong, Review on "LINE: Large-scale Information Network Embedding", Proceedings of the 24th international conference on world wide web, 2015</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4HIAb9HD6B7OPm?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -101,7 +101,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong,Review on "node2vec: Scalable Feature Learning for Networks", KDD, 2016</summary>
+  <summary>J.W. Jeong, Review on "node2vec: Scalable Feature Learning for Networks", KDD, 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/oHK1pCr9pjAA93?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -128,7 +128,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong,Review on "Attention Is All You Need", NeurIPS, 2017</summary>
+  <summary>J.W. Jeong, Review on "Attention Is All You Need", NeurIPS, 2017</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sXHRiXPHjgcHP4?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -155,7 +155,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong,Review on "Sequence to Sequence Learning with Neural Networks", Advances in neural information processing systems, 2014</summary>
+  <summary>J.W. Jeong, Review on "Sequence to Sequence Learning with Neural Networks", Advances in neural information processing systems, 2014</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/smQjIo8ITISOar?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
