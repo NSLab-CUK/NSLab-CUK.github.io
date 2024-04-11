@@ -22,172 +22,173 @@ This page is an archive for papers reviewed by members of the Network Science La
 {:toc}
 
 ***
-### Spring 2024
+### 2024
 
 ***
 
-#### Apr 08th
+#### Apr 8th, 2024
 {:.no_toc}
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "Weisfeiler and Lehman Go Cellular: CW Networks + Weisfeiler and Lehman Go Paths: Learning Topological Features via Path Complexes", NeurIPS21, AAAI24</summary>
+  <summary>V.T. Hoang, Review on "Weisfeiler and Lehman Go Cellular: CW Networks", NeurIPS 2021 and "Weisfeiler and Lehman Go Paths: Learning Topological Features via Path Complexes", AAAI 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/fOZuc8A9yPP10Y?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Region Graph Embedding Network for Zero-Shot Learning", ECCV, 2020</summary>
+  <summary>T.B.T. Do, Review on "Region Graph Embedding Network for Zero-Shot Learning", ECCV 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/I4k7Ia4BgGJiQW?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>Q.H. Tran, Review on "Spatio-Temporal Pivotal Graph Neural Networks for Traffic Flow Forecasting", AAAI, 2024</summary>
+  <summary>Q.H. Tran, Review on "Spatio-Temporal Pivotal Graph Neural Networks for Traffic Flow Forecasting", AAAI 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ChasEFunVpvjDk?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Review on "Asymmetric Transitivity Preserving Graph Embedding", KDD, 2016</summary>
+  <summary>J.W. Jeong, Review on "Asymmetric Transitivity Preserving Graph Embedding", KDD 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/r4FzEmCp9cEL3s?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
+
 ***
 
-#### Apr 01st
+#### Apr 1st, 2024
 {:.no_toc}
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "Train Once and Explain Everywhere: Pre-training Interpretable GNNs", NeurIPS, 2024</summary>
+  <summary>V.T. Hoang, Review on "Train Once and Explain Everywhere: Pre-training Interpretable GNNs", NeurIPS 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/oQi9tBOCdc0GDp?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Person Re-identification using Heterogeneous Local Graph Attention Networks", CVPR, 2021</summary>
+  <summary>T.B.T. Do, Review on "Person Re-identification using Heterogeneous Local Graph Attention Networks", CVPR 2021</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/muR4Ppa3x7HTd1?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>Q.H. Tran, Review on "Transfer graph neural networks for pandemic forecasting", AAAI, 2021</summary>
+  <summary>Q.H. Tran, Review on "Transfer graph neural networks for pandemic forecasting", AAAI 2021</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/IyBJqnNWmZMvpj?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Review on "LINE: Large-scale Information Network Embedding", Proceedings of the 24th international conference on world wide web, 2015</summary>
+  <summary>J.W. Jeong, Review on "LINE: Large-scale Information Network Embedding", WWW 2015</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4HIAb9HD6B7OPm?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
+
 ***
 
-#### Mar 25th
+#### Mar 25th, 2024
 {:.no_toc}
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "GeoTMI: Predicting Quantum Chemical Property with Easy-to-Obtain Geometry via Positional Denoising", NIPS, 2023</summary>
+  <summary>V.T. Hoang, Review on "GeoTMI: Predicting Quantum Chemical Property with Easy-to-Obtain Geometry via Positional Denoising", NeurIPS 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/g4oRQklnG1b42A?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Learning Skeletal Graph Neural Networks for Hard 3D Pose Estimation", ICCV, 2021</summary>
+  <summary>T.B.T. Do, Review on "Learning Skeletal Graph Neural Networks for Hard 3D Pose Estimation", ICCV 2021</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/99GjEH6CZtg8wl?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>Q.H. Tran, Review on "Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting", AAAI, 2021</summary>
+  <summary>Q.H. Tran, Review on "Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting", AAAI 2021</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7HkOGWtHfgpxOb?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Review on "node2vec: Scalable Feature Learning for Networks", KDD, 2016</summary>
+  <summary>J.W. Jeong, Review on "node2vec: Scalable Feature Learning for Networks", KDD 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/oHK1pCr9pjAA93?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
+
 ***
 
-#### Mar 18th
+#### Mar 18th, 2024
 {:.no_toc}
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "Fragment-based Pretraining and Finetuning on Molecular Graphs", NIPS, 2023</summary>
+  <summary>V.T. Hoang, Review on "Fragment-based Pretraining and Finetuning on Molecular Graphs", NeurIPS 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sUxIUpimpB0grd?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Learning Graph Embeddings for Compositional Zero-shot Learning", CVPR, 2021</summary>
+  <summary>T.B.T. Do, Review on "Learning Graph Embeddings for Compositional Zero-shot Learning", CVPR 2021</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4ZUWDINWVJDCrB?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>Q.H. Tran, Review on "GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction", IJCAI, 2019</summary>
+  <summary>Q.H. Tran, Review on "GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction", IJCAI 2019</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Ab9VRdwhmR3pc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Review on "Attention Is All You Need", NeurIPS, 2017</summary>
+  <summary>J.W. Jeong, Review on "Attention Is All You Need", NeurIPS 2017</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sXHRiXPHjgcHP4?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
+
 ***
 
-#### Mar 11th
+#### Mar 11th, 2024
 {:.no_toc}
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "Contrastive Multi-View Representation Learning on Graphs", PMLR, 2020</summary>
+  <summary>V.T. Hoang, Review on "Contrastive Multi-View Representation Learning on Graphs", ICML 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rCZtQZiIRgICC3?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Translating Embeddings for Modeling Multi-relational Data", NIPS, 2013</summary>
+  <summary>T.B.T. Do, Review on "Translating Embeddings for Modeling Multi-relational Data", NeurIPS 2013</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/6W4Bq3anovofo?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>Q.H. Tran, Review on "LINE: Large-scale Information Network Embedding", Proceedings of the 24th international conference on world wide web, 2015</summary>
+  <summary>Q.H. Tran, Review on "LINE: Large-scale Information Network Embedding", WWW 2015</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1fOr7grwYqscxT?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Review on "Sequence to Sequence Learning with Neural Networks", Advances in neural information processing systems, 2014</summary>
+  <summary>J.W. Jeong, Review on "Sequence to Sequence Learning with Neural Networks", NeurIPS 2014</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/smQjIo8ITISOar?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
+
 ***
 
-#### Mar 04th
+#### Mar 4th, 2024
 {:.no_toc}
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation", WWW, 2022</summary>
+  <summary>V.T. Hoang, Review on "SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation", WWW 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/smQjIo8ITISOar?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Pure Transformers are Powerful Graph Learners", NeurIPS, 2022</summary>
+  <summary>T.B.T. Do, Review on "Pure Transformers are Powerful Graph Learners", NeurIPS 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/cxJ3dgqIOtC9GP?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>Q.H. Tran, Review on "DeepWalk: Online Learning of Social Representations", KDD, 2014</summary>
+  <summary>Q.H. Tran, Review on "DeepWalk: Online Learning of Social Representations", KDD 2014</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/umLF6qnFDBvF2M?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 ***
 
-### Winter 2024
-
-***
-
-#### Feb 26th
+#### Feb 26th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>T.B.T. Do, Review on "Structure-Aware Transformer for Graph Representation Learning", IEEE Transactions on Knowledge and Data Engineering, 2021</summary>
@@ -197,42 +198,43 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Feb 20th
+#### Feb 20th, 2024
 {:.no_toc}
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Sparse Graph Attention Networks", International Conference on Machine Learning, 2022</summary>
+  <summary>T.B.T. Do, Review on "Sparse Graph Attention Networks", ICML 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/qPdDA0ldBr8TqA?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 ***
 
-#### Jan 22nd
+#### Jan 22nd, 2024
 {:.no_toc}
 <details markdown="1">
-  <summary>M.S. Kim, Review on "Attention Is All You Need", NeurIPS, 2017</summary>
+  <summary>M.S. Kim, Review on "Attention Is All You Need", NeurIPS 2017</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/iZazasbsqrg1zl?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 ***
 
-#### Jan 15th
+#### Jan 15th, 2024
 {:.no_toc}
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Don't walk, skip! online learning of multi-scale network embeddings", Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, 2017</summary>
+  <summary>T.B.T. Do, Review on "Don't walk, skip! online learning of multi-scale network embeddings", ASONAM 2017</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/MmPN4AejB4ojf2?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>M.S. Kim, Review on "Attention Is All You Need", NeurIPS, 2017</summary>
+  <summary>M.S. Kim, Review on "Attention Is All You Need", NeurIPS 2017</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/10u2YRO8KptlIS?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
+
 ***
 
-#### Jan 8th
+#### Jan 8th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Coarformer: Transformer for large graph via graph coarsening", Openreview Preprint, 2022</summary>
@@ -254,7 +256,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Jan 2nd
+#### Jan 2nd, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Graph Inductive Biases in Transformers without Message Passing", ICML 2023</summary>
@@ -270,10 +272,10 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-### Winter 2023
+### 2023
 
 ***
-#### Dec 26th
+#### Dec 26th, 2023
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Deformable Graph Transformer", arXiv preprint, arXiv:2206.14337, 2022</summary>
@@ -295,7 +297,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Dec 18th
+#### Dec 18th, 2023
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Towards Deep Attention in Graph Neural Networks: Problems and Remedies", ICML 2023</summary>
@@ -317,7 +319,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Dec 4th
+#### Dec 4th, 2023
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "MMKG: Multi-Modal Knowledge Graphs", ESWC 2019</summary>
@@ -327,11 +329,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-### Fall 2023
-
-***
-
-#### Nov 27th
+#### Nov 27th, 2023
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Uncovering the Structural Fairness in Graph Contrastive Learning", NeurIPS 2023</summary>
@@ -353,7 +351,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Nov 20th
+#### Nov 20th, 2023
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Imbalanced node classification with Graph Neural Networks: A unified approach leveraging homophily and label information", Applied Soft Computing, 2023</summary>
@@ -369,7 +367,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Nov 13th
+#### Nov 13th, 2023
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "RETHINKING THE EXPRESSIVE POWER OF GNNS VIA GRAPH BICONNECTIVITY", ICLR 2023</summary>
@@ -385,7 +383,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Nov 6th
+#### Nov 6th, 2023
 {:.no_toc}
 <details markdown="1">
   <summary>H.B.Kim, Review on "Do Transformers Really Perform Badly for Graph Representation?", NeurIPS 2021</summary>
@@ -401,7 +399,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Oct 22nd
+#### Oct 22nd, 2023
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Exploring attention mechanism for graph similarity learning", Knowledge-Based Systems, 2023</summary>
@@ -423,7 +421,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Oct 21st
+#### Oct 21st, 2023
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Conditional Graph Information Bottleneck for Molecular Relational Learning", ICML 2023</summary>
@@ -439,7 +437,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Oct 20th
+#### Oct 20th, 2023
 {:.no_toc}
 <details markdown="1">
   <summary>V.T.Hoang, Review on "Deep Graph Contrastive Representation Learning", arXiv preprint, arXiv:2006.04131, 2020</summary>
@@ -455,7 +453,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Oct 9th
+#### Oct 9th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -466,7 +464,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Oct 2nd
+#### Oct 2nd, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -477,7 +475,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Sep 25th
+#### Sep 25th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -506,7 +504,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Sep 18th
+#### Sep 18th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -535,7 +533,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Sep 11th
+#### Sep 11th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -570,7 +568,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Sep 4th
+#### Sep 4th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -597,14 +595,9 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
-
 ***
 
-### Summer 2023
-
-***
-
-#### Aug 28th
+#### Aug 28th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -627,7 +620,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Aug 21st
+#### Aug 21st, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -650,7 +643,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Aug 14th
+#### Aug 14th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -667,7 +660,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Aug 7th
+#### Aug 7th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -690,7 +683,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Jul 31st
+#### Jul 31st, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -719,7 +712,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Jul 24th
+#### Jul 24th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -748,7 +741,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Jul 17th
+#### Jul 17th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -773,7 +766,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Jul 10th
+#### Jul 10th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -798,7 +791,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Jul 3rd
+#### Jul 3rd, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -823,7 +816,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Jun 26th
+#### Jun 26th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -843,7 +836,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Jun 22nd
+#### Jun 22nd, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -863,10 +856,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-### Spring 2023
-
-***
-#### Jun 15th
+#### Jun 15th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -881,7 +871,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Jun 8th
+#### Jun 8th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -896,7 +886,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Jun 1st
+#### Jun 1st, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -916,7 +906,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### May 25th
+#### May 25th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -936,7 +926,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### May 19th
+#### May 19th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -951,7 +941,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### May 12th
+#### May 12th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -971,7 +961,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### May 5th
+#### May 5th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -991,7 +981,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Apr 28th
+#### Apr 28th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -1006,7 +996,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Apr 21st
+#### Apr 21st, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -1021,7 +1011,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Apr 14th
+#### Apr 14th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -1041,7 +1031,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Apr 7th
+#### Apr 7th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -1061,7 +1051,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Mar 31st
+#### Mar 31st, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -1081,7 +1071,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Mar 24th
+#### Mar 24th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -1101,7 +1091,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Mar 17th
+#### Mar 17th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -1121,7 +1111,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Mar 6th
+#### Mar 6th, 2023
 {:.no_toc}
 
 <details markdown="1">
@@ -1141,10 +1131,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-### Winter 2022
-
-***
-#### Feb 27th
+#### Feb 27th, 2023
 {:.no_toc}
 
 <details markdown="1">
