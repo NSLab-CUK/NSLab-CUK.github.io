@@ -28,6 +28,7 @@ Education
 
 Journal Publications
 ============
+* Nam-Gyu Jung, **Van Thuy Hoang**, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 02/2024. (†: Co-correspondence) DOI:10.1109/JIOT.2024.3365144
 
 * **V.T Hoang**, T. S. Nguyen, S. Lee, J. Lee, L. V. Nguyen, and O. -J. Lee, "Companion Animal Disease Diagnostics Based on Literal-Aware Medical Knowledge Graph Representation Learning," in IEEE Access, vol. 11, pp. 114238-114249, 2023, doi: 10.1109/ACCESS.2023.3324046.
   
