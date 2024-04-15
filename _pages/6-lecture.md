@@ -15,7 +15,22 @@ toc_label: "Table of Contents"
 
 ***
 ### 2024
- 
+
+***
+#### Summer 2024
+{:.no_toc}
+
+* [Summer School on Digital Humanities](https://nslab-cuk.github.io/2023/05/24/SS/) (Special Course)
+  * Instructor: Eun-Soon You
+  * TA: TBA
+
+* [Summer School on Technical Writing](https://nslab-cuk.github.io/2023/05/25/SS/) (Special Course)
+  * Instructor: Eun-Soon You
+  * TA: TBA
+
+* 06483-01 to 06484-01 	Internship Program for Artificial Intelligence 1 to 2 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
 ***
 #### Spring 2024
 {:.no_toc}
