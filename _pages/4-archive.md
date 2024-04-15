@@ -27,6 +27,8 @@ description: Archive of events, memories and achievements of the Network Science
 
 <p align="center"><img width="700" src="/images/Competition2024_Poster.webp"></p>
 
+<p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
 ***
 ##### Mar 16th, 2024
 {:.no_toc}
@@ -42,6 +44,8 @@ description: Archive of events, memories and achievements of the Network Science
 * NS Lab@CUK organizes [the 2024 Spring CUK Artificial Intelligence Seminar Series (2024년 봄 가톨릭대학교 인공지능 세미나)](https://nslab-cuk.github.io/2024/02/22/Seminar/) with the Department of AI. This seminar series consists of 12 invited talks given by experts from both the corporate world and research institutions and is scheduled to take place over a period of 13 weeks, from March 12th, 2024, to June 4th, 2024. 
 
 <p align="center"><img width="700" src="/images/2024-1-Seminar-Poster.webp"></p>
+
+<p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
 ***
 ##### Mar 8th, 2024
@@ -194,6 +198,8 @@ description: Archive of events, memories and achievements of the Network Science
 
 <p align="center"><img width="700" src="/images/2023-2-Seminar-Poster.webp"></p>
 
+<p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
 ***
 ##### Aug 22nd, 2023
 {:.no_toc}
@@ -201,6 +207,8 @@ description: Archive of events, memories and achievements of the Network Science
 * NS Lab@CUK and the [Advanced Institute of Convergence Technology (AICT; 차세대융합기술연구원)](https://aict.snu.ac.kr/eng/) have successfully organized a joint seminar ([The 2023 CUK-AICT Joint Seminar on Artificial Intelligence; 2023년 가톨릭대학교-차세대융합기술연구원 공동 인공지능 세미나](https://nslab-cuk.github.io/2023/08/08/Seminar/)) focusing on various application areas of artificial intelligence.
 
 <p align="center"><img width="700" src="/images/230822.jpg"></p>
+
+<p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
 ***
 ##### Aug 6th, 2023 -- Aug 10th, 2023
