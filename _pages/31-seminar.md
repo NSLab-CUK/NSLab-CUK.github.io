@@ -28,19 +28,19 @@ This page is an archive for papers reviewed by members of the Network Science La
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "Simple and Asymmetric Graph Contrastive Learning without Augmentations", NeurIPS 2024</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/fOZuc8A9yPP10Y?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/68mIZpN0u8v71a?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>T.B.T. Do, Review on "G-TAD: Sub-Graph Localization for Temporal Action Detection", CVPR 2020</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/I4k7Ia4BgGJiQW?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/cIoYGJmXF05QdT?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>Q.H. Tran, Review on "Deciphering Spatio-Temporal Graph Forecasting: A Causal Lens and Treatment", NeurIPS 2023</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ChasEFunVpvjDk?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/j07OgaoJOFrI0X?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
