@@ -58,11 +58,6 @@ The following datasets are available via [our official GitHub account](https://g
 ***
 ## Lecture Materials
 
-### Programming & Designing AI - Spring 2024
-
-* **Description:** This repository is for archiving the Programming & Designing AI (04576-02) class repository for the Department of Artificial Intelligence at the Catholic University of Korea. This platform is dedicated to sharing and archiving lecture materials such as practices, assignments, and sample codes for the class.
-* **Repository:** [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Programming-and-Designing-AI-Spring-2024)
-
 ### Graph Mining - Spring 2024
 
 * **Description:** This repository is for archiving the Graph Mining class (06837-01) of the Department of Artificial Intelligence at the Catholic University of Korea. This platform is dedicated to sharing and archiving lecture materials such as exercises, assignments, and sample code for the class.
