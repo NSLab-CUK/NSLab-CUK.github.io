@@ -88,7 +88,7 @@ toc_label: "Table of Contents"
 
 * TBA
 
-### Cultural Appropriateness Prediction for Daily Products
+### Cultural Appropriateness Prediction of Daily Products
 
 * TBA
 
