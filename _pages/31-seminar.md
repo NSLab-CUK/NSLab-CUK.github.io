@@ -22,6 +22,28 @@ This page is an archive for papers reviewed by members of the Network Science La
 {:toc}
 
 ***
+#### Apr 29nd, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Simplifying and Empowering Transformers for Large-Graph Representations", NeurIPS 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/BZI9Y2G8LrynZA?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification", CVPR 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9zppsoy3sq4Y85?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event Prediction", AAAI 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/71u0X8VIXx8tVK?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+
+***
 ### 2024
 
 ***
