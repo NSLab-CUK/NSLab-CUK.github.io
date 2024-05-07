@@ -22,6 +22,36 @@ This page is an archive for papers reviewed by members of the Network Science La
 {:toc}
 
 ***
+### 2024
+
+***
+#### May 07th, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks", WWW 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/BZI9Y2G8LrynZA?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs", CVPR 2020</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9zppsoy3sq4Y85?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "Conditional Local Convolution for Spatio-Temporal Meteorological Forecasting", AAAI 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/71u0X8VIXx8tVK?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W. Jeong, Review on "Structural Deep Network Embedding", SIGKDD 2016</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/r4FzEmCp9cEL3s?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Apr 29nd, 2024
 {:.no_toc}
 <details markdown="1">
@@ -41,10 +71,6 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/71u0X8VIXx8tVK?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
-
-
-***
-### 2024
 
 ***
 #### Apr 22nd, 2024
