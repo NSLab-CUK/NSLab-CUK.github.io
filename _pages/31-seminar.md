@@ -25,7 +25,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2024
 
 ***
-#### May 07th, 2024
+#### May 6th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks", WWW 2023</summary>
@@ -46,13 +46,13 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Review on "Structural Deep Network Embedding", SIGKDD 2016</summary>
+  <summary>J.W. Jeong, Review on "Structural Deep Network Embedding", KDD 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/OtWkdOIDuXv5g?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 ***
-#### Apr 29nd, 2024
+#### Apr 29th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "Simplifying and Empowering Transformers for Large-Graph Representations", NeurIPS 2023</summary>
