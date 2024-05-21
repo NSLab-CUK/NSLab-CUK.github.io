@@ -14,6 +14,16 @@ description: Archive of events, memories and achievements of the Network Science
 ### 2024
 
 ***
+##### May 20th, 2024
+{:.no_toc}
+
+* The NS Lab team of Jin Woo Jeong, [Min Seo Kim](https://nslab-cuk.github.io/member/mskim), and Jinho Seo once again excelled in the 2024 CUK Competition on Data Analytics, winning the encouragement award for the third year in a row.
+
+<p align="center"><img width="700" src="/images/240520.jpg"></p>
+
+<p align="center"><img width="700" src="/images/Competition2024_Poster.webp"></p>
+
+***
 ##### May 15th, 2024
 {:.no_toc}
 
