@@ -20,11 +20,11 @@ toc_label: "Table of Contents"
 #### Summer 2024
 {:.no_toc}
 
-* [Summer School on Digital Humanities](https://nslab-cuk.github.io/2023/05/24/SS/) (Special Course)
+* [Summer School on Digital Humanities](https://nslab-cuk.github.io/2024/05/21/SS/) (Special Course)
   * Instructor: Eun-Soon You
   * TA: TBA
 
-* [Summer School on Technical Writing](https://nslab-cuk.github.io/2023/05/25/SS/) (Special Course)
+* [Summer School on Technical Writing](https://nslab-cuk.github.io/2024/05/20/SS/) (Special Course)
   * Instructor: Eun-Soon You
   * TA: TBA
 
