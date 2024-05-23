@@ -39,6 +39,12 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
+<details markdown="1">
+  <summary>Y.J Wu, Review on "LLAMA PRO: Progressive LLaMA with Block Expansion", arXiv preprint arXiv:2401.02415 (2024)</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sA24mzd3POPTIc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
 ***
 #### May 13th, 2024
 {:.no_toc}
@@ -57,6 +63,12 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 <details markdown="1">
   <summary>Q.H. Tran, Review on "Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer", KDD 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ruIH5oaAisLt9u?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Y.J Wu, Review on "RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation", arXiv preprint arXiv:2403.05313 (2024)</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sA24mzd3POPTIc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -84,6 +96,12 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 <details markdown="1">
   <summary>J.W. Jeong, Review on "Structural Deep Network Embedding", KDD 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/OtWkdOIDuXv5g?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Y.J Wu, Review on "A Survey of Techniques for Maximizing LLM Performance", OpenAI 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sA24mzd3POPTIc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -151,6 +169,12 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
+<details markdown="1">
+  <summary>Y.J Wu, Review on "GLM: General Language Model Pretraining with Autoregressive Blank Infilling", ACL 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sA24mzd3POPTIc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
 ***
 
 #### Apr 8th, 2024
@@ -179,6 +203,12 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
+<details markdown="1">
+  <summary>Y.J Wu, Review on "SPEECH-TRANSFORMER: A NO-RECURRENCE SEQUENCE-TO-SEQUENCE MODEL FOR SPEECH RECOGNITION", IEEE International Conference on Acoustics, Speech and Signal Processing, {ICASSP} 2018</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sA24mzd3POPTIc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
 ***
 
 #### Apr 1st, 2024
@@ -204,6 +234,12 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 <details markdown="1">
   <summary>J.W. Jeong, Review on "LINE: Large-scale Information Network Embedding", WWW 2015</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4HIAb9HD6B7OPm?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Y.J Wu, Review on "From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting", arXiv preprint arXiv:2309.04269 (2023)</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sA24mzd3POPTIc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -1192,7 +1228,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.H.Lee,  Review on "Abstract Meaning Representation for Sembanking", ACL 2013</summary>
+  <summary>J.H. Lee,  Review on "Abstract Meaning Representation for Sembanking", ACL 2013</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/J7yqzA2L69vqWO?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1202,17 +1238,17 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "Graph Neural Networks with Learnable Structural and Positional Representations", ICLR 2022</summary>
+  <summary>V.T. Hoang, Review on "Graph Neural Networks with Learnable Structural and Positional Representations", ICLR 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bY76rtG68KJliv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>S.T.Nguyen, Review on "Geom-GCN: Geometric Graph Convolutional Networks", ICLR 2020</summary>
+  <summary>S.T. Nguyen, Review on "Geom-GCN: Geometric Graph Convolutional Networks", ICLR 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bMjEK7ML8y0bE?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.H.Lee,  Review on "Learning Intents behind Interactions with Knowledge Graph for Recommendation", WWW 2021</summary>
+  <summary>J.H. Lee,  Review on "Learning Intents behind Interactions with Knowledge Graph for Recommendation", WWW 2021</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/AIMtP02kzJjjK6?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1222,17 +1258,17 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "DropEdge: Towards Deep Graph Convolutional Networks on Node Classification", ICLR 2020</summary>
+  <summary>V.T. Hoang, Review on "DropEdge: Towards Deep Graph Convolutional Networks on Node Classification", ICLR 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/X8bCYSwvBwzzd?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>S.T.Nguyen, Review on "Graph Pointer Neural Networks", AAAI 2022</summary>
+  <summary>S.T. Nguyen, Review on "Graph Pointer Neural Networks", AAAI 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/N4NKTz3cmGdgnT?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.H.Lee,  Review on "Scaling Law for Recommendation Models: Towards General-purpose User Representations", AAAI 2023</summary>
+  <summary>J.H. Lee,  Review on "Scaling Law for Recommendation Models: Towards General-purpose User Representations", AAAI 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/FgwnKsJJnW34Zn?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1242,17 +1278,17 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "Everything is Connected: Graph Neural Networks", Current Opinion in Structural Biology, 2023</summary>
+  <summary>V.T. Hoang, Review on "Everything is Connected: Graph Neural Networks", Current Opinion in Structural Biology, 2023</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/MBfuVNBL6LYnBR" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>S.T.Nguyen, Review on "DeeperGCN: All You Need to Train Deeper GCNs", arXiv preprint, arXiv:2006.07739, 2020</summary>
+  <summary>S.T. Nguyen, Review on "DeeperGCN: All You Need to Train Deeper GCNs", arXiv preprint, arXiv:2006.07739, 2020</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/ED1XAl547nw6eb" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.H.Lee, "Hyperbolic graph convolutional neural networks", NeurIPS 2019</summary>
+  <summary>J.H. Lee, "Hyperbolic graph convolutional neural networks", NeurIPS 2019</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/oKjh4oKajgVOcN?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1262,15 +1298,242 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T.Hoang, Review on "Graph Neural Networks Go Forward-Forward", arXiv preprint, arXiv:2302.05282, 2023</summary>
+  <summary>V.T. Hoang, Review on "Graph Neural Networks Go Forward-Forward", arXiv preprint, arXiv:2302.05282, 2023</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/fVyQO91v6MfgJU" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>S.T.Nguyen, Review on "On Generalized Degree Fairness in Graph Neural Networks", AAAI 2023</summary>
+  <summary>S.T. Nguyen, Review on "On Generalized Degree Fairness in Graph Neural Networks", AAAI 2023</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
+***
 
+#### Feb 20th, 2023
+{:.no_toc}
 
+<details markdown="1">
+  <summary>S.T. Nguyen, Review on "Code Review"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Y.J. Yang, Review on "Supervised Learning"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.B. Kim, Review on "Convoluitional Network"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Feb 8th, 2023
+{:.no_toc}
+
+<details markdown="1">
+  <summary>S.T. Nguyen, Review on "Code Review, Biological Network Analysis"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>S.E. Cho, Review on "Community Detection : Overlapping Communities"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.B. Kim, Review on "Deep Learning Book"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Feb 1st, 2023
+{:.no_toc}
+
+<details markdown="1">
+  <summary>S.T. Nguyen, Review on "Book Review"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Feb 1st, 2023
+{:.no_toc}
+
+<details markdown="1">
+  <summary>S.T. Nguyen, Review on "Biological Network Analysis"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Feb 18th, 2023
+{:.no_toc}
+
+<details markdown="1">
+  <summary>H.B. Kim, Review on "Code Review"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Feb 11th, 2023
+{:.no_toc}
+
+<details markdown="1">
+  <summary>S.T. Nguyen, Review on "Code Review"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.B. Kim, Review on "Code Review"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Feb 9th, 2023
+{:.no_toc}
+
+<details markdown="1">
+  <summary>S.T. Nguyen, Review on "Link Analysis: HITS and PageRank"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Jan 2nd, 2023
+{:.no_toc}
+
+<details markdown="1">
+  <summary>S.T. Nguyen, Review on "Power-laws and Preferential attachment"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Dec 7th, 2022
+{:.no_toc}
+
+<details markdown="1">
+  <summary>S.T. Nguyen, Review on "Complex Embeddings for Simple Link Prediction"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Dec 5th, 2022
+{:.no_toc}
+
+<details markdown="1">
+  <summary>H.B. Kim, Review on "Code Review"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Nov 30th, 2022
+{:.no_toc}
+
+<details markdown="1">
+  <summary>H.B. Kim, Review on "Knowledge Graph Embedding by Translating on Hyperplanes"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Nov 28th, 2022
+{:.no_toc}
+
+<details markdown="1">
+  <summary>H.B. Kim, Review on "4장"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Nov 23rd, 2022
+{:.no_toc}
+
+<details markdown="1">
+  <summary>S.T. Nguyen, Review on "Learning Role-based Graph Embeddings"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>S.M. Lee, Review on "CS224W"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Nov 21st, 2022
+{:.no_toc}
+
+<details markdown="1">
+  <summary>조세은, Review on "Deep Generative Models"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Nov 16th, 2022
+{:.no_toc}
+
+<details markdown="1">
+  <summary>S.T. Nguyen, Review on "Directed Graph Embedding with Asymmetric Transitivity Preservation"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Nov 9th, 2022
+{:.no_toc}
+
+<details markdown="1">
+  <summary>S.M. Lee, Review on "KNN (K nearest neighbors algorithm)"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>S.T. Nguyen, Review on "Metagraph2vec"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Nov 7th, 2022
+{:.no_toc}
+
+<details markdown="1">
+  <summary>조세은, Review on "Chap.12 Applications"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Oct 31st, 2022
+{:.no_toc}
+
+<details markdown="1">
+  <summary>조세은, Review on "Linear Factor Models"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+***
+
+#### Oct 21st, 2022
+{:.no_toc}
+
+<details markdown="1">
+  <summary>S.M. Lee, Review on "Sequence Modeling: Recurrent and Recursive Nets, Regularization"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Autoencoder, Machine Learning basics"</summary>
+  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+</details>
 
