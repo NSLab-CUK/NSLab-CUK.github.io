@@ -40,7 +40,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Y.J Wu, Review on "LLAMA PRO: Progressive LLaMA with Block Expansion", arXiv preprint arXiv:2401.02415 (2024)</summary>
+  <summary>Y.J Wu, Review on "LLAMA PRO: Progressive LLaMA with Block Expansion", arXiv preprint, arXiv:2401.02415, 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sA24mzd3POPTIc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -67,7 +67,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Y.J Wu, Review on "RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation", arXiv preprint arXiv:2403.05313 (2024)</summary>
+  <summary>Y.J Wu, Review on "RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation", arXiv preprint, arXiv:2403.05313, 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sA24mzd3POPTIc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -204,7 +204,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Y.J Wu, Review on "SPEECH-TRANSFORMER: A NO-RECURRENCE SEQUENCE-TO-SEQUENCE MODEL FOR SPEECH RECOGNITION", IEEE International Conference on Acoustics, Speech and Signal Processing, {ICASSP} 2018</summary>
+  <summary>Y.J Wu, Review on "Speech-Transformer: A No-Recurrence Sequence-to-Sequence Model for Speech Recognition", ICASSP 2018</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sA24mzd3POPTIc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -238,7 +238,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Y.J Wu, Review on "From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting", arXiv preprint arXiv:2309.04269 (2023)</summary>
+  <summary>Y.J Wu, Review on "From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting", EMNLPw 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sA24mzd3POPTIc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
