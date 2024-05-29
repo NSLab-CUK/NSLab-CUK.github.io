@@ -20,6 +20,9 @@ toc_label: "Table of Contents"
 #### Summer 2024
 {:.no_toc}
 
+* 06298-01 Living with AI ([CU12](https://www.cu12.ac.kr/el/main/main_form.acl))
+  * Instructor: Eun-Soon You
+
 * [Summer School on Digital Humanities](https://nslab-cuk.github.io/2024/05/21/SS/) (Special Course)
   * Instructor: Eun-Soon You
   * TA: TBA
