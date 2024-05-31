@@ -20,6 +20,14 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><img width="700" src="/images/SummerSchool2024_Poster.webp"></p>
 
 ***
+##### May 31st, 2024
+{:.no_toc}
+
+* We started a research project on "Literary Research in the Digital Age: Analysis of Literary Works using Deep Learning-based Language Model," supported by the Academic Research Professors Program (PI: Dr. Eun-Soon You) through NRF of Korea and funded by MOE of Korea (Jun 2024 -- May 2025, 20 Mil KRW). 
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.moe.go.kr/"><img align="center" src="/images/MOE_Logo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
 ##### May 20th, 2024
 {:.no_toc}
 
