@@ -14,6 +14,12 @@ description: Archive of events, memories and achievements of the Network Science
 ### 2024
 
 ***
+##### Jul 17th, 2024 -- Jul 31st, 2024
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/SummerSchool2024_Poster.webp"></p>
+
+***
 ##### May 20th, 2024
 {:.no_toc}
 
