@@ -25,23 +25,44 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2024
 
 ***
+#### Jun 3rd, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "One for All: Towards Training One Graph Model for All Classification Tasks", ICLR 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/s66Vgs5B17P3p1?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Imagine That! Abstract-to-Intricate Text-to-Image Synthesis with Scene Graph Hallucination Diffusion", NeurIPS 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hWqH7ZCJc5ZqZS?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "TransMOT: Spatial-Temporal Graph Transformer for Multiple Object Tracking", ICCV 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hWqH7ZCJc5ZqZS?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### May 27th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering", NeurIPS 2022</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sA24mzd3POPTIc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/a3lKgxT5XfbUa7?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>T.B.T. Do, Review on "Transitivity Recovering Decompositions: Interpretable and Robust Fine-Grained Relationships", NeurIPS 2023</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sA24mzd3POPTIc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3Vgj0uy3sORf4g?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>Q.H. Tran, Review on "Spatio-Temporal Meta-Graph Learning for Traffic Forecasting", AAAI 2023</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/dfx3A3Bya94Ft6?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/tyVX4Kso3dkjI?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
