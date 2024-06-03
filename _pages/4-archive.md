@@ -17,6 +17,8 @@ description: Archive of events, memories and achievements of the Network Science
 ##### Jul 17th, 2024 -- Jul 31st, 2024
 {:.no_toc}
 
+* NS Lab@CUK organizes [the 2nd NS-CUK Summer School on Digital Humanities (NS-CUK DH 2024)](https://nslab-cuk.github.io/2024/05/21/SS/) and [the 2nd NS-CUK Summer School on Technical Writing (NS-CUK TW 2024)](https://nslab-cuk.github.io/2024/05/20/SS/). Each of these programs consists of 11 lectures presented by Dr. Eun-Soon You and is scheduled to take place over a period of three weeks, from July 17th, 2024, to July 31st, 2024.
+
 <p align="center"><img width="700" src="/images/SummerSchool2024_Poster.webp"></p>
 
 ***
