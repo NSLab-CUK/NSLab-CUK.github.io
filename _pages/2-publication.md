@@ -19,7 +19,7 @@ toc_label: "Table of Contents"
 
 ***
 
-* Eun-Soon You, Sun-Jung Ryu: Étude sur l'enseignement de la littérature française à l'ère numérique. Enseignement de Langue et Littérature Françaises 03/2024; 84: 151-187. (In Korean), DOI:10.36747/ellf84.6
+* Eun-Soon You, Sun-Jung Ryu: Étude sur l'enseignement de la littérature française à l'ère numérique. Enseignement de Langue et Littérature Françaises 03/2024; 84: 151-187. (In Korean) DOI:10.36747/ellf84.6
 
 * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 02/2024. (†: Co-correspondence; To Appear) DOI:10.1109/JSEN.2024.3364682
 <span class="__dimensions_badge_embed__" data-doi="10.1109/JSEN.2024.3364682" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -34,7 +34,7 @@ toc_label: "Table of Contents"
 [![Link](https://img.shields.io/badge/JCR%20Top%2015%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/ultrasonics)
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ultras.2023.107167" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house. Humanities Contents 12/2023; (71): 107-135. (In Korean), DOI:10.18658/humancon.2023.12.107
+* Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house. Humanities Contents 12/2023; (71): 107-135. (In Korean) DOI:10.18658/humancon.2023.12.107
 
 * Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. IEEE Access 10/2023; 11: 114238-114249. DOI:10.1109/ACCESS.2023.3324046
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2023.3324046" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
