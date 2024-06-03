@@ -19,6 +19,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Eun-Soon You, Sun-Jung Ryu: Étude sur l'enseignement de la littérature française à l'ère numérique. Enseignement de Langue et Littérature Françaises 03/2024; 84: 151-187. (In Korean), DOI:10.36747/ellf84.6
+
 * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 02/2024. (†: Co-correspondence; To Appear) DOI:10.1109/JSEN.2024.3364682
 <span class="__dimensions_badge_embed__" data-doi="10.1109/JSEN.2024.3364682" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
