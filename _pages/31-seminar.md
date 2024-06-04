@@ -253,7 +253,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 <details markdown="1">
   <summary>Y.J Wu, Review on "Speech-Transformer: A No-Recurrence Sequence-to-Sequence Model for Speech Recognition", ICASSP 2018</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sA24mzd3POPTIc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/1WdQRhTph21Q44UnhfgX2Q45ANvZdIHqH/edit?usp=drive_link" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
