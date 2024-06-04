@@ -1361,7 +1361,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>S.T. Nguyen, Review on "Code Review"</summary>
+  <summary>S.T. Nguyen, Review on "Deep Graph Neural Network (part 2)"</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1377,66 +1377,16 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Feb 8th, 2023
-{:.no_toc}
-
-<details markdown="1">
-  <summary>S.T. Nguyen, Review on "Code Review, Biological Network Analysis"</summary>
-  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
-</details>
-
-<details markdown="1">
-  <summary>S.E. Cho, Review on "Community Detection : Overlapping Communities"</summary>
-  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
-</details>
-
-<details markdown="1">
-  <summary>H.B. Kim, Review on "Deep Learning Book"</summary>
-  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
-</details>
-
-***
-
-#### Feb 1st, 2023
-{:.no_toc}
-
-<details markdown="1">
-  <summary>S.T. Nguyen, Review on "Book Review"</summary>
-  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
-</details>
-
-***
-
-#### Feb 1st, 2023
-{:.no_toc}
-
-<details markdown="1">
-  <summary>S.T. Nguyen, Review on "Biological Network Analysis"</summary>
-  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
-</details>
-
-***
-
-#### Feb 18th, 2023
-{:.no_toc}
-
-<details markdown="1">
-  <summary>H.B. Kim, Review on "Code Review"</summary>
-  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
-</details>
-
-***
-
 #### Feb 11th, 2023
 {:.no_toc}
 
 <details markdown="1">
-  <summary>S.T. Nguyen, Review on "Code Review"</summary>
+  <summary>S.T. Nguyen, Review on "Deep Graph Neural Network"</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>H.B. Kim, Review on "Code Review"</summary>
+  <summary>H.B. Kim, Review on "Overall of Neural Network Optimization"</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1466,7 +1416,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>S.T. Nguyen, Review on "Complex Embeddings for Simple Link Prediction"</summary>
+  <summary>S.T. Nguyen, Review on "Complex Embeddings for Simple Link Prediction", ICML 2016</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1476,7 +1426,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>H.B. Kim, Review on "Code Review"</summary>
+  <summary>H.B. Kim, Review on "One-hot Encoding for Deep Learning (Part 2)"</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1486,7 +1436,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>H.B. Kim, Review on "Knowledge Graph Embedding by Translating on Hyperplanes"</summary>
+  <summary>H.B. Kim, Review on "Knowledge Graph Embedding by Translating on Hyperplanes", AAAI 2014</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1496,7 +1446,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>H.B. Kim, Review on "4장"</summary>
+  <summary>H.B. Kim, Review on "One-hot Encoding for Deep Learning"</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1511,7 +1461,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>S.M. Lee, Review on "CS224W"</summary>
+  <summary>S.M. Lee, Review on "Basic on Graph Mining"</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1531,7 +1481,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>S.T. Nguyen, Review on "Directed Graph Embedding with Asymmetric Transitivity Preservation"</summary>
+  <summary>S.T. Nguyen, Review on "Directed Graph Embedding with Asymmetric Transitivity Preservation", AAAI 2019</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1546,7 +1496,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>S.T. Nguyen, Review on "Metagraph2vec"</summary>
+  <summary>S.T. Nguyen, Review on "MetaGraph2Vec: Complex Semantic Path Augmented Heterogeneous Network Embedding", PAKDD 2018</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1556,7 +1506,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>조세은, Review on "Chap.12 Applications"</summary>
+  <summary>조세은, Review on "Applications in Deep Learning"</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
@@ -1576,12 +1526,12 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>S.M. Lee, Review on "Sequence Modeling: Recurrent and Recursive Nets, Regularization"</summary>
+  <summary>S.M. Lee, Review on "Sequence Modeling: Recurrent and Recursive Nets and Regularization"</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "Autoencoder, Machine Learning basics"</summary>
+  <summary>V.T. Hoang, Review on "Autoencoder and Machine Learning basics"</summary>
   <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
