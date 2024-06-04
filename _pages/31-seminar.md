@@ -1428,8 +1428,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>H.B. Kim, Review on "Knowledge Graph Embedding by Translating on Hyperplanes", AAAI 2014</summary>
-  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+  <summary>S.T. Nguyen, Review on "Knowledge Graph Embedding by Translating on Hyperplanes", AAAI 2014</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/1HdZ6veXiobuuRr5DuKVQkO8WQht9yfEn/edit?usp=sharing&ouid=108773870950556903410&rtpof=true&sd=true" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
 ***
