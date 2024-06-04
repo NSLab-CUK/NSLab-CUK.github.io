@@ -1470,7 +1470,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 <details markdown="1">
   <summary>S.T. Nguyen, Review on "Directed Graph Embedding with Asymmetric Transitivity Preservation", AAAI 2019</summary>
-  <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/mizIC34X35pHmO" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/1UygkwseY5Hr3oGrPoyGbVjhfj75F6NgW/edit?usp=sharing&ouid=108773870950556903410&rtpof=true&sd=true" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
 </details>
 
 ***
