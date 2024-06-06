@@ -329,6 +329,10 @@ toc_label: "Table of Contents"
 
 * O-Joun Lee: Semiconductor Design with Graph Neural Networks. [The 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm), Jeju, Korea, 06/2023
 
+<p align="center">
+  <img width="90%" data-action="zoom" src="/images/Talk-IEIE-2023s.jpg" alt="absolute">
+</p>
+
 * O-Joun Lee: Spatio-Temporal Forecasting Models for Renewable Energy. [The 1st International Conference on Intelligence of Things (ICIT 2022)](https://icit2022.humg.edu.vn/), Hanoi, Vietnam, 08/2022
 
 * O-Joun Lee: The 2022 Summer Workshop of Korean Institute of Next Generation Computing, Pyeongchang, Korea, 07/2022
