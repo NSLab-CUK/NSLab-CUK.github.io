@@ -390,12 +390,14 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 * Prof. Changhan Yoon, Inje University, Gimhae, Korea
 * Prof. [Kang-Min Kim](https://kangmin89.com/), The Catholic University of Korea, Bucheon, Korea
 * Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), The Catholic University of Korea, Bucheon, Korea
+* Prof. Yu-Doo Kim, Dongyang Mirae University, Seoul, Korea
 * Prof. [Youjin Shin](https://adslab0.github.io/), The Catholic University of Korea, Bucheon, Korea
 * Prof. Hyun-Cheol Park, Korea National University of Transportation, Chungju, Korea
 * Prof. Kyungroul Lee, Mokpo National University, Muan, Korea
 * Prof. Yoewon Yoon, Dongguk University, Seoul, Korea
 * Seung Charlie Kim, [Shukran Korea Inc.](https://www.shukrankorea.com/), Seoul, Korea
 * Sojung An, Korea Institute of Atmospheric Prediction System, Seoul, Korea
+* Jong-Seo Lee, [Movements Inc.](https://movements.kr/#s1), Daejeon, Korea
 * Dr. Nam D. Vo, FPT University, Danang, Vietnam
 * Dr. Phuong-Mai Nguyen, International School, Vietnam National University, Hanoi, Vietnam
 * Dr. Khac-Hoai Nam Bui, Viettel Cyberspace Center, Viettel, Hanoi, Vietnam
