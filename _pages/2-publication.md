@@ -321,6 +321,10 @@ toc_label: "Table of Contents"
 
 * O-Joun Lee: Analyzing Molecular Structures with Graph Neural Networks. [The 2024 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2024s/), Jeju, Korea, 06/2024
 
+<p align="center">
+  <img width="90%" data-action="zoom" src="/images/Talk-IEIE-2024s.jpg" alt="absolute">
+</p>
+
 * O-Joun Lee: Knowledge Graph Reasoning and its Applications. [Telecommunications Technology Association](https://www.tta.or.kr/eng/index.do), Seongnam, Korea, 09/2023
 
 * O-Joun Lee: Semiconductor Design with Graph Neural Networks. [The 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm), Jeju, Korea, 06/2023
