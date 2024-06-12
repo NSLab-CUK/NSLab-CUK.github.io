@@ -202,6 +202,8 @@ toc_label: "Table of Contents"
 ### Marine Environment Monitoring System
 {:.no_toc}
 
+* Daehun Kim, Hyeon-Ju Jeon, Yeongho Sung, Jin Hyeong Park, O-Joun Lee, Hae Gyun Lim: Real-time tracking system for red tides through acoustic signals and artificial intelligence. [The 2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (UFFC-JS 2024)](https://2024.ieee-uffc-js.org/), Taipei, Taiwan; 09/2024
+
 * Daehun Kim, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Development of an Automatic Monitoring System for Ultrasound Signals Using Artificial Intelligence and Convolutional Neural Networks. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 (in Korean) <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1UmF5wgWtroScELO2_vaKRavFpiiDnnWx/view?usp=sharing)
 
