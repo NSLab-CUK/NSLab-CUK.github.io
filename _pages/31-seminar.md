@@ -25,6 +25,63 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2024
 
 ***
+#### Jun 24rd, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Graph Neural Networks for End-to-End Information Extraction from Handwritten Documents", WACV 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hWqH7ZCJc5ZqZS?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "Towards Dynamic Spatial-Temporal Graph Learning: A Decoupled Perspective​", AAAI 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/zbF4lkFkjlGAh?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+#### Jun 17rd, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Architecture Matters: Uncovering Implicit Mechanisms in Graph Contrastive Learning​", NeurIPS 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/s66Vgs5B17P3p1?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective", arXiv preprint arXiv:2209.13232 (2022)</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hWqH7ZCJc5ZqZS?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention​", IJCAI 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/zbF4lkFkjlGAh?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+#### Jun 10rd, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules​", NeurIPS 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/s66Vgs5B17P3p1?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Graph Representation Learning Meets Computer Vision: A Survey", IEEE Transactions on AI 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hWqH7ZCJc5ZqZS?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal​ Epidemic Forecasting​", AAAI 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/zbF4lkFkjlGAh?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Jun 3rd, 2024
 {:.no_toc}
 <details markdown="1">
