@@ -22,6 +22,14 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><img width="700" src="/images/SummerSchool2024_Poster.webp"></p>
 
 ***
+##### Jun 26th, 2024
+{:.no_toc}
+
+* We attended [the 2024 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2024s/pages/special_session.vm) and gave an invited talk on “Analyzing Molecular Structures with Graph Neural Networks.”
+
+<p align="center"><img width="700" src="/images/240626.jpg"></p>
+
+***
 ##### Jun 5th, 2024
 {:.no_toc}
 
