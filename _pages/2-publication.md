@@ -327,6 +327,7 @@ toc_label: "Table of Contents"
 * O-Joun Lee: Analyzing Molecular Structures with Graph Neural Networks. [The 2024 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2024s/pages/special_session.vm), Jeju, Korea, 06/2024
 
 <p align="center">
+  <img width="90%" data-action="zoom" src="/images/240626.jpg" alt="absolute">
   <img width="90%" data-action="zoom" src="/images/Talk-IEIE-2024s.jpg" alt="absolute">
 </p>
 
@@ -345,7 +346,7 @@ toc_label: "Table of Contents"
 * O-Joun Lee: Trends in Interdisciplinary Research and Collaboration Opportunities. Vietnam National University, Hanoi - International School (VNU - IS), Virtual, 09/2021
 
 <p align="center">
-  <img width="700" data-action="zoom" src="/images/Talk-VNUIS.jpg" alt="absolute">
+  <img width="90%" data-action="zoom" src="/images/Talk-VNUIS.jpg" alt="absolute">
 </p>
 
 
