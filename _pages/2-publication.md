@@ -336,6 +336,7 @@ toc_label: "Table of Contents"
 * O-Joun Lee: Semiconductor Design with Graph Neural Networks. [The 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm), Jeju, Korea, 06/2023
 
 <p align="center">
+  <img width="90%" data-action="zoom" src="/images/230629_Presentation.jpg" alt="absolute">
   <img width="90%" data-action="zoom" src="/images/Talk-IEIE-2023s.jpg" alt="absolute">
 </p>
 
