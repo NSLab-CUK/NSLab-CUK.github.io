@@ -239,6 +239,8 @@ toc_label: "Table of Contents"
 ## Water Distribution Pipe Corrosion Assessment
 {:.no_toc}
 
+* Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 06/2024. (†: Co-correspondence; To Appear)
+
 * So Yeon Moon, Hyeon-Ju Jeon, Yeongho Sung, Min-Seo Kim, Daehun Kim, Jaeyeop Choi, Junghwan Oh, O-Joun Lee, Hae Gyun Lim: Dual-mode diagnosis system for water quality and corrosion in pipe using convolutional neural networks (CNN) and ultrasound. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 (in Korean) <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1mLOJuRBatRkGGWKFN6u3U6bz-WMg9nWL/view?usp=sharing)
 
