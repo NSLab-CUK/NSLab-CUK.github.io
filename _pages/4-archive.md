@@ -360,6 +360,8 @@ description: Archive of events, memories and achievements of the Network Science
 
 * We attended [the 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm) and gave an invited talk on "Semiconductor Design with Graph Neural Networks."
 
+<p align="center"><img width="700" src="/images/230629_Presentation.jpg"></p>
+
 <p align="center"><img width="700" src="/images/230629.jpg"></p>
 
 ***
