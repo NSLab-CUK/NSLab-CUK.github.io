@@ -25,7 +25,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2024
 
 ***
-#### Jun 24rd, 2024
+#### Jun 24th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>T.B.T. Do, Review on "Graph Neural Networks for End-to-End Information Extraction from Handwritten Documents", WACV 2024</summary>
@@ -40,7 +40,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jun 17rd, 2024
+#### Jun 17th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "Architecture Matters: Uncovering Implicit Mechanisms in Graph Contrastive Learning​", NeurIPS 2023</summary>
@@ -61,7 +61,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jun 10rd, 2024
+#### Jun 10th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules​", NeurIPS 2024</summary>
