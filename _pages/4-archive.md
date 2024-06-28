@@ -127,6 +127,8 @@ description: Archive of events, memories and achievements of the Network Science
   * Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
   * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
 
+<p align="center"><img width="700" src="/images/240222_4.jpg"></p>
+
 <p align="center"><img width="700" src="/images/AAAI2024_poster_Thuy.webp"></p>
 
 <p align="center"><img width="700" src="/images/AAAIw2024_Poster_HJ.webp"></p>
