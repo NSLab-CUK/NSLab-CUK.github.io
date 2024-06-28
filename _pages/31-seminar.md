@@ -40,7 +40,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jun 26th, 2024
+#### Jun 27th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>T.B.T. Do, Review on "GazeGNN: A Gaze-Guided Graph Neural Network for Chest X-ray Classification", WACV 2024</summary>
