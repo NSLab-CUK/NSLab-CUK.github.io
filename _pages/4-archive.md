@@ -215,6 +215,8 @@ description: Archive of events, memories and achievements of the Network Science
 
 <p align="center"><img width="700" src="/images/ACK2023_poster_SM.webp"></p>
 
+<p align="center"><a href="https://sites.google.com/view/lim-lab/home"><img align="center" src="https://nslab-cuk.github.io/images/BU_Logo.jpg" style="width : 30%; margin : 10px"></a><a href="https://nslab-cuk.github.io/"><img align="center" src="https://nslab-cuk.github.io/images/Logo_Rect.png" style="width : 55%; margin : 10px"></a></p>
+
 ***
 ##### Sep 26th, 2023
 {:.no_toc}
