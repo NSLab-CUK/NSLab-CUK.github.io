@@ -244,6 +244,8 @@ description: Archive of events, memories and achievements of the Network Science
 
 <p align="center"><img width="700" src="/images/IUS2023_poster_JN.webp"></p>
 
+<p align="center"><a href="https://sites.google.com/view/lim-lab/home"><img align="center" src="https://nslab-cuk.github.io/images/BU_Logo.jpg" style="width : 30%; margin : 10px"></a><a href="https://nslab-cuk.github.io/"><img align="center" src="https://nslab-cuk.github.io/images/Logo_Rect.png" style="width : 55%; margin : 10px"></a></p>
+
 ***
 ##### Sep 1st, 2023
 {:.no_toc}
@@ -394,11 +396,12 @@ description: Archive of events, memories and achievements of the Network Science
   * Daehun Kim, Hyeon-Ju Jeon, Hye Yun Jeong, O-Joun Lee, Hae Gyun Lim: Automatic Monitoring System for Red Tide Detection using Ultrasonic Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing); in Korean)
 
 <p align="center"><img width="700" src="/images/ASK2023_poster_JL.webp"></p>
-<br>
+
 <p align="center"><img width="700" src="/images/ASK2023_poster_JN.webp"></p>
-<br>
+
 <p align="center"><img width="700" src="/images/ASK2023_poster_DK.webp"></p>
-<br>
+
+<p align="center"><a href="https://sites.google.com/view/lim-lab/home"><img align="center" src="https://nslab-cuk.github.io/images/BU_Logo.jpg" style="width : 30%; margin : 10px"></a><a href="https://nslab-cuk.github.io/"><img align="center" src="https://nslab-cuk.github.io/images/Logo_Rect.png" style="width : 55%; margin : 10px"></a></p>
 
 * We started participating in a commissioned research project on "Analysis of Redundancies and Conflicts in Construction Standards," funded by [Korea Institute of Civil Engineering and Building Technology (KICT)](https://www.kict.re.kr/eng/) (Jun 2023 -- Nov 2023, 90 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), and their teams. <br>
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.yna.co.kr/view/AKR20230822132800003?input=1195m)
@@ -441,6 +444,8 @@ description: Archive of events, memories and achievements of the Network Science
   * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: High-frequency ultrasound and convolutional neural network: A Potential tool for diagnosis of diabetes mellitus. [Samsung Global Technology Symposium](https://www.samsung-gts.technology/), Seoul, Korea; 04/2023 ([Poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing); in Korean)
 
 <p align="center"><img width="700" src="/images/Samsung2023_poster_JL.webp"></p>
+
+<p align="center"><a href="https://sites.google.com/view/lim-lab/home"><img align="center" src="https://nslab-cuk.github.io/images/BU_Logo.jpg" style="width : 30%; margin : 10px"></a><a href="https://nslab-cuk.github.io/"><img align="center" src="https://nslab-cuk.github.io/images/Logo_Rect.png" style="width : 55%; margin : 10px"></a></p>
 
 ***
 ##### Apr 19th, 2023
