@@ -579,6 +579,26 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
 ***
+##### Oct 7th, 2022
+{:.no_toc}
+
+* We have our new logo. 🎉🎉
+
+<p align="center">
+ <img align="center" src="/images/Logo_Rect.png" style="width : 350px; margin : 15px">
+ <img align="center" src="/images/Logo_Square.png" style="width : 100px; margin : 15px">
+</p>
+
+<p align="center">
+ <img align="center" src="/images/Logo_Rect_Dual.png" style="width : 350px; margin : 15px">
+ <img align="center" src="/images/Logo_Square_Dual.png" style="width : 350px; margin : 15px">
+</p>
+
+<p align="center">
+ <img align="center" src="/images/Logo_Wide_Dual.png" style="width : 700px; margin : 15px">
+</p>
+
+***
 ##### Oct 1st, 2022
 {:.no_toc}
 
