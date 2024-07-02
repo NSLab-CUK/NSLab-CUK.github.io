@@ -20,9 +20,6 @@ toc_label: "Table of Contents"
 #### Summer 2024
 {:.no_toc}
 
-* 06298-01 Living with AI ([CU12](https://www.cu12.ac.kr/el/main/main_form.acl))
-  * Instructor: Eun-Soon You
-
 * [Summer School on Digital Humanities](https://nslab-cuk.github.io/2024/05/21/SS/) (Special Course)
   * Instructor: Eun-Soon You
   * TA: TBA
@@ -30,9 +27,6 @@ toc_label: "Table of Contents"
 * [Summer School on Technical Writing](https://nslab-cuk.github.io/2024/05/20/SS/) (Special Course)
   * Instructor: Eun-Soon You
   * TA: TBA
-
-* 06483-01 to 06484-01 	Internship Program for Artificial Intelligence 1 to 2 (Joint Lecture)
-  * Instructor: Faculty members of Dept. of AI
 
 ***
 #### Spring 2024
