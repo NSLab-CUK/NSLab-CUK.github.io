@@ -592,17 +592,17 @@ description: Archive of events, memories and achievements of the Network Science
 * We have our new logo. 🎉🎉
 
 <p align="center">
- <img align="center" src="/images/Logo_Rect.png" style="width : 40%; margin : 5%">
- <img align="center" src="/images/Logo_Square.png" style="width : 20%; margin : 5%">
+ <img align="center" src="/images/Logo_Rect.png" style="width : 45%">
+ <img align="center" src="/images/Logo_Square.png" style="width : 15%">
 </p>
 
 <p align="center">
- <img align="center" src="/images/Logo_Rect_Dual.png" style="width : 40%; margin : 5%">
- <img align="center" src="/images/Logo_Square_Dual.png" style="width : 40%; margin : 5%">
+ <img align="center" src="/images/Logo_Rect_Dual.png" style="width : 45%">
+ <img align="center" src="/images/Logo_Square_Dual.png" style="width : 45%">
 </p>
 
 <p align="center">
- <img align="center" src="/images/Logo_Wide_Dual.png" style="width : 90%; margin : 5%">
+ <img align="center" src="/images/Logo_Wide_Dual.png" style="width : 90%">
 </p>
 
 ***
