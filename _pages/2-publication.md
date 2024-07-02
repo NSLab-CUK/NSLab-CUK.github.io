@@ -344,7 +344,9 @@ toc_label: "Table of Contents"
 
 * O-Joun Lee: Spatio-Temporal Forecasting Models for Renewable Energy. [The 1st International Conference on Intelligence of Things (ICIT 2022)](https://icit2022.humg.edu.vn/), Hanoi, Vietnam, 08/2022
 
-* O-Joun Lee: The 2022 Summer Workshop of Korean Institute of Next Generation Computing, Pyeongchang, Korea, 07/2022
+* O-Joun Lee: Character Network Embedding for Computational Narrative Analytics. The 2022 Summer Workshop of Korean Institute of Next Generation Computing, Pyeongchang, Korea, 07/2022
+
+* O-Joun Lee: Heterogeneous Network Embedding and its Applications. [The 2021 Fall Conference of Korean Institute of Smart Media](https://www.manuscriptlink.com/society/kism/conference/sma2021f/programBook), Gwangju, Korea, 11/2021
 
 * O-Joun Lee: Trends in Interdisciplinary Research and Collaboration Opportunities. Vietnam National University, Hanoi - International School (VNU - IS), Virtual, 09/2021
 
