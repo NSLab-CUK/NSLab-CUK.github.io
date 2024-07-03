@@ -546,7 +546,7 @@ description: Archive of events, memories and achievements of the Network Science
 ##### Dec 19th, 2022 -- Jan 27th, 2023
 {:.no_toc}
 
-* NS Lab@CUK organizes [the 1st NS-CUK Winter School on Ethics of AI and Robots (AI Ethics 2022)](https://nslab-cuk.github.io/2022/12/06/WS/), which consists of 18 lectures given by Dr. Eun-Soon You.  
+* NS Lab@CUK organizes [the 1st NS-CUK Winter School on Ethics of AI and Robots (AI Ethics 2022)](https://nslab-cuk.github.io/2022/12/05/WS/), which consists of 18 lectures given by Dr. Eun-Soon You.  
 
 <p align="center"><img width="700" src="/images/WS2022.jpg"></p>
 
