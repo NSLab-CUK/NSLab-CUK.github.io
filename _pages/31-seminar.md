@@ -25,6 +25,21 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2024
 
 ***
+#### Jul 3rd, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning", WACV 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1WiUrKt1a1Rv6E?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "Make Graph Neural Networks Great Again: A Generic Integration Paradigm of Topology-Free Patterns for Traffic Speed Prediction​", IJCAI 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/xm6zZ4TsDb6j6Z?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Jul 1st, 2024
 {:.no_toc}
 <details markdown="1">
