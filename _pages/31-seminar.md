@@ -161,13 +161,13 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 <details markdown="1">
   <summary>T.B.T. Do, Review on "Video Matting via Consistency-Regularized Graph Neural Networks", ICCV 2021</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rDOES3RgJThSRX?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/KTtvtTg57eZ1zd?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>Q.H. Tran, Review on "GRLSTM: Trajectory Similarity Computation with Graph-Based Residual LSTM", AAAI 2023</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/kthTmpU7nF4s3x?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/cNe0xRinBTXAMh?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -176,7 +176,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 <details markdown="1">
   <summary>T.B.T. Do, Review on "Bipartite Graph Network with Adaptive Message Passing for Unbiased Scene Graph Generation", CVPR 2021</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rDOES3RgJThSRX?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Ji1PPG83zEliEz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -185,7 +185,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 <details markdown="1">
   <summary>T.B.T. Do, Review on "Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph", ECCV 2022</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rDOES3RgJThSRX?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/chj5FUOYedGnqn?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -215,7 +215,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 <details markdown="1">
   <summary>T.B.T. Do, Review on "Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud", CVPR 2020</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rDOES3RgJThSRX?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/uFote64ymaGOOu?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -224,7 +224,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 <details markdown="1">
   <summary>T.B.T. Do, Review on "Cascade Graph Neural Network for RGB-D Salient Object Detection", ECCV 2020</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rDOES3RgJThSRX?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/eevQ8xO9IgVdn1?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -233,7 +233,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 <details markdown="1">
   <summary>T.B.T. Do, Review on "Unbiased Scene Graph Generation in Videos", CVPR 2023</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rDOES3RgJThSRX?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3IV31qb85QLoAD?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
