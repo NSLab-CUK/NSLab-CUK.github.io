@@ -208,7 +208,7 @@ toc_label: "Table of Contents"
 
 * O-Joun Lee, Jason J. Jung, Eunsoon You: Predictive Clustering for Performance Stability in Collaborative Filtering Techniques. The 2nd IEEE International Conference on Cybernetics (CYBCONF 2015), Gdynia, Poland; 06/2015. DOI:10.1109/CYBConf.2015.7175905 <span class="__dimensions_badge_embed__" data-doi="10.1109/CYBConf.2015.7175905" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Min-Sung Hong, O-Joun Lee, Jason J. Jung: Adaptive Clustering for Scalable Collaborative Filtering in Recommender Systems. The 3rd International Conference on Smart Media and Applications, Chiang Mai, Thailand; 12/2014.
+* Min-Sung Hong, O-Joun Lee, Jason J. Jung: Adaptive Clustering for Scalable Collaborative Filtering in Recommender Systems. The 3rd International Conference on Smart Media and Applications (SMA 2014), Chiang Mai, Thailand; 12/2014.
 
 * Min-Sung Hong, O-Joun Lee, Gyu-Chan Lim, Se-Jun Park, Seung-Hoon Kim, Jae-Dong Lee: Meta-data Configuration and Learning Technique for Wellness Content Recommendation. International Conference on Computer Applications and Information Processing Technology (CAIPT 2014), Ulaanbaatar, Mongolia; 06/2014. 
 
