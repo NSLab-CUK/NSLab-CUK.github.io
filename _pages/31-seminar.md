@@ -25,6 +25,48 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2024
 
 ***
+#### Jul 08th, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels​", NeurIPS 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/zA3NHIv250nDRG?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "RIMeshGNN: A Rotation-Invariant Graph Neural Network for Mesh Classification", WACV 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/J0uXwzbiNoyN01?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "Forecasting COVID-19 Dynamics: Clustering, Generalized Spatiotemporal Attention, and Impacts of Mobility and Geographic Proximity", ICDE 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/41kW9SNilZ3rle?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W. Jeong, Review on "struc2vec: Learning Node Representations from Structural Identity", KDD 2017</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/xtMED0kvTF1jkK?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+#### Jul 5th, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Self-Supervised Relation Alignment for Scene Graph Generation", WACV 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/lhCHEfBn36J0pC?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "Spatial-Temporal Graph-Based AU Relationship Learning for Facial Action Unit Detection​", CVPR 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ro5czcWxG1kDj7?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Jul 3rd, 2024
 {:.no_toc}
 <details markdown="1">
