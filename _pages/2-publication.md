@@ -123,6 +123,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Huu-Tuong Ho, Minh-Tien Pham, Quang-Duong Tran, Quang-Huy Pham, Quang Dieu Tran, Nguyen Ngoc Phi, O-Joun Lee, Luong Vuong Nguyen: MoviePoster-Grounded Contextual Visualization Using Multimodal Techniques. The 3rd International Conference on Intelligence of Things (ICIT 2024), Da Nang, Vietnam; 09/2024.
+
 * Daehun Kim, Hyeon-Ju Jeon, Yeongho Sung, Jin Hyeong Park, O-Joun Lee, Hae Gyun Lim: Real-time tracking system for red tides through acoustic signals and artificial intelligence. The 2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (UFFC-JS 2024), Taipei, Taiwan; 09/2024.
 
 * Minsun Cho, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based on Transfer Learning for Organic FETs. The 245th Electrochemical Society (ECS) Meeting, San Francisco, CA, USA; 05/2024. 
