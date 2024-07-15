@@ -26,13 +26,13 @@ toc_label: "Table of Contents"
 
 * Sun-Jung Ryu, Eun-Soon You: Literary Research Using Digital Analysis Tools: A Case Study of 『Dangerous Liaisons』. The Journal of the Convergence on Culture Technology 05/2024; 10(3): 173-180. (In Korean) DOI:10.17703/JCCT.2024.10.3.173
 
-* Eun-Soon You, Sun-Jung Ryu: Étude sur l'enseignement de la littérature française à l'ère numérique. Enseignement de Langue et Littérature Françaises 03/2024; 84: 151-187. (In Korean) DOI:10.36747/ellf84.6
+* Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 05/2024; 11(10): 18686-18697. (†: Co-correspondence) DOI:10.1109/JIOT.2024.3365144 [![Link](https://img.shields.io/badge/JCR%20Top%203%25-0C2E86?style=flat-square)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
+<span class="__dimensions_badge_embed__" data-doi="10.1109/JIOT.2024.3365144" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 02/2024. (†: Co-correspondence; To Appear) DOI:10.1109/JSEN.2024.3364682
+* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 04/2024; 24(7): 9626-9638. (†: Co-correspondence) DOI:10.1109/JSEN.2024.3364682
 <span class="__dimensions_badge_embed__" data-doi="10.1109/JSEN.2024.3364682" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 02/2024. (†: Co-correspondence; To Appear) DOI:10.1109/JIOT.2024.3365144 [![Link](https://img.shields.io/badge/JCR%20Top%203%25-0C2E86?style=flat-square)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
-<span class="__dimensions_badge_embed__" data-doi="10.1109/JIOT.2024.3365144" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Eun-Soon You, Sun-Jung Ryu: Étude sur l'enseignement de la littérature française à l'ère numérique. Enseignement de Langue et Littérature Françaises 03/2024; 84: 151-187. (In Korean) DOI:10.36747/ellf84.6
 
 * Hyun-Cheol Park, YunSang Joo, O-Joun Lee, Kunkyu Lee, Tai-Kyong Song, Chang Choi, Moon Hyung Choi, Changhan Yoon: Automated classification of liver fibrosis stages using ultrasound imaging. BMC Medical Imaging 02/2024; 24: 36. DOI:10.1186/s12880-024-01209-4
 <span class="__dimensions_badge_embed__" data-doi="10.1186/s12880-024-01209-4" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
