@@ -97,7 +97,7 @@ toc_label: "Table of Contents"
 
 ### Cross-domain Recommender System for Retail Kiosk
 
-* Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 02/2024. (†: Co-correspondence; To Appear) <br>
+* Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 05/2024; 11(10): 18686-18697. (†: Co-correspondence) <br>
 [![DOI](http://img.shields.io/:DOI-10.1109/JIOT.2024.3365144-blue?style=flat-square)](https://doi.org/10.1109/JIOT.2024.3365144)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Context-Aware-Residual-Transformer)
 
@@ -135,6 +135,15 @@ toc_label: "Table of Contents"
 
 ***
 ## Digital Literature
+
+* Eun-Soon You, Sun-Jung Ryu, O-Joun Lee: A Study on the ‘Esprit’ Indices of The Barber of Seville and The Marriage of Figaro Using the Vocabulary-Based Text Analysis Tool LIWC-22. Story & Image Telling 06/2024; 27: 93-119. (In Korean) <br>
+[![DOI](http://img.shields.io/:DOI-10.22758/sni.2024.27.093-blue?style=flat-square)](https://doi.org/10.22758/sni.2024.27.093)
+
+* Sun-Jung Ryu, Eun-Soon You: Literary Research Using Digital Analysis Tools: A Case Study of 『Dangerous Liaisons』. The Journal of the Convergence on Culture Technology 05/2024; 10(3): 173-180. (In Korean) <br>
+[![DOI](http://img.shields.io/:DOI-10.17703/JCCT.2024.10.3.173-blue?style=flat-square)](https://doi.org/10.17703/JCCT.2024.10.3.173)
+
+* Eun-Soon You, Sun-Jung Ryu: Étude sur l’enseignement de la littérature française à l’ère numérique. Enseignement de Langue et Littérature Françaises 03/2024; 84: 151-187. (In Korean) <br>
+[![DOI](http://img.shields.io/:DOI-10.36747/ellf84.6-blue?style=flat-square)](https://doi.org/10.36747/ellf84.6)
 
 * Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house. Humanities Contents 12/2023; (71): 107-135. <br>
 [![DOI](http://img.shields.io/:DOI-10.18658/humancon.2023.12.107-blue?style=flat-square)](https://doi.org/10.18658/humancon.2023.12.107)
@@ -174,7 +183,7 @@ toc_label: "Table of Contents"
   <em>Inflicting high-frequency ultrasonic wave on invasive/non-invasive breast cancer cells.</em>
 </p>
 
-* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 02/2024. (†: Co-correspondence; To Appear)
+* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 04/2024; 24(7): 9626-9638. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1109/JSEN.2024.3364682-blue?style=flat-square)](https://doi.org/10.1109/JSEN.2024.3364682)
 
 * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. Ultrasonics 01/2024; 136: 107167. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1016/j.ultras.2023.107167-blue?style=flat-square)](https://doi.org/10.1016/j.ultras.2023.107167)
 
@@ -239,7 +248,7 @@ toc_label: "Table of Contents"
 ## Water Distribution Pipe Corrosion Assessment
 {:.no_toc}
 
-* Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 06/2024. (†: Co-correspondence; To Appear)
+* Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 07/2024; 7: 63. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1038/s41545--024--00358--x-blue?style=flat-square)](https://doi.org/10.1038/s41545-024-00358-x)
 
 * So Yeon Moon, Hyeon-Ju Jeon, Yeongho Sung, Min-Seo Kim, Daehun Kim, Jaeyeop Choi, Junghwan Oh, O-Joun Lee, Hae Gyun Lim: Dual-mode diagnosis system for water quality and corrosion in pipe using convolutional neural networks (CNN) and ultrasound. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 (in Korean) <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1mLOJuRBatRkGGWKFN6u3U6bz-WMg9nWL/view?usp=sharing)
