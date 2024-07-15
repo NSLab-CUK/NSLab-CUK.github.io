@@ -19,9 +19,10 @@ toc_label: "Table of Contents"
 
 ***
 
-* Eun-Soon You, Sun-Jung Ryu, O-Joun Lee: A Study on the ‘Esprit’ Indices of The Barber of Seville and The Marriage of Figaro Using the Vocabulary-Based Text Analysis Tool LIWC-22. Story & Image Telling 06/2024; 27: 93-119. (In Korean) DOI:10.22758/sni.2024.27.093
+* Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 07/2024; 7: 63. (†: Co-correspondence) DOI:10.1038/s41545-024-00358-x [![Link](https://img.shields.io/badge/JCR%20Top%201%25-0C2E86?style=flat-square)](https://www.nature.com/npjcleanwater/)
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41545-024-00358-x" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 06/2024. (†: Co-correspondence; To Appear) [![Link](https://img.shields.io/badge/JCR%20Top%201%25-0C2E86?style=flat-square)](https://www.nature.com/npjcleanwater/)
+* Eun-Soon You, Sun-Jung Ryu, O-Joun Lee: A Study on the ‘Esprit’ Indices of The Barber of Seville and The Marriage of Figaro Using the Vocabulary-Based Text Analysis Tool LIWC-22. Story & Image Telling 06/2024; 27: 93-119. (In Korean) DOI:10.22758/sni.2024.27.093
 
 * Sun-Jung Ryu, Eun-Soon You: Literary Research Using Digital Analysis Tools: A Case Study of 『Dangerous Liaisons』. The Journal of the Convergence on Culture Technology 05/2024; 10(3): 173-180. (In Korean) DOI:10.17703/JCCT.2024.10.3.173
 
