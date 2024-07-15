@@ -145,7 +145,7 @@ toc_label: "Table of Contents"
 * Eun-Soon You, Sun-Jung Ryu: Étude sur l’enseignement de la littérature française à l’ère numérique. Enseignement de Langue et Littérature Françaises 03/2024; 84: 151-187. (In Korean) <br>
 [![DOI](http://img.shields.io/:DOI-10.36747/ellf84.6-blue?style=flat-square)](https://doi.org/10.36747/ellf84.6)
 
-* Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house. Humanities Contents 12/2023; (71): 107-135. <br>
+* Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house. Humanities Contents 12/2023; (71): 107-135. (In Korean) <br>
 [![DOI](http://img.shields.io/:DOI-10.18658/humancon.2023.12.107-blue?style=flat-square)](https://doi.org/10.18658/humancon.2023.12.107)
 
 * Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Social Network of Characters Appeared in the French Novel Series "La Comédie humaine" and An Interaction Network of Novels in the Series. Figshare 08/2023. (Dataset) <br>
