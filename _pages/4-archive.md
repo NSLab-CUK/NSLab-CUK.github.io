@@ -393,7 +393,8 @@ description: Archive of events, memories and achievements of the Network Science
 * The research collaboration between NS@CUK and BU@PKNU on cell property analysis with deep learning has been presented as three posters at [ASK 2023 Spring](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265).
   * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: A Potential Tool of Non-Invasive Diabetes Diagnosis using High-Frequency Ultrasound and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1wcnm1kmlVxVGWQKs0Lpw1jLnvbo3RR1I/view?usp=sharing); in Korean)
   * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Automated Dysnatremia Measurement using Ultrasound Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1pb3myPMBzHBZCg1shM38BCV7fSXJL496/view?usp=sharing); in Korean)
-  * Daehun Kim, Hyeon-Ju Jeon, Hye Yun Jeong, O-Joun Lee, Hae Gyun Lim: Automatic Monitoring System for Red Tide Detection using Ultrasonic Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing); in Korean)
+  * Daehun Kim, Hyeon-Ju Jeon, Hye Yun Jeong, O-Joun Lee, Hae Gyun Lim: Automatic Monitoring System for Red Tide Detection using Ultrasonic Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 ([Poster](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing); in Korean) <br> [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.veritas-a.com/news/articleView.html?idxno=461451) 
+
 
 <p align="center"><img width="700" src="/images/ASK2023_poster_JL.webp"></p>
 
@@ -440,7 +441,7 @@ description: Archive of events, memories and achievements of the Network Science
 ##### Apr 21st, 2023
 {:.no_toc}
 
-* The research collaboration between NS@CUK and BU@PKNU on cell property analysis with deep learning has been introduced as a [poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing) at [Samsung Global Technology Symposium](https://www.samsung-gts.technology/).
+* The research collaboration between NS@CUK and BU@PKNU on cell property analysis with deep learning has been introduced as a [poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing) at [Samsung Global Technology Symposium](https://www.samsung-gts.technology/). <br> [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.veritas-a.com/news/articleView.html?idxno=457211) 
   * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: High-frequency ultrasound and convolutional neural network: A Potential tool for diagnosis of diabetes mellitus. [Samsung Global Technology Symposium](https://www.samsung-gts.technology/), Seoul, Korea; 04/2023 ([Poster](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing); in Korean)
 
 <p align="center"><img width="700" src="/images/Samsung2023_poster_JL.webp"></p>
