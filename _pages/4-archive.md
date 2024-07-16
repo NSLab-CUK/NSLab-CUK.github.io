@@ -205,6 +205,8 @@ description: Archive of events, memories and achievements of the Network Science
 ##### Nov 16th, 2023
 {:.no_toc}
 
+* The 2023 CUK AI Mentoring Day was held.
+
 <p align="center"><img width="700" src="/images/231116_1.jpg"></p>
 
 <p align="center"><img width="700" src="/images/231116_2.jpg"></p>
