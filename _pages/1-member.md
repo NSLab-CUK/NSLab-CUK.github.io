@@ -25,10 +25,10 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 * Sep 2021 -- Present: Adjunct Professor, [Dept. of Healthcare and AI, The Graduate School](https://cukmai.catholic.ac.kr/cukmai/index.html), CUK
  -->
 * Sep 2021 -- Present: Assistant Professor, [Dept. of AI](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), CUK
-* Sep 2019 -- Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, POSTECH
-* Mar 2015 -- Aug 2019: Ph.D. Course, School of Computer Science and Engineering, CAU
-  * <img src="/images/KE_Logo.png" alt="drawing" style="height: 20px;"/> [Knowledge Engineering Lab](http://ke.cau.ac.kr/Main_Page); Supervisor: [Prof. Jason J. Jung](http://intelligent.pe.kr/)
-* Mar 2011 -- Feb 2015: B.E. Course, Dept. of Software Science, DKU
+* Sep 2019 -- Aug 2021: Full-time Researcher, <img src="/images/iLab_Logo.png" alt="drawing" style="height: 20px;"/> Future IT Innovation Laboratory, <img src="/images/POSTECHLogo.png" alt="drawing" style="height: 20px;"/> POSTECH
+* Mar 2015 -- Aug 2019: Ph.D. Course, School of Computer Science and Engineering, <img src="/images/CAULogo.png" alt="drawing" style="height: 20px;"/> CAU
+  * [<img src="/images/KE_Logo.png" alt="drawing" style="height: 20px;"/> Knowledge Engineering Lab](http://ke.cau.ac.kr/Main_Page); Supervisor: [Prof. Jason J. Jung](http://intelligent.pe.kr/)
+* Mar 2011 -- Feb 2015: B.E. Course, Dept. of Software Science, <img src="/images/DKU_Logo1.jpg" alt="drawing" style="height: 20px;"/> <img src="/images/DKU_Logo2.jpg" alt="drawing" style="height: 20px;"/> DKU
 * <a href="mailto:ojlee@catholic.ac.kr"><img src="https://img.shields.io/badge/ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <!--
