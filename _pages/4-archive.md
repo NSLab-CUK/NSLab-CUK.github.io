@@ -33,6 +33,8 @@ description: Archive of events, memories and achievements of the Network Science
 ##### Jun 5th, 2024
 {:.no_toc}
 
+* The 2024 Summer CUK AI Professor-Student Meeting was held.
+
 <p align="center"><img width="700" src="/images/240605.jpg"></p>
 
 ***
@@ -110,6 +112,8 @@ description: Archive of events, memories and achievements of the Network Science
 ***
 ##### Mar 8th, 2024
 {:.no_toc}
+
+* The 2024 Spring CUK AI Professor-Student Meeting was held.
 
 <p align="center"><img width="700" src="/images/240308.jpg"></p>
 
@@ -193,6 +197,8 @@ description: Archive of events, memories and achievements of the Network Science
 ##### Nov 28th, 2023
 {:.no_toc}
 
+* The 2023 Winter CUK AI Professor-Student Meeting was held.
+
 <p align="center"><img width="700" src="/images/231128.jpg"></p>
 
 ***
@@ -220,6 +226,8 @@ description: Archive of events, memories and achievements of the Network Science
 ***
 ##### Sep 26th, 2023
 {:.no_toc}
+
+* The 2023 Fall CUK AI Professor-Student Meeting was held.
 
 <p align="center"><img width="700" src="/images/230926.jpg"></p>
 
