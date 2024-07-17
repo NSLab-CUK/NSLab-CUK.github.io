@@ -401,6 +401,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 * Seung Charlie Kim, [Shukran Korea Inc.](https://www.shukrankorea.com/), Seoul, Korea
 * Sojung An, Korea Institute of Atmospheric Prediction System, Seoul, Korea
 * Jong-Seo Lee, [Movements Inc.](https://movements.kr/#s1), Daejeon, Korea
+* Dong Kook Park, [IntoCNS Inc.](https://www.intocns.com/), Yongin, Korea
 * Dr. Nam D. Vo, FPT University, Danang, Vietnam
 * Dr. Phuong-Mai Nguyen, International School, Vietnam National University, Hanoi, Vietnam
 * Dr. Khac-Hoai Nam Bui, Viettel Cyberspace Center, Viettel, Hanoi, Vietnam
