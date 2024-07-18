@@ -270,22 +270,6 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 -->
 
-###### [Min Seo Kim](https://nslab-cuk.github.io/member/mskim) (Aug 2023 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/mskim2.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2019 -- Present: School of Information, Communications and Electronic Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Recommendation Systems</li>
-			<li><a href="mailto:kms39273@catholic.ac.kr"><img src="https://img.shields.io/badge/-kms39273@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-			<li><a href="https://github.com/cukminseo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-			<li><a href="https://cukminseo.notion.site/Minseo-Kim-7cc7c1ee1137419fb878df36f38ac8bd?pvs=4"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"></a></li>
-			<li><a href="https://velog.io/@kms39273"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
 ###### [Hye Min Kim](https://nslab-cuk.github.io/member/hmKim) (Jul 2023 -- Present)
 
 <table border="0">  
@@ -313,7 +297,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
    </tr>
 </table>
 
-###### [Jinho Seo](https://nslab-cuk.github.io/member/jhSeo) (Jul 2023 -- Present)
+###### [Jinho Seo](https://nslab-cuk.github.io/member/jhSeo) (Jul 2023 -- Present; In Military Service)
 
 <table border="0">  
 	<tr valign="top">
@@ -364,6 +348,22 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 * TBA
 
 #### B.Eng.
+
+###### [Min Seo Kim](https://nslab-cuk.github.io/member/mskim) (Aug 2023 -- Jun 2024)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/mskim2.jpg"/></td>  
+		<td><ul>
+			<li>Mar 2019 -- Present: School of Information, Communications and Electronic Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Research Interest: Recommendation Systems</li>
+			<li><a href="mailto:kms39273@catholic.ac.kr"><img src="https://img.shields.io/badge/-kms39273@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
+			<li><a href="https://github.com/cukminseo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
+			<li><a href="https://cukminseo.notion.site/Minseo-Kim-7cc7c1ee1137419fb878df36f38ac8bd?pvs=4"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"></a></li>
+			<li><a href="https://velog.io/@kms39273"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
+		</ul></td>
+	</tr>
+</table>
 
 ###### [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) (Sep 2022 -- Dec 2022)
 
