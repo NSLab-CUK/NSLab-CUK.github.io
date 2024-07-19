@@ -41,16 +41,10 @@ toc_label: "Table of Contents"
 * 07215-01 Career exploration of Artificial Intelligence 2 (Joint Lecture)
   * Instructor: Faculty members of Dept. of AI
 
-* 06480-01 Capstone Design for Artificial Intelligence 1 (Joint Lecture)
+* 06480-01 and 06481-01 Capstone Design for Artificial Intelligence 1 and 2 (Joint Lecture)
   * Instructor: Faculty members of Dept. of AI
 
-* 06481-01 Capstone Design for Artificial Intelligence 2 (Joint Lecture)
-  * Instructor: Faculty members of Dept. of AI
-
-* 06847-01 Undergraduate Research 1 (Joint Lecture)
-  * Instructor: Faculty members of Dept. of AI
-
-* 06841-01 Undergraduate Research 2 (Joint Lecture)
+* 06847-01 and 06841-01 Undergraduate Research 1 and 2 (Joint Lecture)
   * Instructor: Faculty members of Dept. of AI
 
 * 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (Joint Lecture)
