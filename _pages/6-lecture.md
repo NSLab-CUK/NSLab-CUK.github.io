@@ -17,6 +17,46 @@ toc_label: "Table of Contents"
 ### 2024
 
 ***
+#### Fall 2024
+{:.no_toc}
+
+* 54347-01 Advanced Graph Mining (Graduate Course)
+  * Instructor: O-Joun Lee
+
+* [06838-01 Graph Neural Networks](https://ns-cuk.notion.site/06838-Graph-Neural-Networks-Fall-2024-e0b7776e069c4218a3b900c0bbc6210a?pvs=4)
+  * Instructor: O-Joun Lee
+  * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/thanhdo19730), and [Huy Quang Tran](https://nslab-cuk.github.io/member/huy)
+  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2024)
+  * [![Kaggle](https://img.shields.io/badge/Kaggle-Term%20Project-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/competitions/2024-1-cuk-gm-project/overview)
+
+* 54345-01 Artificial Intelligence/Robot Ethics (Graduate Course)
+  * Instructor: Eun-Soon You
+
+* 07086-01 Digital Humanities and Practice
+  * Instructor: Eun-Soon You
+
+* 06298-01 Living with AI
+  * Instructor: Eun-Soon You
+
+* 07215-01 Career exploration of Artificial Intelligence 2 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+* 06480-01 Capstone Design for Artificial Intelligence 1 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+* 06481-01 Capstone Design for Artificial Intelligence 2 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+* 06847-01 Undergraduate Research 1 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+* 06841-01 Undergraduate Research 2 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+* 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+***
 #### Summer 2024
 {:.no_toc}
 
