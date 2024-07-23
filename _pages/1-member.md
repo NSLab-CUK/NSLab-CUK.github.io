@@ -338,8 +338,6 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-</table>
-
 ###### [Se Won Park](https://nslab-cuk.github.io/member/hcYang) (May 2024 -- Present)
 
 <table border="0">  
