@@ -312,6 +312,47 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
+###### [Hochan Yang](https://nslab-cuk.github.io/member/hcYang) (May 2024 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hcYang.jpg"/></td>  
+		<td><ul>
+			<li>Mar 2020 -- Present: School of Information, Department of Korean History, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Research Interest: Natural Language Processing</li>
+			<li><a href="mailto:ukg_15@catholic.ac.kr"><img src="https://img.shields.io/badge/-ukg_15@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
+###### [Shim Ju Hee](https://nslab-cuk.github.io/member/jhShim) (May 2024 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jhShim.jpg"/></td>  
+		<td><ul>
+			<li>Mar 2022 -- Present: School of Information, Department of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Research Interest: Data anayles</li>
+			<li><a href="mailto:shim020616@catholic.ac.kr"><img src="https://img.shields.io/badge/-shim020616@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
+</table>
+
+###### [Se Won Park](https://nslab-cuk.github.io/member/hcYang) (May 2024 -- Present)
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/swPark.jpg"/></td>  
+		<td><ul>
+			<li>Mar 2017 -- Present: School of Information, Department of Mathematics, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Research Interest: image classification</li>
+			<li><a href="mailto:afaa132@catholic.ac.kr"><img src="https://img.shields.io/badge/-afaa132@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
+		</ul></td>
+	</tr>
+</table>
+
 <!-- 
 ###### [Yu Jin Yang](https://nslab-cuk.github.io/member/yjyang) (Feb 2023 -- Present)
 
