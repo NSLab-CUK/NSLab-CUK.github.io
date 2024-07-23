@@ -291,7 +291,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
       <td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jwJeong.jpg"/></td>  
       <td><ul>
          <li>Mar 2020 -- Present: School of Information, Department of Mathematics, The Catholic University of Korea, Bucheon, Korea</li>      
-         <li>Research Interest: voice recognition</li>
+         <li>Research Interest: Recommender System</li>
          <li><a href="mailto:zeus0208b@catholic.ac.kr"><img src="https://img.shields.io/badge/-zeus0208b@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 	 <li><a href="https://velog.io/@zeus0208b"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
       </ul></td>
@@ -345,7 +345,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/swPark.jpg"/></td>  
 		<td><ul>
 			<li>Mar 2017 -- Present: School of Information, Department of Mathematics, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: image classification</li>
+			<li>Research Interest: Image Classification</li>
 			<li><a href="mailto:afaa132@catholic.ac.kr"><img src="https://img.shields.io/badge/-afaa132@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 		</ul></td>
 	</tr>
