@@ -17,18 +17,11 @@ description: Members, alumni and collaborators of the Network Science Lab at the
 
 O-Joun Lee has been an assistant professor at the Catholic University of Korea, Rep. of Korea since September 2021. He received Ph.D. degree in Computer Science and Engineering from Chung-Ang University in 2019. He also received B.Eng. degree in Software Science from Dankook University in 2015. He was a full-time researcher at Pohang University of Science and Technology, Rep. of Korea from September 2019 to August 2021. His research interests include graph mining, graph representation learning, and graph neural networks. He has applied graph mining models and methods to various unstructured data, such as social media, bibliographic data, medical knowledge bases, traffic flow data, molecular structures, etc.
 
-<!--
-* Jan 2023 -- Present: [한국스마트미디어학회](https://kism.jams.or.kr/co/main/jmMain.kci) 상임이사
-* Mar 2022 -- Present: Adjunct Professor, [Dept. of Mathematics](https://math.catholic.ac.kr/math.eng/), CUK
-* Mar 2022 -- Present: Head/Assistant Professor, [Dept. of AI, The Graduate School](https://cukadmin.catholic.ac.kr/cukai.eng/D_141_6080.html), CUK
-* Sep 2021 -- Present: Adjunct Professor, [Dept. of Data Science](https://cukadmin.catholic.ac.kr/datascience.eng/index.html), CUK
-* Sep 2021 -- Present: Adjunct Professor, [Dept. of Healthcare and AI, The Graduate School](https://cukmai.catholic.ac.kr/cukmai/index.html), CUK
- -->
-* Sep 2021 -- Present: Assistant Professor, [<img src="/images/AI_Logo.png" alt="drawing" style="height: 20px;"/> Dept. of AI](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> CUK](https://www.catholic.ac.kr/)
-* Sep 2019 -- Aug 2021: Researcher, [<img src="/images/iLab_Logo.png" alt="drawing" style="height: 20px;"/> Future IT Innovation Laboratory](https://i-lab.postech.ac.kr/), [<img src="/images/POSTECHLogo.png" alt="drawing" style="height: 20px;"/> POSTECH](https://postech.ac.kr/)
-* Mar 2015 -- Aug 2019: Ph.D. Course, School of Computer Science and Engineering, [<img src="/images/CAULogo.png" alt="drawing" style="height: 20px;"/> CAU](https://www.cau.ac.kr/)
-  * [<img src="/images/KE_Logo.png" alt="drawing" style="height: 20px;"/> Knowledge Engineering Lab](http://ke.cau.ac.kr/Main_Page); Supervisor: [Prof. Jason J. Jung](http://intelligent.pe.kr/)
-* Mar 2011 -- Feb 2015: B.E. Course, Dept. of Software Science, [<img src="/images/DKU_Logo1.jpg" alt="drawing" style="height: 20px;"/> DKU](https://www.dankook.ac.kr/)
+* Sep 2021 -- Present: Assistant Professor, [<img src="/images/AI_Logo.png" alt="drawing" style="height: 20px;"/> Dept. of Artificial Intelligence](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea (CUK)](https://www.catholic.ac.kr/)
+* Sep 2019 -- Aug 2021: Researcher, [<img src="/images/iLab_Logo.png" alt="drawing" style="height: 20px;"/> Future IT Innovation Laboratory (i-Lab)](https://i-lab.postech.ac.kr/), [<img src="/images/POSTECHLogo.png" alt="drawing" style="height: 20px;"/> Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr/)
+* Mar 2015 -- Aug 2019: Ph.D. Course, School of Computer Science and Engineering, [<img src="/images/CAULogo.png" alt="drawing" style="height: 20px;"/> Chung-Ang University (CAU)](https://www.cau.ac.kr/)
+  * [<img src="/images/KE_Logo.png" alt="drawing" style="height: 20px;"/> Knowledge Engineering Lab (KE Lab)](http://ke.cau.ac.kr/Main_Page); Supervisor: [Prof. Jason J. Jung](http://intelligent.pe.kr/)
+* Mar 2011 -- Feb 2015: B.E. Course, Dept. of Software Science, [<img src="/images/DKU_Logo1.jpg" alt="drawing" style="height: 20px;"/> Dankook University (DKU)](https://www.dankook.ac.kr/)
 * <a href="mailto:ojlee@catholic.ac.kr"><img src="https://img.shields.io/badge/ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <!--
