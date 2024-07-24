@@ -171,7 +171,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/ujO.jpg"/></td>  
 		<td><ul>
 			<li>Sep 2023 -- Present: M.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>
-			<li>Sep 2019 -- Aug 2023: B.A. in Korean Language and Literature, Jeonju University, South Korea</li>
+			<li>Sep 2019 -- Aug 2023: B.A. in Korean Language and Literature, Jeonju University, Jeonju, Korea</li>
 			<li>Sep 2015 -- Aug 2019: B.P.A. in Public Administration, The Open University of China, Beijing, China</li>
 			<li>Research Interset: NLP Long Text Summary</li>
 			<li><a href="mailto:wuyanjun@catholic.ac.kr"><img src="https://img.shields.io/badge/-wuyanjun@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
