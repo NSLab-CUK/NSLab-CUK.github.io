@@ -19,14 +19,14 @@ O-Joun Lee has been an assistant professor at the Catholic University of Korea, 
 
 ###### Research Experience
 
-* Sep 2021 -- Present: Assistant Professor, [<img src="/images/AI_Logo.png" alt="drawing" style="height: 20px;"/> Dept. of Artificial Intelligence](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/)
-* Sep 2019 -- Aug 2021: Researcher, [<img src="/images/iLab_Logo.png" alt="drawing" style="height: 20px;"/> Future IT Innovation Laboratory](https://i-lab.postech.ac.kr/), [<img src="/images/POSTECHLogo.png" alt="drawing" style="height: 20px;"/> Pohang University of Science and Technology](https://postech.ac.kr/)
+* Sep 2021 -- Present: Assistant Professor, [<img src="/images/AI_Logo.png" alt="drawing" style="height: 20px;"/> Dept. of Artificial Intelligence](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Sep 2019 -- Aug 2021: Researcher, [<img src="/images/iLab_Logo.png" alt="drawing" style="height: 20px;"/> Future IT Innovation Laboratory](https://i-lab.postech.ac.kr/), [<img src="/images/POSTECHLogo.png" alt="drawing" style="height: 20px;"/> Pohang University of Science and Technology](https://postech.ac.kr/), Pohang, Korea
 
 ###### Education
 
-* Mar 2015 -- Aug 2019: Ph.D. in Computer Science and Engineering, [<img src="/images/CAULogo.png" alt="drawing" style="height: 20px;"/> Chung-Ang University](https://www.cau.ac.kr/)
+* Mar 2015 -- Aug 2019: Ph.D. in Computer Science and Engineering, [<img src="/images/CAULogo.png" alt="drawing" style="height: 20px;"/> Chung-Ang University](https://www.cau.ac.kr/), Seoul, Korea
   * Under the supervision of [Prof. Jason J. Jung](http://intelligent.pe.kr/) within the [<img src="/images/KE_Logo.png" alt="drawing" style="height: 20px;"/> Knowledge Engineering Lab](http://ke.cau.ac.kr/Main_Page)
-* Mar 2011 -- Feb 2015: B.Eng. in Software Science, [<img src="/images/DKU_Logo1.jpg" alt="drawing" style="height: 20px;"/> Dankook University](https://www.dankook.ac.kr/)
+* Mar 2011 -- Feb 2015: B.Eng. in Software Science, [<img src="/images/DKU_Logo1.jpg" alt="drawing" style="height: 20px;"/> Dankook University](https://www.dankook.ac.kr/), Yongin, Korea
 
 ###### Contact
 
