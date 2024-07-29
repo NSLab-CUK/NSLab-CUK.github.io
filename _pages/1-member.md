@@ -318,7 +318,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	<tr valign="top">
 		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hcYang.jpg"/></td>  
 		<td><ul>
-			<li>Mar 2020 -- Present: B.A. in Korean History, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Mar 2020 -- Present: B.Eng. in  Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
 			<li>Research Interest: Natural Language Processing</li>
 			<li><a href="mailto:ukg_15@catholic.ac.kr"><img src="https://img.shields.io/badge/-ukg_15@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
 		</ul></td>
