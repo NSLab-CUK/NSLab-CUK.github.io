@@ -32,6 +32,8 @@ toc_label: "Table of Contents"
 [![arXiv](https://img.shields.io/badge/arXiv-2312.16788-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2312.16788)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-biases-in-message-passing)
+[![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Community-aware-Graph-Transformer)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
+[![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Community-aware-Graph-Transformer)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 
 * Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. <br>
 [![DOI](http://img.shields.io/:DOI-10.1609/aaai.v38i11.29138-blue?style=flat-square)](https://doi.org/10.1609/aaai.v38i11.29138)
@@ -41,7 +43,9 @@ toc_label: "Table of Contents"
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1uLluSX5RJ2_9xYkOm5Q3VCQmOM9gTGCp/view?usp=sharing)
 [![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1coABVZSKQGzzW9wtz3n6e8b4if4VtWA0/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/pq-lzrBDqBY)
-[![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.newsis.com/view/?id=NISX20240227_0002640784&cID=14001&pID=14000#) 
+[![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.newsis.com/view/?id=NISX20240227_0002640784&cID=14001&pID=14000#)
+[![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Unified-Graph-Transformer)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
+[![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Unified-Graph-Transformer)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
 
 * Van Thuy Hoang, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, O-Joun Lee: Graph Representation Learning and its Applications: A Survey. Sensors 04/2023; 23(8): 4168. <br>
 [![DOI](http://img.shields.io/:DOI-10.3390/s23084168-blue?style=flat-square)](https://doi.org/10.3390/s23084168)
@@ -51,6 +55,8 @@ toc_label: "Table of Contents"
 [![arXiv](https://img.shields.io/badge/arXiv-2304.13195-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2304.13195)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Connector)
 [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-Connector%200%2E5-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/connector-0-5-a-unified-framework-for-graph)
+[![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Connector)](https://github.com/NSLab-CUK/Connector)
+[![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Connector)](https://github.com/NSLab-CUK/Connector)
 
 ***
 ## Bibliographic Network Embedding
@@ -83,6 +89,8 @@ toc_label: "Table of Contents"
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/LiteralKG)
 [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-LiteralKG-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/companion-animal-disease-diagnostics-based-on)
 [![Demo](https://img.shields.io/badge/-System%20Demo-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://nslab.catholic.ac.kr/)
+[![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/LiteralKG)](https://github.com/NSLab-CUK/LiteralKG)
+[![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/LiteralKG)](https://github.com/NSLab-CUK/LiteralKG)
 
 ### Medical Knowledge Graph Embedding for Drug Effect Prediction
 
@@ -100,6 +108,8 @@ toc_label: "Table of Contents"
 * Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 05/2024; 11(10): 18686-18697. (†: Co-correspondence) <br>
 [![DOI](http://img.shields.io/:DOI-10.1109/JIOT.2024.3365144-blue?style=flat-square)](https://doi.org/10.1109/JIOT.2024.3365144)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Context-Aware-Residual-Transformer)
+[![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Context-Aware-Residual-Transformer)](https://github.com/NSLab-CUK/Context-Aware-Residual-Transformer)
+[![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Context-Aware-Residual-Transformer)](https://github.com/NSLab-CUK/Context-Aware-Residual-Transformer)
 
 ***
 ## Spatio-Temporal Graph Neural Networks
