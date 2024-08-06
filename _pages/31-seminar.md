@@ -33,8 +33,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Face Clustering via Graph Convolutional Networks with Confidence Edges", ICCV 2023</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/iDj2LK6JqODCE5?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>T.B.T. Do, Review on "CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network", ICCV 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3OnUpIyuBEzzBK?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -54,8 +54,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Face Clustering via Graph Convolutional Networks with Confidence Edges", ICCV 2023</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/iDj2LK6JqODCE5?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>T.B.T. Do, Review on "VQA-GNN: Reasoning with Multimodal Knowledge via Graph Neural Networks for Visual Question Answering", ICCV 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vizOB3jYuWKuth?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
