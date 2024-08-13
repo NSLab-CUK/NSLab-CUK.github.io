@@ -131,6 +131,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Luong Vuong Nguyen, Quoc-Trinh Vo, Cao Vu Bui, Thi-Thu-Hong Phan, O-Joun Lee: Knowledge Graph-based Recommender Systems: A Case Study on Movie Domain. The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea; 10/2024.
+
 * Huu-Tuong Ho, Minh-Tien Pham, Quang-Duong Tran, Quang-Huy Pham, Quang Dieu Tran, Nguyen Ngoc Phi, O-Joun Lee, Luong Vuong Nguyen: MoviePoster-Grounded Contextual Visualization Using Multimodal Techniques. The 3rd International Conference on Intelligence of Things (ICIT 2024), Da Nang, Vietnam; 09/2024.
 
 * Daehun Kim, Hyeon-Ju Jeon, Yeongho Sung, Jin Hyeong Park, O-Joun Lee, Hae Gyun Lim: Real-time tracking system for red tides through acoustic signals and artificial intelligence. The 2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (UFFC-JS 2024), Taipei, Taiwan; 09/2024.
