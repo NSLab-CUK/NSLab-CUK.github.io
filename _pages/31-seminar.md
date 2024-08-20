@@ -24,6 +24,36 @@ This page is an archive for papers reviewed by members of the Network Science La
 ***
 ### 2024
 ***
+#### Aug 19th, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Re:PolyWorld - A Graph Neural Network for Polygonal Scene Parsing", ICCV 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/wEicZtbe03NoNV?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "Learning Decomposed Spatial Relations for Multi-Variate Time-Series Modeling", AAAI 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/eM5epXbMdDwr5A?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+#### Aug 12th, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "GraphEcho: Graph-Driven Unsupervised Domain Adaptation for Echocardiogram Video Segmentation", ICCV 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/5avGUAHn4XlfB9?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "Spatio-Temporal Fusion for Human Action Recognition via Joint Trajectory Graph", AAAI 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/stBSnIuMJRYIHh?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Aug 05th, 2024
 {:.no_toc}
 <details markdown="1">
