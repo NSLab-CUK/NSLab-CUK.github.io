@@ -14,6 +14,14 @@ description: Archive of events, memories and achievements of the Network Science
 ### 2024
 
 ***
+##### Aug 22nd, 2024
+{:.no_toc}
+
+* We attended [The 2024 Summer Workshop of Korean Institute of Next Generation Computing](https://www.manuscriptlink.com/society/kingpc/event/kingpc2024) and gave an invited talk on “Molecular Structure Analysis using Graph Neural Networks.”
+
+<p align="center"><img width="700" src="/images/240822.jpg"></p>
+
+***
 ##### Jul 30th, 2024
 {:.no_toc}
 
@@ -669,6 +677,14 @@ description: Archive of events, memories and achievements of the Network Science
 * We started participating in an industry-academic cooperation project on "Conversational Interface and Menu Recommendation System for Robot Cafe," funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Aug 2022 -- Nov 2022, 30 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/OrderQueenLogo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
+##### Jul 15th, 2022
+{:.no_toc}
+
+* We attended [The 2022 Summer Workshop of Korean Institute of Next Generation Computing](https://kingpc.or.kr/) and gave an invited talk on “Character Network Embedding for Computational Narrative Analytics.”
+
+<p align="center"><img width="700" src="/images/220715.jpg"></p>
 
 ***
 ##### Jun 24th, 2022
