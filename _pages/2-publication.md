@@ -342,6 +342,10 @@ toc_label: "Table of Contents"
 
 * O-Joun Lee: Molecular Structure Analysis using Graph Neural Networks. [The 2024 Summer Workshop of Korean Institute of Next Generation Computing](https://www.manuscriptlink.com/society/kingpc/event/kingpc2024), Jeju, Korea, 08/2024
 
+<p align="center">
+  <img width="90%" data-action="zoom" src="/images/240822.jpg" alt="absolute">
+</p>
+
 * O-Joun Lee: Analyzing Molecular Structures with Graph Neural Networks. [The 2024 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2024s/pages/special_session.vm), Jeju, Korea, 06/2024
 
 <p align="center">
@@ -361,6 +365,10 @@ toc_label: "Table of Contents"
 * O-Joun Lee: Spatio-Temporal Forecasting Models for Renewable Energy. [The 1st International Conference on Intelligence of Things (ICIT 2022)](https://icit2022.humg.edu.vn/), Hanoi, Vietnam, 08/2022
 
 * O-Joun Lee: Character Network Embedding for Computational Narrative Analytics. [The 2022 Summer Workshop of Korean Institute of Next Generation Computing](https://kingpc.or.kr/), Pyeongchang, Korea, 07/2022
+
+<p align="center">
+  <img width="90%" data-action="zoom" src="/images/220715.jpg" alt="absolute">
+</p>
 
 * O-Joun Lee: Heterogeneous Network Embedding and its Applications. [The 2021 Fall Conference of Korean Institute of Smart Media](https://www.manuscriptlink.com/society/kism/conference/sma2021f/programBook), Gwangju, Korea, 11/2021
 
