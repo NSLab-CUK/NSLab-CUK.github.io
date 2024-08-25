@@ -364,6 +364,10 @@ toc_label: "Table of Contents"
 
 * O-Joun Lee: Spatio-Temporal Forecasting Models for Renewable Energy. [The 1st International Conference on Intelligence of Things (ICIT 2022)](https://icit2022.humg.edu.vn/), Hanoi, Vietnam, 08/2022
 
+<p align="center">
+  <img width="90%" data-action="zoom" src="/images/Talk-ICIT-2022.jpg" alt="absolute">
+</p>
+
 * O-Joun Lee: Character Network Embedding for Computational Narrative Analytics. [The 2022 Summer Workshop of Korean Institute of Next Generation Computing](https://kingpc.or.kr/), Pyeongchang, Korea, 07/2022
 
 <p align="center">
