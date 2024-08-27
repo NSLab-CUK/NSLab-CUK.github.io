@@ -14,6 +14,21 @@ description: Archive of events, memories and achievements of the Network Science
 ### 2024
 
 ***
+##### Sep 3rd, 2024 -- Nov 26th, 2024
+{:.no_toc}
+
+* NS Lab@CUK organizes [the 2024 Fall CUK Artificial Intelligence Seminar Series (2024년 가을 가톨릭대학교 인공지능 세미나)](https://nslab-cuk.github.io/2024/08/24/Seminar/) with the Department of AI. This seminar series consists of 11 invited talks given by experts from both the corporate world and research institutions and is scheduled to take place over a period of 13 weeks, from September 3rd, 2024, to November 26th, 2024. 
+
+<p align="center">
+ <img width="700" src="/images/2024-2-Seminar-Poster-1.webp">
+ <img width="700" src="/images/2024-2-Seminar-Poster-2.webp">
+</p>
+
+<p align="center">
+ <a href="https://ai.catholic.ac.kr/"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a>
+</p>
+
+***
 ##### Aug 22nd, 2024
 {:.no_toc}
 
