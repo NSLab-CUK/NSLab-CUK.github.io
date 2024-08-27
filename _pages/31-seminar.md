@@ -24,6 +24,21 @@ This page is an archive for papers reviewed by members of the Network Science La
 ***
 ### 2024
 ***
+#### Aug 26th, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Learning Graph Neural Networks for Image Style Transfer", ECCV 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/5nDyeevQjOZUqW?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "Self-Supervised Learning for Multilevel Skeleton-Based Forgery Detection via Temporal-Causal Consistency of Actions", AAAI 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2lu4fqVCl5y6cD?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Aug 19th, 2024
 {:.no_toc}
 <details markdown="1">
