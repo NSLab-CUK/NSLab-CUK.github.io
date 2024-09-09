@@ -19,6 +19,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024. (To Appear)
+
 * Eun-Soon You, O-Joun Lee: Training AI Experts for the Fourth Industrial Revolution Era: A Case Study of the Department of Artificial Intelligence at the Catholic University of Korea. Information and Communications Magazine 08/2024; 41(8): 23-27. (In Korean)
 
 * Huu-Tuong Ho, Luong Vuong Nguyen, Tra Huong Thi Le, O-Joun Lee: Face Detection Using Eigenfaces: A Comprehensive Review. IEEE Access 07/2024. (To Appear) DOI:10.1109/ACCESS.2024.3435964
