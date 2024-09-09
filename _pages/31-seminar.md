@@ -23,6 +23,27 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2024
+#### Sep 09th, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Empowering Dual-Level Graph Self-Supervised Pretraining with Motif Discovery", AAAI 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/IWf86oHx7sxypC?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Sparse Multi-Relational Graph Convolutional Network for Multi-type Object Trajectory Prediction", IJCAI 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Ecto6bggziEEQV?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning", IJCAI 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/qv1LjESLctusnH?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Sep 02nd, 2024
 {:.no_toc}
 <details markdown="1">
