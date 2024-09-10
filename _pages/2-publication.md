@@ -19,7 +19,7 @@ toc_label: "Table of Contents"
 
 ***
 
-* Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024. (To Appear)
+* Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024. (To Appear) [![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-c/)
 
 * Eun-Soon You, O-Joun Lee: Training AI Experts for the Fourth Industrial Revolution Era: A Case Study of the Department of Artificial Intelligence at the Catholic University of Korea. Information and Communications Magazine 08/2024; 41(8): 23-27. (In Korean)
 
