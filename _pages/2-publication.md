@@ -24,7 +24,7 @@ toc_label: "Table of Contents"
 
 * Eun-Soon You, O-Joun Lee: Training AI Experts for the Fourth Industrial Revolution Era: A Case Study of the Department of Artificial Intelligence at the Catholic University of Korea. Information and Communications Magazine 08/2024; 41(8): 23-27. (In Korean)
 
-* Huu-Tuong Ho, Luong Vuong Nguyen, Tra Huong Thi Le, O-Joun Lee: Face Detection Using Eigenfaces: A Comprehensive Review. IEEE Access 07/2024. (To Appear) DOI:10.1109/ACCESS.2024.3435964
+* Huu-Tuong Ho, Luong Vuong Nguyen, Tra Huong Thi Le, O-Joun Lee: Face Detection Using Eigenfaces: A Comprehensive Review. IEEE Access 07/2024; 12: 118406-118426. DOI:10.1109/ACCESS.2024.3435964
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2024.3435964" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 07/2024; 7: 63. (†: Co-correspondence) DOI:10.1038/s41545-024-00358-x [![Link](https://img.shields.io/badge/JCR%20Top%201%25-0C2E86?style=flat-square)](https://www.nature.com/npjcleanwater/)
