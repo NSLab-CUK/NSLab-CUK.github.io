@@ -252,6 +252,8 @@ toc_label: "Table of Contents"
 ## Semiconductor Design and Simulation
 {:.no_toc}
 
+* Minsun Cho, Jinwoo Jung, Taeheon Lee, Wolfgang Goes, Ahmed Nejim, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. [The 2024 Wiley Forum Fall Meeting](https://www.wileyforum2024.com/), Seoul, Korea; 10/2024.
+
 * Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024. (To Appear) <br>
 [![DOI](http://img.shields.io/:DOI-10.1039/D4TC01224K-blue?style=flat-square)](https://doi.org/10.1039/D4TC01224K)
 
