@@ -134,6 +134,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Minsun Cho, Jinwoo Jung, Taeheon Lee, Wolfgang Goes, Ahmed Nejim, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. [The 2024 Wiley Forum Fall Meeting](https://www.wileyforum2024.com/), Seoul, Korea; 10/2024.
+
 * Luong Vuong Nguyen, Quoc-Trinh Vo, Cao Vu Bui, Thi-Thu-Hong Phan, O-Joun Lee: Knowledge Graph-based Recommender Systems: A Case Study on Movie Domain. The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea; 10/2024.
 
 * Huu-Tuong Ho, Minh-Tien Pham, Quang-Duong Tran, Quang-Huy Pham, Quang Dieu Tran, Nguyen Ngoc Phi, O-Joun Lee, Luong Vuong Nguyen: MoviePoster-Grounded Contextual Visualization Using Multimodal Techniques. The 3rd International Conference on Intelligence of Things (ICIT 2024), Da Nang, Vietnam; 09/2024.
