@@ -14,6 +14,12 @@ description: Archive of events, memories and achievements of the Network Science
 ### 2024
 
 ***
+##### Sep 11th, 2024
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/240911.jpg"></p>
+
+***
 ##### Sep 3rd, 2024 -- Nov 26th, 2024
 {:.no_toc}
 
