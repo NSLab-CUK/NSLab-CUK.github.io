@@ -23,7 +23,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2024
-#### Sep 22th, 2024
+#### Sep 23rd, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "ONE TRANSFORMER CAN UNDERSTAND BOTH 2D & 3D MOLECULAR DATA", ICLR 2023</summary>
