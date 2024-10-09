@@ -23,29 +23,29 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2024
-#### Sep 30th, 2024
+#### Oct 07th, 2024
 {:.no_toc}
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "Molecular Contrastive LearningwithChemical Element Knowledge Graph", AAAI 2022</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3dovzgFy3IVGKL?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>V.T. Hoang, Review on "Hierarchical Generation of Molecular Graphs using Structural Motifs", ICML 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/qrDynD2ku5nvZS?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "ACGT-Net: Adaptive Cuckoo Refinement-Based Graph Transfer Network for Hyperspectral Image Classification", IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING 2023</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4CclEUsxUqhIXv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>T.B.T. Do, Review on "GKGNet: Group K-Nearest Neighbor based Graph Convolutional Network for Multi-Label Image Recognition", ECCV 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4IAepWZ1DFEo7l?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>Q.H. Tran, Review on "GinAR: An End-To-End Multivariate Time Series Forecasting Model Suitable for Variable Missing", KDD 2024</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/LR5xsSfRKlHbWw?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>Q.H. Tran, Review on "MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving", IJCAI 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sI461HRCn58j9m?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Review on "Graph Attention Networks", ICLR 2018</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hdZrZ5o1mzL0UE?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>J.H. Shim, Review on "LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation", ACM SIGIR 2020</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9zMMTPc0pjSmW3?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
