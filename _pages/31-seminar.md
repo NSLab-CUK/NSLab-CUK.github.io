@@ -50,6 +50,30 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
+#### Sep 30th, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Molecular Contrastive LearningwithChemical Element Knowledge Graph", AAAI 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3dovzgFy3IVGKL?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "ACGT-Net: Adaptive Cuckoo Refinement-Based Graph Transfer Network for Hyperspectral Image Classification", IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4CclEUsxUqhIXv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+<details markdown="1">
+  <summary>Q.H. Tran, Review on "GinAR: An End-To-End Multivariate Time Series Forecasting Model Suitable for Variable Missing", KDD 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/LR5xsSfRKlHbWw?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+<details markdown="1">
+  <summary>J.W. Jeong, Review on "Graph Attention Networks", ICLR 2018</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hdZrZ5o1mzL0UE?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Sep 23rd, 2024
 {:.no_toc}
 <details markdown="1">
