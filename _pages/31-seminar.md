@@ -23,6 +23,21 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2024
+#### Oct 14th, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Where to Mask: Structure-Guided Masking for Graph Masked Autoencoders", IJCAI 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3YrLQnkGNyNXi4?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "TaGAT: Topology-Aware Graph Attention Network For Multi-modal Retinal Image Fusion", MICCAI 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ikVruhEaP4ci16?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Oct 07th, 2024
 {:.no_toc}
 <details markdown="1">
