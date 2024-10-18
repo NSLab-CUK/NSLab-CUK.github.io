@@ -19,6 +19,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. Machine Learning: Science and Technology 10/2024. (To Appear) [![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://iopscience.iop.org/journal/2632-2153)
+
 * Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024. (To Appear) DOI:10.1039/D4TC01224K [![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-c/)
 <span class="__dimensions_badge_embed__" data-doi="10.1039/D4TC01224K" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
