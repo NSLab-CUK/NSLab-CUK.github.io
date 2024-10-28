@@ -129,6 +129,9 @@ toc_label: "Table of Contents"
 
 ### Atmospheric State Estimation
 
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. Machine Learning: Science and Technology 10/2024. (To Appear) <br>
+[![DOI](http://img.shields.io/:DOI-10.1088/2632--2153/ad8981-blue?style=flat-square)](https://doi.org/10.22758/sni.2024.27.093)
+
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 02/2024; arXiv:2402.14861. (Preprint) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2402.14861-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2402.14861)
 [![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1gyXXVqs9Fg3m9joqmUTtwW6GX3uQkBOU/view?usp=sharing)
