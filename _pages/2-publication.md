@@ -463,3 +463,18 @@ toc_label: "Table of Contents"
  
 <br>
  
+
+
+***
+
+# Journal Cover Articles
+
+***
+
+<p align="center">
+  <img width="700" src="/images/JMCC_Cover.webp">
+</p>
+ 
+<br>
+
+
