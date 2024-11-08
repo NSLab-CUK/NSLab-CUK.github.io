@@ -348,6 +348,10 @@ toc_label: "Table of Contents"
 
 * O-Joun Lee: An Overview of Graph Learning Models in Molecular Structure Analysis. [The 9th IEEE/IEIE International Conference on Consumer Electronics Asia (ICCE-Asia 2024)](https://icce-asia2024.org/2024/), Danang, Vietnam, 11/2024 
 
+<p align="center">
+  <img width="90%" data-action="zoom" src="/images/241104.jpg" alt="absolute">
+</p>
+
 * O-Joun Lee: Molecular Structure Analysis using Graph Neural Networks. [The 2024 Summer Workshop of Korean Institute of Next Generation Computing](https://www.manuscriptlink.com/society/kingpc/event/kingpc2024), Jeju, Korea, 08/2024
 
 <p align="center">
