@@ -14,6 +14,14 @@ description: Archive of events, memories and achievements of the Network Science
 ### 2024
 
 ***
+##### Nov 4th, 2024
+{:.no_toc}
+
+* We attended [the 9th IEEE/IEIE International Conference on Consumer Electronics Asia (ICCE-Asia 2024)](https://icce-asia2024.org/2024/) and gave an invited talk on “An Overview of Graph Learning Models in Molecular Structure Analysis.”
+
+<p align="center"><img width="700" src="/images/241104.jpg"></p>
+
+***
 ##### Sep 11th, 2024
 {:.no_toc}
 
