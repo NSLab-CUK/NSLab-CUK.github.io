@@ -260,6 +260,7 @@ toc_label: "Table of Contents"
 * Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024. (To Appear) <br>
 [![DOI](http://img.shields.io/:DOI-10.1039/D4TC01224K-blue?style=flat-square)](https://doi.org/10.1039/D4TC01224K)
 [![Drive](https://img.shields.io/badge/Drive-Journal%20Cover-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1WrzvF0TuSeqUKLfSmgWL4-ZAsjl7PZIa/view?usp=sharing)
+[![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.hankyung.com/article/202411064407h)
 
 * Minsun Cho, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based on Transfer Learning for Organic FETs. The 245th Electrochemical Society (ECS) Meeting, San Francisco, CA, USA; 05/2024 
 
