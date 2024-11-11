@@ -14,6 +14,14 @@ description: Archive of events, memories and achievements of the Network Science
 ### 2024
 
 ***
+##### Nov 11th, 2024
+{:.no_toc}
+
+* A research contribution from NS Lab@CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=250554&article.offset=0&articleLimit=16) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
+
+<p align="center"><img width="700" src="/images/241111.png"></p>
+
+***
 ##### Nov 4th, 2024
 {:.no_toc}
 
