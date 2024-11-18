@@ -23,6 +23,32 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2024
+#### Nov 18th, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Boosting Graph Contrastive Learning via Graph Contrastive Saliency", ICML 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/IR4c7hx7QFHYY7?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Relation Matters: Foreground-aware Graph-based Relational Reasoning for Domain Adaptive Object Detection", IEEE Transaction on Pattern Analysis and Machine Intelligence 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/zp6ErVYrTsWm64?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+
+#### Nov 11th, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Patch-Wise Graph Contrastive Learning for Image Translation", AAAI 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nXF9TpJvqDWyRY?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+
 #### Nov 04th, 2024
 {:.no_toc}
 <details markdown="1">
