@@ -137,6 +137,12 @@ toc_label: "Table of Contents"
 
 ***
 
+* Van Thuy Hoang, Ho-Chan Yang, Ju-Hee Shim, O-Joun Lee: Halal Cosmetic Recommendation based on Knowledge Graph Representation Learning. The 10th International Conference on Next Generation Computing (ICNGC 2024), Angeles City, Philippines; 11/2024.
+
+* Van Thuy Hoang, O-Joun Lee: An Overview of Pre-trained Graph Models for Molecular Structure Analysis. The 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024.
+
+* Minsun Cho, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Transfer Learning for Semiconductor Device Simulation. The 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024.
+
 * Minsun Cho, Jinwoo Jung, Taeheon Lee, Wolfgang Goes, Ahmed Nejim, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. [The 2024 Wiley Forum Fall Meeting](https://www.wileyforum2024.com/), Seoul, Korea; 10/2024.
 
 * Luong Vuong Nguyen, Quoc-Trinh Vo, Cao Vu Bui, Thi-Thu-Hong Phan, O-Joun Lee: Knowledge Graph-based Recommender Systems: A Case Study on Movie Domain. The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea; 10/2024.
