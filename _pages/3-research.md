@@ -98,7 +98,9 @@ toc_label: "Table of Contents"
 
 ### Cultural Appropriateness Prediction of Daily Products
 
-* TBA
+* Van Thuy Hoang, Ho-Chan Yang, Ju-Hee Shim, O-Joun Lee: Halal Cosmetic Recommendation based on Knowledge Graph Representation Learning. The 10th International Conference on Next Generation Computing (ICNGC 2024), Angeles City, Philippines; 11/2024. <br>
+[![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1u22Tw6idgJ0Cf5-b05rgk4CcPb0Vi-dz/view?usp=sharing)
+[![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/Xr1JvQfqdII)
 
 ***
 ## Explainable Recommendation
@@ -254,6 +256,8 @@ toc_label: "Table of Contents"
 ***
 ## Semiconductor Design and Simulation
 {:.no_toc}
+
+* Minsun Cho, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Transfer Learning for Semiconductor Device Simulation. The 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024.
 
 * Minsun Cho, Jinwoo Jung, Taeheon Lee, Wolfgang Goes, Ahmed Nejim, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. [The 2024 Wiley Forum Fall Meeting](https://www.wileyforum2024.com/), Seoul, Korea; 10/2024.
 
