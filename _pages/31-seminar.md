@@ -21,6 +21,9 @@ This page is an archive for papers reviewed by members of the Network Science La
 * TOC
 {:toc}
 
+
+
+### 2024
 ***
 #### Nov 25th, 2024
 {:.no_toc}
@@ -49,8 +52,6 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-
-### 2024
 #### Nov 18th, 2024
 {:.no_toc}
 <details markdown="1">
