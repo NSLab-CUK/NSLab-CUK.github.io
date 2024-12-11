@@ -59,6 +59,11 @@ toc_label: "Table of Contents"
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Connector)](https://github.com/NSLab-CUK/Connector)
 
 ***
+## Molecular Structure Analysis
+
+* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. The 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA, USA; 02/2025.
+
+***
 ## Bibliographic Network Embedding
 
 <!--
