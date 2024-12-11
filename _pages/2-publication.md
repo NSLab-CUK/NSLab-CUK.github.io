@@ -137,6 +137,9 @@ toc_label: "Table of Contents"
 
 ***
 
+* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. The 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA, USA; 02/2025.
+[![Link](https://img.shields.io/badge/AAAI'25-0C2E86?style=flat-square)](https://aaai.org/aaai-conference/)
+
 * Van Thuy Hoang, Ho-Chan Yang, Ju-Hee Shim, O-Joun Lee: Halal Cosmetic Recommendation based on Knowledge Graph Representation Learning. The 10th International Conference on Next Generation Computing (ICNGC 2024), Angeles City, Philippines; 11/2024.
 
 * Van Thuy Hoang, O-Joun Lee: An Overview of Pre-trained Graph Models for Molecular Structure Analysis. The 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024.
