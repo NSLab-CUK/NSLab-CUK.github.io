@@ -128,7 +128,11 @@ toc_label: "Table of Contents"
   <em>ASOS stations on Korean peninsula and their correlations.</em>
 </p>
 
-* Hyeon-Ju Jeon, Min-Woo Choi, O-Joun Lee: Day-ahead Hourly Solar Irradiance Forecasting based on Multi-attributed Spatio-temporal Graph Convolutional Network. Sensors 09/2022; 22(19): 7179. <br>[![DOI](http://img.shields.io/:DOI-10.3390/s22197179-blue?style=flat-square)](https://doi.org/10.3390/s22197179) [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/MST-GCN)
+* Hyeon-Ju Jeon, Min-Woo Choi, O-Joun Lee: Day-ahead Hourly Solar Irradiance Forecasting based on Multi-attributed Spatio-temporal Graph Convolutional Network. Sensors 09/2022; 22(19): 7179. <br>
+[![DOI](http://img.shields.io/:DOI-10.3390/s22197179-blue?style=flat-square)](https://doi.org/10.3390/s22197179)
+[![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/MST-GCN)
+[![GitHub stars](https://img.shields.io/github/stars/higd963/MST-GCN)](https://github.com/higd963/MST-GCN)
+[![GitHub forks](https://img.shields.io/github/forks/higd963/MST-GCN)](https://github.com/higd963/MST-GCN)
 
 ### Wind Speed/Direction Forecasting
 
@@ -137,7 +141,7 @@ toc_label: "Table of Contents"
 ### Atmospheric State Estimation
 
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. Machine Learning: Science and Technology 10/2024. (To Appear) <br>
-[![DOI](http://img.shields.io/:DOI-10.1088/2632--2153/ad8981-blue?style=flat-square)](https://doi.org/10.22758/sni.2024.27.093)
+[![DOI](http://img.shields.io/:DOI-10.1088/2632--2153/ad8981-blue?style=flat-square)](https://doi.org/10.1088/2632-2153/ad8981)
 
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 02/2024; arXiv:2402.14861. (Preprint) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2402.14861-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2402.14861)
