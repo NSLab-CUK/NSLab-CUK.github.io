@@ -25,6 +25,21 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ### 2024
 ***
+#### Dec 09nd, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "CHEER: Centrality-aware High-order Event Reasoning Network for Document-level Event Causality Identification", ACL 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/kgPQONZ4A5DQnT?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "CYCLO : Cyclic Graph Transformer Approach to Multi-Object Relationship Modeling in Aerial Videos", NeurIPS 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3PQrMDjKUZ1L5y?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Dec 02nd, 2024
 {:.no_toc}
 <details markdown="1">
