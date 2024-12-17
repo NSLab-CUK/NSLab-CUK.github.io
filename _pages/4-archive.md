@@ -21,6 +21,12 @@ description: Archive of events, memories and achievements of the Network Science
 
 <p align="center"><img width="700" src="/images/241111.png"></p>
 
+* The NS Lab team of Jin Woo Jeong and Ju Hee Shim once again excelled in the 2024 CUK Competition of AI, CSIE, and DS (제 3회 가톨릭대학교 인공지능학과/컴퓨터정보공학부/데이터사이언스학과 경진대회), winning the best award.
+
+<p align="center"><img width="700" src="/images/241111.jpg"></p>
+
+<p align="center"><img width="700" src="/images/AI-CS-DS-Competition2024_Poster.webp"></p>
+
 ***
 ##### Nov 4th, 2024
 {:.no_toc}
