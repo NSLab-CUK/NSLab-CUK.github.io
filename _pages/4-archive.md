@@ -14,6 +14,15 @@ description: Archive of events, memories and achievements of the Network Science
 ### 2024
 
 ***
+##### Dec 10th, 2024
+{:.no_toc}
+
+This year, NS-CUK successfully submitted one research paper to the AAAI, which is one of the most prestigious conferences in AI fields, and was accepted. 
+* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. The 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA, USA; 02/2025.
+
+<p align="center"><img width="700" src="/images/AAAI2025.jpg"></p>
+
+***
 ##### Nov 11th, 2024
 {:.no_toc}
 
@@ -267,6 +276,16 @@ description: Archive of events, memories and achievements of the Network Science
 * We started participating in a Scale-up TIPS project on "Development of Underground Burial Analysis Technology and System using Ground Penetrating Radar and Artificial Intelligence," led by [Movements Inc.](https://www.movements.kr/) and funded by [Ministry of SMEs and Startups (MSS)](https://www.mss.go.kr/site/eng/main.do) (Jan 2024 -- Dec 2026, 1,140 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), and their teams.
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.movements.kr/"><img align="center" src="/images/Movements_Logo.png" style="width : 330px; margin : 10px"></a><a href="https://www.mss.go.kr/site/eng/main.do"><img align="center" src="/images/MSS_Logo.jpg" style="width : 120px; margin : 10px"></a></p>
+
+***
+##### Dec 10th, 2023
+{:.no_toc}
+
+This year, NS-CUK successfully submitted two research papers to the AAAI, which is one of the most prestigious conferences in AI fields, and were accepted. 
+* Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
+
+<p align="center"><img width="700" src="/images/AAAI2024.jpg"></p>
 
 ***
 ##### Nov 28th, 2023
