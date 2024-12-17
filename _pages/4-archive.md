@@ -30,6 +30,14 @@ description: Archive of events, memories and achievements of the Network Science
 <p align="center"><img width="700" src="/images/241104.jpg"></p>
 
 ***
+##### Oct 15th, 2024 -- Nov 11th, 2024
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/AI-CS-DS-Competition2024_Poster.webp"></p>
+
+<p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
+
+***
 ##### Sep 11th, 2024
 {:.no_toc}
 
