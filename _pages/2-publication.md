@@ -19,10 +19,12 @@ toc_label: "Table of Contents"
 
 ***
 
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. Machine Learning: Science and Technology 10/2024. (To Appear) DOI:10.1088/2632-2153/ad8981 [![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://iopscience.iop.org/journal/2632-2153)
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. Machine Learning: Science and Technology 10/2024; 5(4): 045036. DOI:10.1088/2632-2153/ad8981 
+[![Link](https://img.shields.io/badge/IF%206.3%20--%20JCR%202023%20Top%2010.8%25-0C2E86?style=flat-square)](https://iopscience.iop.org/journal/2632-2153)
 <span class="__dimensions_badge_embed__" data-doi="10.1088/2632-2153/ad8981" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024. (To Appear) DOI:10.1039/D4TC01224K [![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-c/)
+* Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024; 12(41): 16691–16700. DOI:10.1039/D4TC01224K 
+[![Link](https://img.shields.io/badge/IF%205.7%20--%20JCR%202023%20Top%2019.3%25-0C2E86?style=flat-square)](https://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-c/)
 <span class="__dimensions_badge_embed__" data-doi="10.1039/D4TC01224K" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Eun-Soon You, O-Joun Lee: Training AI Experts for the Fourth Industrial Revolution Era: A Case Study of the Department of Artificial Intelligence at the Catholic University of Korea. Information and Communications Magazine 08/2024; 41(8): 23-27. (In Korean)
@@ -30,26 +32,30 @@ toc_label: "Table of Contents"
 * Huu-Tuong Ho, Luong Vuong Nguyen, Tra Huong Thi Le, O-Joun Lee: Face Detection Using Eigenfaces: A Comprehensive Review. IEEE Access 07/2024; 12: 118406-118426. DOI:10.1109/ACCESS.2024.3435964
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2024.3435964" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 07/2024; 7: 63. (†: Co-correspondence) DOI:10.1038/s41545-024-00358-x [![Link](https://img.shields.io/badge/JCR%20Top%201%25-0C2E86?style=flat-square)](https://www.nature.com/npjcleanwater/)
+* Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 07/2024; 7: 63. (†: Co-correspondence) DOI:10.1038/s41545-024-00358-x 
+[![Link](https://img.shields.io/badge/IF%2010.5%20--%20JCR%202023%20Top%201.2%25-0C2E86?style=flat-square)](https://www.nature.com/npjcleanwater/)
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41545-024-00358-x" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Eun-Soon You, Sun-Jung Ryu, O-Joun Lee: A Study on the ‘Esprit’ Indices of The Barber of Seville and The Marriage of Figaro Using the Vocabulary-Based Text Analysis Tool LIWC-22. Story & Image Telling 06/2024; 27: 93-119. (In Korean) DOI:10.22758/sni.2024.27.093
 
 * Sun-Jung Ryu, Eun-Soon You: Literary Research Using Digital Analysis Tools: A Case Study of 『Dangerous Liaisons』. The Journal of the Convergence on Culture Technology 05/2024; 10(3): 173-180. (In Korean) DOI:10.17703/JCCT.2024.10.3.173
 
-* Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 05/2024; 11(10): 18686-18697. (†: Co-correspondence) DOI:10.1109/JIOT.2024.3365144 [![Link](https://img.shields.io/badge/JCR%20Top%203%25-0C2E86?style=flat-square)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
+* Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 05/2024; 11(10): 18686-18697. (†: Co-correspondence) DOI:10.1109/JIOT.2024.3365144 
+[![Link](https://img.shields.io/badge/IF%208.2%20--%20JCR%202023%20Top%203.4%25-0C2E86?style=flat-square)](https://ieee-iotj.org/)
 <span class="__dimensions_badge_embed__" data-doi="10.1109/JIOT.2024.3365144" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 04/2024; 24(7): 9626-9638. (†: Co-correspondence) DOI:10.1109/JSEN.2024.3364682
+[![Link](https://img.shields.io/badge/IF%204.3%20--%20JCR%202023%20Top%2019.1%25-0C2E86?style=flat-square)](https://ieee-sensors.org/ieee-sensors-journal/)
 <span class="__dimensions_badge_embed__" data-doi="10.1109/JSEN.2024.3364682" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Eun-Soon You, Sun-Jung Ryu: Étude sur l'enseignement de la littérature française à l'ère numérique. Enseignement de Langue et Littérature Françaises 03/2024; 84: 151-187. (In Korean) DOI:10.36747/ellf84.6
 
 * Hyun-Cheol Park, YunSang Joo, O-Joun Lee, Kunkyu Lee, Tai-Kyong Song, Chang Choi, Moon Hyung Choi, Changhan Yoon: Automated classification of liver fibrosis stages using ultrasound imaging. BMC Medical Imaging 02/2024; 24: 36. DOI:10.1186/s12880-024-01209-4
+[![Link](https://img.shields.io/badge/IF%202.9%20--%20JCR%202023%20Top%2029.2%25-0C2E86?style=flat-square)](https://bmcmedimaging.biomedcentral.com/)
 <span class="__dimensions_badge_embed__" data-doi="10.1186/s12880-024-01209-4" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. Ultrasonics 01/2024; 136: 107167. (†: Co-correspondence) DOI:10.1016/j.ultras.2023.107167
-[![Link](https://img.shields.io/badge/JCR%20Top%2015%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/ultrasonics)
+[![Link](https://img.shields.io/badge/IF%203.8%20--%20JCR%202023%20Top%2011.2%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/ultrasonics)
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ultras.2023.107167" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house. Humanities Contents 12/2023; (71): 107-135. (In Korean) DOI:10.18658/humancon.2023.12.107
@@ -74,7 +80,7 @@ toc_label: "Table of Contents"
 * O-Joun Lee, Eun-Soon You, Jin-Taek Kim: Plot Structure Decomposition in Narrative Multimedia by Analyzing Personalities of Fictional Characters. Applied Sciences 02/2021; 11(4): 1645. DOI:10.3390/app11041645 <span class="__dimensions_badge_embed__" data-doi="10.3390/app11041645" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Hyeon-Ju Jeon, Jason J. Jung: Learning Multi-Resolution Representations of Research Patterns in Bibliographic Networks. Journal of Informetrics 02/2021; 15(1): 101126. DOI:10.1016/j.joi.2020.101126
-[![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/journal-of-informetrics)
+[![Link](https://img.shields.io/badge/IF%205.1%20--%20JCR%202020%20Top%2020.6%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/journal-of-informetrics)
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.joi.2020.101126" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Heelim Hong, Eun-Soon You, Jin-Taek Kim: Discovering Social Desires and Conflicts from Subculture Narrative Multimedia. Sustainability 12/2020; 12(24): 10241. DOI:10.3390/su122410241 <span class="__dimensions_badge_embed__" data-doi="10.3390/su122410241" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -82,17 +88,17 @@ toc_label: "Table of Contents"
 * Eun-Soon You, O-Joun Lee, Jin-Taek Kim: Computational Narrative Generation: A Survey. Journal of Information Technology and Applied Engineering 06/2020; 10(1): 9-18. (In Korean), DOI:10.22733/JITAE.2020.10.01.002
 
 * Hae Gyun Lim†, O-Joun Lee†, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Classification of Breast Cancer Cells Using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Convolutional Neural Networks. Cancers 05/2020; 12(5): 1212., DOI:10.3390/cancers12051212 (†: Co-first authors)
-[![Link](https://img.shields.io/badge/JCR%20Top%2015%25-0C2E86?style=flat-square)](https://www.mdpi.com/journal/cancers)
+[![Link](https://img.shields.io/badge/IF%206.1%20--%20JCR%202019%20Top%2015.0%25-0C2E86?style=flat-square)](https://www.mdpi.com/journal/cancers)
 <span class="__dimensions_badge_embed__" data-doi="10.3390/cancers12051212" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Jason J. Jung, Jin-Taek Kim: Learning Hierarchical Representations of Stories by Using Multi-layered Structures in Narrative Multimedia. Sensors 04/2020; 20(7): 1978., DOI:10.3390/s20071978 <span class="__dimensions_badge_embed__" data-doi="10.3390/s20071978" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Jason J. Jung: Story Embedding: Learning Distributed Representations of Stories based on Character Networks. Artificial Intelligence 04/2020; 281: 103235., DOI:10.1016/j.artint.2020.103235
-[![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/artificial-intelligence)
+[![Link](https://img.shields.io/badge/IF%206.6%20--%20JCR%202019%20Top%209.9%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/artificial-intelligence)
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.artint.2020.103235" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Nam Bui Khac Hoai, Sungrae Cho, Jason J. Jung, Joongheon Kim, O-Joun Lee, Woongsoo Na: A novel network virtualization based on data analytics in connected environment. Journal of Ambient Intelligence and Humanized Computing 01/2020; 11: 75–86., DOI:10.1007/s12652-018-1083-x
-[![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://link.springer.com/journal/12652)
+[![Link](https://img.shields.io/badge/IF%204.6%20--%20JCR%202019%20Top%2017.0%25-0C2E86?style=flat-square)](https://link.springer.com/journal/12652)
 <span class="__dimensions_badge_embed__" data-doi="10.1007/s12652-018-1083-x" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Hyeon-Ju Jeon, O-Joun Lee, Jason. J. Jung: Is Performance of Scholars Correlated to Their Research Collaboration Patterns?. Frontiers in Big Data 11/2019; 2(39)., DOI:10.3389/fdata.2019.00039
@@ -100,34 +106,43 @@ toc_label: "Table of Contents"
 <span class="__dimensions_badge_embed__" data-doi="10.3389/fdata.2019.00039" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Jason J. Jung: Integrating character networks for extracting narratives from multimodal data. Information Processing & Management 09/2019; 56(5): 1894-1923., DOI:10.1016/j.ipm.2019.02.005
-[![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/information-processing-and-management)
+[![Link](https://img.shields.io/badge/IF%203.9%20--%20JCR%202018%20Top%209.6%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/information-processing-and-management)
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ipm.2019.02.005" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Jason J. Jung: Modeling affective character network for story analytics. Future Generation Computer Systems 03/2019; 92: 458-478., DOI:10.1016/j.future.2018.01.030
-[![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
+[![Link](https://img.shields.io/badge/IF%205.8%20--%20JCR%202018%20Top%207.1%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.future.2018.01.030" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Jae-Hong Park, O-Joun Lee, Jai E. Jung: Spatio-temporal query contextualization for microtext retrieval in social media. Concurrency and Computation Practice and Experience 08/2018; 30(15): e4458., DOI:10.1002/cpe.4458 <span class="__dimensions_badge_embed__" data-doi="10.1002/cpe.4458" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Jae-Hong Park, O-Joun Lee, Jai E. Jung: Spatio-temporal query contextualization for microtext retrieval in social media. Concurrency and Computation Practice and Experience 08/2018; 30(15): e4458., DOI:10.1002/cpe.4458 
+<span class="__dimensions_badge_embed__" data-doi="10.1002/cpe.4458" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* O-Joun Lee, Jai E. Jung: Owner-Borrower Model for Recommenders in O2O Services. Mobile Networks and Applications 08/2018; 23(4): 1089-1096., DOI:10.1007/s11036-018-1073-4 <span class="__dimensions_badge_embed__" data-doi="10.1007/s11036-018-1073-4" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* O-Joun Lee, Jai E. Jung: Owner-Borrower Model for Recommenders in O2O Services. Mobile Networks and Applications 08/2018; 23(4): 1089-1096., DOI:10.1007/s11036-018-1073-4 
+[![Link](https://img.shields.io/badge/IF%202.5%20--%20JCR%202017%20Top%2024.0%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s11036-018-1073-4" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* O-Joun Lee, Yunhu Kim, Hoang Long Nguyen, Jai E. Jung: Multi-scaled Spatial Analytics on Discovering Latent Social Events for Smart Urban Services. Journal of Universal Computer Science 03/2018; 24(3): 322-337., DOI:10.3217/jucs-024-03-0322 <span class="__dimensions_badge_embed__" data-doi="10.3217/jucs-024-03-0322" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* O-Joun Lee, Yunhu Kim, Hoang Long Nguyen, Jai E. Jung: Multi-scaled Spatial Analytics on Discovering Latent Social Events for Smart Urban Services. Journal of Universal Computer Science 03/2018; 24(3): 322-337., DOI:10.3217/jucs-024-03-0322 
+<span class="__dimensions_badge_embed__" data-doi="10.3217/jucs-024-03-0322" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Jae-Hong Park, O-Joun Lee, Joo-Man Han, Eon-Ji Lee, Jason J. Jung, Luca Carratore, Francesco Piccialli: Spatio-Temporal Contextualization of Queries for Microtexts in Social Media: Mathematical Modeling. Procedia Computer Science 09/2017; 113: 525-530., DOI:10.1016/j.procs.2017.08.317 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.procs.2017.08.317" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Quang Dieu Tran, Dosam Hwang, O-Joun Lee, Jai E. Jung: Exploiting Character Networks for Movie Summarization. Multimedia Tools and Applications 04/2017; 76(8): 10357–10369., DOI:10.1007/s11042-016-3633-6 <span class="__dimensions_badge_embed__" data-doi="10.1007/s11042-016-3633-6" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Quang Dieu Tran, Dosam Hwang, O-Joun Lee, Jai E. Jung: Exploiting Character Networks for Movie Summarization. Multimedia Tools and Applications 04/2017; 76(8): 10357–10369., DOI:10.1007/s11042-016-3633-6 
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s11042-016-3633-6" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Jai E. Jung, O-Joun Lee†, Eun-Soon You, Myoung-Hee Nam: A Computational Model of Transmedia Ecosystem for Story-based Contents. Multimedia Tools and Applications 04/2017; 16(8): 10371–10388., DOI:10.1007/s11042-016-3626-5 (†: Corresponding author) <span class="__dimensions_badge_embed__" data-doi="10.1007/s11042-016-3626-5" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Jai E. Jung, O-Joun Lee†, Eun-Soon You, Myoung-Hee Nam: A Computational Model of Transmedia Ecosystem for Story-based Contents. Multimedia Tools and Applications 04/2017; 16(8): 10371–10388., DOI:10.1007/s11042-016-3626-5 (†: Corresponding author) 
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s11042-016-3626-5" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Hoang Long Nguyen, O-Joun Lee, Jai E. Jung, Jaehwa Park, Tai-Won Um, Hyun-Woo Lee: Event-Driven Trust Refreshment on Ambient Services. IEEE Access 03/2017; 5: 4664-4670., DOI:10.1109/ACCESS.2017.2677917 <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2017.2677917" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Hoang Long Nguyen, O-Joun Lee, Jai E. Jung, Jaehwa Park, Tai-Won Um, Hyun-Woo Lee: Event-Driven Trust Refreshment on Ambient Services. IEEE Access 03/2017; 5: 4664-4670., DOI:10.1109/ACCESS.2017.2677917 
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2017.2677917" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* O-Joun Lee, Hoang Long Nguyen, Jai E. Jung, Hyun-Woo Lee, Tai-Won Um: Towards Ontological Approach on Trust-Aware Ambient Services. IEEE Access 02/2017; 5: 1589-1599., DOI:10.1109/ACCESS.2017.2663407 <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2017.2663407" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* O-Joun Lee, Hoang Long Nguyen, Jai E. Jung, Hyun-Woo Lee, Tai-Won Um: Towards Ontological Approach on Trust-Aware Ambient Services. IEEE Access 02/2017; 5: 1589-1599., DOI:10.1109/ACCESS.2017.2663407 
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2017.2663407" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Jai E. Jung: Sequence Clustering-based Automated Rule Generation for Adaptive Complex Event Processing. Future Generation Computer Systems 01/2017; 66: 100–109., DOI:10.1016/j.future.2016.02.011
-[![Link](https://img.shields.io/badge/JCR%20Top%2010%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
+[![Link](https://img.shields.io/badge/IF%204.0%20--%20JCR%202016%20Top%209.1%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.future.2016.02.011" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* O-Joun Lee, Min-sung Hong, Jason J. Jung, Juhyun Shin, Pankoo Kim: Adaptive Collaborative Filtering Based on Scalable Clustering for Big Recommender Systems. Acta Polytechnica Hungarica 02/2016; 13(2): 179-194., DOI:10.12700/APH.13.2.2016.2.10 <span class="__dimensions_badge_embed__" data-doi="10.12700/APH.13.2.2016.2.10" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* O-Joun Lee, Min-sung Hong, Jason J. Jung, Juhyun Shin, Pankoo Kim: Adaptive Collaborative Filtering Based on Scalable Clustering for Big Recommender Systems. Acta Polytechnica Hungarica 02/2016; 13(2): 179-194., DOI:10.12700/APH.13.2.2016.2.10 
+<span class="__dimensions_badge_embed__" data-doi="10.12700/APH.13.2.2016.2.10" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
 
@@ -303,7 +318,11 @@ toc_label: "Table of Contents"
 
 ***
 
-* O-Joun Lee, Van Thuy Hoang, Ho Beom Kim, Jinho Seo, Seung Charlie Kim, Nox Kim: System and Method for Predicting Availability based on Knowledge Graph. Ref. No: KR 1020230171167, 11/2022
+* O-Joun Lee, Van Thuy Hoang: Graph Represntation Learning Method and System Thereof. Ref. No: KR 10-2024-0104783, 08/2024
+
+* O-Joun Lee, Van Thuy Hoang: Apparatus and Method for Training Graph Neural Network based on Graph Augmentation. Ref. No: KR 10-2024-0086072, 07/2024 
+
+* O-Joun Lee, Van Thuy Hoang, Ho Beom Kim, Jinho Seo, Seung Charlie Kim, Nox Kim: System and Method for Predicting Availability based on Knowledge Graph. Ref. No: KR 1020230171167, 11/2023
 
 * Young Man Kwon, Seok Jeong, O-Joun Lee, [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong): System for Providing Context Awareness based Cross-Domain Recommendation Service for Retail Kiosk. Ref. No: KR 1020220087796, 07/2022
 
@@ -319,15 +338,15 @@ toc_label: "Table of Contents"
 
 * Jason J. Jung, O-Joun Lee: Event processing system, Event processing method and Computer program. Ref. No: KR1020150099077, 07/2015
 
-* Hyun-Sik Kim, Seung-Bo Park, Eun-Soon You, O-Joun Lee, Byung Joon Cho: APPARATUS AND METHOD FOR SUPPORTING WRITER BY TRACING CONVERSATION BASED ON TEXT ANALYSIS. Ref. No: KR1020150057199, 04/2015
+* Hyun-Sik Kim, Seung-Bo Park, Eun-Soon You, O-Joun Lee, Byung Joon Cho: Apparatus and Method for Supporting Writer by Tracing Conversation based on Text Analysis. Ref. No: KR1020150057199, 04/2015
 
-* O-Joun Lee, Eun-Soon You, Byung Joon Cho: APPARATUS AND METHOD FOR PREDICTIVE CLUSTERING-BASED COLLABORATIVE FILTERING. Ref. No: KR1020150042144, 03/2015
+* O-Joun Lee, Eun-Soon You, Byung Joon Cho: Apparatus and Method for Predictive Clustering-based Collaborative Filtering. Ref. No: KR1020150042144, 03/2015
 
-* Jae-Dong Lee, Seung-Hun Kim, Min-Sung Hong, Kee-Won Kim, O-Joun Lee, Won-Jin Lee: APPARATUS FOR ANALYZING CONTENTS AND METHOD THEREOF. Ref. No: KR1020140093024, 07/2014
+* Jae-Dong Lee, Seung-Hun Kim, Min-Sung Hong, Kee-Won Kim, O-Joun Lee, Won-Jin Lee: Apparatus for Analyzing Contents and Method Thereof. Ref. No: KR1020140093024, 07/2014
 
-* O-Joun Lee, Jae-Dong Lee, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Gyu-Chan Lim: APPARATUS AND METHOD FOR HYBRID FILTERING CONTENT RECOMMENDATION USING USER PROFILE AND CONTEXT INFORMATION BASED ON PREFERENCE. Ref. No: KR1020140027866, 03/2014
+* O-Joun Lee, Jae-Dong Lee, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Gyu-Chan Lim: Apparatus and Method for Hybrid Filtering Content Recommendation using User Profile and Context Information based on Preference. Ref. No: KR1020140027866, 03/2014
 
-* O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: APPARATUS AND METHOD FOR PREDICTING USER FEED BACK IN COLLABORATIVE RECOMMENDATION SYSTEM. Ref. No: KR1020140027865, 03/2014
+* O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: Apparatus and Method for Predicting User Feed Back in Collaborative Recommendation System. Ref. No: KR1020140027865, 03/2014
 
 
 
