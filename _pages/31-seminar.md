@@ -22,7 +22,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 * [2023](https://nslab-cuk.github.io/seminar/2023/)
 * [2022](https://nslab-cuk.github.io/seminar/2022/)
 
-
+***
 
 ### 2024
 ***
