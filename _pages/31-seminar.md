@@ -42,7 +42,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.H. Shim, Review on "Learning and Optimization of Implicit Negative Feedback for Industrial short-video Recommendation System", ACM CIKM 2023</summary>
+  <summary>J.H. Shim, Review on "Learning and Optimization of Implicit Negative Feedback for Industrial short-video Recommendation System", CIKM 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/t337J5zt5Pr7Ir?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -78,7 +78,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.H. Shim, Review on "Denoising Implicit Feedback for Recommendation", ACM WSDM 2021</summary>
+  <summary>J.H. Shim, Review on "Denoising Implicit Feedback for Recommendation", WSDM 2021</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/JSIksXzgN7Re3N?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -93,13 +93,13 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Affinity Attention Graph Neural Network for Weakly Supervised Semantic Segmentation", IEEE Transaction on Pattern Analysis and Machine Intelligence 2022</summary>
+  <summary>T.B.T. Do, Review on "Affinity Attention Graph Neural Network for Weakly Supervised Semantic Segmentation", IEEE Transaction on Pattern Analysis and Machine Intelligence, 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/kQVxGI37yrz2bI?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Review on "Simple and Deep Graph Convolutional Networks​", PMLR 2020</summary>
+  <summary>J.W. Jeong, Review on "Simple and Deep Graph Convolutional Networks​", ICML 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/60NJdHnQJ5QHBE?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -120,7 +120,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Relation Matters: Foreground-aware Graph-based Relational Reasoning for Domain Adaptive Object Detection", IEEE Transaction on Pattern Analysis and Machine Intelligence 2022</summary>
+  <summary>T.B.T. Do, Review on "Relation Matters: Foreground-aware Graph-based Relational Reasoning for Domain Adaptive Object Detection", IEEE Transaction on Pattern Analysis and Machine Intelligence, 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/zp6ErVYrTsWm64?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -180,7 +180,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "BrainGNN: Interpretable Brain Graph Neural Network for fMRI Analysis", Medical Image Analysis 2021</summary>
+  <summary>T.B.T. Do, Review on "BrainGNN: Interpretable Brain Graph Neural Network for fMRI Analysis", Medical Image Analysis, 2021</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/F5zLSs3XE0DCSx?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -237,7 +237,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.H. Shim, Review on "LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation", ACM SIGIR 2020</summary>
+  <summary>J.H. Shim, Review on "LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation", SIGIR 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9zMMTPc0pjSmW3?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -251,7 +251,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "ACGT-Net: Adaptive Cuckoo Refinement-Based Graph Transfer Network for Hyperspectral Image Classification", IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING 2023</summary>
+  <summary>T.B.T. Do, Review on "ACGT-Net: Adaptive Cuckoo Refinement-Based Graph Transfer Network for Hyperspectral Image Classification", IEEE Transactions on Geoscience and Remote Sensing, 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4CclEUsxUqhIXv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -276,7 +276,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Prompt-supervised Dynamic Attention Graph Convolutional Network for Skeleton-based Action Recognition", Neurocomputing 2024</summary>
+  <summary>T.B.T. Do, Review on "Prompt-supervised Dynamic Attention Graph Convolutional Network for Skeleton-based Action Recognition", Neurocomputing, 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3qxNuFZIlDRPrf?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -705,7 +705,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Graph Representation Learning Meets Computer Vision: A Survey", IEEE Transactions on AI 2023</summary>
+  <summary>T.B.T. Do, Review on "Graph Representation Learning Meets Computer Vision: A Survey", IEEE Transactions on Artificial Intelligence, 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rDOES3RgJThSRX?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -792,7 +792,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Y.J Wu, Review on "A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks", ICLR (Poster) 2019</summary>
+  <summary>Y.J Wu, Review on "A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks", ICLR 2019</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1m7xJdGlirHzho?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
