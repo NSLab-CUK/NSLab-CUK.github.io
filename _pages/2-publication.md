@@ -157,7 +157,8 @@ toc_label: "Table of Contents"
 
 * Van Thuy Hoang, Ho-Chan Yang, Ju-Hee Shim, O-Joun Lee: Halal Cosmetic Recommendation based on Knowledge Graph Representation Learning. The 10th International Conference on Next Generation Computing (ICNGC 2024), Angeles City, Philippines; 11/2024.
 
-* Van Thuy Hoang, O-Joun Lee: An Overview of Pre-trained Graph Models for Molecular Structure Analysis. The 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024.
+* Van Thuy Hoang, O-Joun Lee: An Overview of Pre-trained Graph Models for Molecular Structure Analysis. The 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024. DOI:10.1109/ICCE-Asia63397.2024.10773928
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ICCE-Asia63397.2024.10773928" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Minsun Cho, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Transfer Learning for Semiconductor Device Simulation. The 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024.
 
@@ -169,7 +170,8 @@ toc_label: "Table of Contents"
 
 * Daehun Kim, Hyeon-Ju Jeon, Yeongho Sung, Jin Hyeong Park, O-Joun Lee, Hae Gyun Lim: Real-time tracking system for red tides through acoustic signals and artificial intelligence. The 2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (UFFC-JS 2024), Taipei, Taiwan; 09/2024.
 
-* Minsun Cho, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based on Transfer Learning for Organic FETs. The 245th Electrochemical Society (ECS) Meeting, San Francisco, CA, USA; 05/2024. 
+* Minsun Cho, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based on Transfer Learning for Organic FETs. The 245th Electrochemical Society (ECS) Meeting, San Francisco, CA, USA; 05/2024. DOI:10.1149/MA2024-01311549mtgabs
+<span class="__dimensions_badge_embed__" data-doi="10.1149/MA2024-01311549mtgabs" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. 
 [![Link](https://img.shields.io/badge/AAAIw'24-0C2E86?style=flat-square)](https://xai4sci.github.io/)
