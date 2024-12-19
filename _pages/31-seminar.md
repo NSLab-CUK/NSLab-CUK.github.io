@@ -27,7 +27,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2024
 ***
 
-#### Dec 16nd, 2024
+#### Dec 16th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "Data-Centric Learning from Unlabeled Graphs with Diffusion Model", NeurIPS 2024</summary>
@@ -48,7 +48,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Dec 09nd, 2024
+#### Dec 9th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "CHEER: Centrality-aware High-order Event Reasoning Network for Document-level Event Causality Identification", ACL 2023</summary>
@@ -63,7 +63,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Dec 02nd, 2024
+#### Dec 2nd, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "Multi-View Mixture-of-Experts for Predicting Molecular Properties Using SMILES, SELFIES, and Graph-Based Representations", NeurIPS 2024</summary>
@@ -137,7 +137,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 
-#### Nov 04th, 2024
+#### Nov 4th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "MOAT: Graph Prompting for 3D Molecular Graphs", CIKM 2024</summary>
@@ -216,7 +216,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Oct 07th, 2024
+#### Oct 7th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "Hierarchical Generation of Molecular Graphs using Structural Motifs", ICML 2022</summary>
@@ -288,7 +288,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Sep 09th, 2024
+#### Sep 9th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "Empowering Dual-Level Graph Self-Supervised Pretraining with Motif Discovery", AAAI 2024</summary>
@@ -309,7 +309,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Sep 02nd, 2024
+#### Sep 2nd, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations​", AAAI 2021</summary>
@@ -375,7 +375,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Aug 05th, 2024
+#### Aug 5th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "Self-supervised Graph Learning for Recommendation​", SIGIR 2021</summary>
@@ -489,7 +489,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jul 08th, 2024
+#### Jul 8th, 2024
 {:.no_toc}
 <details markdown="1">
   <summary>V.T. Hoang, Review on "GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels​", NeurIPS 2023</summary>
