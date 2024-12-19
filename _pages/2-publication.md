@@ -117,7 +117,7 @@ toc_label: "Table of Contents"
 <span class="__dimensions_badge_embed__" data-doi="10.1002/cpe.4458" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Jai E. Jung: Owner-Borrower Model for Recommenders in O2O Services. Mobile Networks and Applications 08/2018; 23(4): 1089-1096., DOI:10.1007/s11036-018-1073-4 
-[![Link](https://img.shields.io/badge/IF%202.5%20--%20JCR%202017%20Top%2024.0%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
+[![Link](https://img.shields.io/badge/IF%202.5%20--%20JCR%202017%20Top%2024.0%25-0C2E86?style=flat-square)](https://link.springer.com/journal/11036)
 <span class="__dimensions_badge_embed__" data-doi="10.1007/s11036-018-1073-4" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * O-Joun Lee, Yunhu Kim, Hoang Long Nguyen, Jai E. Jung: Multi-scaled Spatial Analytics on Discovering Latent Social Events for Smart Urban Services. Journal of Universal Computer Science 03/2018; 24(3): 322-337., DOI:10.3217/jucs-024-03-0322 
