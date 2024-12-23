@@ -27,6 +27,34 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2024
 ***
 
+#### Dec 23rd, 2024
+{:.no_toc}
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Translation between Molecules and Natural Language", EMNLP 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Ipm25GMvrpmlJW?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Leveraging Tumor Heterogeneity: Heterogeneous Graph Representation Learning for Cancer Survival Prediction in Whole Slide Images", NeurIPS 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/8Ut9hquhJVJfiR?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W. Jeong, Review on "Neural Message Passing for Quantum Chemistry", PMLR 2017</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1CmTH2GHsemDpO?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "struc2vec: Learning Node Representations from Structural Identity", SIGKDD 2017</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/x9CYHeCeeBibor?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+
 #### Dec 16th, 2024
 {:.no_toc}
 <details markdown="1">
