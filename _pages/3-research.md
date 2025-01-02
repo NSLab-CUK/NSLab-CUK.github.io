@@ -205,7 +205,6 @@ toc_label: "Table of Contents"
 
 ***
 # Medical Image and Signal Processing
-{:.no_toc}
 
 ***
 ## Cell Analysis with High-Frequency Ultrasond and Deep Learning
@@ -276,7 +275,6 @@ toc_label: "Table of Contents"
 
 ***
 # Miscellaneous
-{:.no_toc}
 
 ***
 ## Semiconductor Design and Simulation
