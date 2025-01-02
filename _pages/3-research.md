@@ -85,6 +85,7 @@ toc_label: "Table of Contents"
 ## Social Media Analysis
 
 ### Rumor Propagation Detection
+{:.no_toc}
 
 * TBA
 
@@ -92,6 +93,7 @@ toc_label: "Table of Contents"
 ## Knowledge Graph Embedding
 
 ### Medical Knowledge Graph Embedding for Disease Diagnosis
+{:.no_toc}
 
 * Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. IEEE Access 10/2023; 11: 114238-114249. <br>
 [![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2023.3324046-blue?style=flat-square)](https://doi.org/10.1109/ACCESS.2023.3324046)
@@ -103,10 +105,12 @@ toc_label: "Table of Contents"
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/LiteralKG)](https://github.com/NSLab-CUK/LiteralKG)
 
 ### Medical Knowledge Graph Embedding for Drug Effect Prediction
+{:.no_toc}
 
 * TBA
 
 ### Cultural Appropriateness Prediction of Daily Products
+{:.no_toc}
 
 * Van Thuy Hoang, Ho-Chan Yang, Ju-Hee Shim, O-Joun Lee: Halal Cosmetic Recommendation based on Knowledge Graph Representation Learning. The 10th International Conference on Next Generation Computing (ICNGC 2024), Angeles City, Philippines; 11/2024. <br>
 [![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1u22Tw6idgJ0Cf5-b05rgk4CcPb0Vi-dz/view?usp=sharing)
@@ -116,6 +120,7 @@ toc_label: "Table of Contents"
 ## Explainable Recommendation
 
 ### Cross-domain Recommender System for Retail Kiosk
+{:.no_toc}
 
 * Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 05/2024; 11(10): 18686-18697. (†: Co-correspondence) <br>
 [![DOI](http://img.shields.io/:DOI-10.1109/JIOT.2024.3365144-blue?style=flat-square)](https://doi.org/10.1109/JIOT.2024.3365144)
@@ -127,6 +132,7 @@ toc_label: "Table of Contents"
 ## Spatio-Temporal Graph Neural Networks
 
 ### Solar Irradiance Forecasting
+{:.no_toc}
 
 <p align="center">
   <img align="center" width="700" src="/images/SolarStations_Small.jpg">
@@ -140,10 +146,12 @@ toc_label: "Table of Contents"
 [![GitHub forks](https://img.shields.io/github/forks/higd963/MST-GCN)](https://github.com/higd963/MST-GCN)
 
 ### Wind Speed/Direction Forecasting
+{:.no_toc}
 
 * TBA
 
 ### Atmospheric State Estimation
+{:.no_toc}
 
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. Machine Learning: Science and Technology 10/2024. (To Appear) <br>
 [![DOI](http://img.shields.io/:DOI-10.1088/2632--2153/ad8981-blue?style=flat-square)](https://doi.org/10.1088/2632-2153/ad8981)
@@ -278,12 +286,13 @@ toc_label: "Table of Contents"
 
 * Minsun Cho, Jinwoo Jung, Taeheon Lee, Wolfgang Goes, Ahmed Nejim, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. [The 2024 Wiley Forum Fall Meeting](https://www.wileyforum2024.com/), Seoul, Korea; 10/2024.
 
-* Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024. (To Appear) <br>
+* Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024; 12(41): 16691–16700. <br>
 [![DOI](http://img.shields.io/:DOI-10.1039/D4TC01224K-blue?style=flat-square)](https://doi.org/10.1039/D4TC01224K)
 [![Drive](https://img.shields.io/badge/Drive-Journal%20Cover-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1WrzvF0TuSeqUKLfSmgWL4-ZAsjl7PZIa/view?usp=sharing)
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.hankyung.com/article/202411064407h)
 
-* Minsun Cho, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based on Transfer Learning for Organic FETs. The 245th Electrochemical Society (ECS) Meeting, San Francisco, CA, USA; 05/2024 
+* Minsun Cho, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based on Transfer Learning for Organic FETs. The 245th Electrochemical Society (ECS) Meeting, San Francisco, CA, USA; 05/2024 <br>
+[![DOI](http://img.shields.io/:DOI-10.1149/MA2024--01311549mtgabs-blue?style=flat-square)](https://doi.org/10.1149/MA2024-01311549mtgabs)
 
 * Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. [The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023)](https://www.ieice.org/es/sdm/jpn/awad2023/index.html), Yokohama, Japan; 07/2023 <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing)
