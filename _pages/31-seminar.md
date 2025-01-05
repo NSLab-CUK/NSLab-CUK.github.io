@@ -64,13 +64,13 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Review on "Neural Message Passing for Quantum Chemistry", PMLR 2017</summary>
+  <summary>J.W. Jeong, Review on "Neural Message Passing for Quantum Chemistry", ICML 2017</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1CmTH2GHsemDpO?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>H.W. Kim, Review on "struc2vec: Learning Node Representations from Structural Identity", SIGKDD 2017</summary>
+  <summary>H.W. Kim, Review on "struc2vec: Learning Node Representations from Structural Identity", KDD 2017</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/x9CYHeCeeBibor?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
