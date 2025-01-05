@@ -19,6 +19,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Van Thuy Hoang, Tien-Bach-Thanh Do, Jinho Seo, Seung Charlie Kim, Luong Vuong Nguyen, Duong Nguyen Minh Huy, Hyeon-Ju Jeon, O-Joun Lee: Halal or Not: Knowledge Graph Completion for Predicting Cultural Appropriateness of Daily Products. IEEE Access 01/2025. (To Appear)
+
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. Machine Learning: Science and Technology 10/2024; 5(4): 045036. DOI:10.1088/2632-2153/ad8981 
 [![Link](https://img.shields.io/badge/IF%206.3%20--%20JCR%202023%20Top%2010.8%25-0C2E86?style=flat-square)](https://iopscience.iop.org/journal/2632-2153)
 <span class="__dimensions_badge_embed__" data-doi="10.1088/2632-2153/ad8981" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
