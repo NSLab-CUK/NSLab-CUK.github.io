@@ -35,7 +35,7 @@ toc_label: "Table of Contents"
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Community-aware-Graph-Transformer)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Community-aware-Graph-Transformer)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 
-* Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. <br>
+* Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (**AAAI 2024**), Vancouver, Canada; 02/2024. <br>
 [![DOI](http://img.shields.io/:DOI-10.1609/aaai.v38i11.29138-blue?style=flat-square)](https://doi.org/10.1609/aaai.v38i11.29138)
 [![arXiv](https://img.shields.io/badge/arXiv-2308.09517-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2308.09517)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
@@ -61,7 +61,7 @@ toc_label: "Table of Contents"
 ***
 ## Molecular Structure Analysis
 
-* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. The 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA, USA; 02/2025. <br>
+* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. The 39th AAAI Conference on Artificial Intelligence (**AAAI 2025**), Philadelphia, PA, USA; 02/2025. <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2412.15589-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2412.15589)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/S-CGIB)
 [![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-S--CGIB-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/pre-training-graph-neural-networks-on)
