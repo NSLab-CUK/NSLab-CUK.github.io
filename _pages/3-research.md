@@ -112,6 +112,9 @@ toc_label: "Table of Contents"
 ### Cultural Appropriateness Prediction of Daily Products
 {:.no_toc}
 
+* Van Thuy Hoang, Tien-Bach-Thanh Do, Jinho Seo, Seung Charlie Kim, Luong Vuong Nguyen, Duong Nguyen Minh Huy, Hyeon-Ju Jeon, O-Joun Lee: Halal or Not: Knowledge Graph Completion for Predicting Cultural Appropriateness of Daily Products. IEEE Access 01/2025. (To Appear) <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Halal-or-Not)
+
 * Van Thuy Hoang, Ho-Chan Yang, Ju-Hee Shim, O-Joun Lee: Halal Cosmetic Recommendation based on Knowledge Graph Representation Learning. The 10th International Conference on Next Generation Computing (ICNGC 2024), Angeles City, Philippines; 11/2024. <br>
 [![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1u22Tw6idgJ0Cf5-b05rgk4CcPb0Vi-dz/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/Xr1JvQfqdII)
