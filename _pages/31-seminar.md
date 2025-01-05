@@ -202,7 +202,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Review on "Deeper GCN: All You Need to Train Deeper GCNs​", arXiv preprint arXiv:2006.07739 2020</summary>
+  <summary>J.W. Jeong, Review on "Deeper GCN: All You Need to Train Deeper GCNs​", arXiv preprint, arXiv:2006.07739, 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9MiMerc1o1s3sW?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -701,7 +701,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective", arXiv preprint arXiv:2209.13232 (2022)</summary>
+  <summary>T.B.T. Do, Review on "A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective", arXiv preprint, arXiv:2209.13232, 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/KSQG1u7IZfq5Qs?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
