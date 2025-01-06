@@ -342,37 +342,21 @@ toc_label: "Table of Contents"
 # Research Grants
 
 * “Literary Research in the Digital Age: Analysis of Literary Works using Deep Learning-based Language Model,” supported by the Academic Research Professors Program through NRF of Korea and funded by MOE of Korea (Jun 2024 – May 2025, 20 Mil KRW) (PI: Eun-Soon You)
-
 * “Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products,” through NRF of Korea and funded by MOE of Korea (Apr 2024 – Nov 2024, 30 Mil KRW), by cooperating with Shukran Korea Inc. (PI: O-Joun Lee)
-
 * “Topography-aware Wind Speed and Direction Forecasting System based on Multi-modal Spatio-temporal Graph Neural Networks,” funded by The Catholic University of Korea (Mar 2024 – Feb 2025, 7 Mil KRW) (PI: O-Joun Lee)
-
 * “Development of AI-powered Algorithms to Build Smart Cart System,” funded by Pixel Inc. (Jan 2024 – Dec 2026, 150 Mil KRW) (PI: Keunsoo Ko; Co-PIs: O-Joun Lee, Kang-Min Kim, and Youjin Shin)
-
 * “Development of Underground Burial Analysis Technology and System using Ground Penetrating Radar and Artificial Intelligence,” led by Movements Inc. and funded by Ministry of SMEs and Startups (MSS) (Jan 2024 – Dec 2026, 1,140 Mil KRW) (PI: O-Joun Lee; Co-PIs: Keunsoo Ko, Kang-Min Kim, and Youjin Shin)
-
 * “A study on the application and use of generative AI to support the process of the prosecution,” funded by Supreme Prosecutors’ Office of the Republic of Korea (Oct 2023 – Dec 2023, 80 Mil KRW) (PI: Youjin Shin; Co-PIs: Kang-Min Kim, O-Joun Lee, and Keunsoo Ko)
-
 * “K-Food/Cosmetics safety evaluation and recommendation solution based on cross-culture knowledge graph,” through NRF of Korea and funded by MOE of Korea (Jul 2023 – Dec 2023, 60 Mil KRW) (PI: O-Joun Lee)
-
 * “Analysis of Redundancies and Conflicts in Construction Standards,” funded by Korea Institute of Civil Engineering and Building Technology (KICT) (Jun 2023 – Nov 2023, 90 Mil KRW) (PI: Kang-Min Kim; Co-PIs: O-Joun Lee and Youjin Shin)
-
 * “Topography-aware Wind Speed and Direction Forecasting System based on Multi-modal Spatio-temporal Graph Neural Networks,” funded by The Catholic University of Korea (Mar 2023 – Feb 2024, 7 Mil KRW) (PI: O-Joun Lee)
-
 * “Organizing Korea-EU Research Group for (Semi-) Automated Diagnostics Support System based on Medical Knowledge Graph Mining,” supported by the Korea-EU Cooperation Promotion Program through NRF of Korea and funded by MSIT of Korea (Oct 2022 – Sep 2023, 25 Mil KRW) (PI: O-Joun Lee)
-
 * “Research Team Formation based on Bibliographic Network Embedding,” funded by The Catholic University of Korea (Sep 2022 – Aug 2023, 7 Mil KRW) (PI: O-Joun Lee)
-
 * “Conversational Interface and Menu Recommendation System for Robot Cafe,” funded by Order Queen Co., Ltd. (Aug 2022 – Nov 2022, 30 Mil KRW) (PI: Kang-Min Kim; Co-PIs: O-Joun Lee)
-
 * “Multi-modal Transformer Model for Self-supervised Representation Learning of Dynamic Heterogeneous Networks,” supported by the Basic Science Research Program through NRF of Korea and funded by MSIT of Korea (Jun 2022 – Feb 2025, 132 Mil KRW) (PI: O-Joun Lee)
-
 * “Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors,” supported by NRF of Korea and funded by MSIT of Korea (Apr 2022 – Dec 2024, 550 Mil KRW) (PI: Sungyeop Jung; Co-PIs: O-Joun Lee)
-
 * “Development of Veterinary Information Services based on Chatbot,” funded by IntoCNS Co., Ltd. (Feb 2022 – Oct 2022, 150 Mil KRW) (PI: Kang-Min Kim; Co-PIs: O-Joun Lee)
-
 * “Chatbot-based Kiosk Interface and Menu Recommendation System,” funded by Order Queen Co., Ltd. (Feb 2022 – Apr 2022, 10 Mil KRW) (PI: Kang-Min Kim; Co-PIs: O-Joun Lee)
-
 * “Research Team Formation based on Bibliographic Network Embedding,” funded by The Catholic University of Korea (Sep 2021 – Aug 2022, 7 Mil KRW) (PI: O-Joun Lee)
 
 ***
