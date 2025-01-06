@@ -180,6 +180,7 @@ toc_label: "Table of Contents"
 
 ***
 ## Digital Literature
+{:.no_toc}
 
 * Eun-Soon You, Sun-Jung Ryu, O-Joun Lee: A Study on the ‘Esprit’ Indices of The Barber of Seville and The Marriage of Figaro Using the Vocabulary-Based Text Analysis Tool LIWC-22. Story & Image Telling 06/2024; 27: 93-119. (In Korean) <br>
 [![DOI](http://img.shields.io/:DOI-10.22758/sni.2024.27.093-blue?style=flat-square)](https://doi.org/10.22758/sni.2024.27.093)
@@ -204,6 +205,7 @@ toc_label: "Table of Contents"
 
 ***
 ## Computational Social Sciences
+{:.no_toc}
 
 * Jooho Lee, Yoewon Yoon, O-Joun Lee: Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak. Figshare 08/2023. (Dataset) <br>
 [![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.24025491.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.24025491.v1)
@@ -335,5 +337,69 @@ toc_label: "Table of Contents"
 * Open datasets and open source implementations created by members and collaborators of the Network Science Lab are available via the following links.<br>
 [![Link](https://img.shields.io/badge/NS@CUK-Open%20Datasets-0C2E86?style=flat-square)](https://nslab-cuk.github.io/open-datasets/)
 [![Link](https://img.shields.io/badge/NS@CUK-Open%20Source%20Projects-0C2E86?style=flat-square)](https://nslab-cuk.github.io/open-source-projects/)
+
+***
+# Research Grants
+
+* “Literary Research in the Digital Age: Analysis of Literary Works using Deep Learning-based Language Model,” supported by the Academic Research Professors Program through NRF of Korea and funded by MOE of Korea (Jun 2024 – May 2025, 20 Mil KRW) (PI: Eun-Soon You)
+
+* “Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products,” through NRF of Korea and funded by MOE of Korea (Apr 2024 – Nov 2024, 30 Mil KRW), by cooperating with Shukran Korea Inc. (PI: O-Joun Lee)
+
+* “Topography-aware Wind Speed and Direction Forecasting System based on Multi-modal Spatio-temporal Graph Neural Networks,” funded by The Catholic University of Korea (Mar 2024 – Feb 2025, 7 Mil KRW) (PI: O-Joun Lee)
+
+* “Development of AI-powered Algorithms to Build Smart Cart System,” funded by Pixel Inc. (Jan 2024 – Dec 2026, 150 Mil KRW) (PI: Keunsoo Ko; Co-PIs: O-Joun Lee, Kang-Min Kim, and Youjin Shin)
+
+* “Development of Underground Burial Analysis Technology and System using Ground Penetrating Radar and Artificial Intelligence,” led by Movements Inc. and funded by Ministry of SMEs and Startups (MSS) (Jan 2024 – Dec 2026, 1,140 Mil KRW) (PI: O-Joun Lee; Co-PIs: Keunsoo Ko, Kang-Min Kim, and Youjin Shin)
+
+* “A study on the application and use of generative AI to support the process of the prosecution,” funded by Supreme Prosecutors’ Office of the Republic of Korea (Oct 2023 – Dec 2023, 80 Mil KRW) (PI: Youjin Shin; Co-PIs: Kang-Min Kim, O-Joun Lee, and Keunsoo Ko)
+
+* “K-Food/Cosmetics safety evaluation and recommendation solution based on cross-culture knowledge graph,” through NRF of Korea and funded by MOE of Korea (Jul 2023 – Dec 2023, 60 Mil KRW) (PI: O-Joun Lee)
+
+* “Analysis of Redundancies and Conflicts in Construction Standards,” funded by Korea Institute of Civil Engineering and Building Technology (KICT) (Jun 2023 – Nov 2023, 90 Mil KRW) (PI: Kang-Min Kim; Co-PIs: O-Joun Lee and Youjin Shin)
+
+* “Topography-aware Wind Speed and Direction Forecasting System based on Multi-modal Spatio-temporal Graph Neural Networks,” funded by The Catholic University of Korea (Mar 2023 – Feb 2024, 7 Mil KRW) (PI: O-Joun Lee)
+
+* “Organizing Korea-EU Research Group for (Semi-) Automated Diagnostics Support System based on Medical Knowledge Graph Mining,” supported by the Korea-EU Cooperation Promotion Program through NRF of Korea and funded by MSIT of Korea (Oct 2022 – Sep 2023, 25 Mil KRW) (PI: O-Joun Lee)
+
+* “Research Team Formation based on Bibliographic Network Embedding,” funded by The Catholic University of Korea (Sep 2022 – Aug 2023, 7 Mil KRW) (PI: O-Joun Lee)
+
+* “Conversational Interface and Menu Recommendation System for Robot Cafe,” funded by Order Queen Co., Ltd. (Aug 2022 – Nov 2022, 30 Mil KRW) (PI: Kang-Min Kim; Co-PIs: O-Joun Lee)
+
+* “Multi-modal Transformer Model for Self-supervised Representation Learning of Dynamic Heterogeneous Networks,” supported by the Basic Science Research Program through NRF of Korea and funded by MSIT of Korea (Jun 2022 – Feb 2025, 132 Mil KRW) (PI: O-Joun Lee)
+
+* “Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors,” supported by NRF of Korea and funded by MSIT of Korea (Apr 2022 – Dec 2024, 550 Mil KRW) (PI: Sungyeop Jung; Co-PIs: O-Joun Lee)
+
+* “Development of Veterinary Information Services based on Chatbot,” funded by IntoCNS Co., Ltd. (Feb 2022 – Oct 2022, 150 Mil KRW) (PI: Kang-Min Kim; Co-PIs: O-Joun Lee)
+
+* “Chatbot-based Kiosk Interface and Menu Recommendation System,” funded by Order Queen Co., Ltd. (Feb 2022 – Apr 2022, 10 Mil KRW) (PI: Kang-Min Kim; Co-PIs: O-Joun Lee)
+
+* “Research Team Formation based on Bibliographic Network Embedding,” funded by The Catholic University of Korea (Sep 2021 – Aug 2022, 7 Mil KRW) (PI: O-Joun Lee)
+
+***
+# Media Exposure
+
+* (Nov 6th, 2024) 인공지능을 활용한 반도체 설계 연구로 영국왕립화학회의 'Journal of Materials Chemistry C'에 표지논문으로 선정
+  * Related Paper: [Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024; 12(41): 16691–16700.](https://nslab-cuk.github.io/research/#regular-seminars:~:text=Minsun%20Cho%2C%20Marin%20Franot%2C%20O%2DJoun%20Lee%2C%20Sungyeop%20Jung%3A%20A%20Neural%20Compact%20Model%20Based%2Don%20Transfer%20Learning%20for%20Organic%20FETs%20with%20Gaussian%20Disorder.%20Journal%20of%20Materials%20Chemistry%20C%2009/2024%3B%2012(41)%3A%2016691%E2%80%9316700.)
+  * Related News Articles: [한국경제](https://www.hankyung.com/article/202411064407h), [E동아](https://edu.donga.com/news/articleView.html?idxno=78251), [브릿지경제](https://www.viva100.com/article/20241106500355), [베리타스알파](https://www.veritas-a.com/news/articleView.html?idxno=527718)
+
+* (Jul 29th, 2024) 글로벌 공동연구를 통해 상수관 파이프의 부식과 파이프 내의 수질을 동시에 측정할 수 있는 시스템을 개발
+  * 네이처 자매지 'npj Clean Water'(IF: 10.4, JCR 1.6% in Water Resources)에 최근 게재
+  * Related Paper: [Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 07/2024; 7: 63. (†: Co-correspondence)](https://nslab-cuk.github.io/research/#regular-seminars:~:text=Yeongho%20Sung%2C%20Hyeon%2DJu%20Jeon%2C%20Daehun%20Kim%2C%20Min%2DSeo%20Kim%2C%20Jaeyeop%20Choi%2C%20Hwan%20Ryul%20Jo%2C%20Junghwan%20Oh%2C%20O%2DJoun%20Lee%E2%80%A0%2C%20Hae%20Gyun%20Lim%E2%80%A0%3A%20Internal%20pipe%20corrosion%20assessment%20method%20in%20water%20distribution%20system%20using%20ultrasound%20and%20convolutional%20neural%20networks.%20npj%20Clean%20Water%2007/2024%3B%207%3A%2063.%20(%E2%80%A0%3A%20Co%2Dcorrespondence))
+  * Related News Articles: [파이낸셜뉴스](https://www.fnnews.com/news/202407291838514901), [아주경제](https://www.ajunews.com/view/20240729144051856), [부산일보](https://www.busan.com/view/busan/view.php?code=2024072913593566041), [데일리한국](https://daily.hankooki.com/news/articleView.html?idxno=1111235), [CNB뉴스](https://www.cnbnews.com/news/article.html?no=673350), [이뉴스투데이](https://www.enewstoday.co.kr/news/articleView.html?idxno=2157779), [베리타스알파](https://www.veritas-a.com/news/articleView.html?idxno=514501), [뉴시스](https://www.newsis.com/view/NISX20240729_0002829225), [아시아경제](https://view.asiae.co.kr/article/2024072910072944500), [베타뉴스](http://www.betanews.net:8080/article/1471824.html), [세계일보](http://www.segye.com/newsView/20240729505304?OutUrl=naver), [한국대학신문](https://news.unn.net/news/articleView.html?idxno=566532)
+
+* (Feb 27th, 2024) 세계 최고 수준의 그래프 트랜스포머를 개발하여 세계적 권위 국제학술대회 ‘AAAI 2024’에서 발표
+  * Related Paper: [Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.](https://nslab-cuk.github.io/research/#regular-seminars:~:text=Van%20Thuy%20Hoang%2C%20O%2DJoun%20Lee%3A%20Transitivity%2DPreserving%20Graph%20Representation%20Learning%20for%20Bridging%20Local%20Connectivity%20and%20Role%2Dbased%20Similarity.%20The%2038th%20AAAI%20Conference%20on%20Artificial%20Intelligence%20(AAAI%202024)%2C%20Vancouver%2C%20Canada%3B%2002/2024.)
+  * Related News Articles: [포인트데일리](https://www.pointdaily.co.kr/news/articleView.html?idxno=191808), [이뉴스투데이](http://www.enewstoday.co.kr/news/articleView.html?idxno=2095013), [뉴시스](http://www.newsis.com/view/?id=NISX20240227_0002640784&cID=14001&pID=14000), [베리타스알파](http://www.veritas-a.com/news/articleView.html?idxno=495392), [교수신문](http://www.kyosu.net/news/articleView.html?idxno=116443), [한국대학신문](https://news.unn.net/news/articleView.html?idxno=560003)
+
+* (Feb 23rd, 2024) 대검찰청과 함께 검사 업무를 보조하는 생성형 AI 수사관 서비스 개발
+  * Related Project: “A study on the application and use of generative AI to support the process of the prosecution,” funded by Supreme Prosecutors’ Office of the Republic of Korea (Oct 2023 – Dec 2023, 80 Mil KRW) (PI: Youjin Shin; Co-PIs: Kang-Min Kim, O-Joun Lee, and Keunsoo Ko)
+  * Related News Articles: [포인트데일리](https://www.pointdaily.co.kr/news/articleView.html?idxno=191612), [내일신문](https://www.naeil.com/news/read/502384?ref=naver), [교수신문](http://www.kyosu.net/news/articleView.html?idxno=116363), [이뉴스투데이](http://www.enewstoday.co.kr/news/articleView.html?idxno=2093819), [한국대학신문](https://news.unn.net/news/articleView.html?idxno=559931), [대학저널](https://dhnews.co.kr/news/view/1065590534404675), [뉴시스](http://www.newsis.com/view/?id=NISX20240223_0002637296&cID=14001&pID=14000), [메디컬투데이](https://mdtoday.co.kr/news/view/1065588362967414)
+
+* (Aug 23rd, 2023) 한국건설기술연구원과 함께 국가건설기준 관리를 위한 인공지능 프로그램 개발
+  * Related Project: “Analysis of Redundancies and Conflicts in Construction Standards,” funded by Korea Institute of Civil Engineering and Building Technology (KICT) (Jun 2023 – Nov 2023, 90 Mil KRW) (PI: Kang-Min Kim; Co-PIs: O-Joun Lee and Youjin Shin)
+  * Related News Articles: [이투데이](https://www.etoday.co.kr/news/view/2277230), [신아일보](http://www.shinailbo.co.kr/news/articleView.html?idxno=1749310)
+
+
+
 
 
