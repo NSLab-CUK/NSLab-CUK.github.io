@@ -34,8 +34,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "HiGDA: Hierarchical Graph of Nodes to Learn Local-to-Global Topology for Semi-Supervised Domain Adaptation", AAAI 2025</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vQHzegDiUZBgzn?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>T.B.T. Do, Review on "SAM-Aware Graph Prompt Reasoning Network for Cross-Domain Few-Shot Segmentation", AAAI 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/M6Db13AK7vYB2K?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -59,8 +59,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "SAM-Aware Graph Prompt Reasoning Network for Cross-Domain Few-Shot Segmentation", AAAI 2025</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/M6Db13AK7vYB2K?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>T.B.T. Do, Review on "HiGDA: Hierarchical Graph of Nodes to Learn Local-to-Global Topology for Semi-Supervised Domain Adaptation", AAAI 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vQHzegDiUZBgzn?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
