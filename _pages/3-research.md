@@ -69,7 +69,7 @@ toc_label: "Table of Contents"
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/S-CGIB)](https://github.com/NSLab-CUK/S-CGIB)
 
 ***
-## Bibliographic Network Embedding
+## Bibliographic Network Analysis
 
 <!--
 * Namgyu Jung, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Information Sciences. <br>[![Status](https://img.shields.io/badge/Status-Under%20Review-lightgrey?style=flat-square)](https://www.journals.elsevier.com/information-sciences) [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/jng6017/DHG-BERT)
