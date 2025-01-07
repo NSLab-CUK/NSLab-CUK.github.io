@@ -322,6 +322,9 @@ toc_label: "Table of Contents"
 [![Link](https://img.shields.io/badge/NS@CUK-Weekly%20Seminar-0C2E86?style=flat-square)](https://nslab-cuk.github.io/seminar/)
 [![Link](https://img.shields.io/badge/AI@CUK-Joint%20Journal%20Club-0C2E86?style=flat-square)](https://nslab-cuk.github.io/joint-journal-club/)
 
+* Newcomers to the NS Lab @ CUK are encouraged to review the following reading list to gain a solid understanding of the fundamental concepts and models in graph learning.<br>
+[![Link](https://img.shields.io/badge/NS@CUK-Reading%20List%20for%20Newcomers-0C2E86?style=flat-square)](https://nslab-cuk.github.io/research/reading-list-for-newcomers/)
+
 * A non-technical introduction to the field of network science and graph mining can be found in the following readings. (비전공자를 위한 네트워크 과학과 그래프 마이닝 분야 소개는 다음 읽을거리들을 참조하세요.)<br>
 [![repo](https://custom-icon-badges.demolab.com/badge/%231%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.soopsci.com/Story/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=15617972&t=board)
 [![repo](https://custom-icon-badges.demolab.com/badge/%232%20in%20Kor-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://www.soopsci.com/Story/?idx=15893043&bmode=view)
