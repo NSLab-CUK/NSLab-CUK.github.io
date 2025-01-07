@@ -180,7 +180,6 @@ toc_label: "Table of Contents"
 
 ***
 ## Digital Literature
-{:.no_toc}
 
 * Eun-Soon You, Sun-Jung Ryu, O-Joun Lee: A Study on the ‘Esprit’ Indices of The Barber of Seville and The Marriage of Figaro Using the Vocabulary-Based Text Analysis Tool LIWC-22. Story & Image Telling 06/2024; 27: 93-119. (In Korean) <br>
 [![DOI](http://img.shields.io/:DOI-10.22758/sni.2024.27.093-blue?style=flat-square)](https://doi.org/10.22758/sni.2024.27.093)
@@ -205,7 +204,6 @@ toc_label: "Table of Contents"
 
 ***
 ## Computational Social Sciences
-{:.no_toc}
 
 * Jooho Lee, Yoewon Yoon, O-Joun Lee: Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak. Figshare 08/2023. (Dataset) <br>
 [![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.24025491.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.24025491.v1)
@@ -214,10 +212,9 @@ toc_label: "Table of Contents"
 # Medical Image and Signal Processing
 
 ***
-## Cell Analysis with High-Frequency Ultrasond and Deep Learning
-{:.no_toc}
+## Ultrasonic Signal Analysis for Cell Characterization
 
-### (Semi-) Automated Disease Diagnostics
+### Automated Disease Diagnostics
 {:.no_toc}
 
 * Developing (semi-) automated diagnosis systems for various diseases 
@@ -269,7 +266,9 @@ toc_label: "Table of Contents"
 
 
 ***
-## Diagnosis and Staging of Liver Fibrosis
+## Ultrasound Image Analysis
+
+### Diagnosis and Staging of Liver Fibrosis
 {:.no_toc}
 
 <p align="center">
@@ -285,7 +284,6 @@ toc_label: "Table of Contents"
 
 ***
 ## Semiconductor Design and Simulation
-{:.no_toc}
 
 * Minsun Cho, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Transfer Learning for Semiconductor Device Simulation. The 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024.
 
@@ -303,8 +301,12 @@ toc_label: "Table of Contents"
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing)
 
 ***
+## AI-driven Chemical Process Design
+
+* TBA
+
+***
 ## Water Distribution Pipe Corrosion Assessment
-{:.no_toc}
 
 * Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 07/2024; 7: 63. (†: Co-correspondence) <br> [![DOI](http://img.shields.io/:DOI-10.1038/s41545--024--00358--x-blue?style=flat-square)](https://doi.org/10.1038/s41545-024-00358-x)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Internal-Pipe-Corrosion-Assessment-with-Ultrasound-and-CNNs)
@@ -314,6 +316,7 @@ toc_label: "Table of Contents"
 
 * So Yeon Moon, Hyeon-Ju Jeon, Yeongho Sung, Min-Seo Kim, Daehun Kim, Jaeyeop Choi, Junghwan Oh, O-Joun Lee, Hae Gyun Lim: Dual-mode diagnosis system for water quality and corrosion in pipe using convolutional neural networks (CNN) and ultrasound. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 (in Korean) <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1mLOJuRBatRkGGWKFN6u3U6bz-WMg9nWL/view?usp=sharing)
+
 
 ***
 # Regular Seminars
