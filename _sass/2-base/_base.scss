@@ -22,6 +22,21 @@ body {
 	}
 }
 
+/* Universal multilingual font settings based on Unicode range */
+html * {
+  font-family: 'Inter', sans-serif;
+}
+
+html *:not(pre):not(code) {
+  font-family: 'Inter', sans-serif;
+  unicode-range: U+0000-007F, U+0080-00FF, U+0100-024F, U+1E00-1EFF; /* Basic Latin, Latin-1, Extended Latin, etc. */
+}
+
+html *:not(pre):not(code) {
+  font-family: 'Noto Sans KR', sans-serif;
+  unicode-range: U+AC00-D7AF, U+1100-11FF, U+3130-318F, U+A960-A97F, U+D7B0-D7FF; /* Korean Hangul ranges */
+}
+
 ::placeholder {
 	color: #666;
 }
