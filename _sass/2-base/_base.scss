@@ -107,15 +107,20 @@ img,
 }
 
 a {
-    text-decoration-line: underline;
-    text-decoration-style: dashed;
+    text-decoration: none;
     color: $link-color;
     transition: $global-transition;
     &:hover {
       color: lighten($link-color, 10%);
+      text-decoration-line: underline;
+      text-decoration-style: dashed;
+      text-decoration-thickness: 1px;
     }
     &:active {
       color: lighten($link-color, 20%);
+      text-decoration-line: underline;
+      text-decoration-style: dashed;
+      text-decoration-thickness: 1px;
     }
 }
 
