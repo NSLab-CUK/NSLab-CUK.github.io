@@ -15,7 +15,7 @@ $global-transition: all .35s;
 // *****************
 // Color Variables
 // *****************
-$brand-color: #4f92d1;
+$brand-color: #0c2e86;
 $dark: #393e46;
 $gray: #bbbbbb;
 $light-gray: #60513a;
@@ -33,7 +33,7 @@ $heading-font-color: $dark;
 
 // Links
 $link-color: $brand-color;
-$link-color-hover: darken($dark, 15%);
+$link-color-hover: lighten($link-color, 10%);
 
 // Button
 $button-color: $white;
