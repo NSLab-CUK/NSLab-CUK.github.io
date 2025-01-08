@@ -107,7 +107,8 @@ img,
 }
 
 a {
-    text-decoration: none;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
     color: $link-color;
     transition: $global-transition;
     &:hover {
