@@ -36,7 +36,7 @@ toc_label: "Table of Contents"
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Community-aware-Graph-Transformer)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 
 * Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (**AAAI 2024**), Vancouver, Canada; 02/2024. <br>
-[![DOI](http://img.shields.io/:DOI-10.1609/aaai.v38i11.29138-blue?style=flat-square)](https://doi.org/10.1609/aaai.v38i11.29138)
+[![DOI](http://img.shields.io/:DOI-10.1609/aaai.v38i11.29138-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1609/aaai.v38i11.29138)
 [![arXiv](https://img.shields.io/badge/arXiv-2308.09517-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2308.09517)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
 [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-UGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/transitivity-preserving-graph-representation)
@@ -48,7 +48,7 @@ toc_label: "Table of Contents"
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Unified-Graph-Transformer)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
 
 * Van Thuy Hoang, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, O-Joun Lee: Graph Representation Learning and its Applications: A Survey. Sensors 04/2023; 23(8): 4168. <br>
-[![DOI](http://img.shields.io/:DOI-10.3390/s23084168-blue?style=flat-square)](https://doi.org/10.3390/s23084168)
+[![DOI](http://img.shields.io/:DOI-10.3390/s23084168-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.3390/s23084168)
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](http://ct.moreover.com/?a=50722602882&p=1gw&v=1&x=cSHc4cljmIjt1lrdFa24BQ)
 
 * Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv preprint 04/2023; arXiv:2304.13195. (Preprint) <br>
@@ -75,11 +75,16 @@ toc_label: "Table of Contents"
 * Namgyu Jung, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Information Sciences. <br>[![Status](https://img.shields.io/badge/Status-Under%20Review-lightgrey?style=flat-square)](https://www.journals.elsevier.com/information-sciences) [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/jng6017/DHG-BERT)
 -->
 
-* O-Joun Lee, Hyeon-Ju Jeon, Jason J. Jung: Learning Multi-Resolution Representations of Research Patterns in Bibliographic Networks. Journal of Informetrics 02/2021; 15(1): 101126. <br>[![DOI](http://img.shields.io/:DOI-10.1016/j.joi.2020.101126-blue?style=flat-square)](https://doi.org/10.1016/j.joi.2020.101126) [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/Multi-resolution-Network-Embedding)
+* O-Joun Lee, Hyeon-Ju Jeon, Jason J. Jung: Learning Multi-Resolution Representations of Research Patterns in Bibliographic Networks. Journal of Informetrics 02/2021; 15(1): 101126. <br>
+[![DOI](http://img.shields.io/:DOI-10.1016/j.joi.2020.101126-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1016/j.joi.2020.101126) 
+[![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/Multi-resolution-Network-Embedding)
 
-* O-Joun Lee, Seungha Hong, Jin-Taek Kim: Interinstitutional Research Team Formation Based on Bibliographic Network Embedding. Mobile Information Systems 02/2021; 2021: 6629520. <br>[![DOI](http://img.shields.io/:DOI-10.1155/2021/6629520-blue?style=flat-square)](https://doi.org/10.1155/2021/6629520)
+* O-Joun Lee, Seungha Hong, Jin-Taek Kim: Interinstitutional Research Team Formation Based on Bibliographic Network Embedding. Mobile Information Systems 02/2021; 2021: 6629520. <br>
+[![DOI](http://img.shields.io/:DOI-10.1155/2021/6629520-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1155/2021/6629520)
 
-* Hyeon-Ju Jeon, O-Joun Lee, Jason. J. Jung: Is Performance of Scholars Correlated to Their Research Collaboration Patterns?. Frontiers in Big Data 11/2019; 2(39). <br>[![DOI](http://img.shields.io/:DOI-10.3389/fdata.2019.00039-blue?style=flat-square)](https://doi.org/10.3389/fdata.2019.00039) [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/Collaboration2Vec)
+* Hyeon-Ju Jeon, O-Joun Lee, Jason. J. Jung: Is Performance of Scholars Correlated to Their Research Collaboration Patterns?. Frontiers in Big Data 11/2019; 2(39). <br>
+[![DOI](http://img.shields.io/:DOI-10.3389/fdata.2019.00039-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.3389/fdata.2019.00039) 
+[![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/Collaboration2Vec)
 
 ***
 ## Social Media Analysis
@@ -96,7 +101,7 @@ toc_label: "Table of Contents"
 {:.no_toc}
 
 * Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. IEEE Access 10/2023; 11: 114238-114249. <br>
-[![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2023.3324046-blue?style=flat-square)](https://doi.org/10.1109/ACCESS.2023.3324046)
+[![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2023.3324046-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/ACCESS.2023.3324046)
 [![arXiv](https://img.shields.io/badge/arXiv-2309.03219-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2309.03219)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/LiteralKG)
 [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-LiteralKG-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/companion-animal-disease-diagnostics-based-on)
@@ -128,7 +133,7 @@ toc_label: "Table of Contents"
 {:.no_toc}
 
 * Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 05/2024; 11(10): 18686-18697. (†: Co-correspondence) <br>
-[![DOI](http://img.shields.io/:DOI-10.1109/JIOT.2024.3365144-blue?style=flat-square)](https://doi.org/10.1109/JIOT.2024.3365144)
+[![DOI](http://img.shields.io/:DOI-10.1109/JIOT.2024.3365144-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/JIOT.2024.3365144)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Context-Aware-Residual-Transformer)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Context-Aware-Residual-Transformer)](https://github.com/NSLab-CUK/Context-Aware-Residual-Transformer)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Context-Aware-Residual-Transformer)](https://github.com/NSLab-CUK/Context-Aware-Residual-Transformer)
@@ -145,7 +150,7 @@ toc_label: "Table of Contents"
 </p>
 
 * Hyeon-Ju Jeon, Min-Woo Choi, O-Joun Lee: Day-ahead Hourly Solar Irradiance Forecasting based on Multi-attributed Spatio-temporal Graph Convolutional Network. Sensors 09/2022; 22(19): 7179. <br>
-[![DOI](http://img.shields.io/:DOI-10.3390/s22197179-blue?style=flat-square)](https://doi.org/10.3390/s22197179)
+[![DOI](http://img.shields.io/:DOI-10.3390/s22197179-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.3390/s22197179)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/MST-GCN)
 [![GitHub stars](https://img.shields.io/github/stars/higd963/MST-GCN)](https://github.com/higd963/MST-GCN)
 [![GitHub forks](https://img.shields.io/github/forks/higd963/MST-GCN)](https://github.com/higd963/MST-GCN)
@@ -159,7 +164,7 @@ toc_label: "Table of Contents"
 {:.no_toc}
 
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. Machine Learning: Science and Technology 10/2024; 5(4): 045036. <br>
-[![DOI](http://img.shields.io/:DOI-10.1088/2632--2153/ad8981-blue?style=flat-square)](https://doi.org/10.1088/2632-2153/ad8981)
+[![DOI](http://img.shields.io/:DOI-10.1088/2632--2153/ad8981-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1088/2632-2153/ad8981)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/CloudNine)
 [![GitHub stars](https://img.shields.io/github/stars/higd963/CloudNine)](https://github.com/higd963/CloudNine)
 [![GitHub forks](https://img.shields.io/github/forks/higd963/CloudNine)](https://github.com/higd963/CloudNine)
@@ -182,22 +187,22 @@ toc_label: "Table of Contents"
 ## Digital Literature
 
 * Eun-Soon You, Sun-Jung Ryu, O-Joun Lee: A Study on the ‘Esprit’ Indices of The Barber of Seville and The Marriage of Figaro Using the Vocabulary-Based Text Analysis Tool LIWC-22. Story & Image Telling 06/2024; 27: 93-119. (In Korean) <br>
-[![DOI](http://img.shields.io/:DOI-10.22758/sni.2024.27.093-blue?style=flat-square)](https://doi.org/10.22758/sni.2024.27.093)
+[![DOI](http://img.shields.io/:DOI-10.22758/sni.2024.27.093-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.22758/sni.2024.27.093)
 
 * Sun-Jung Ryu, Eun-Soon You: Literary Research Using Digital Analysis Tools: A Case Study of 『Dangerous Liaisons』. The Journal of the Convergence on Culture Technology 05/2024; 10(3): 173-180. (In Korean) <br>
-[![DOI](http://img.shields.io/:DOI-10.17703/JCCT.2024.10.3.173-blue?style=flat-square)](https://doi.org/10.17703/JCCT.2024.10.3.173)
+[![DOI](http://img.shields.io/:DOI-10.17703/JCCT.2024.10.3.173-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.17703/JCCT.2024.10.3.173)
 
 * Eun-Soon You, Sun-Jung Ryu: Étude sur l’enseignement de la littérature française à l’ère numérique. Enseignement de Langue et Littérature Françaises 03/2024; 84: 151-187. (In Korean) <br>
-[![DOI](http://img.shields.io/:DOI-10.36747/ellf84.6-blue?style=flat-square)](https://doi.org/10.36747/ellf84.6)
+[![DOI](http://img.shields.io/:DOI-10.36747/ellf84.6-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.36747/ellf84.6)
 
 * Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house. Humanities Contents 12/2023; (71): 107-135. (In Korean) <br>
-[![DOI](http://img.shields.io/:DOI-10.18658/humancon.2023.12.107-blue?style=flat-square)](https://doi.org/10.18658/humancon.2023.12.107)
+[![DOI](http://img.shields.io/:DOI-10.18658/humancon.2023.12.107-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.18658/humancon.2023.12.107)
 
 * Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Social Network of Characters Appeared in the French Novel Series "La Comédie humaine" and An Interaction Network of Novels in the Series. Figshare 08/2023. (Dataset) <br>
-[![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.23994078.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.23994078.v1)
+[![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.23994078.v1-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.6084/m9.figshare.23994078.v1)
 
 * Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel, "Les Liaisons Dangereuses". Figshare 08/2023. (Dataset) <br>
-[![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.23993748.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.23993748.v1)
+[![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.23993748.v1-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.6084/m9.figshare.23993748.v1)
 
 * Eun-Soon You, "Albert Camus Digital Literary Museum". <br>
 [![Demo](https://img.shields.io/badge/-System%20Demo-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://albertcamus.storymate.net/)
@@ -206,7 +211,7 @@ toc_label: "Table of Contents"
 ## Computational Social Sciences
 
 * Jooho Lee, Yoewon Yoon, O-Joun Lee: Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak. Figshare 08/2023. (Dataset) <br>
-[![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.24025491.v1-blue?style=flat-square)](https://doi.org/10.6084/m9.figshare.24025491.v1)
+[![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.24025491.v1-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.6084/m9.figshare.24025491.v1)
 
 ***
 # Medical Image and Signal Processing
@@ -226,15 +231,19 @@ toc_label: "Table of Contents"
   <em>Inflicting high-frequency ultrasonic wave on invasive/non-invasive breast cancer cells.</em>
 </p>
 
-* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 04/2024; 24(7): 9626-9638. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1109/JSEN.2024.3364682-blue?style=flat-square)](https://doi.org/10.1109/JSEN.2024.3364682)
+* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 04/2024; 24(7): 9626-9638. (†: Co-correspondence) <br>
+[![DOI](http://img.shields.io/:DOI-10.1109/JSEN.2024.3364682-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/JSEN.2024.3364682)
 
-* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. Ultrasonics 01/2024; 136: 107167. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1016/j.ultras.2023.107167-blue?style=flat-square)](https://doi.org/10.1016/j.ultras.2023.107167)
+* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. Ultrasonics 01/2024; 136: 107167. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1016/j.ultras.2023.107167-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1016/j.ultras.2023.107167)
 
-* Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports 11/2022; 12: 19873. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1038/s41598--022--22075--6-blue?style=flat-square)](https://doi.org/10.1038/s41598-022-22075-6)
+* Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports 11/2022; 12: 19873. (†: Co-correspondence) <br>
+[![DOI](http://img.shields.io/:DOI-10.1038/s41598--022--22075--6-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1038/s41598-022-22075-6)
 
-* O-Joun Lee, Hae Gyun Lim, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Automated Estimation of Cancer Cell Deformability with Machine Learning and Acoustic Trapping. Scientific Reports 04/2022; 12: 6891. <br>[![DOI](http://img.shields.io/:DOI-10.1038/s41598--022--10882--w-blue?style=flat-square)](https://doi.org/10.1038/s41598-022-10882-w)
+* O-Joun Lee, Hae Gyun Lim, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Automated Estimation of Cancer Cell Deformability with Machine Learning and Acoustic Trapping. Scientific Reports 04/2022; 12: 6891. <br>
+[![DOI](http://img.shields.io/:DOI-10.1038/s41598--022--10882--w-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1038/s41598-022-10882-w)
 
-* Hae Gyun Lim†, O-Joun Lee†, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Classification of Breast Cancer Cells Using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Convolutional Neural Networks. Cancers 05/2020; 12(5): 1212. (†: Co-first authors) <br>[![DOI](http://img.shields.io/:DOI-10.3390/cancers12051212-blue?style=flat-square)](https://doi.org/10.3390/cancers12051212)
+* Hae Gyun Lim†, O-Joun Lee†, K. Kirk Shung, Jin-Taek Kim, Hyung Ham Kim: Classification of Breast Cancer Cells Using the Integration of High-Frequency Single-Beam Acoustic Tweezers and Convolutional Neural Networks. Cancers 05/2020; 12(5): 1212. (†: Co-first authors) <br>
+[![DOI](http://img.shields.io/:DOI-10.3390/cancers12051212-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.3390/cancers12051212)
 
 * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Blood Glucose Classification Using high-Frequency Ultrasound and Artificial Intelligence. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1GUoRZhbhRHc8hNTWGhlYDD_Re6mNVPwt/view?usp=sharing)
@@ -275,9 +284,11 @@ toc_label: "Table of Contents"
   <img width="700" src="/images/liver.png">
 </p>
 
-* Hyun-Cheol Park, YunSang Joo, O-Joun Lee, Kunkyu Lee, Tai-Kyong Song, Chang Choi, Moon Hyung Choi, Changhan Yoon: Automated classification of liver fibrosis stages using ultrasound imaging. BMC Medical Imaging 02/2024; 24: 36. <br>[![DOI](http://img.shields.io/:DOI-10.1186/s12880%E2%80%93024%E2%80%9301209%E2%80%934-blue?style=flat-square)](https://doi.org/10.1186/s12880-024-01209-4)
+* Hyun-Cheol Park, YunSang Joo, O-Joun Lee, Kunkyu Lee, Tai-Kyong Song, Chang Choi, Moon Hyung Choi, Changhan Yoon: Automated classification of liver fibrosis stages using ultrasound imaging. BMC Medical Imaging 02/2024; 24: 36. <br>
+[![DOI](http://img.shields.io/:DOI-10.1186/s12880%E2%80%93024%E2%80%9301209%E2%80%934-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1186/s12880-024-01209-4)
 
-* Yunsang Joo, Hyun-Cheol Park, O-Joun Lee, Changhan Yoon, Moon Hyung Choi, Chang Choi: Classification of Liver Fibrosis from Heterogeneous Ultrasound Image. IEEE Access 01/2023; 11: 9920-9930. <br>[![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2023.3240216-blue?style=flat-square)](https://doi.org/10.1109/ACCESS.2023.3240216)
+* Yunsang Joo, Hyun-Cheol Park, O-Joun Lee, Changhan Yoon, Moon Hyung Choi, Chang Choi: Classification of Liver Fibrosis from Heterogeneous Ultrasound Image. IEEE Access 01/2023; 11: 9920-9930. <br>
+[![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2023.3240216-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/ACCESS.2023.3240216)
 
 ***
 # Miscellaneous
@@ -290,12 +301,12 @@ toc_label: "Table of Contents"
 * Minsun Cho, Jinwoo Jung, Taeheon Lee, Wolfgang Goes, Ahmed Nejim, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. [The 2024 Wiley Forum Fall Meeting](https://www.wileyforum2024.com/), Seoul, Korea; 10/2024.
 
 * Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024; 12(41): 16691–16700. <br>
-[![DOI](http://img.shields.io/:DOI-10.1039/D4TC01224K-blue?style=flat-square)](https://doi.org/10.1039/D4TC01224K)
+[![DOI](http://img.shields.io/:DOI-10.1039/D4TC01224K-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1039/D4TC01224K)
 [![Drive](https://img.shields.io/badge/Drive-Journal%20Cover-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1WrzvF0TuSeqUKLfSmgWL4-ZAsjl7PZIa/view?usp=sharing)
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.hankyung.com/article/202411064407h)
 
 * Minsun Cho, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based on Transfer Learning for Organic FETs. The 245th Electrochemical Society (ECS) Meeting, San Francisco, CA, USA; 05/2024 <br>
-[![DOI](http://img.shields.io/:DOI-10.1149/MA2024--01311549mtgabs-blue?style=flat-square)](https://doi.org/10.1149/MA2024-01311549mtgabs)
+[![DOI](http://img.shields.io/:DOI-10.1149/MA2024--01311549mtgabs-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1149/MA2024-01311549mtgabs)
 
 * Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. [The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023)](https://www.ieice.org/es/sdm/jpn/awad2023/index.html), Yokohama, Japan; 07/2023 <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing)
@@ -308,7 +319,8 @@ toc_label: "Table of Contents"
 ***
 ## Water Distribution Pipe Corrosion Assessment
 
-* Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 07/2024; 7: 63. (†: Co-correspondence) <br> [![DOI](http://img.shields.io/:DOI-10.1038/s41545--024--00358--x-blue?style=flat-square)](https://doi.org/10.1038/s41545-024-00358-x)
+* Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 07/2024; 7: 63. (†: Co-correspondence) <br> 
+[![DOI](http://img.shields.io/:DOI-10.1038/s41545--024--00358--x-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1038/s41545-024-00358-x)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Internal-Pipe-Corrosion-Assessment-with-Ultrasound-and-CNNs)
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.news1.kr/local/busan-gyeongnam/5494391)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Internal-Pipe-Corrosion-Assessment-with-Ultrasound-and-CNNs)](https://github.com/NSLab-CUK/Internal-Pipe-Corrosion-Assessment-with-Ultrasound-and-CNNs)
