@@ -28,11 +28,6 @@ html * {
 }
 
 html *:not(pre):not(code) {
-  font-family: 'Inter', sans-serif;
-  unicode-range: U+0000-007F, U+0080-00FF, U+0100-024F, U+1E00-1EFF; /* Basic Latin, Latin-1, Extended Latin */
-}
-
-html *:not(pre):not(code) {
   font-family: 'Noto Sans KR', sans-serif;
   unicode-range: U+AC00-D7A3, U+1100-11FF, U+3130-318F; /* Korean Hangul ranges */
 }
