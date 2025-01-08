@@ -326,35 +326,39 @@ toc_label: "Table of Contents"
 
 ***
 
-* O-Joun Lee, Van Thuy Hoang: Graph Represntation Learning Method and System Thereof. Ref. No: KR 10-2024-0104783, 08/2024
+* O-Joun Lee, Van Thuy Hoang, Hochan Yang, Ju Hee Shim, Seung Kim, SungGyu Kim: System of Recommending Halal Cosmetics based on Knowledge Graph Representation Learning (지식 그래프 표현 학습에 기반한 할랄 화장품 추천 시스템). Ref. No: KR 1020240159542, 11/2024 (Transferred to [Shukran Korea Inc.](https://www.shukrankorea.com/))
 
-* O-Joun Lee, Van Thuy Hoang: Apparatus and Method for Training Graph Neural Network based on Graph Augmentation. Ref. No: KR 10-2024-0086072, 07/2024 
+* O-Joun Lee, Van Thuy Hoang: Graph Represntation Learning Method and System Thereof (그래프 표현 학습 방법 및 그 시스템). Ref. No: KR 1020240104783, 08/2024
 
-* O-Joun Lee, Van Thuy Hoang, Ho Beom Kim, Jinho Seo, Seung Charlie Kim, Nox Kim: System and Method for Predicting Availability based on Knowledge Graph. Ref. No: KR 1020230171167, 11/2023
+* O-Joun Lee, Van Thuy Hoang, Sang Thanh Nguyen, Dong Kook Park, Doyul Lee: Apparatus and Method for Representation Learning of Knowledge Graph using Heterogeneous Data Comprehensively (이종 데이터를 통합적으로 이용하는 지식 그래프 표현 학습 방법 및 장치). Ref. No: KR 1020240090256, 07/2024
+
+* O-Joun Lee, Van Thuy Hoang: Apparatus and Method for Training Graph Neural Network based on Graph Augmentation (그래프 증강 기반 그래프 뉴럴 네트워크 학습 방법 및 장치). Ref. No: KR 1020240086072, 07/2024 
+
+* O-Joun Lee, Van Thuy Hoang, Ho Beom Kim, Jinho Seo, Seung Charlie Kim, Nox Kim: System and Method for Predicting Availability based on Knowledge Graph (지식 그래프 기반의 가용성 예측 시스템 및 방법). Ref. No: KR 1020230171167, 11/2023 (Transferred to [Shukran Korea Inc.](https://www.shukrankorea.com/))
 
 * Young Man Kwon, Seok Jeong, O-Joun Lee, [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong): System for Providing Context Awareness based Cross-Domain Recommendation Service for Retail Kiosk (리테일 키오스크를 위한 상황인지 기반 크로스도메인 추천 서비스 제공 시스템). Ref. No: KR 1020220087796, 07/2022
 
 * Jason J. Jung, O-Joun Lee: Method and apparatus for content analysis including story (서사 콘텐츠 분석 방법 및 그 장치). Ref. No: KR 1020180058510, 05/2018
 
-* Jason J. Jung, Jaehong Park, O-Joun Lee, Min-Sung Hong: Server and Method for providing search results using SNS date, Recording medium for performing the method (SNS 데이터를 이용하여 검색어에 따른 결과를 제공하는 장치 및 방법과, 이를 수행하기 위한 기록 매체). Ref. No: KR 1020170165067, 12/2017
+* Jason J. Jung, Jaehong Park, O-Joun Lee, Min-Sung Hong: Server and Method for providing search results using SNS date, Recording medium for performing the method (SNS 데이터를 이용하여 검색어에 따른 결과를 제공하는 장치 및 방법과, 이를 수행하기 위한 기록 매체). Ref. No: KR 1020170165067, 12/2017 (Transferred to [Waplus Inc.](https://waplus.co.kr/main/index.php))
 
-* Jason J. Jung, Min-Sung Hong, O-Joun Lee: Apparatus and Method for recommending item to user group using emotion information (감정 정보를 이용하여 사용자 그룹에 대해 아이템을 추천하는 장치 및 방법). Ref. No: KR1020170042015, 03/2017
+* Jason J. Jung, Min-Sung Hong, O-Joun Lee: Apparatus and Method for recommending item to user group using emotion information (감정 정보를 이용하여 사용자 그룹에 대해 아이템을 추천하는 장치 및 방법). Ref. No: KR 1020170042015, 03/2017
 
-* Jason J. Jung, Min-Sung Hong, O-Joun Lee: Apparatus and Method for recommending item for user group (사용자 그룹에 대한 아이템 추천 장치 및 방법). Ref. No: KR1020170033241, 03/2017
+* Jason J. Jung, Min-Sung Hong, O-Joun Lee: Apparatus and Method for recommending item for user group (사용자 그룹에 대한 아이템 추천 장치 및 방법). Ref. No: KR 1020170033241, 03/2017 (Transferred to [Allwinware Inc.](https://allwinair.com/))
 
 * Jason J. Jung, O-Joun Lee: Method and Apparatus for matching identification information of plurality of SNS (복수의 SNS의 식별정보 매칭 방법 및 장치). Ref. No: KR 1020150128425, 09/2015
 
-* Jason J. Jung, O-Joun Lee: Event processing system, Event processing method and Computer program (이벤트 처리 시스템, 이벤트 처리 방법 및 컴퓨터 프로그램). Ref. No: KR1020150099077, 07/2015
+* Jason J. Jung, O-Joun Lee: Event processing system, Event processing method and Computer program (이벤트 처리 시스템, 이벤트 처리 방법 및 컴퓨터 프로그램). Ref. No: KR 1020150099077, 07/2015 (Transferred to [Nexinno Corp.](http://www.nexinno.co.kr/))
 
-* Hyun-Sik Kim, Seung-Bo Park, Eun-Soon You, O-Joun Lee, Byung Joon Cho: Apparatus and Method for Supporting Writer by Tracing Conversation based on Text Analysis (텍스트 분석 기반 대화 이력 추적을 이용한 작가 지원 장치 및 방법). Ref. No: KR1020150057199, 04/2015
+* Hyun-Sik Kim, Seung-Bo Park, Eun-Soon You, O-Joun Lee, Byung Joon Cho: Apparatus and Method for Supporting Writer by Tracing Conversation based on Text Analysis (텍스트 분석 기반 대화 이력 추적을 이용한 작가 지원 장치 및 방법). Ref. No: KR 1020150057199, 04/2015 (Transferred to [EINEBLUME (Chatie)](https://chatie-app.me/))
 
-* O-Joun Lee, Eun-Soon You, Byung Joon Cho: Apparatus and Method for Predictive Clustering-based Collaborative Filtering (예측적 군집화 기반 협업 필터링 장치 및 방법). Ref. No: KR1020150042144, 03/2015
+* O-Joun Lee, Eun-Soon You, Byung Joon Cho: Apparatus and Method for Predictive Clustering-based Collaborative Filtering (예측적 군집화 기반 협업 필터링 장치 및 방법). Ref. No: KR 1020150042144, 03/2015 (Transferred)
 
-* Jae-Dong Lee, Seung-Hun Kim, Min-Sung Hong, Kee-Won Kim, O-Joun Lee, Won-Jin Lee: Apparatus for Analyzing Contents and Method Thereof (콘텐츠 분석 장치 및 방법). Ref. No: KR1020140093024, 07/2014
+* Jae-Dong Lee, Seung-Hun Kim, Min-Sung Hong, Kee-Won Kim, O-Joun Lee, Won-Jin Lee: Apparatus for Analyzing Contents and Method Thereof (콘텐츠 분석 장치 및 방법). Ref. No: KR 1020140093024, 07/2014
 
-* O-Joun Lee, Jae-Dong Lee, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Gyu-Chan Lim: Apparatus and Method for Hybrid Filtering Content Recommendation using User Profile and Context Information based on Preference (사용자 프로파일과 상황 정보를 이용한 선호도 기반 하이브리드 필터링 콘텐츠 추천 장치 및 방법). Ref. No: KR1020140027866, 03/2014
+* O-Joun Lee, Jae-Dong Lee, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Gyu-Chan Lim: Apparatus and Method for Hybrid Filtering Content Recommendation using User Profile and Context Information based on Preference (사용자 프로파일과 상황 정보를 이용한 선호도 기반 하이브리드 필터링 콘텐츠 추천 장치 및 방법). Ref. No: KR 1020140027866, 03/2014 (Transferred to [BRIPHY Inc.](https://www.briphy.com/))
 
-* O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: Apparatus and Method for Predicting User Feed Back in Collaborative Recommendation System (협업 추천 시스템에서의 사용자 피드백 예측 장치 및 방법). Ref. No: KR1020140027865, 03/2014
+* O-Joun Lee, Jae-Dong Lee, Seung-Hun Kim, Won-Jin Lee, Seung-Bo Park, Min-Sung Hong, Se-Jun Park: Apparatus and Method for Predicting User Feed Back in Collaborative Recommendation System (협업 추천 시스템에서의 사용자 피드백 예측 장치 및 방법). Ref. No: KR 1020140027865, 03/2014
 
 
 
