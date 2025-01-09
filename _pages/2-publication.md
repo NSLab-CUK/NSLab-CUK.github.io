@@ -19,6 +19,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* Tra Huong Thi Le, Nguyen Van Dien, Luong Vuong Nguyen, Tri-Hai Nguyen, O-Joun Lee: Transmission Power Optimization for Hybrid NOMA- URLLC System with STAR-RIS Assistance. IEEE Access 01/2025. (To Appear)
+
 * Van Thuy Hoang, Tien-Bach-Thanh Do, Jinho Seo, Seung Charlie Kim, Luong Vuong Nguyen, Duong Nguyen Minh Huy, Hyeon-Ju Jeon, O-Joun Lee: Halal or Not: Knowledge Graph Completion for Predicting Cultural Appropriateness of Daily Products. IEEE Access 01/2025. (To Appear)
 
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. Machine Learning: Science and Technology 10/2024; 5(4): 045036. DOI:10.1088/2632-2153/ad8981 
