@@ -118,6 +118,7 @@ toc_label: "Table of Contents"
 {:.no_toc}
 
 * Van Thuy Hoang, Tien-Bach-Thanh Do, Jinho Seo, Seung Charlie Kim, Luong Vuong Nguyen, Duong Nguyen Minh Huy, Hyeon-Ju Jeon, O-Joun Lee: Halal or Not: Knowledge Graph Completion for Predicting Cultural Appropriateness of Daily Products. IEEE Access 01/2025. (To Appear) <br>
+[![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2025.3528251-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/ACCESS.2025.3528251)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Halal-or-Not)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Halal-or-Not)](https://github.com/NSLab-CUK/Halal-or-Not)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Halal-or-Not)](https://github.com/NSLab-CUK/Halal-or-Not)
