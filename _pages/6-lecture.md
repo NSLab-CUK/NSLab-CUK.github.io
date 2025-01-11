@@ -17,6 +17,37 @@ toc_label: "Table of Contents"
 ### 2024
 
 ***
+#### Spring 2025
+{:.no_toc}
+
+* 54369-01 Advanced Graph Neural Networks (Graduate Course)
+  * Instructor: O-Joun Lee
+
+* 06837-01 Graph Mining
+  * Instructor: O-Joun Lee
+  * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/thanhdo19730)
+  * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/kor)]
+  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2024)
+
+* 06535-01 Career exploration of Artificial Intelligence 1 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+* 06480-01 and 06481-01 Capstone Design for Artificial Intelligence 1 and 2 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+* 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (Joint Lecture)
+  * Instructor: Faculty members of Dept. of AI
+
+* 54366-01 Academic Writing and Research Ethics (Graduate Course)
+  * Instructor: Eun-Soon You
+
+* 07085-01 Introduction to Digital Humanities
+  * Instructor: Eun-Soon You
+
+* 06298-01 Living with AI
+  * Instructor: Eun-Soon You
+
+***
 #### Fall 2024
 {:.no_toc}
 
@@ -26,8 +57,8 @@ toc_label: "Table of Contents"
 * [06838-01 Graph Neural Networks](https://ns-cuk.notion.site/06838-Graph-Neural-Networks-Fall-2024-e0b7776e069c4218a3b900c0bbc6210a?pvs=4)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/thanhdo19730), and [Huy Quang Tran](https://nslab-cuk.github.io/member/huy)
+  * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/kor)]
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2024)
-  * [![Kaggle](https://img.shields.io/badge/Kaggle-Term%20Project-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/competitions/2024-1-cuk-gm-project/overview)
 
 * 54345-01 Artificial Intelligence/Robot Ethics (Graduate Course)
   * Instructor: Eun-Soon You
@@ -42,9 +73,6 @@ toc_label: "Table of Contents"
   * Instructor: Faculty members of Dept. of AI
 
 * 06480-01 and 06481-01 Capstone Design for Artificial Intelligence 1 and 2 (Joint Lecture)
-  * Instructor: Faculty members of Dept. of AI
-
-* 06847-01 and 06841-01 Undergraduate Research 1 and 2 (Joint Lecture)
   * Instructor: Faculty members of Dept. of AI
 
 * 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (Joint Lecture)
@@ -72,6 +100,7 @@ toc_label: "Table of Contents"
 * [06837-01 Graph Mining](https://ns-cuk.notion.site/06837-Graph-Mining-Spring-2024-d61162f663a141929559c406d83ca187?pvs=4)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/thanhdo19730), and [Huy Quang Tran](https://nslab-cuk.github.io/member/huy)
+  * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/kor)]
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2024)
   * [![Kaggle](https://img.shields.io/badge/Kaggle-Term%20Project-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/competitions/2024-1-cuk-gm-project/overview)
 
@@ -124,6 +153,7 @@ toc_label: "Table of Contents"
 * [06838-01 Graph Neural Networks](https://ns-cuk.notion.site/06838-Graph-Neural-Networks-Fall-2023-f147ff0f52ab41acbcb8636de7e44d46?pvs=4)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
+  * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/kor)]
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2023)
 
 * 54345-01 Artificial Intelligence/Robot Ethics (Graduate Course)
@@ -177,6 +207,7 @@ toc_label: "Table of Contents"
 * [06837-01 Graph Mining](https://ns-cuk.notion.site/Syllabus-Graph-Mining-0b9257569a0e4ad3be2bac9ed427a4ed)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
+  * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/kor)]
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2023)
 
 * 06535-01 Career exploration of Artificial Intelligence (Joint Lecture)
