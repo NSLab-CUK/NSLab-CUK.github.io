@@ -283,7 +283,7 @@ table tfoot td {
   // }
 
   @include breakpoint($large) {
-    float: inline-start;
+    //float: inline-start;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
     opacity: 0.75;
     -webkit-transition: opacity 0.2s ease-in-out;
@@ -343,10 +343,10 @@ table tfoot td {
   @include breakpoint($large) {
     position: sticky !important;
     top: 80px !important;
-    inset-inline-end: 0;
+    //inset-inline-end: 0;
     width: $right-sidebar-width-narrow;
     //margin-inline-end: -1 * $right-sidebar-width-narrow;
-    padding-inline-start: 1em;
+    //padding-inline-start: 1em;
     z-index: 10;
 
     &.sticky {
@@ -470,7 +470,7 @@ table tfoot td {
 
   .author__urls {
     span.label {
-      padding-inline-start: 5px;
+      //padding-inline-start: 5px;
     }
   }
 
@@ -487,7 +487,7 @@ table tfoot td {
         content: '';
         position: fixed;
         top: 0;
-        inset-inline-start: 0;
+        //inset-inline-start: 0;
         width: 100%;
         height: 100%;
         pointer-events: none;
@@ -509,7 +509,7 @@ table tfoot td {
 .author__urls {
   display: none;
   position: absolute;
-  inset-inline-end: 0;
+  //inset-inline-end: 0;
   margin-top: 15px;
   padding: 10px;
   list-style-type: none;
