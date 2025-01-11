@@ -54,7 +54,7 @@ toc_label: "Table of Contents"
 #### Winter 2024
 {:.no_toc}
 
-* 06298-01 Living with AI (AI와 함께 살아가기)
+* 06298-01 Living with AI (AI와 함께 살아가기) - [CU12 (한국 가톨릭 공유대학)](https://www.cu12.ac.kr/el/main/main_form.acl)
   * Instructor: Eun-Soon You
 
 * 06328-01 Life in the Age of Science and Technology (과학기술 시대의 삶)
