@@ -17,6 +17,11 @@ paginate_path: "/page/:num"
 
 futrue: true
 
+# Markdown Processing
+kramdown:
+  auto_ids: true
+  toc_levels: 1..6
+
 # Pages Path
 defaults:
   - scope:
