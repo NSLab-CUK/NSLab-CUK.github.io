@@ -91,15 +91,6 @@ body {
 	}
 }
 
-/* Universal multilingual font settings based on Unicode range */
-html * {
-  font-family: 'Inter', sans-serif;
-}
-
-html *:not(pre):not(code) {
-  font-family: 'Noto Sans KR', sans-serif;
-  unicode-range: U+AC00-D7A3, U+1100-11FF, U+3130-318F; /* Korean Hangul ranges */
-}
 
 ::placeholder {
 	color: #666;
