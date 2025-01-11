@@ -594,6 +594,7 @@ table tfoot td {
 .wide .sidebar__right {
   margin-bottom: 1em;
 
+/*
   @include breakpoint($large) {
     position: initial;
     top: initial;
@@ -607,7 +608,8 @@ table tfoot td {
       float: none;
     }
   }
-
+*/
+	
   @include breakpoint($x-large) {
     width: initial;
     margin-inline-end: initial;
