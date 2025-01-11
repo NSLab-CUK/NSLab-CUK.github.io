@@ -116,7 +116,7 @@ toc_label: "Table of Contents"
 * Advanced Artificial Intelligence (고급 인공지능) - Graduate Course 
   * Instructor: O-Joun Lee
 
-* [06837-01 Graph Mining](https://ns-cuk.notion.site/06837-Graph-Mining-Spring-2024-d61162f663a141929559c406d83ca187?pvs=4)
+* [06837-01 Graph Mining](https://ns-cuk.notion.site/06837-Graph-Mining-Spring-2024-d61162f663a141929559c406d83ca187?pvs=4) (그래프 마이닝)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/thanhdo19730), and [Huy Quang Tran](https://nslab-cuk.github.io/member/huy)
   * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/kor)]
@@ -175,7 +175,7 @@ toc_label: "Table of Contents"
 * 54495-01 Advanced Machine Learning (고급 기계학습) - Graduate Course 
   * Instructor: O-Joun Lee
 
-* [06838-01 Graph Neural Networks](https://ns-cuk.notion.site/06838-Graph-Neural-Networks-Fall-2023-f147ff0f52ab41acbcb8636de7e44d46?pvs=4)
+* [06838-01 Graph Neural Networks](https://ns-cuk.notion.site/06838-Graph-Neural-Networks-Fall-2023-f147ff0f52ab41acbcb8636de7e44d46?pvs=4) (그래프 신경망)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
   * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/kor)]
