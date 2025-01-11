@@ -345,7 +345,7 @@ table tfoot td {
     top: 80px !important;
     inset-inline-end: 0;
     width: $right-sidebar-width-narrow;
-    margin-inline-end: -1 * $right-sidebar-width-narrow;
+    //margin-inline-end: -1 * $right-sidebar-width-narrow;
     padding-inline-start: 1em;
     z-index: 10;
 
@@ -354,7 +354,7 @@ table tfoot td {
       position: -webkit-sticky;
       position: sticky !important;
       top: 80px !important;
-      float: inline-end;
+      //float: inline-end;
 
       .toc {
         .toc__menu {
@@ -367,7 +367,7 @@ table tfoot td {
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
-    margin-inline-end: -1 * $right-sidebar-width;
+    //margin-inline-end: -1 * $right-sidebar-width;
 	  
     position: sticky !important;
     top: 80px !important;
@@ -378,12 +378,12 @@ table tfoot td {
 .splash .sidebar__right {
   @include breakpoint($large) {
     position: relative;
-    float: inline-end;
-    margin-inline-end: 0;
+    //float: inline-end;
+    //margin-inline-end: 0;
   }
 
   @include breakpoint($x-large) {
-    margin-inline-end: 0;
+    //margin-inline-end: 0;
   }
 }
 
@@ -616,7 +616,7 @@ table tfoot td {
 	
   @include breakpoint($x-large) {
     width: initial;
-    margin-inline-end: initial;
+    //margin-inline-end: initial;
   }
 }
 
