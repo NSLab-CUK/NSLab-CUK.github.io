@@ -43,8 +43,8 @@ $type-size-8: 0.625em !default; // ~10px
 
 /* color */
 $primary-color: #6f777d !default;
-
 $focus-color: $primary-color !default;
+$active-color: mix(#fff, $primary-color, 80%) !default;
 
 /* ==========================================================================
    Import
