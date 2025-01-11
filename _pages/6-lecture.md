@@ -67,11 +67,17 @@ toc_label: "Table of Contents"
 * 54347-01 Advanced Graph Mining (고급 그래프 마이닝) - Graduate Course 
   * Instructor: O-Joun Lee
 
+* 54495-01 Advanced Machine Learning (고급 기계학습) - Graduate Course 
+  * Instructor: O-Joun Lee
+
 * [06838-01 Graph Neural Networks](https://ns-cuk.notion.site/06838-Graph-Neural-Networks-Fall-2024-e0b7776e069c4218a3b900c0bbc6210a?pvs=4) (그래프 신경망)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/thanhdo19730), and [Huy Quang Tran](https://nslab-cuk.github.io/member/huy)
   * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/kor)]
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2024)
+
+* 54512-01 Study for Master Thesis 2 (석사논문연구 2) - Graduate Course/Joint Lecture
+  * Instructor: O-Joun Lee and Kang-Min Kim (NLP Lab)
 
 * 54345-01 Artificial Intelligence/Robot Ethics (인공지능/로봇 윤리) - Graduate Course 
   * Instructor: Eun-Soon You
@@ -107,7 +113,7 @@ toc_label: "Table of Contents"
 #### Spring 2024
 {:.no_toc}
 
-* Advanced Artificial Intelligence (Graduate Course)
+* Advanced Artificial Intelligence (고급 인공지능) - Graduate Course 
   * Instructor: O-Joun Lee
 
 * [06837-01 Graph Mining](https://ns-cuk.notion.site/06837-Graph-Mining-Spring-2024-d61162f663a141929559c406d83ca187?pvs=4)
@@ -128,6 +134,12 @@ toc_label: "Table of Contents"
 
 * 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (인공지능학과 현장실습 1 - 5) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
+
+* 54514-01 Study for Doctoral Thesis 2 (박사논문연구 2) - Graduate Course  
+  * Instructor: O-Joun Lee
+
+* 54647-01 Korean Natural Language Processing (한국어자연어처리) - Graduate Course  
+  * Instructor: O-Joun Lee
 
 * 54366-01 Academic Writing and Research Ethics (학술적 글쓰기와 연구윤리) - Graduate Course 
   * Instructor: Eun-Soon You
@@ -160,7 +172,7 @@ toc_label: "Table of Contents"
 #### Fall 2023
 {:.no_toc}
 
-* 54495-01 Advanced Machine Learning (Graduate Course)
+* 54495-01 Advanced Machine Learning (고급 기계학습) - Graduate Course 
   * Instructor: O-Joun Lee
 
 * [06838-01 Graph Neural Networks](https://ns-cuk.notion.site/06838-Graph-Neural-Networks-Fall-2023-f147ff0f52ab41acbcb8636de7e44d46?pvs=4)
@@ -175,10 +187,10 @@ toc_label: "Table of Contents"
 * 06298-01 Living with AI (AI와 함께 살아가기)
   * Instructor: Eun-Soon You
 
-* 54513-01 Study for Doctoral Thesis 1 (Graduate Course) 
+* 54513-01 Study for Doctoral Thesis 1 (박사논문연구 1) - Graduate Course  
   * Instructor: O-Joun Lee
 
-* 54513-01 Study for Master Thesis 1 (Graduate Course; Joint Lecture)
+* 54513-01 Study for Master Thesis 1 (석사논문연구 1) - Graduate Course/Joint Lecture
   * Instructor: O-Joun Lee and Kang-Min Kim (NLP Lab)
 
 * 06481-01 Capstone Design for Artificial Intelligence II (인공지능학과 캡스톤디자인 2) - Joint Lecture
@@ -214,10 +226,10 @@ toc_label: "Table of Contents"
 #### Spring 2023
 {:.no_toc}
 
-* [54369-01 Advanced Graph Neural Networks](https://ns-cuk.notion.site/Advanced-Graph-Neural-Networks-a4162478f7d942d8a73447e28b05c179) (Graduate Course)
+* [54369-01 Advanced Graph Neural Networks](https://ns-cuk.notion.site/Advanced-Graph-Neural-Networks-a4162478f7d942d8a73447e28b05c179) (고급 그래프 신경망) - Graduate Course 
   * Instructor: O-Joun Lee
 
-* [06837-01 Graph Mining](https://ns-cuk.notion.site/Syllabus-Graph-Mining-0b9257569a0e4ad3be2bac9ed427a4ed)
+* [06837-01 Graph Mining](https://ns-cuk.notion.site/Syllabus-Graph-Mining-0b9257569a0e4ad3be2bac9ed427a4ed) (그래프 마이닝)
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
   * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/kor)]
@@ -226,7 +238,7 @@ toc_label: "Table of Contents"
 * 06535-01 Career exploration of Artificial Intelligence (인공지능학과 진로탐색 1) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
 
-* 54366-01 Academic Writing and Research Ethics (Graduate Course)
+* 54366-01 Academic Writing and Research Ethics (학술적 글쓰기와 연구윤리) - Graduate Course 
   * Instructor: Eun-Soon You
 
 * 06298-01 Living with AI (AI와 함께 살아가기)
@@ -254,7 +266,7 @@ toc_label: "Table of Contents"
   * Instructor: O-Joun Lee
   * TA: [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen)
 
-* 54345-01 Artificial Intelligence/Robot Ethics (Graduate Course)
+* 54345-01 Artificial Intelligence/Robot Ethics (인공지능/로봇 윤리) - Graduate Course 
   * Instructor: Eun-Soon You
 
 ***
