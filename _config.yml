@@ -4,13 +4,7 @@ url: "https://nslab-cuk.github.io" # the base hostname & protocol for your site,
 # Build settings
 markdown: kramdown
 permalink: pretty
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-toc
-  - jemoji
+
 
 paginate: 5
 paginate_path: "/page/:num"
@@ -22,6 +16,14 @@ kramdown:
   input: GFM
   auto_ids: true
   toc_levels: 1..6
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+#  - jekyll-toc
+  - jemoji
 
 # Pages Path
 defaults:
