@@ -19,6 +19,7 @@ futrue: true
 
 # Markdown Processing
 kramdown:
+  input: GFM
   auto_ids: true
   toc_levels: 1..6
 
