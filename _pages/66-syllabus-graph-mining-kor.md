@@ -54,7 +54,7 @@ toc_label: "Table of Contents"
   매주 온라인 학습 플랫폼(또는 아래 기재된 GitHub 저장소)에 강의자료와 과제 정보가 업로드됩니다.
 
 - **실습 및 과제 GitHub 저장소**  
-  <https://github.com/NSLab-CUK/Graph-Mining-Spring-2023>
+  <https://github.com/stars/NSLab-CUK/lists/graph-mining>
 
 ---
 
@@ -85,7 +85,7 @@ toc_label: "Table of Contents"
 
 ## **6. 과제 및 실습**
 
-- **과제:** [GitHub 저장소](https://github.com/NSLab-CUK/Graph-Mining-Spring-2023)에 매주 실습 자료와 과제 문제가 올라옵니다.  
+- **과제:** [GitHub 저장소](https://github.com/stars/NSLab-CUK/lists/graph-mining)에 매주 실습 자료와 과제 문제가 올라옵니다.  
   모든 과제는 정해진 기한 내에 온라인 학습 플랫폼을 통해 제출해야 합니다.
 
 ### **지각 제출 정책**
