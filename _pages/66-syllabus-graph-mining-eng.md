@@ -53,7 +53,7 @@ By the end of the semester, students will be able to:
   Materials are updated weekly on the course’s online learning platform (or the GitHub repository linked below).
 
 - **Practice & Assignments Repository:**  
-  <https://github.com/NSLab-CUK/Graph-Mining-Spring-2023>
+  <https://github.com/stars/NSLab-CUK/lists/graph-mining>
 
 ---
 
@@ -84,7 +84,7 @@ By the end of the semester, students will be able to:
 
 ## **6. Assignments & Practices**
 
-- **Assignments:** Practice materials and problem sets will be posted on the [GitHub repository](https://github.com/NSLab-CUK/Graph-Mining-Spring-2023). Please submit all solutions via the course’s online platform by the stated deadlines.
+- **Assignments:** Practice materials and problem sets will be posted on the [GitHub repository](https://github.com/stars/NSLab-CUK/lists/graph-mining). Please submit all solutions via the course’s online platform by the stated deadlines.
 
 ### **Late Submission Policy**
 - Assignments submitted **after** the deadline are capped at a grade of **B (8 points)**.  
