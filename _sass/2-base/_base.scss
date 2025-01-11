@@ -143,26 +143,48 @@ hr {
 }
 
 
+/* 표 전체 공통 스타일 */
 table {
   width: 100%;
-  margin: 1em 0;
   border-collapse: collapse;
-  /* 테마 폰트와 색상을 유지하되, 가시성 위해 살짝 배경 칼라 */
-  background-color: #ffffff;
+  margin: 1.5em 0;
+  font-family: "Noto Sans KR", sans-serif; /* or "Open Sans" 등 원하는 폰트 */
+  font-size: 15px;
+  color: #333;
+  background-color: #fff;
 }
 
-th, td {
-  border: 1px solid #ddd;
-  padding: 0.75em 1em;
-  vertical-align: middle; /* 텍스트 세로 정렬 중앙 */
-  text-align: left;
+/* 테이블 헤더 스타일 */
+table thead th {
+  background-color: #2a4d6e; /* 연구실 톤과 어울리는 남색 계열 */
+  color: #fff;
+  font-weight: 600;
+  padding: 12px 16px;
+  border-bottom: 2px solid #1f3c54; /* 헤더 아래쪽 경계선 (더 어두운 톤) */
+  text-align: left; /* 헤더 텍스트는 왼쪽 정렬 */
 }
 
-th {
-  background-color: #f8f8f8; /* 헤더 구분 */
+/* 테이블 바디 - 데이터 셀 스타일 */
+table tbody td {
+  padding: 12px 16px;
+  border-bottom: 1px solid #ddd;
+  vertical-align: top; 
+}
+
+/* 홀수 행과 짝수 행의 배경색을 다르게 (줄무늬 효과) */
+table tbody tr:nth-child(odd) {
+  background-color: #f9f9f9;
+}
+
+/* 마우스 오버 시 강조 효과 */
+table tbody tr:hover {
+  background-color: #ebf2f8;
+}
+
+/* 테이블 푸터(선택 사항)가 있을 경우 스타일 */
+table tfoot td {
+  padding: 12px 16px;
+  border-top: 2px solid #2a4d6e;
   font-weight: bold;
-}
-
-tr:nth-child(even) td {
-  background-color: #fafafa; /* 짝수 행 배경색 */
+  background-color: #f3f6fa;
 }
