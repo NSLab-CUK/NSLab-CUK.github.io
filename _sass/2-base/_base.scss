@@ -368,6 +368,10 @@ table tfoot td {
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
     margin-inline-end: -1 * $right-sidebar-width;
+	  
+    position: sticky !important;
+    top: 80px !important;
+
   }
 }
 
