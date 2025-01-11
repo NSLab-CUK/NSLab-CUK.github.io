@@ -64,9 +64,6 @@ $(document).ready(function() {
   $(".page img, .post img").attr("data-action", "zoom");
   $(".page a img, .post a img").removeAttr("data-action", "zoom");
 
-  /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-  particlesJS.load('landing', 'assets/particles.json', function() {});
-  
   /* =======================
   // Instagram Feed
   ======================= */
