@@ -91,13 +91,11 @@ By the end of this course, students will be able to:
 
 ## **6. Practices & Assignments**
 
-- **GitHub Repository:**  
-  <https://github.com/stars/NSLab-CUK/lists/graph-neural-networks>  
-  This repository will host coding samples, exercises, and assignments.
+- **Assignments:** Practice materials and problem sets will be posted on the [GitHub repository](https://github.com/stars/NSLab-CUK/lists/graph-neural-networks). Please submit all solutions via the course’s online platform by the stated deadlines.
 
 ### **Late Submission Policy**
-- Assignments submitted **after** the deadline will be capped at a maximum of **B (8 points)**.  
-- Significantly late or unsubmitted work may receive **F (0 points)**.
+- Assignments submitted **after** the deadline are capped at a grade of **B (8 points)**.  
+- Failure to submit or excessively late submissions may result in **F (0 points)** for that assignment.
 
 ---
 
