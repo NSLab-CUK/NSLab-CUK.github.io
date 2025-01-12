@@ -4,9 +4,6 @@ title: Graph Learning Reading List for Newcomers
 permalink: /research/reading-list-for-newcomers/
 image: Bib_Network.png
 description: This reading list is designed to help newcomers to the Network Science Lab @ CUK understand the fundamental concepts and models in graph learning.
-toc: true
-toc_sticky: true
-toc_label: "Table of Contents"
 ---
 
 <!-- ![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/96ea07b1-9117-4436-9e78-5f554d6629a4) -->
