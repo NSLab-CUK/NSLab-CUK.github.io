@@ -172,7 +172,7 @@
         padding: 0 10px;
         vertical-align: middle;
         white-space: nowrap;
-        overflow: hidden;
+        overflow: visible;
         text-overflow: ellipsis;
         color: $dark;
         &:hover {
