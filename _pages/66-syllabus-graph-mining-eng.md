@@ -4,9 +4,6 @@ title: Syllabus of Graph Mining (06837)
 permalink: /lecture/syllabus/graph-mining/eng
 image: CUK_4Seasons.jpg
 description: Welcome to the syllabus of the Graph Mining (06837) class for the Department of Artificial Intelligence at the Catholic University of Korea.
-toc: true
-toc_sticky: true
-toc_label: "Table of Contents"
 ---
 
 <h5>Table of Contents</h5>
