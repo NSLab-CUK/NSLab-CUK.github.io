@@ -97,11 +97,11 @@
 
   justify-content: center;
 
-  position: relative;
+  //position: relative;
   //overflow-y: auto;
   //justify-content: flex-start;
 
-  height: auto; 
+  height: 100vh; 
 
   @media only screen and (max-width: $tablet) {
     margin: 40px 0;
