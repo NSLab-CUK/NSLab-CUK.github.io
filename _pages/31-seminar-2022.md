@@ -4,9 +4,6 @@ title: NS-CUK Weekly Seminar on 2022
 permalink: /seminar/2022/
 image: CUK_4Seasons.jpg
 description: Archive of papers reviewed by members of the Network Science Lab at the Catholic University of Korea as part of the NS-CUK Weekly Seminar series
-toc: true
-toc_sticky: true
-toc_label: "Table of Contents"
 ---
 
 <!-- ![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/96ea07b1-9117-4436-9e78-5f554d6629a4) -->
