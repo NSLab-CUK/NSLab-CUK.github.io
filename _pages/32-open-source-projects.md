@@ -4,9 +4,6 @@ title: NS-CUK Open Source Projects
 permalink: /open-source-projects/
 image: CUK_4Seasons.jpg
 description: Open source projects run by members and collaborators of the Network Science Lab at the Catholic University of Korea
-toc: true
-toc_sticky: true
-toc_label: "Table of Contents"
 ---
 
 This page serves as a repository for open source projects run by members and collaborators of the Network Science Lab. We aim to improve the availability of open source implementations and the reproducibility of experiments in artificial intelligence and data science studies.
