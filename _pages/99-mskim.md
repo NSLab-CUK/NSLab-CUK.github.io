@@ -3,6 +3,7 @@ layout: page
 title: "Min Seo Kim"
 permalink: /member/mskim
 image: 
+description: Curriculum vitae of Min Seo Kim
 ---
 
 ***
