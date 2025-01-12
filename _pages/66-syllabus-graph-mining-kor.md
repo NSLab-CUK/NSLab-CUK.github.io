@@ -4,9 +4,6 @@ title: 그래프 마이닝 (06837) 강의계획서
 permalink: /lecture/syllabus/graph-mining/kor
 image: CUK_4Seasons.jpg
 description: 가톨릭대학교 인공지능학과에서 진행되는 그래프 마이닝 (06837) 수업 강의계획서입니다.
-toc: true
-toc_sticky: true
-toc_label: "Table of Contents"
 ---
 
 <h5>Table of Contents</h5>
