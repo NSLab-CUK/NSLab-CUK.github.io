@@ -4,9 +4,6 @@ title: Publication
 permalink: /publication/
 image: Bib_Network.png
 description: Academic publications and other types of research output from the Network Science Lab at the Catholic University of Korea
-toc: true
-toc_sticky: true
-toc_label: "Table of Contents"
 ---
 
 <h5>Table of Contents</h5>
