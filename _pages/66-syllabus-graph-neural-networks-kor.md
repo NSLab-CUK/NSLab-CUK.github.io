@@ -6,6 +6,7 @@ image: CUK_4Seasons.jpg
 description: 가톨릭대학교 인공지능학과에서 진행되는 그래프 신경망 (06838) 수업 강의계획서입니다.
 toc: true
 toc_sticky: true
+toc_label: "Table of Contents"
 ---
 
 ***
