@@ -3,6 +3,7 @@ layout: page
 title: "Hye Min Kim"
 permalink: /member/hmkim
 image: 
+description: Curriculum vitae of Hye Min Kim
 ---
 
 ***
