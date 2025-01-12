@@ -3,6 +3,7 @@ layout: page
 title: "Sangmyeong Lee"
 permalink: /member/sangmyeong
 image: 
+description: Curriculum vitae of Sangmyeong Lee
 ---
 
 ***
