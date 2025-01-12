@@ -3,6 +3,7 @@ layout: page
 title: "Yanjun Wu"
 permalink: /member/WYJ
 image: 
+description: Curriculum vitae of Yanjun Wu
 ---
 
 ***
