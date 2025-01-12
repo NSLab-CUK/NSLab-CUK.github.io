@@ -4,9 +4,6 @@ title: BK21+ Outstanding International Conference List in Computer Science by Na
 permalink: /research/top-conference-list
 image: Bib_Network.png
 description: A list of top-tier international conferences in computer science recognized by the Korea Research Foundation BK21+ program.
-toc: true
-toc_sticky: true
-toc_label: "Table of Contents"
 ---
 
 > Computer Science 분야 한국연구재단 BK21+ 우수국제학술대회 목록
