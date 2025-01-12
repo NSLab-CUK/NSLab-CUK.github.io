@@ -20,13 +20,6 @@ layout: default
 
 <div class="container">
 	<div class="content_row">
-		<!-- begin page -->
-		<article class="page col col-8 col-t-10 col-m-12">
-			<div class="page__content">
-				{{ content }}
-			</div>
-		</article>
-
 		<!-- toc -->
       		{% if page.toc %}
           	<aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %} col col-4 col-t-2 col-m-12">
@@ -37,6 +30,15 @@ layout: default
           	</aside>
         	{% endif %}
         	{% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+		
+		<!-- begin page -->
+		<article class="page col col-8 col-t-10 col-m-12">
+			<div class="page__content">
+				{{ content }}
+			</div>
+		</article>
+
+		
 		
 		<!-- end page -->
 
