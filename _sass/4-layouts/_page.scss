@@ -36,13 +36,13 @@
 }
 
 .page {
-  margin: 80px 0;
+  //margin: 80px 0;
 
   img {
   }
 
   @media only screen and (max-width: $tablet) {
-    margin: 40px 0;
+    //margin: 40px 0;
   }
 }
 
@@ -88,10 +88,25 @@
   position: relative;
   //overflow-y: auto;
   //justify-content: flex-start;
-
-  min-height: 100vh;
 }
 
+.content_row {
+  display: flex;
+  margin: 80px 0;
+  overflow: visible;
+
+  justify-content: center;
+
+  position: relative;
+  //overflow-y: auto;
+  //justify-content: flex-start;
+
+  height: auto; 
+
+  @media only screen and (max-width: $tablet) {
+    margin: 40px 0;
+  }
+}
 
 
 .youtube-wrapper {
