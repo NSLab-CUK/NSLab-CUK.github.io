@@ -3,7 +3,7 @@ layout: page
 title: Cover Letter (커버레터) 작성 방법
 permalink: /lecture/material/intro-technical-writing/cover-letter
 image: CUK_4Seasons.jpg
-description: 논문을 학술지 또는 컨퍼런스에 투고할 때, 커버레터는 독립적인 문서로 제출하는 경우가 많습니다. 저널 투고 시, 온라인 투고 시스템(Manuscript Central, ScholarOne 등)에서 ‘Cover Letter’ 항목이 별도로 요구되기도 하며, 컨퍼런스에서도 특별한 사유(예: 저자 정보, 특이사항)나 추가 설명을 위해 문서 첨부가 가능할 수 있습니다.  
+description: 논문을 학술지 또는 컨퍼런스에 투고할 때, 커버레터는 독립적인 문서로 제출하는 경우가 많습니다. 저널 투고 시, 온라인 투고 시스템(Manuscript Central, ScholarOne 등)에서 Cover Letter 항목이 별도로 요구되기도 하며, 컨퍼런스에서도 특별한 사유(저자 정보, 특이사항)나 추가 설명을 위해 문서 첨부가 가능할 수 있습니다.  
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
