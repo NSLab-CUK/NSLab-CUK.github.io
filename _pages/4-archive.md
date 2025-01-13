@@ -4,11 +4,10 @@ title: Archive
 permalink: /archive/
 image: CUK_4Seasons.jpg
 description: Archive of events, memories and achievements of the Network Science Lab at the Catholic University of Korea
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
 ---
-
-<h5>Table of Contents</h5>
-* TOC
-{:toc}
 
 ***
 ### 2024
