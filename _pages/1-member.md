@@ -15,6 +15,7 @@ toc_label: "Table of Contents"
 ***
 
 #### Prof. [O-Joun Lee](https://nslab-cuk.github.io/member/ojlee)
+{:.no_toc}
 
 <img align="left" src="/images/ojlee4.JPG" style="width : 180px; height : 240px; margin : 10px">
 
@@ -24,17 +25,20 @@ I also lead a research group called [the Network Science Lab](https://nslab-cuk.
 
 
 ###### Research Experience
+{:.no_toc}
 
 * Sep 2021 -- Present: Assistant Professor, [<img src="/images/AI_Logo.png" alt="drawing" style="height: 20px;"/> Dept. of Artificial Intelligence](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Sep 2019 -- Aug 2021: Researcher, [<img src="/images/iLab_Logo.png" alt="drawing" style="height: 20px;"/> Future IT Innovation Laboratory](https://i-lab.postech.ac.kr/), [<img src="/images/POSTECHLogo.png" alt="drawing" style="height: 20px;"/> Pohang University of Science and Technology](https://postech.ac.kr/), Pohang, Korea
 
 ###### Education
+{:.no_toc}
 
 * Mar 2015 -- Aug 2019: Ph.D. in Computer Science and Engineering, [<img src="/images/CAULogo.png" alt="drawing" style="height: 20px;"/> Chung-Ang University](https://www.cau.ac.kr/), Seoul, Korea
   * Under the supervision of [Prof. Jason J. Jung](http://intelligent.pe.kr/) within the [<img src="/images/KE_Logo.png" alt="drawing" style="height: 20px;"/> Knowledge Engineering Lab](http://ke.cau.ac.kr/Main_Page)
 * Mar 2011 -- Feb 2015: B.Eng. in Software Science, [<img src="/images/DKU_Logo1.jpg" alt="drawing" style="height: 20px;"/> Dankook University](https://www.dankook.ac.kr/), Yongin, Korea
 
 ###### Contact
+{:.no_toc}
 
 * <a href="mailto:ojlee@catholic.ac.kr"><img src="https://img.shields.io/badge/ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
@@ -51,6 +55,7 @@ I also lead a research group called [the Network Science Lab](https://nslab-cuk.
 ***
 
 ###### Dr. [Eun-Soon You](https://nslab-cuk.github.io/member/esyou) (Sep 2022 -- Present)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -75,6 +80,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 #### Ph.D. Course
 
 ###### [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Sep 2022 -- Present; **Lab Representative**)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -91,6 +97,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 ###### Min-Woo Choi (Mar 2023 -- Present; On leaving)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -106,6 +113,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 ###### [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) (Mar 2024 -- Present)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -122,6 +130,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 ###### [Huy Quang Tran](https://nslab-cuk.github.io/member/huy) (Mar 2024 -- Present)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -140,6 +149,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 #### Master's Course
 
 ###### [Phuc Vinh Bui](https://nslab-cuk.github.io/member/phucbui) (Sep 2022 -- Present; On leaving)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -155,6 +165,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 ###### [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) (Sep 2022 -- Present; On leaving)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -171,6 +182,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 ###### [Yanjun Wu](https://nslab-cuk.github.io/member/WYJ) (Aug 2023 -- Present)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -190,94 +202,8 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 # Undergraduate Research Assistants
 ***
 
-<!-- 
-###### [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jysong.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Medical Knowledge Graph</li>
-			<li><a href="https://github.com/sara4423"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
-
-###### [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) (Nov 2021 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jhlee.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2020 -- Present: School of Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Graph Representation Learning</li>
-			<li><a href="mailto:jooho0223@catholic.ac.kr"><img src="https://img.shields.io/badge/-jooho0223@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-			<li><a href="https://github.com/BWAAEEEK"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
-
-###### [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) (Dec 2021 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hbahn.png"/></td>  
-		<td><ul>
-			<li>Mar 2021 -- Present: Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Multi-modal Representation Learning</li>
-			<li><a href="https://github.com/hyebing"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
-
-###### [Se Eun Cho](https://nslab-cuk.github.io/member/secho) (Jan 2022 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/secho.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2021 -- Present: Dept. of Economics, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Knowledge Graph Embedding</li>
-			<li><a href="https://github.com/seny1004"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-			<li><a href="https://velog.io/@cho_se_ny"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
-
-###### [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim) (Oct 2022 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hbkim.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2022 -- Present: Dept. of Mathematices, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Recommendation Systems</li>
-			<li><a href="https://github.com/Beomll"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-			<li><a href="https://velog.io/@khb6494"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
-###### [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) (Jan 2023 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/helee.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2020 -- Present: Dept. of Biotechnology, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Medical Knowledge Graph</li>
-			<li><a href="mailto:gydnsml@catholic.ac.kr"><img src="https://img.shields.io/badge/-gydnsml@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
--->
-
 ###### [Hye Min Kim](https://nslab-cuk.github.io/member/hmKim) (Jul 2023 -- Present)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -291,6 +217,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 ###### [Jin Woo Jeong](https://nslab-cuk.github.io/member/jwJeong) (Jul 2023 -- Present)
+{:.no_toc}
 
 <table border="0">  
    <tr valign="top">
@@ -305,6 +232,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 ###### [Jinho Seo](https://nslab-cuk.github.io/member/jhSeo) (Jul 2023 -- Present; In Military Service)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -319,6 +247,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 ###### [Hochan Yang](https://nslab-cuk.github.io/member/hcYang) (May 2024 -- Present)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -332,6 +261,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 ###### [Ju Hee Shim](https://nslab-cuk.github.io/member/jhShim) (May 2024 -- Present)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -345,6 +275,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 ###### [Se Won Park](https://nslab-cuk.github.io/member/hcYang) (May 2024 -- Present)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -357,29 +288,6 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 	</tr>
 </table>
 
-<!-- 
-###### [Yu Jin Yang](https://nslab-cuk.github.io/member/yjyang) (Feb 2023 -- Present)
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/yjyang.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2022 -- Present: Dept. of Data Science, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: </li>
-		</ul></td>
-	</tr>
-</table>
-
-
-<br>
-#### Interns
-
-* [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) (Dec 2021 -- Present) <a href="https://github.com/sara4423"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-* [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) (Dec 2021 -- Present) <a href="https://github.com/hyebing"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-* [Se Eun Cho](https://nslab-cuk.github.io/member/secho) (Jan 2022 -- Present) <a href="https://github.com/seny1004"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a> <a href="https://velog.io/@cho_se_ny"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
-* [Sang Yu Park](https://nslab-cuk.github.io/member/sypark) (Oct 2022 -- Present)
-* [Yu Jin Yang](https://nslab-cuk.github.io/member/yjyang) (Feb 2023 -- Present)
--->
 
 ***
 # Alumni
@@ -396,6 +304,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 #### B.Eng.
 
 ###### [Min Seo Kim](https://nslab-cuk.github.io/member/mskim) (Aug 2023 -- Jun 2024)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
@@ -412,6 +321,7 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 </table>
 
 ###### [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) (Sep 2022 -- Dec 2022)
+{:.no_toc}
 
 <table border="0">  
 	<tr valign="top">
