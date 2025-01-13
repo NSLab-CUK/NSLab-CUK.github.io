@@ -341,37 +341,39 @@ table tfoot td {
   }
 }
 
-.sidebar__right {
-  margin-bottom: 1em;
+.sidebar__right .toc {
+  position: sticky;
+  top: 2em;
+  max-height: calc(100vh - 7em);
+  overflow-y: auto;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background-color: $background-color;
+  box-shadow: $box-shadow;
 
-  @include breakpoint($large) {
-    position: absolute;
-    top: 0;
-    inset-inline-end: 0;
-    width: $right-sidebar-width-narrow;
-    margin-inline-end: -1 * $right-sidebar-width-narrow;
-    padding-inline-start: 1em;
-    z-index: 10;
-
-    &.sticky {
-      @include clearfix();
-      position: -webkit-sticky;
-      position: sticky;
-      top: 2em;
-      float: inline-end;
-
-      .toc {
-        .toc__menu {
-          overflow-y: auto;
-          max-height: calc(100vh - 7em);
-        }
-      }
-    }
+  .nav__title {
+    color: #fff;
+    background-color: $primary-color;
+    padding: 0.75rem 1rem;
+    font-size: $type-size-6;
   }
+}
 
-  @include breakpoint($x-large) {
-    width: $right-sidebar-width;
-    margin-inline-end: -1 * $right-sidebar-width;
+@media only screen and (max-width: $medium) {
+  .sidebar__right .toc {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+    background-color: $background-color;
+    padding: 1em;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+}
+
+@media only screen and (max-width: $small) {
+  .sidebar__right {
+    display: none;
   }
 }
 
