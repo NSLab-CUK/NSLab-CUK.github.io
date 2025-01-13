@@ -618,14 +618,6 @@ table tfoot td {
   }
 }
 
-/*
-     Table of contents navigation
-     ========================================================================== */
-
-/* ==========================================================================
-   Table of Contents Navigation (Updated for Larger Size)
-   ========================================================================== */
-
 .toc {
   font-family: $sans-serif-narrow;
   color: $gray;
@@ -635,14 +627,14 @@ table tfoot td {
   box-shadow: $box-shadow;
   position: sticky;
   top: 2em;
-  width: 280px; // Increased width
+  width: 280px;
   max-height: calc(100vh - 7em);
   overflow-y: auto;
-  padding: 1.5em; // Added padding for better spacing
+  padding: 1.5em;
 
   .nav__title {
     color: #fff;
-    font-size: $type-size-4; // ~20px
+    font-size: $type-size-4;
     background: $primary-color;
     padding: 1rem;
     border-start-start-radius: $border-radius;
@@ -651,7 +643,7 @@ table tfoot td {
 
   .active a {
     color: $primary-color;
-    border-left: 6px solid $primary-color; // Thicker active indicator
+    border-left: 6px solid $primary-color;
   }
 }
 
@@ -660,8 +652,8 @@ table tfoot td {
   padding: 0;
   width: 100%;
   list-style: none;
-  font-size: $type-size-4; // Increased font size (~20px)
-  line-height: 1.8; // Improved line spacing
+  font-size: $type-size-4;
+  line-height: 1.8;
 
   a {
     display: block;
@@ -679,7 +671,14 @@ table tfoot td {
     &.active {
       color: $primary-color;
       border-left-color: $primary-color;
-      font-size: $type-size-3; // Make active link slightly bigger (~25px)
+      font-size: $type-size-3;
     }
   }
+
+  li ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
 }
+
