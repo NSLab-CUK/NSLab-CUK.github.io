@@ -9,7 +9,7 @@ toc_sticky: true
 toc_label: "Table of Contents"
 ---
 
-> Graphs illustrate intricate patterns in our perception of the world and ourselves; graph mining enhances this comprehension by highlighting overlooked details.
+> Graphs illustrate intricate patterns in our perception of the world and ourselves;<br> graph mining enhances this comprehension by highlighting overlooked details.
 
 ***
 # Graph Representation Learning
