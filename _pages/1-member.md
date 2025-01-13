@@ -252,7 +252,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 	</tr>
 </table>
 
-###### [Se Won Park](https://nslab-cuk.github.io/member/hcYang) (May 2024 -- Present)
+###### [Hyun Woo Kim](https://nslab-cuk.github.io/member/hwKim) (May 2024 -- Present)
 {:.no_toc}
 
 <table border="0">  
@@ -266,6 +266,19 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 	</tr>
 </table>
 
+###### [Jun Hee Cho](https://nslab-cuk.github.io/member/jhCho) (May 2024 -- Present)
+{:.no_toc}
+
+<table border="0">  
+	<tr valign="top">
+		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/swPark.jpg"/></td>  
+		<td><ul>
+			<li>Mar 2017 -- Present: B.Sc. in Mathematics, The Catholic University of Korea, Bucheon, Korea</li>		
+			<li>Research Interest: Image Classification</li>
+			<li><a href="mailto:afaa132@catholic.ac.kr"><img src="https://img.shields.io/badge/-afaa132@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
+		</ul></td>
+	</tr>
+</table>
 
 ***
 # Alumni
