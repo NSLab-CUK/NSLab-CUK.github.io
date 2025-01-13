@@ -16,6 +16,8 @@ toc_label: "Table of Contents"
 - **Lecture Times:** Tuesday (Periods 2–3), Thursday (Period 3)  
 - **Classroom:** Sophie Barat Hall B346
 
+***
+
 ## **2. Instructor & TAs**
 
 ### **Instructor**
