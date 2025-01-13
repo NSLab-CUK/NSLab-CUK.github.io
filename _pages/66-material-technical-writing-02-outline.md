@@ -121,7 +121,7 @@ toc_label: "Table of Contents"
 
 ### 4.3 (예시) Simple Abstract
 
-> **예시**: *Transformer-based Neural Ranking Models have recently demonstrated state-of-the-art performances in information retrieval tasks. However, their computational cost remains prohibitively high for real-time applications. In this paper, we introduce a novel Lightweight Distillation Framework (LDF) that significantly reduces model size and latency while preserving retrieval accuracy. Our experiments on MSMARCO and TREC datasets show that LDF achieves a 2x speedup over BERT-based retrievers with less than a 1% drop in MRR. This method offers a practical solution for large-scale commercial search systems.*
+**예시**: *Transformer-based Neural Ranking Models have recently demonstrated state-of-the-art performances in information retrieval tasks. However, their computational cost remains prohibitively high for real-time applications. In this paper, we introduce a novel Lightweight Distillation Framework (LDF) that significantly reduces model size and latency while preserving retrieval accuracy. Our experiments on MSMARCO and TREC datasets show that LDF achieves a 2x speedup over BERT-based retrievers with less than a 1% drop in MRR. This method offers a practical solution for large-scale commercial search systems.*
 
 - **AI 배경**: “Transformer-based Neural Ranking Models…”  
 - **문제**: “computational cost remains too high…”  
@@ -132,32 +132,24 @@ toc_label: "Table of Contents"
 
 ## 5. 아웃라인 + 제목 + Abstract, 종합 예시
 
-> **아웃라인**:  
-> 1. Introduction  
-> 2. Related Work  
-> 3. Proposed Method: LDF (Lightweight Distillation Framework)  
-> 4. Experiments  
->     - 4.1. Datasets & Baselines  
->     - 4.2. Implementation Details  
->     - 4.3. Results & Analysis  
-> 5. Discussion  
-> 6. Conclusion & Future Work
+**아웃라인**:  
+1. Introduction  
+2. Related Work  
+3. Proposed Method: LDF (Lightweight Distillation Framework)  
+4. Experiments  
+     - 4.1. Datasets & Baselines  
+     - 4.2. Implementation Details  
+     - 4.3. Results & Analysis  
+5. Discussion  
+6. Conclusion & Future Work
 
-> **제목**:  
-> “A Lightweight Distillation Framework for Transformer-based Neural Ranking:  
->  Speedup with Minimal Accuracy Loss”
+**제목**:  
+“A Lightweight Distillation Framework for Transformer-based Neural Ranking: Speedup with Minimal Accuracy Loss”
 
-> **Abstract(간략)**:  
-> ```
-> Transformer-based Neural Ranking Models have recently demonstrated 
-> state-of-the-art performances in information retrieval tasks. However, 
-> their computational cost remains prohibitively high for real-time applications. 
-> In this paper, we introduce a novel Lightweight Distillation Framework (LDF) that 
-> significantly reduces model size and latency while preserving retrieval accuracy. 
-> Our experiments on MSMARCO and TREC datasets show that LDF achieves a 2x speedup 
-> with less than a 1% drop in MRR, offering a practical solution for large-scale 
-> commercial search systems.
-> ```
+**Abstract(간략)**:  
+
+*Transformer-based Neural Ranking Models have recently demonstrated state-of-the-art performances in information retrieval tasks. However, their computational cost remains prohibitively high for real-time applications. In this paper, we introduce a novel Lightweight Distillation Framework (LDF) that significantly reduces model size and latency while preserving retrieval accuracy. Our experiments on MSMARCO and TREC datasets show that LDF achieves a 2x speedup with less than a 1% drop in MRR, offering a practical solution for large-scale commercial search systems.*
+
 
 이처럼 **아웃라인**, **제목**, **Abstract**가 상호 일관성 있게 구성되면, **심사위원**, **공동 연구자**, **독자** 모두 “이 논문이 어떤 내용을 어떻게 전개하겠다”는 걸 명확히 파악할 수 있습니다.
 
