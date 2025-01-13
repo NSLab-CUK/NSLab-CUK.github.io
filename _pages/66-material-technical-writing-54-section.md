@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 섹션의 구성과 작성 방법
-permalink: /lecture/material/intro-technical-writing/paragraph
+permalink: /lecture/material/intro-technical-writing/section
 image: CUK_4Seasons.jpg
 description: 이 글은 여러 문단을 모아 ‘섹션(Section)’ 단위로 글을 구성하고 작성하는 방법에 대한 가이드입니다. 한 섹션 안에는 여러 문단이 들어가며, 각 문단이 연결·유기적으로 짜여야 해당 섹션의 주제가 분명하고 논리적으로 전개될 수 있습니다. 이번 글에서는 섹션의 역할, 섹션을 구성하는 문단 간 배치 전략, 그리고 작성 시 주의점 등을 단계별로 살펴보겠습니다.
 toc: true
