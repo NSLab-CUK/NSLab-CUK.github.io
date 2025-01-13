@@ -4,15 +4,12 @@ title: Research
 permalink: /research/
 image: Bib_Network.png
 description: Presentation of the research areas and ongoing research projects of the Network Science Lab at the Catholic University of Korea
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
 ---
 
 > Graphs illustrate intricate patterns in our perception of the world and ourselves; graph mining enhances this comprehension by highlighting overlooked details.
-
-***
-
-<h5>Table of Contents</h5>
-* TOC
-{:toc}
 
 ***
 # Graph Representation Learning
