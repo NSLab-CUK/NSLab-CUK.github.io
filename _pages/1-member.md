@@ -4,6 +4,9 @@ title: Member
 permalink: /member/
 image: 220908_2.jpg
 description: Members, alumni and collaborators of the Network Science Lab at the Catholic University of Korea
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
 ---
 
 
