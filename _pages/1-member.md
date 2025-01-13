@@ -47,7 +47,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ###### Dr. [Eun-Soon You](https://nslab-cuk.github.io/member/esyou) (Sep 2022 -- Present)
 {:.no_toc}
 
-<img align="right" src="https://nslab-cuk.github.io/images/ESYou.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 25%;">
+<img align="right" src="https://nslab-cuk.github.io/images/ESYou.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
 
 * Nov 2000 -- Jul 2007: Ph.D. in Computational Linguistics, University Bourgogne Franche-Comté, Besançon, France
 * Oct 1998 -- Oct 1999: M.A. in Computational Linguistics, University Bourgogne Franche-Comté, Besançon, France
@@ -55,6 +55,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Mar 1991 -- Feb 1995: B.A. in French Literature and Linguistics, Inha University, Incheon, Republic of Korea
 * Research Interest: Digital Humanities and Social Sciences
 * <a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
 
 ***
 # Researchers
@@ -65,7 +66,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ###### [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Sep 2022 -- Present; **Lab Representative**)
 {:.no_toc}
 
-<img align="right" src="https://nslab-cuk.github.io/images/Thuy.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 25%;">
+<img align="right" src="https://nslab-cuk.github.io/images/Thuy.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
 
 * Sep 2022 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea	
 * Jan 2017 -- Dec 2018: M.Eng. in Information System, Le Quy Don Technical University, Hanoi, Vietnam
@@ -74,183 +75,128 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="mailto:hoangvanthuy90@catholic.ac.kr"><img src="https://img.shields.io/badge/-hoangvanthuy90@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 
+
 ###### Min-Woo Choi (Mar 2023 -- Present; On leaving)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/MWChoi.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2023 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>	
-			<li>Mar 2017 -- Feb 2019: M.Sc. in Atmospheric Sciences, Kongju National University, Gongju, Korea</li>
-			<li>Mar 2011 -- Feb 2017: B.Sc. in Atmospheric Sciences, Kongju National University, Gongju, Korea</li>
-			<li>Research Interest: Weather Forecasting with Graph Neural Networks</li>
-			<li><a href="mailto:choimin1231@catholic.ac.kr"><img src="https://img.shields.io/badge/-choimin1231@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/MWChoi.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+
+* Mar 2023 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* Mar 2017 -- Feb 2019: M.Sc. in Atmospheric Sciences, Kongju National University, Gongju, Korea
+* Mar 2011 -- Feb 2017: B.Sc. in Atmospheric Sciences, Kongju National University, Gongju, Korea
+* Research Interest: Weather Forecasting with Graph Neural Networks
+* <a href="mailto:choimin1231@catholic.ac.kr"><img src="https://img.shields.io/badge/-choimin1231@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
 
 ###### [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) (Mar 2024 -- Present)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Thanh.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2024 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Sep 2020 -- Feb 2023: M.Eng. in AI Convergence, Chonnam National University, Gwangju, Korea</li>
-			<li>Sep 2015 -- Aug 2020: B.Eng. in Information Systems, University of Information Technology, Ho Chi Minh City, Vietnam</li>
-			<li>Research Interest: Graph Representation Learning</li>
-			<li><a href="mailto:osfa19730@catholic.ac.kr"><img src="https://img.shields.io/badge/-osfa19730@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-			<li><a href="https://github.com/BachThanh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/Thanh.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+
+* Mar 2024 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* Sep 2020 -- Feb 2023: M.Eng. in AI Convergence, Chonnam National University, Gwangju, Korea
+* Sep 2015 -- Aug 2020: B.Eng. in Information Systems, University of Information Technology, Ho Chi Minh City, Vietnam
+* Research Interest: Graph Representation Learning
+* <a href="mailto:osfa19730@catholic.ac.kr"><img src="https://img.shields.io/badge/-osfa19730@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="https://github.com/BachThanh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+
 
 ###### [Huy Quang Tran](https://nslab-cuk.github.io/member/huy) (Mar 2024 -- Present)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Huy.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2024 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Mar 2021 -- Feb 2023: M.Eng. in Electrical, Electronics and Computer Engineering, University of Ulsan, Ulsan, Korea</li>
-			<li>Oct 2013 -- Sep 2017: B.Sc. in Mathematics and Computer Science, University of Science, Vietnam National University, Ho Chi Minh City, Vietnam</li>
-			<li>Research Interest: Graph Representation Learning</li>
-			<li><a href="mailto:huytran1994@catholic.ac.kr"><img src="https://img.shields.io/badge/-huytran1994@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-			<li><a href="https://github.com/HasukiHT"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/Huy.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+
+* Mar 2024 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea	
+* Mar 2021 -- Feb 2023: M.Eng. in Electrical, Electronics and Computer Engineering, University of Ulsan, Ulsan, Korea
+* Oct 2013 -- Sep 2017: B.Sc. in Mathematics and Computer Science, University of Science, Vietnam National University, Ho Chi Minh City, Vietnam
+* Research Interest: Graph Representation Learning
+* <a href="mailto:huytran1994@catholic.ac.kr"><img src="https://img.shields.io/badge/-huytran1994@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="https://github.com/HasukiHT"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+
 
 #### Master's Course
 
 ###### [Phuc Vinh Bui](https://nslab-cuk.github.io/member/phucbui) (Sep 2022 -- Present; On leaving)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Phuc.jpg"/></td>  
-		<td><ul>
-			<li>Sep 2022 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Sep 2015 -- Jun 2019: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam</li>
-			<li>Research Interest: Medical Knowledge Graph</li>
-			<li><a href="mailto:orenji@catholic.ac.kr"><img src="https://img.shields.io/badge/-orenji@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-			<li><a href="https://github.com/phucbuiforwork"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/Phuc.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+
+* Sep 2022 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* Sep 2015 -- Jun 2019: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam
+* Research Interest: Medical Knowledge Graph
+* <a href="mailto:orenji@catholic.ac.kr"><img src="https://img.shields.io/badge/-orenji@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="https://github.com/phucbuiforwork"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+
 
 ###### [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) (Sep 2022 -- Present; On leaving)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Sang.jpg"/></td>  
-		<td><ul>
-			<li>Sep 2022 -- Present: M.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>
-			<li>March 2021 -- Sep 2022: DevOps Engineer, <a href="https://symphony.com/">Symphony</a> project, FPT Software, Danang, Vietnam</li>
-			<li>Sep 2017 -- Jun 2021: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam</li>
-			<li>Research Interest: Graph Representation Learning</li>
-			<li><a href="mailto:sangnguyen@catholic.ac.kr"><img src="https://img.shields.io/badge/-sangnguyen@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-			<li><a href="https://github.com/nguyenthanhsang99"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/Sang.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+
+* Sep 2022 -- Present: M.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* March 2021 -- Sep 2022: DevOps Engineer, <a href="https://symphony.com/">Symphony</a> project, FPT Software, Danang, Vietnam
+* Sep 2017 -- Jun 2021: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam
+* Research Interest: Graph Representation Learning
+* <a href="mailto:sangnguyen@catholic.ac.kr"><img src="https://img.shields.io/badge/-sangnguyen@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="https://github.com/nguyenthanhsang99"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+
 
 ###### [Yanjun Wu](https://nslab-cuk.github.io/member/WYJ) (Aug 2023 -- Present)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/ujO.jpg"/></td>  
-		<td><ul>
-			<li>Sep 2023 -- Present: M.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>
-			<li>Sep 2019 -- Aug 2023: B.A. in Korean Language and Literature, Jeonju University, Jeonju, Korea</li>
-			<li>Sep 2015 -- Aug 2019: B.P.A. in Public Administration, The Open University of China, Beijing, China</li>
-			<li>Research Interset: NLP Long Text Summary</li>
-			<li><a href="mailto:wuyanjun@catholic.ac.kr"><img src="https://img.shields.io/badge/-wuyanjun@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/Sang.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+
+* Sep 2023 -- Present: M.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* Sep 2019 -- Aug 2023: B.A. in Korean Language and Literature, Jeonju University, Jeonju, Korea
+* Sep 2015 -- Aug 2019: B.P.A. in Public Administration, The Open University of China, Beijing, China
+* Research Interset: NLP Long Text Summary
+* <a href="mailto:wuyanjun@catholic.ac.kr"><img src="https://img.shields.io/badge/-wuyanjun@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 
 ***
 # Undergraduate Research Assistants
 ***
 
-###### [Hye Min Kim](https://nslab-cuk.github.io/member/hmKim) (Jul 2023 -- Present)
-{:.no_toc}
-
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hmkim.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2021 -- Present: B.Phil. in Philosophy, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Story generation</li>
-			<li><a href="mailto:hyemin090@catholic.ac.kr"><img src="https://img.shields.io/badge/-hyemin090@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
-
 ###### [Jin Woo Jeong](https://nslab-cuk.github.io/member/jwJeong) (Jul 2023 -- Present)
 {:.no_toc}
 
-<table border="0">  
-   <tr valign="top">
-      <td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jwJeong.jpg"/></td>  
-      <td><ul>
-         <li>Mar 2020 -- Present: B.Sc. in Mathematics, The Catholic University of Korea, Bucheon, Korea</li>      
-         <li>Research Interest: Recommender System</li>
-         <li><a href="mailto:zeus0208b@catholic.ac.kr"><img src="https://img.shields.io/badge/-zeus0208b@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-	 <li><a href="https://velog.io/@zeus0208b"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
-      </ul></td>
-   </tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/hmkim.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+
+* Mar 2020 -- Present: B.Sc. in Mathematics, The Catholic University of Korea, Bucheon, Korea
+* Research Interest: Recommender System
+* <a href="mailto:zeus0208b@catholic.ac.kr"><img src="https://img.shields.io/badge/-zeus0208b@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="https://velog.io/@zeus0208b"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
+
 
 ###### [Jinho Seo](https://nslab-cuk.github.io/member/jhSeo) (Jul 2023 -- Present; In Military Service)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jhSeo.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2023 -- Present: B.Eng. in  Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Vulnerability Analysis</li>
-			<li><a href="mailto:kkinho04@catholic.ac.kr"><img src="https://img.shields.io/badge/-kkinho04@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-			<li><a href="https://github.com/orangemush7777"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/jhSeo.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+
+* Mar 2023 -- Present: B.Eng. in  Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
+* Research Interest: Software Vulnerability Analysis with GNNs
+* <a href="mailto:kkinho04@catholic.ac.kr"><img src="https://img.shields.io/badge/-kkinho04@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="https://github.com/orangemush7777"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+
 
 ###### [Hochan Yang](https://nslab-cuk.github.io/member/hcYang) (May 2024 -- Present)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/hcYang.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2020 -- Present: B.Eng. in  Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Natural Language Processing</li>
-			<li><a href="mailto:ukg_15@catholic.ac.kr"><img src="https://img.shields.io/badge/-ukg_15@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/hcYang.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+
+* Mar 2020 -- Present: B.Eng. in  Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
+* Research Interest: Natural Language Processing
+* <a href="mailto:ukg_15@catholic.ac.kr"><img src="https://img.shields.io/badge/-ukg_15@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
 
 ###### [Ju Hee Shim](https://nslab-cuk.github.io/member/jhShim) (May 2024 -- Present)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/jhShim.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2022 -- Present: B.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Data analysis</li>
-			<li><a href="mailto:shim020616@catholic.ac.kr"><img src="https://img.shields.io/badge/-shim020616@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/jhShim.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+
+* Mar 2022 -- Present: B.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* Research Interest: Recommender System
+* <a href="mailto:shim020616@catholic.ac.kr"><img src="https://img.shields.io/badge/-shim020616@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 ###### [Hyun Woo Kim](https://nslab-cuk.github.io/member/hwKim) (May 2024 -- Present)
 {:.no_toc}
