@@ -47,23 +47,14 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ###### Dr. [Eun-Soon You](https://nslab-cuk.github.io/member/esyou) (Sep 2022 -- Present)
 {:.no_toc}
 
-<img align="left" src="https://nslab-cuk.github.io/images/ESYou.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 25%;">
+<img align="right" src="https://nslab-cuk.github.io/images/ESYou.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 25%;">
 
 * Nov 2000 -- Jul 2007: Ph.D. in Computational Linguistics, University Bourgogne Franche-Comté, Besançon, France
-* Oct 1998 -- Oct 1999: Master of Arts in Computational Linguistics, University Bourgogne Franche-Comté, Besançon, France
-* Mar 1995 -- Feb 1997: Master of Arts in French Literature and Linguistics, Inha University, Incheon, Republic of Korea
-* Mar 1991 -- Feb 1995: Bachelor of Arts in French Literature and Linguistics, Inha University, Incheon, Republic of Korea
+* Oct 1998 -- Oct 1999: M.A. in Computational Linguistics, University Bourgogne Franche-Comté, Besançon, France
+* Mar 1995 -- Feb 1997: M.A. in French Literature and Linguistics, Inha University, Incheon, Republic of Korea
+* Mar 1991 -- Feb 1995: B.A. in French Literature and Linguistics, Inha University, Incheon, Republic of Korea
+* Research Interest: Digital Humanities and Social Sciences
 * <a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-
-<table border="0">  
-	<tr valign="top">
-		<td style="width : 100px; max-width: 25%;"></td>  
-		<td><ul>
-			Eun-Soon You has been a lecturer at the Catholic University of Korea, Rep. of Korea, since September 2022. She received her Ph.D. degree in Computational Linguistics from Besancon University, France, in 2007.  She was a full-time researcher at Inha University, Rep. of Korea, from July 2017 to December 2019. Her research topics are Natural Language Processing (NLP), AI Ethics, and Story generation. 
-			<li><a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
 
 ***
 # Researchers
@@ -74,19 +65,14 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ###### [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Sep 2022 -- Present; **Lab Representative**)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td style="width : 100px; max-width: 25%;"><img align="left" src="https://nslab-cuk.github.io/images/Thuy.jpg" style="width : 100%; margin: 0px !important; max-width: 100px;"></td>  
-		<td><ul>
-			<li>Sep 2022 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>	
-			<li>Jan 2017 -- Dec 2018: M.Eng. in Information System, Le Quy Don Technical University, Hanoi, Vietnam</li>
-			<li>Sep 2008 -- Dec 2013: B.Eng. in Information Technology, Le Quy Don Technical University, Hanoi, Vietnam</li>
-			<li>Research Interest: Graph Representation Learning</li>
-			<li><a href="mailto:hoangvanthuy90@catholic.ac.kr"><img src="https://img.shields.io/badge/-hoangvanthuy90@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-			<li><a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/Thuy.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 25%;">
+
+* Sep 2022 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea	
+* Jan 2017 -- Dec 2018: M.Eng. in Information System, Le Quy Don Technical University, Hanoi, Vietnam
+* Sep 2008 -- Dec 2013: B.Eng. in Information Technology, Le Quy Don Technical University, Hanoi, Vietnam
+* Research Interest: Graph Representation Learning
+* <a href="mailto:hoangvanthuy90@catholic.ac.kr"><img src="https://img.shields.io/badge/-hoangvanthuy90@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 
 ###### Min-Woo Choi (Mar 2023 -- Present; On leaving)
 {:.no_toc}
