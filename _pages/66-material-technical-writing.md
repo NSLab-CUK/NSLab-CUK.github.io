@@ -4,9 +4,6 @@ title: 기술적 글쓰기 기초 강의자료
 permalink: /lecture/material/intro-technical-writing/
 image: CUK_4Seasons.jpg
 description: 가톨릭대학교 인공지능학과에서 진행되는 기술적 글쓰기 기초 (07274) 수업 강의자료입니다.
-toc: true
-toc_sticky: true
-toc_label: "Table of Contents"
 ---
 
 ---
