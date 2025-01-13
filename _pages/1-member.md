@@ -17,7 +17,7 @@ toc_label: "Table of Contents"
 #### Prof. [O-Joun Lee](https://nslab-cuk.github.io/member/ojlee)
 {:.no_toc}
 
-<img align="left" src="/images/ojlee4.JPG" style="width : 180px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 0px !important; margin-bottom: 10px !important; max-width: 30%;">
+<img align="left" src="/images/ojlee4.JPG" style="width : 150px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
 
 O-Joun Lee has been an assistant professor at [the Catholic University of Korea](https://catholic.ac.kr), Rep. of Korea, since September 2021. He received his Ph.D. degree in Computer Science and Engineering from Chung-Ang University in 2019 (Supervisor: [Prof. Jason J. Jung](http://intelligent.pe.kr/); [Knowledge Engineering Lab](http://ke.cau.ac.kr/Main_Page)). He also received his B.Eng. degree in Software Science from Dankook University in 2015. He was a full-time researcher at Pohang University of Science and Technology, Rep. of Korea, from September 2019 to August 2021. His research interests include graph mining, graph representation learning, and graph neural networks. He has applied graph mining models and methods to various unstructured data, such as social media, bibliographic data, medical knowledge bases, traffic flow data, molecular structures, etc.
 
@@ -47,9 +47,17 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ###### Dr. [Eun-Soon You](https://nslab-cuk.github.io/member/esyou) (Sep 2022 -- Present)
 {:.no_toc}
 
+<img align="left" src="https://nslab-cuk.github.io/images/ESYou.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 25%;">
+
+* Nov 2000 -- Jul 2007: Ph.D. in Computational Linguistics, University Bourgogne Franche-Comté, Besançon, France
+* Oct 1998 -- Oct 1999: Master of Arts in Computational Linguistics, University Bourgogne Franche-Comté, Besançon, France
+* Mar 1995 -- Feb 1997: Master of Arts in French Literature and Linguistics, Inha University, Incheon, Republic of Korea
+* Mar 1991 -- Feb 1995: Bachelor of Arts in French Literature and Linguistics, Inha University, Incheon, Republic of Korea
+* <a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
 <table border="0">  
 	<tr valign="top">
-		<td style="width : 100px; max-width: 25%;"><img align="left" src="https://nslab-cuk.github.io/images/ESYou.jpg" style="width : 100%; margin: 0px !important; max-width: 100px;"></td>  
+		<td style="width : 100px; max-width: 25%;"></td>  
 		<td><ul>
 			Eun-Soon You has been a lecturer at the Catholic University of Korea, Rep. of Korea, since September 2022. She received her Ph.D. degree in Computational Linguistics from Besancon University, France, in 2007.  She was a full-time researcher at Inha University, Rep. of Korea, from July 2017 to December 2019. Her research topics are Natural Language Processing (NLP), AI Ethics, and Story generation. 
 			<li><a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
