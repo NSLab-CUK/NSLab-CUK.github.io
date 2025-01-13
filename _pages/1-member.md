@@ -294,14 +294,17 @@ You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Ko
 ***
 
 #### Ph.D.
+{:.no_toc}
 
 * TBA
 
 #### M.Eng.
+{:.no_toc}
 
 * TBA
 
 #### B.Eng.
+{:.no_toc}
 
 ###### [Min Seo Kim](https://nslab-cuk.github.io/member/mskim) (Aug 2023 -- Jun 2024)
 {:.no_toc}
