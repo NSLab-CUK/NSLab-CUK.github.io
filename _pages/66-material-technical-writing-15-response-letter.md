@@ -3,7 +3,7 @@ layout: page
 title: 저널 Response Letter 작성 방법
 permalink: /lecture/material/intro-technical-writing/response-letter
 image: CUK_4Seasons.jpg
-description: 저널에 논문을 제출하면, 보통 “1차 심사”*를 거쳐 ‘Revision(수정 요청)’ 결과가 오게 됩니다. 이때 수정 원고(Revised Manuscript)와 함께, 리뷰어들의 코멘트에 어떻게 대응(답변)했는지를 설명하는 ‘리스폰스 레터(Response to Reviewers)’를 제출해야 합니다. 
+description: 저널에 논문을 제출하면, 보통 “1차 심사”를 거쳐 ‘Revision(수정 요청)’ 결과가 오게 됩니다. 이때 수정 원고(Revised Manuscript)와 함께, 리뷰어들의 코멘트에 어떻게 대응(답변)했는지를 설명하는 ‘리스폰스 레터(Response to Reviewers)’를 제출해야 합니다. 
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
