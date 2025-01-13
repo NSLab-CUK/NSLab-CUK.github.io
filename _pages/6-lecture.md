@@ -25,7 +25,7 @@ toc_label: "Table of Contents"
   * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/kor)]
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2024)
 
-* 07274-01 Introduction to Technical Writing (기술적글쓰기기초)
+* [07274-01 Introduction to Technical Writing (기술적글쓰기기초)](https://nslab-cuk.github.io/lecture/material/intro-technical-writing/)
   * Instructor: O-Joun Lee
 
 * 06535-01 Career exploration of Artificial Intelligence 1 (인공지능학과 진로탐색 1) - Joint Lecture
