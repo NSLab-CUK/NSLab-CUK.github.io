@@ -56,8 +56,12 @@ Recommended skills for the applicants are as follows;
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
 [![neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=FFFFFF)](https://neo4j.com/)
 
+
 ***
-### Addresses
+### Contact Information
+
+#### Addresses
+{:.no_toc}
 
 <div class="gmap">
   <p align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d791.4723252778355!2d126.80200158589973!3d37.48693857838225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b62c22341bd79%3A0x13730f14a1fc72e!2z6rCA7Yao66at64yA7ZWZ6rWQIOyEseyLrOq1kOyglQ!5e0!3m2!1sko!2skr!4v1651584191104!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
@@ -71,19 +75,22 @@ Recommended skills for the applicants are as follows;
   * [![Map](https://img.shields.io/badge/Lab%20%232-Sophie%20Barat%20Hall%20B349-0C2E86?style=flat-square&logo=GoogleMaps&logoColor=white)](https://goo.gl/maps/QN3KLhGJC1RYcnNH6)
 * 경기도 부천시 지봉로 43 가톨릭대학교 성심교정 소피이바라관(B관) 첨단학과클러스터 B348호 네트워크과학연구실
 
-***
-### E-mail Addresses
+
+#### E-mail Addresses
+{:.no_toc}
 
 * [![E-mail](https://img.shields.io/badge/Official-nslab.ai.cuk@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:nslab.ai.cuk@gmail.com)
 * [![E-mail](https://img.shields.io/badge/Director-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:ojlee@catholic.ac.kr)
 * [![E-mail](https://img.shields.io/badge/Lab%20Rep-choimin1231@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:choimin1231@gmail.com)
 
-***
-### Phone
+
+#### Phone
+{:.no_toc}
 
 * ![phone](https://custom-icon-badges.demolab.com/badge/Director-%2B82%E2%80%932%E2%80%932164%E2%80%935516-0C2E86.svg?style=flat-square&logo=phone&logoColor=FFFFFF)
 * ![phone](https://custom-icon-badges.demolab.com/badge/Lab%20%231-%2B82%E2%80%932%E2%80%932164%E2%80%935523-0C2E86.svg?style=flat-square&logo=phone&logoColor=FFFFFF)
 * ![phone](https://custom-icon-badges.demolab.com/badge/Fax-%2B82%E2%80%932%E2%80%932164%E2%80%935522-0C2E86.svg?style=flat-square&logo=phone&logoColor=FFFFFF)
+
 
 ***
 ### Related On-Campus Organizations
@@ -100,6 +107,7 @@ The Network Science Lab operates under The Department of Artificial Intelligence
 * [![Website](https://img.shields.io/badge/-The%20CUK%20Portal-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://uportal.catholic.ac.kr/)
 * [![Website](https://img.shields.io/badge/-The%20CUK%20Cyber%20Campus-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://e-cyber.catholic.ac.kr/)
 * [![Website](https://img.shields.io/badge/-AIM%20(Student%20Academic%20Society)-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://cuk-aim.github.io/)
+
 
 ***
 
