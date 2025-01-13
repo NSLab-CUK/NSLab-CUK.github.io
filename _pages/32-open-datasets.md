@@ -4,6 +4,9 @@ title: NS-CUK Open Datasets
 permalink: /open-datasets/
 image: CUK_4Seasons.jpg
 description: Open datasets created by members and collaborators of the Network Science Lab at the Catholic University of Korea
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
 ---
 
 This page serves as a repository for open datasets created by members and collaborators of the Network Science Lab. We aim to improve the availability of open datasets and the reproducibility of experiments, especially in interdisciplinary studies using artificial intelligence and data science perspectives.
