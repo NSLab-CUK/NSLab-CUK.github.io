@@ -350,6 +350,7 @@ table tfoot td {
   box-shadow: $box-shadow;
 
   .nav__title {
+    font-size: $type-size-2;
     color: #fff;
     background-color: $primary-color;
     padding: 0.75rem 1rem;
