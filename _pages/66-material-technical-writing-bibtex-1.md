@@ -3,7 +3,7 @@ layout: page
 title: 학술문헌 서지정보 정리 방법 & BibTeX 활용법 I
 permalink: /lecture/material/intro-technical-writing/bibtex-1
 image: CUK_4Seasons.jpg
-description: 이 글에서는 LaTeX + BibTeX + JabRef + Overleaf 조합을 활용해, 서지정보를 깔끔하게 정리하는 방법을 상세한 단계별로 안내해 드리겠습니다.
+description: 이 글에서는 LaTeX + BibTeX + JabRef + Overleaf 조합을 활용해, 서지정보를 깔끔하게 정리하는 방법을 상세한 단계별로 설명합니다.
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
