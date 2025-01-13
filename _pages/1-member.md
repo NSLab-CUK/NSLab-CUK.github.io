@@ -47,11 +47,15 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ###### Dr. [Eun-Soon You](https://nslab-cuk.github.io/member/esyou) (Sep 2022 -- Present)
 {:.no_toc}
 
-<td width="120"><img align="left" src="https://nslab-cuk.github.io/images/ESYou.jpg" style="width : 100px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 0px !important; margin-bottom: 10px !important; max-width: 25%;">
-
-Eun-Soon You has been a lecturer at the Catholic University of Korea, Rep. of Korea, since September 2022. She received her Ph.D. degree in Computational Linguistics from Besancon University, France, in 2007.  She was a full-time researcher at Inha University, Rep. of Korea, from July 2017 to December 2019. Her research topics are Natural Language Processing (NLP), AI Ethics, and Story generation. 
-
-* <a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+<table border="0">  
+	<tr valign="top">
+		<td><img align="left" src="https://nslab-cuk.github.io/images/ESYou.jpg" style="width : 100px; margin: 0px !important; max-width: 25%;"></td>  
+		<td><ul>
+			Eun-Soon You has been a lecturer at the Catholic University of Korea, Rep. of Korea, since September 2022. She received her Ph.D. degree in Computational Linguistics from Besancon University, France, in 2007.  She was a full-time researcher at Inha University, Rep. of Korea, from July 2017 to December 2019. Her research topics are Natural Language Processing (NLP), AI Ethics, and Story generation. 
+			<li><a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
+		</ul></td>
+	</tr>
+</table>
 
 ***
 # Researchers
@@ -64,7 +68,7 @@ Eun-Soon You has been a lecturer at the Catholic University of Korea, Rep. of Ko
 
 <table border="0">  
 	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Thuy.jpg"/></td>  
+		<td><img align="left" margin="10px" src="https://nslab-cuk.github.io/images/Thuy.jpg" style="width : 100px; margin: 0px !important; max-width: 25%;"></td>  
 		<td><ul>
 			<li>Sep 2022 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>	
 			<li>Jan 2017 -- Dec 2018: M.Eng. in Information System, Le Quy Don Technical University, Hanoi, Vietnam</li>
