@@ -17,12 +17,9 @@ toc_label: "Table of Contents"
 #### Prof. [O-Joun Lee](https://nslab-cuk.github.io/member/ojlee)
 {:.no_toc}
 
-<img align="left" src="/images/ojlee4.JPG" style="width : 180px; height : 240px; margin : 10px">
+<img align="left" src="/images/ojlee4.JPG" style="width : 180px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 0px !important; margin-bottom: 10px !important; max-width: 30%;">
 
 O-Joun Lee has been an assistant professor at [the Catholic University of Korea](https://catholic.ac.kr), Rep. of Korea, since September 2021. He received his Ph.D. degree in Computer Science and Engineering from Chung-Ang University in 2019 (Supervisor: [Prof. Jason J. Jung](http://intelligent.pe.kr/); [Knowledge Engineering Lab](http://ke.cau.ac.kr/Main_Page)). He also received his B.Eng. degree in Software Science from Dankook University in 2015. He was a full-time researcher at Pohang University of Science and Technology, Rep. of Korea, from September 2019 to August 2021. His research interests include graph mining, graph representation learning, and graph neural networks. He has applied graph mining models and methods to various unstructured data, such as social media, bibliographic data, medical knowledge bases, traffic flow data, molecular structures, etc.
-
-I also lead a research group called [the Network Science Lab](https://nslab-cuk.github.io/) at the Catholic University of Korea (CUK). Network science is a field of study that aims to reveal structural patterns in real-world interaction networks, such as social networks, bibliographic networks, power grids, and others. The Network Science Lab (NS Lab; 네트워크과학연구실), part of the [Department of AI](https://ai.catholic.ac.kr/) at CUK, conducts extensive research on a wide range of theories, methods, and applications related to the collection, representation, and analysis of networked data.
-
 
 ###### Research Experience
 {:.no_toc}
@@ -42,13 +39,6 @@ I also lead a research group called [the Network Science Lab](https://nslab-cuk.
 
 * <a href="mailto:ojlee@catholic.ac.kr"><img src="https://img.shields.io/badge/ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
-<!--
-* Mar 2022 -- Present: Head/Assistant Professor, [Dept. of Artificial Intelligence, The Graduate School](https://cukadmin.catholic.ac.kr/cukai.eng/D_141_6080.html), The Catholic University of Korea, Bucheon, Korea
-* Sep 2021 -- Present: Adjunct Professor, [Dept. of Data Science](https://cukadmin.catholic.ac.kr/datascience.eng/index.html), The Catholic University of Korea, Bucheon, Korea
-* Sep 2021 -- Present: Adjunct Professor, [Dept. of Healthcare and Artificial Intelligence, The Graduate School](https://cukmai.catholic.ac.kr/cukmai/index.html), The Catholic University of Korea, Bucheon, Korea
-* Sep 2021 -- Present: Assistant Professor, [Dept. of Artificial Intelligence](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), The Catholic University of Korea, Bucheon, Korea
-* Sep 2019 -- Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, Pohang University of Science and Technology (POSTECH), Pohang, Korea
- -->
 
 ***
 # Post-Doctoral Researchers
@@ -57,21 +47,11 @@ I also lead a research group called [the Network Science Lab](https://nslab-cuk.
 ###### Dr. [Eun-Soon You](https://nslab-cuk.github.io/member/esyou) (Sep 2022 -- Present)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/ESYou.jpg"/></td>  
-		<td><ul>
-			Eun-Soon You has been a lecturer at the Catholic University of Korea, Rep. of Korea, since September 2022. She received her Ph.D. degree in Computational Linguistics from Besancon University, France, in 2007.  She was a full-time researcher at Inha University, Rep. of Korea, from July 2017 to December 2019. Her research topics are Natural Language Processing (NLP), AI Ethics, and Story generation. 
-			<li><a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<td width="120"><img align="left" src="https://nslab-cuk.github.io/images/ESYou.jpg" style="width : 100px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 0px !important; margin-bottom: 10px !important; max-width: 25%;">
 
-<!--
-<img align="left" src="/images/ESYou.jpg" style="width : 180px; height : 240px; margin : 10px">
+Eun-Soon You has been a lecturer at the Catholic University of Korea, Rep. of Korea, since September 2022. She received her Ph.D. degree in Computational Linguistics from Besancon University, France, in 2007.  She was a full-time researcher at Inha University, Rep. of Korea, from July 2017 to December 2019. Her research topics are Natural Language Processing (NLP), AI Ethics, and Story generation. 
 
-You Eun-Soon has been a lecturer at the Catholic University of Korea, Rep. of Korea, since September 2022. She received his Ph.D. degree in Computational Linguistics from Besancon University of France in 2007.  She was a full-time researcher at Inha University, Rep. of Korea, from July 2017 to December 2019. Her research topics are Natural Language Processing(NLP), AI Ethics and Story generation. 
- -->
+* <a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 ***
 # Researchers
