@@ -239,34 +239,26 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ###### [Min Seo Kim](https://nslab-cuk.github.io/member/mskim) (Aug 2023 -- Jun 2024)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/mskim2.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2019 -- Present: B.Eng. in Communications and Electronic Engineering, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Recommendation Systems</li>
-			<li><a href="mailto:kms39273@catholic.ac.kr"><img src="https://img.shields.io/badge/-kms39273@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-			<li><a href="https://github.com/cukminseo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-			<li><a href="https://cukminseo.notion.site/Minseo-Kim-7cc7c1ee1137419fb878df36f38ac8bd?pvs=4"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"></a></li>
-			<li><a href="https://velog.io/@kms39273"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/mskim2.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+
+* Mar 2019 -- Present: B.Eng. in Communications and Electronic Engineering, The Catholic University of Korea, Bucheon, Korea	
+* Research Interest: Recommendation Systems
+* <a href="mailto:kms39273@catholic.ac.kr"><img src="https://img.shields.io/badge/-kms39273@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="https://github.com/cukminseo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+* <a href="https://cukminseo.notion.site/Minseo-Kim-7cc7c1ee1137419fb878df36f38ac8bd?pvs=4"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"></a>
+* <a href="https://velog.io/@kms39273"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
+
 
 ###### [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) (Sep 2022 -- Dec 2022)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/Sangmyeong.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2023 -- Present: M.Eng. in Artificial Intelligence, Hanyang University, Seoul, Korea</li>
-			<li>Mar 2016 -- Feb 2023: B.Sc. in Physics, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li><a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a></li>
-			<li><a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/Sangmyeong.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+
+* Jan 2025 -- Present: Hanwha Momentum, Seoul, Korea
+* Mar 2023 -- Feb 2025: M.Eng. in Artificial Intelligence, Hanyang University, Seoul, Korea
+* Mar 2016 -- Feb 2023: B.Sc. in Physics, The Catholic University of Korea, Bucheon, Korea	
+* <a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+* <a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 
 
 ***
