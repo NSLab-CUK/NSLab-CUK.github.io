@@ -100,7 +100,6 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Graph Representation Learning
 * <a href="mailto:osfa19730@catholic.ac.kr"><img src="https://img.shields.io/badge/-osfa19730@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/BachThanh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-* 📸
 
 ###### [Huy Quang Tran](https://nslab-cuk.github.io/member/huy) (Mar 2024 -- Present)
 {:.no_toc}
@@ -113,7 +112,6 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Graph Representation Learning
 * <a href="mailto:huytran1994@catholic.ac.kr"><img src="https://img.shields.io/badge/-huytran1994@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/HasukiHT"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-* 📈
 
 #### M.Eng. Course
 
