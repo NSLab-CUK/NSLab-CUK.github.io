@@ -16,10 +16,11 @@ toc_label: "Table of Contents"
 
 #### Prof. [O-Joun Lee](https://nslab-cuk.github.io/member/ojlee)
 {:.no_toc}
-
-<img align="left" src="/images/ojlee4.JPG" style="width : 150px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+<div>
+<img align="left" src="/images/ojlee4.JPG" style="width : 180px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
 
 O-Joun Lee has been an assistant professor at [the Catholic University of Korea](https://catholic.ac.kr), Rep. of Korea, since September 2021. He received his Ph.D. degree in Computer Science and Engineering from Chung-Ang University in 2019 (Supervisor: [Prof. Jason J. Jung](http://intelligent.pe.kr/); [Knowledge Engineering Lab](http://ke.cau.ac.kr/Main_Page)). He also received his B.Eng. degree in Software Science from Dankook University in 2015. He was a full-time researcher at Pohang University of Science and Technology, Rep. of Korea, from September 2019 to August 2021. His research interests include graph mining, graph representation learning, and graph neural networks. He has applied graph mining models and methods to various unstructured data, such as social media, bibliographic data, medical knowledge bases, traffic flow data, molecular structures, etc.
+</div>
 
 ###### Research Experience
 {:.no_toc}
@@ -208,7 +209,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Image Classification
 * <a href="mailto:afaa132@catholic.ac.kr"><img src="https://img.shields.io/badge/-afaa132@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
-
+<div>
 ###### [Jun Hee Cho](https://nslab-cuk.github.io/member/jhCho) (May 2024 -- Present)
 {:.no_toc}
 
@@ -217,7 +218,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Mar 2017 -- Present: B.Sc. in Mathematics, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Image Classification
 * <a href="mailto:afaa132@catholic.ac.kr"><img src="https://img.shields.io/badge/-afaa132@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-
+</div>
 
 ***
 # Alumni
