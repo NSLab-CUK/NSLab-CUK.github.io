@@ -212,16 +212,12 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ###### [Jun Hee Cho](https://nslab-cuk.github.io/member/jhCho) (May 2024 -- Present)
 {:.no_toc}
 
-<table border="0">  
-	<tr valign="top">
-		<td width="120"><img align="left" width="100px" margin="10px" src="https://nslab-cuk.github.io/images/swPark.jpg"/></td>  
-		<td><ul>
-			<li>Mar 2017 -- Present: B.Sc. in Mathematics, The Catholic University of Korea, Bucheon, Korea</li>		
-			<li>Research Interest: Image Classification</li>
-			<li><a href="mailto:afaa132@catholic.ac.kr"><img src="https://img.shields.io/badge/-afaa132@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
-		</ul></td>
-	</tr>
-</table>
+<img align="right" src="https://nslab-cuk.github.io/images/swPark.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+
+* Mar 2017 -- Present: B.Sc. in Mathematics, The Catholic University of Korea, Bucheon, Korea
+* Research Interest: Image Classification
+* <a href="mailto:afaa132@catholic.ac.kr"><img src="https://img.shields.io/badge/-afaa132@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
 
 ***
 # Alumni
