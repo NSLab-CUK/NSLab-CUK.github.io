@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 학술 포스터 작성 방법
+title: 학술 발표 포스터 작성 방법
 permalink: /lecture/material/intro-technical-writing/poster
 image: CUK_4Seasons.jpg
 description: 좋은 논문을 완성했더라도, 포스터 세션에서 내용을 얼마나 잘 전달하느냐에 따라 연구 홍보와 피드백의 성과가 달라질 수 있습니다.  
