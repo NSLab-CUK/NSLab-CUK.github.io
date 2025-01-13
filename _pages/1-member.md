@@ -88,6 +88,9 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Weather Forecasting with Graph Neural Networks
 * <a href="mailto:choimin1231@catholic.ac.kr"><img src="https://img.shields.io/badge/-choimin1231@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
+<br>
+
+<br>
 
 ###### [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) (Mar 2024 -- Present)
 {:.no_toc}
@@ -128,6 +131,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="mailto:orenji@catholic.ac.kr"><img src="https://img.shields.io/badge/-orenji@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/phucbuiforwork"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 
+<br>
 
 ###### [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) (Sep 2022 -- Present; On leaving)
 {:.no_toc}
@@ -141,11 +145,12 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="mailto:sangnguyen@catholic.ac.kr"><img src="https://img.shields.io/badge/-sangnguyen@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/nguyenthanhsang99"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 
+<br>
 
 ###### [Yanjun Wu](https://nslab-cuk.github.io/member/WYJ) (Aug 2023 -- Present)
 {:.no_toc}
 
-<img align="right" src="https://nslab-cuk.github.io/images/Sang.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
+<img align="right" src="https://nslab-cuk.github.io/images/ujO.jpg" style="width : 120px; margin-left: 0px !important; margin-right: 10px !important; margin-top: 10px !important; margin-bottom: 10px !important; max-width: 50%;">
 
 * Sep 2023 -- Present: M.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Sep 2019 -- Aug 2023: B.A. in Korean Language and Literature, Jeonju University, Jeonju, Korea
@@ -153,6 +158,9 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interset: NLP Long Text Summary
 * <a href="mailto:wuyanjun@catholic.ac.kr"><img src="https://img.shields.io/badge/-wuyanjun@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
+<br>
+
+<br>
 
 ***
 # Undergraduate Research Assistants
@@ -219,6 +227,9 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Image Classification
 * <a href="mailto:afaa132@catholic.ac.kr"><img src="https://img.shields.io/badge/-afaa132@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
+<br>
+
+<br>
 
 ***
 # Alumni
@@ -261,6 +272,9 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 * <a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 
+<br>
+
+<br>
 
 ***
 # Collaborators
