@@ -214,8 +214,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/swPark.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2017 -- Present: B.Sc. in Mathematics, The Catholic University of Korea, Bucheon, Korea		
-* Research Interest: Image Classification
+* Mar 2017 -- Present: B.Sc. in Biomedical Software Engineering, The Catholic University of Korea, Bucheon, Korea		
+* Research Interest: Information Theory
 * <a href="mailto:afaa132@catholic.ac.kr"><img src="https://img.shields.io/badge/-afaa132@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * 📈
 * 👨‍🎓
