@@ -216,7 +216,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 * Mar 2024 -- Present: B.Sc. in Biomedical Software Engineering, The Catholic University of Korea, Bucheon, Korea		
 * Research Interest: Information Theory
-* <a href="mailto:kimwoohyun0622@gmail.com"><img src="https://img.shields.io/badge/-kimwoohyun0622@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="mailto:kimwoohyun0622@catholic.ac.kr"><img src="https://img.shields.io/badge/-kimwoohyun0622@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * 📈
 * 👨‍🎓
 * 🎉
