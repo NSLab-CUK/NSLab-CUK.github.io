@@ -657,7 +657,7 @@ table tfoot td {
   line-height: 1.8;
 
   li {
-    padding-left: 0; /* Remove indentation */
+    padding-left: 0;
   }
 
   a {
@@ -681,17 +681,17 @@ table tfoot td {
     }
   }
 
-  /* Remove the padding for nested lists */
   li ul {
     list-style: none;
     margin: 0;
-    padding-left: 0;
+    padding: 0;
 
     a {
-      padding-left: 0; /* Remove additional padding */
+      padding-left: 1rem;
     }
   }
 }
+
 
 
 
