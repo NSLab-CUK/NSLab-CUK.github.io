@@ -230,10 +230,6 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Mar 2021 -- Present: B.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Recommender System
 * <a href="mailto:junhe0733@catholic.ac.kr"><img src="https://img.shields.io/badge/-junhe0733@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-* 📈
-* 👨‍🎓
-* 🎉
-* 💻
 
 ***
 # Alumni
