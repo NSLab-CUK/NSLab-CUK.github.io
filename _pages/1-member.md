@@ -225,7 +225,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ###### [Jun Hee Cho](https://nslab-cuk.github.io/member/jhCho) (May 2024 -- Present)
 {:.no_toc}
 
-<img align="right" display="block" src="https://nslab-cuk.github.io/images/swPark.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+<img align="right" display="block" src="https://nslab-cuk.github.io/images/jhCho.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
 * Mar 2021 -- Present: B.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Recommender System
