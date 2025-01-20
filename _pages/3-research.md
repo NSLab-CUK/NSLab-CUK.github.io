@@ -37,6 +37,7 @@ toc_label: "Table of Contents"
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1uLluSX5RJ2_9xYkOm5Q3VCQmOM9gTGCp/view?usp=sharing)
 [![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1coABVZSKQGzzW9wtz3n6e8b4if4VtWA0/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/pq-lzrBDqBY)
+[![Underline](https://img.shields.io/badge/Underline-black?style=flat-square)](https://underline.io/lecture/91956-transitivity-preserving-graph-representation-learning-for-bridging-local-connectivity-and-role-based-similarity)
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.newsis.com/view/?id=NISX20240227_0002640784&cID=14001&pID=14000#)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Unified-Graph-Transformer)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Unified-Graph-Transformer)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
@@ -59,6 +60,10 @@ toc_label: "Table of Contents"
 [![arXiv](https://img.shields.io/badge/arXiv-2412.15589-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2412.15589)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/S-CGIB)
 [![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-S--CGIB-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/pre-training-graph-neural-networks-on)
+[![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1Hn_KFxcicQhIUo-62RGDIHyxNF6fz2I3/view?usp=sharing)
+[![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1ywIsOkyVOiOq_NbO6SrXtejpgEqGPvCm/view?usp=sharing)
+[![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/OLQA4FqHPU0)
+[![Underline](https://img.shields.io/badge/Underline-black?style=flat-square)](https://underline.io/lecture/112072-pre-training-graph-neural-networks-on-molecules-by-using-subgraph-conditioned-graph-information-bottleneck)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/S-CGIB)](https://github.com/NSLab-CUK/S-CGIB)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/S-CGIB)](https://github.com/NSLab-CUK/S-CGIB)
 
