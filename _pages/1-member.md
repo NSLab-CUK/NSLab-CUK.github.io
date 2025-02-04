@@ -272,10 +272,10 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 * Jan 2025 -- Present: Hanwha Momentum, Seoul, Korea
 * Mar 2023 -- Feb 2025: M.Eng. in Artificial Intelligence, Hanyang University, Seoul, Korea
-* Mar 2016 -- Feb 2023: B.Sc. in Physics, The Catholic University of Korea, Bucheon, Korea	
+* Mar 2016 -- Feb 2023: B.Sc. in Physics, The Catholic University of Korea, Bucheon, Korea
+* <a href="mailto:sngmng6506@gmail.com"><img src="https://img.shields.io/badge/-sngmng6506@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 * <a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
-* 📈
 * 👨‍🎓
 
 ***
