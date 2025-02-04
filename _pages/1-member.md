@@ -286,7 +286,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Prof. [Chang Choi](https://sites.google.com/site/phdchangchoi/), Gachon University, Seongnam, Korea
 * Prof. Hoon Ko, Sunmoon University, Asan, Korea
 * Prof. [Hae Gyun Lim](https://sites.google.com/view/lim-lab/home), Pukyong National University, Busan, Korea 
-* Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung), Advanced Institute of Convergence Technology, Suwon, Korea
+* Prof. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung), Korea University Sejong Campus, Sejong, Korea
 * Dr. [Luong Vuong Nguyen](https://luongvuongnguyen.github.io/), Da Nang University of Economics, Da Nang, Vietnam
 * [Nam Gyu Jung](https://namgyu97.github.io/), Gachon University, Seongnam, Korea <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/Namgyu97)
 * Prof. Changhan Yoon, Inje University, Gimhae, Korea
