@@ -10,7 +10,7 @@ toc_label: "Table of Contents"
 ---
 
 ***
-### 2024
+### 2025
 
 ***
 #### Spring 2025
@@ -45,6 +45,9 @@ toc_label: "Table of Contents"
 
 * 06298-01 Living with AI (AI와 함께 살아가기)
   * Instructor: Eun-Soon You
+
+***
+### 2024
 
 ***
 #### Winter 2024
