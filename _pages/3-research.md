@@ -56,6 +56,8 @@ toc_label: "Table of Contents"
 ***
 ## Molecular Structure Analysis
 
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/1ZcadK5rmvpjQB?startSlide=1" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+
 * Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. The 39th AAAI Conference on Artificial Intelligence (**AAAI 2025**), Philadelphia, PA, USA; 02/2025. <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2412.15589-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2412.15589)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/S-CGIB)
