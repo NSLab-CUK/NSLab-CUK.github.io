@@ -13,6 +13,16 @@ toc_label: "Table of Contents"
 ### 2024
 
 ***
+##### Dec 20th, 2024
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/Colloquium_2024_Group.webp"></p>
+
+<p align="center"><img width="700" src="/images/Colloquium_2024.webp"></p>
+
+<p align="center"><img width="700" src="/images/Colloquium_2024_Banner.webp"></p>
+
+***
 ##### Dec 10th, 2024
 {:.no_toc}
 
