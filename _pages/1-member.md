@@ -288,6 +288,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Prof. [Hae Gyun Lim](https://sites.google.com/view/lim-lab/home), Pukyong National University, Busan, Korea 
 * Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung), Advanced Institute of Convergence Technology, Suwon, Korea
 * Dr. [Luong Vuong Nguyen](https://luongvuongnguyen.github.io/), Da Nang University of Economics, Da Nang, Vietnam
+* [Nam Gyu Jung](https://namgyu97.github.io/), Gachon University, Seongnam, Korea <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/Namgyu97)
 * Prof. Changhan Yoon, Inje University, Gimhae, Korea
 * Prof. [Kang-Min Kim](https://kangmin89.com/), The Catholic University of Korea, Bucheon, Korea
 * Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), The Catholic University of Korea, Bucheon, Korea
@@ -307,11 +308,5 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Dr. [Min Gon Kim](https://sites.google.com/view/mingonk), Carnegie Mellon University, Pittsburgh, PA, USA
 * Kangsan Kim, [Braincolla Inc.](https://braincolla.com/), Seoul, Korea
 
-
-
-<!-- 
-* Dr. Eunsoon You, Inha University, Incheon, Korea 
-* Min-Woo Choi, Korea Institute of Atmospheric Prediction System, Seoul, Korea
--->
 
 
