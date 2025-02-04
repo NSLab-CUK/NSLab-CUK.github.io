@@ -298,7 +298,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Prof. Kyungroul Lee, Mokpo National University, Muan, Korea
 * Prof. Yoewon Yoon, Dongguk University, Seoul, Korea
 * Seung Charlie Kim, [Shukran Korea Inc.](https://www.shukrankorea.com/), Seoul, Korea
-* Sojung An, Korea Institute of Atmospheric Prediction System, Seoul, Korea
+* [Sojung An](https://scholar.google.com.hk/citations?user=gKrLgVUAAAAJ), Korea University, Seoul, Korea
 * Jong-Seo Lee, [Movements Inc.](https://movements.kr/#s1), Daejeon, Korea
 * Dong Kook Park, [IntoCNS Inc.](https://www.intocns.com/), Yongin, Korea
 * Dr. Nam D. Vo, FPT University, Danang, Vietnam
