@@ -113,6 +113,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="mailto:huytran1994@catholic.ac.kr"><img src="https://img.shields.io/badge/-huytran1994@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/HasukiHT"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 
+***
 #### M.Eng. Course
 
 ###### [Phuc Vinh Bui](https://nslab-cuk.github.io/member/phucbui) (Sep 2022 -- Present; On leaving)
@@ -155,8 +156,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * 🎉
 
 ***
-# Undergraduate Research Assistants
-***
+#### Undergraduate Interns
 
 ###### [Jin Woo Jeong](https://nslab-cuk.github.io/member/jwJeong) (Jul 2023 -- Present)
 {:.no_toc}
