@@ -192,59 +192,6 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Natural Language Processing
 * <a href="mailto:ukg_15@catholic.ac.kr"><img src="https://img.shields.io/badge/-ukg_15@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Members</title>
-    <style>
-      .member-info {
-        overflow: auto; /* clears the float */
-        margin-bottom: 20px;
-        padding: 10px;
-        border: 1px solid #ddd;
-      }
-      .member-info img {
-        float: right;
-        width: 120px;
-        margin: 0 0 10px 10px;
-        max-width: 50%;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="member-info">
-      <h3>
-        <a href="https://nslab-cuk.github.io/member/hcYang">Hochan Yang</a> (May 2024 -- Present)
-      </h3>
-      <img src="https://nslab-cuk.github.io/images/hcYang.jpg" alt="Hochan Yang">
-      <ul>
-        <li>Mar 2020 -- Present: B.Eng. in Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>
-        <li>Research Interest: Natural Language Processing</li>
-        <li>
-          <a href="mailto:ukg_15@catholic.ac.kr">
-            <img src="https://img.shields.io/badge/-ukg_15@catholic.ac.kr-0C2E86?style=flat-square&amp;logo=Gmail&amp;logoColor=FFFFFF" alt="ukg_15@catholic.ac.kr">
-          </a>
-        </li>
-      </ul>
-    </div>
-
-    <div class="member-info">
-      <h3>
-        <a href="https://nslab-cuk.github.io/member/jhShim">Ju Hee Shim</a> (May 2024 -- Present)
-      </h3>
-      <img src="https://nslab-cuk.github.io/images/jhShim.jpg" alt="Ju Hee Shim">
-      <ul>
-        <li>Mar 2022 -- Present: B.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea</li>
-        <li>Research Interest: Recommender System</li>
-        <li>
-          <a href="mailto:shim020616@catholic.ac.kr">
-            <img src="https://img.shields.io/badge/-shim020616@catholic.ac.kr-0C2E86?style=flat-square&amp;logo=Gmail&amp;logoColor=FFFFFF" alt="shim020616@catholic.ac.kr">
-          </a>
-        </li>
-      </ul>
-    </div>
-  </body>
-</html>
 
 
 ###### [Ju Hee Shim](https://nslab-cuk.github.io/member/jhShim) (May 2024 -- Present)
