@@ -209,7 +209,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Recommender System
 * <a href="mailto:shim020616@catholic.ac.kr"><img src="https://img.shields.io/badge/-shim020616@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
-<br style="clear: both; margin-bottom: 20px;" />
+<br style="clear: both; margin-bottom: 100px;" />
 
 ###### [Hyun Woo Kim](https://nslab-cuk.github.io/member/hwKim) (May 2024 -- Present)
 {:.no_toc}
