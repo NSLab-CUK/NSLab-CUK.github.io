@@ -192,6 +192,17 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Natural Language Processing
 * <a href="mailto:ukg_15@catholic.ac.kr"><img src="https://img.shields.io/badge/-ukg_15@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://nslab-cuk.github.io/images/hcYang.jpg" style="width: 120px; margin-right: 10px; max-width: 50%;">
+    <div>
+        <h4><a href="https://nslab-cuk.github.io/member/hcYang">Hochan Yang</a> (May 2024 -- Present)</h4>
+        <ul>
+            <li>Mar 2020 -- Present: B.Eng. in Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea</li>
+            <li>Research Interest: Natural Language Processing</li>
+            <li><a href="mailto:ukg_15@catholic.ac.kr"><img src="https://img.shields.io/badge/-ukg_15@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a></li>
+        </ul>
+    </div>
+</div>
 
 ###### [Ju Hee Shim](https://nslab-cuk.github.io/member/jhShim) (May 2024 -- Present)
 {:.no_toc}
