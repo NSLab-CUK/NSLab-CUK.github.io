@@ -126,8 +126,6 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Medical Knowledge Graph
 * <a href="mailto:orenji@catholic.ac.kr"><img src="https://img.shields.io/badge/-orenji@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/phucbuiforwork"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-* 🩺
-* 🎉
 
 ###### [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) (Sep 2022 -- Present; On leaving)
 {:.no_toc}
