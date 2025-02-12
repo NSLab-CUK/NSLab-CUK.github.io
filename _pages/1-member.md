@@ -203,15 +203,6 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both;" />
 
-###### [Hochan Yang](https://nslab-cuk.github.io/member/hcYang) (May 2024 -- Present)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/hcYang.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* <a href="mailto:ukg_15@catholic.ac.kr"><img src="https://img.shields.io/badge/-ukg_15@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-
-<br style="clear: both;" />
-
 ###### [Ju Hee Shim](https://nslab-cuk.github.io/member/jhShim) (May 2024 -- Present)
 {:.no_toc}
 
@@ -220,10 +211,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Mar 2022 -- Present: B.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Recommender System
 * <a href="mailto:shim020616@catholic.ac.kr"><img src="https://img.shields.io/badge/-shim020616@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-* 📈
-* 👨‍🎓
-* 🎉
-* 💻
+
+<br style="clear: both;" />
 
 ###### [Hyun Woo Kim](https://nslab-cuk.github.io/member/hwKim) (May 2024 -- Present)
 {:.no_toc}
