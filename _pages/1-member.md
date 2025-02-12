@@ -119,13 +119,14 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ###### [Phuc Vinh Bui](https://nslab-cuk.github.io/member/phucbui) (Sep 2022 -- Present; On leaving)
 {:.no_toc}
 
-<img align="right" src="https://nslab-cuk.github.io/images/Phuc.jpg" alt="Phuc Vinh Bui" style="float: right; width: 120px; margin: 0 10px 0 0; max-width: 50%;">
-
+<img align="right" src="https://nslab-cuk.github.io/images/Phuc.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 * Sep 2022 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Sep 2015 -- Jun 2019: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam
 * Research Interest: Medical Knowledge Graph
 * <a href="mailto:orenji@catholic.ac.kr"><img src="https://img.shields.io/badge/-orenji@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/phucbuiforwork"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+* 🩺
+* 🎉
 
 ###### [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) (Sep 2022 -- Present; On leaving)
 {:.no_toc}
@@ -138,6 +139,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Graph Representation Learning
 * <a href="mailto:sangnguyen@catholic.ac.kr"><img src="https://img.shields.io/badge/-sangnguyen@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/nguyenthanhsang99"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+* 👨‍🎓
 
 ###### [Yanjun Wu](https://nslab-cuk.github.io/member/WYJ) (Aug 2023 -- Present)
 {:.no_toc}
@@ -149,7 +151,9 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Sep 2015 -- Aug 2019: B.P.A. in Public Administration, The Open University of China, Beijing, China
 * Research Interset: NLP Long Text Summary
 * <a href="mailto:wuyanjun@catholic.ac.kr"><img src="https://img.shields.io/badge/-wuyanjun@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-
+* 📑
+* 🎉
+  
 ***
 #### Undergraduate Interns
 
