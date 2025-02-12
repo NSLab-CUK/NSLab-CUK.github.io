@@ -262,6 +262,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="https://cukminseo.notion.site/Minseo-Kim-7cc7c1ee1137419fb878df36f38ac8bd?pvs=4"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"></a>
 * <a href="https://velog.io/@kms39273"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 
+<br style="clear: both;" />
 
 ###### [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) (Sep 2022 -- Dec 2022)
 {:.no_toc}
@@ -274,7 +275,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="mailto:sngmng6506@gmail.com"><img src="https://img.shields.io/badge/-sngmng6506@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 * <a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
-* 👨‍🎓
+
+<br style="clear: both;" />
 
 ***
 # Collaborators
