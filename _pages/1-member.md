@@ -126,6 +126,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/Phuc.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
 * Sep 2022 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Sep 2015 -- Jun 2019: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam
 * Research Interest: Medical Knowledge Graph
