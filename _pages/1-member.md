@@ -192,6 +192,9 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Natural Language Processing
 * <a href="mailto:ukg_15@catholic.ac.kr"><img src="https://img.shields.io/badge/-ukg_15@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
+
+
+
 ###### [Ju Hee Shim](https://nslab-cuk.github.io/member/jhShim) (May 2024 -- Present)
 {:.no_toc}
 
