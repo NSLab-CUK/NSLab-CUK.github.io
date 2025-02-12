@@ -56,6 +56,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Digital Humanities and Social Sciences
 * <a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
+<br style="clear: both;" />
 
 ***
 # Researchers
