@@ -74,7 +74,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Graph Representation Learning
 * <a href="mailto:hoangvanthuy90@catholic.ac.kr"><img src="https://img.shields.io/badge/-hoangvanthuy90@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-* 👨‍🎓
+
+<br style="clear: both;" />
 
 ###### Min-Woo Choi (Mar 2023 -- Present; On leaving)
 {:.no_toc}
@@ -86,8 +87,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Mar 2011 -- Feb 2017: B.Sc. in Atmospheric Sciences, Kongju National University, Gongju, Korea
 * Research Interest: Weather Forecasting with Graph Neural Networks
 * <a href="mailto:choimin1231@catholic.ac.kr"><img src="https://img.shields.io/badge/-choimin1231@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-* 🌬️
-* 🎉
+
+<br style="clear: both;" />
 
 ###### [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) (Mar 2024 -- Present)
 {:.no_toc}
@@ -101,6 +102,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="mailto:osfa19730@catholic.ac.kr"><img src="https://img.shields.io/badge/-osfa19730@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/BachThanh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 
+<br style="clear: both;" />
+
 ###### [Huy Quang Tran](https://nslab-cuk.github.io/member/huy) (Mar 2024 -- Present)
 {:.no_toc}
 
@@ -112,6 +115,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Graph Representation Learning
 * <a href="mailto:huytran1994@catholic.ac.kr"><img src="https://img.shields.io/badge/-huytran1994@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/HasukiHT"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+
+<br style="clear: both;" />
 
 ***
 #### M.Eng. Course
@@ -125,8 +130,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Medical Knowledge Graph
 * <a href="mailto:orenji@catholic.ac.kr"><img src="https://img.shields.io/badge/-orenji@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/phucbuiforwork"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-* 🩺
-* 🎉
+
+<br style="clear: both;" />
 
 ###### [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) (Sep 2022 -- Present; On leaving)
 {:.no_toc}
@@ -139,7 +144,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Graph Representation Learning
 * <a href="mailto:sangnguyen@catholic.ac.kr"><img src="https://img.shields.io/badge/-sangnguyen@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/nguyenthanhsang99"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-* 👨‍🎓
+
+<br style="clear: both;" />
 
 ###### [Yanjun Wu](https://nslab-cuk.github.io/member/WYJ) (Aug 2023 -- Present)
 {:.no_toc}
@@ -151,8 +157,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Sep 2015 -- Aug 2019: B.P.A. in Public Administration, The Open University of China, Beijing, China
 * Research Interset: NLP Long Text Summary
 * <a href="mailto:wuyanjun@catholic.ac.kr"><img src="https://img.shields.io/badge/-wuyanjun@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-* 📑
-* 🎉
+
+<br style="clear: both;" />
   
 ***
 #### Undergraduate Interns
@@ -166,9 +172,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Recommender System
 * <a href="mailto:zeus0208b@catholic.ac.kr"><img src="https://img.shields.io/badge/-zeus0208b@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://velog.io/@zeus0208b"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
-* 📈
-* 👨‍🎓
-* 🎉
+
+<br style="clear: both;" />
 
 ###### [Jinho Seo](https://nslab-cuk.github.io/member/jhSeo) (Jul 2023 -- Present; In Military Service)
 {:.no_toc}
@@ -179,18 +184,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Software Vulnerability Analysis with GNNs
 * <a href="mailto:kkinho04@catholic.ac.kr"><img src="https://img.shields.io/badge/-kkinho04@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/orangemush7777"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-* 📈
-* 👨‍🎓
-* 🎉
 
-###### [Hochan Yang](https://nslab-cuk.github.io/member/hcYang) (May 2024 -- Present)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/hcYang.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Mar 2020 -- Present: B.Eng. in  Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
-* Research Interest: Natural Language Processing
-* <a href="mailto:ukg_15@catholic.ac.kr"><img src="https://img.shields.io/badge/-ukg_15@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+<br style="clear: both;" />
 
 ###### [Hochan Yang](https://nslab-cuk.github.io/member/hcYang) (May 2024 -- Present)
 {:.no_toc}
@@ -222,10 +217,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Mar 2024 -- Present: B.Sc. in Biomedical Software Engineering, The Catholic University of Korea, Bucheon, Korea		
 * Research Interest: Graph Representation Learning, Recommender System
 * <a href="mailto:kimwoohyun0622@catholic.ac.kr"><img src="https://img.shields.io/badge/-kimwoohyun0622@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-* 📈
-* 👨‍🎓
-* 🎉
-* 💻
+
+<br style="clear: both;" />
 
 ###### [Jun Hee Cho](https://nslab-cuk.github.io/member/jhCho) (May 2024 -- Present)
 {:.no_toc}
@@ -235,10 +228,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Mar 2021 -- Present: B.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
 * Research Interest: Recommender System
 * <a href="mailto:junhe0733@catholic.ac.kr"><img src="https://img.shields.io/badge/-junhe0733@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-* 📈
-* 👨‍🎓
-* 🎉
-* 💻
+
+<br style="clear: both;" />
 
 ***
 # Alumni
