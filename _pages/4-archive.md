@@ -10,6 +10,17 @@ toc_label: "Table of Contents"
 ---
 
 ***
+### 2025
+
+***
+##### Feb 12th, 2025
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/250212.jpg"></p>
+
+<p align="center"><img width="700" src="/images/250212_Group.jpg"></p>
+
+***
 ### 2024
 
 ***
