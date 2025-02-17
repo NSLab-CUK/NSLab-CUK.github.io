@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+##### Feb 17th, 2025
+{:.no_toc}
+
+* A research contribution from NS Lab@CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=258005) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
+
+<p align="center"><img width="700" src="/images/250217.png"></p>
+
+***
 ##### Feb 12th, 2025
 {:.no_toc}
 
