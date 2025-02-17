@@ -389,6 +389,11 @@ toc_label: "Table of Contents"
 ***
 # Media Exposure
 
+* (Feb 17th, 2025) 분자 핵심 작용기 자동 식별 위한 그래프 신경망 기법 개발하여 세계적 권위 국제학술대회 ‘AAAI 2025’에서 발표
+  * 가톨릭대학교 [주요연구성과](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=258005&article.offset=0&articleLimit=16)로 선정
+  * Related Paper: [Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. **AAAI 2025**.](https://nslab-cuk.github.io/research/#media-exposure:~:text=Van%20Thuy%20Hoang%2C%20O%2DJoun%20Lee%3A%20Pre%2Dtraining%20Graph%20Neural%20Networks%20on%20Molecules%20by%20using%20Subgraph%2Dconditioned%20Graph%20Information%20Bottleneck.%20The%2039th%20AAAI%20Conference%20on%20Artificial%20Intelligence%20(AAAI%202025)%2C%20Philadelphia%2C%20PA%2C%20USA%3B%2002/2025.)
+  * Related News Articles: [뉴시스](https://www.newsis.com/view/NISX20250217_0003067632), [한국대학신문](https://news.unn.net/news/articleView.html?idxno=575086), [대학저널](https://dhnews.co.kr/news/view/1065575002416723), [이뉴스투데이](https://www.enewstoday.co.kr/news/articleView.html?idxno=2237854), [중앙이코노미뉴스](https://www.foodneconomy.com/news/articleView.html?idxno=408262), [교수신문](http://www.kyosu.net/news/articleView.html?idxno=131026), [이데일리](https://www.edaily.co.kr/News/Read?newsId=01751526642071504&mediaCodeNo=257&OutLnkChk=Y)
+
 * (Nov 6th, 2024) 인공지능을 활용한 반도체 설계 연구로 영국왕립화학회의 'Journal of Materials Chemistry C'에 표지논문으로 선정
   * 가톨릭대학교 [주요연구성과](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=250554&article.offset=0&articleLimit=16)로 선정
   * Related Paper: [A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C.](https://nslab-cuk.github.io/research/#regular-seminars:~:text=Minsun%20Cho%2C%20Marin%20Franot%2C%20O%2DJoun%20Lee%2C%20Sungyeop%20Jung%3A%20A%20Neural%20Compact%20Model%20Based%2Don%20Transfer%20Learning%20for%20Organic%20FETs%20with%20Gaussian%20Disorder.%20Journal%20of%20Materials%20Chemistry%20C%2009/2024%3B%2012(41)%3A%2016691%E2%80%9316700.)
@@ -402,7 +407,7 @@ toc_label: "Table of Contents"
 
 * (Feb 27th, 2024) 세계 최고 수준의 그래프 트랜스포머를 개발하여 세계적 권위 국제학술대회 ‘AAAI 2024’에서 발표
   * 가톨릭대학교 [주요연구성과](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=241972&article.offset=16&articleLimit=16)로 선정
-  * Related Paper: [Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. AAAI 2024.](https://nslab-cuk.github.io/research/#regular-seminars:~:text=Van%20Thuy%20Hoang%2C%20O%2DJoun%20Lee%3A%20Transitivity%2DPreserving%20Graph%20Representation%20Learning%20for%20Bridging%20Local%20Connectivity%20and%20Role%2Dbased%20Similarity.%20The%2038th%20AAAI%20Conference%20on%20Artificial%20Intelligence%20(AAAI%202024)%2C%20Vancouver%2C%20Canada%3B%2002/2024.)
+  * Related Paper: [Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. **AAAI 2024**.](https://nslab-cuk.github.io/research/#regular-seminars:~:text=Van%20Thuy%20Hoang%2C%20O%2DJoun%20Lee%3A%20Transitivity%2DPreserving%20Graph%20Representation%20Learning%20for%20Bridging%20Local%20Connectivity%20and%20Role%2Dbased%20Similarity.%20The%2038th%20AAAI%20Conference%20on%20Artificial%20Intelligence%20(AAAI%202024)%2C%20Vancouver%2C%20Canada%3B%2002/2024.)
   * Related News Articles: [포인트데일리](https://www.pointdaily.co.kr/news/articleView.html?idxno=191808), [이뉴스투데이](http://www.enewstoday.co.kr/news/articleView.html?idxno=2095013), [뉴시스](http://www.newsis.com/view/?id=NISX20240227_0002640784&cID=14001&pID=14000), [베리타스알파](http://www.veritas-a.com/news/articleView.html?idxno=495392), [교수신문](http://www.kyosu.net/news/articleView.html?idxno=116443), [한국대학신문](https://news.unn.net/news/articleView.html?idxno=560003)
 
 * (Feb 23rd, 2024) 대검찰청과 함께 검사 업무를 보조하는 생성형 AI 수사관 서비스 개발
