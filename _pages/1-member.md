@@ -294,6 +294,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Dr. [Tri-Hai Nguyen](https://sites.google.com/view/tri-hai-nguyen), Van Lang University, Hanoi, Vietnam
 * Prof. Changhan Yoon, Inje University, Gimhae, Korea
 * Prof. [Kang-Min Kim](https://kangmin89.com/), The Catholic University of Korea, Bucheon, Korea
+* Prof. [Jun Young Kim](https://sites.google.com/view/jykimgroup/home), The Catholic University of Korea, Bucheon, Korea
 * Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), The Catholic University of Korea, Bucheon, Korea
 * Prof. Yu-Doo Kim, Dongyang Mirae University, Seoul, Korea
 * Prof. [Youjin Shin](https://adslab0.github.io/), The Catholic University of Korea, Bucheon, Korea
