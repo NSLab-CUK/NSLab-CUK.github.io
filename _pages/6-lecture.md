@@ -28,6 +28,9 @@ toc_label: "Table of Contents"
 * [07274-01 Introduction to Technical Writing (기술적글쓰기기초)](https://nslab-cuk.github.io/lecture/material/intro-technical-writing/)
   * Instructor: O-Joun Lee
 
+* 54513-01 Study for Doctoral Thesis 1 (박사논문연구 1) - Graduate Course  
+  * Instructor: O-Joun Lee
+
 * 06535-01 Career exploration of Artificial Intelligence 1 (인공지능학과 진로탐색 1) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
 
