@@ -223,6 +223,7 @@ Academic Activities
 Membership
 ------------
 
+* [한국정보과학회](https://www.kiise.or.kr/) [데이터소사이어티](https://dbsociety.kr/), 이사, since Feb 2025
 * [한국스마트미디어학회](https://kism.jams.or.kr/co/main/jmMain.kci), 상임이사, since Jan 2023
 * [한국차세대컴퓨팅학회](http://www.kingpc.or.kr/wp/), 이사, since Jan 2023
 
