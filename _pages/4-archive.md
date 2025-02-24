@@ -894,6 +894,12 @@ toc_label: "Table of Contents"
 * [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) has joined as an undergraduate researcher. 
 
 ***
+##### Nov 3rd, 2021
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/211103.jpg"></p>
+
+***
 ##### Oct 27th -- 28th, 2021
 {:.no_toc}
 
@@ -907,6 +913,34 @@ toc_label: "Table of Contents"
 <p align="center"><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.udn.vn/english"><img align="center" src="/images/UDNLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a><a href="https://vnuis.edu.vn/en/"><img align="center" src="/images/VNUISLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.pknu.ac.kr/main"><img align="center" src="/images/PKNULogo.png" style="width : 120px; margin : 10px"></a></p>
 
 ***
+##### Oct 20th, 2021
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/211020.jpg"></p>
+
+***
+##### Sep 30th, 2021
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/210930.jpg"></p>
+
+***
+##### Sep 15th, 2021
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/210915.jpg"></p>
+
+<p align="center"><img width="700" src="/images/210915_1.jpg"></p>
+
+<p align="center"><img width="700" src="/images/210915_2.jpg"></p>
+
+***
+##### Sep 11th, 2021
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/210911.jpg"></p>
+
+***
 ##### Sep 1st, 2021
 {:.no_toc}
 
@@ -914,6 +948,18 @@ toc_label: "Table of Contents"
 * We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Sep 2021 -- Aug 2022, 7 Mil KRW).
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
+##### Aug 27th, 2021
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/210827.jpg"></p>
+
+***
+##### Aug 24th, 2021
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/210824.jpg"></p>
 
 ***
 ### Before then
