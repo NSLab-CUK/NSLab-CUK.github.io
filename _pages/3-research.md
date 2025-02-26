@@ -66,7 +66,7 @@ toc_label: "Table of Contents"
 [![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1ywIsOkyVOiOq_NbO6SrXtejpgEqGPvCm/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/OLQA4FqHPU0)
 [![Drive](https://img.shields.io/badge/Drive-Poster--Extended-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1obD2R8gYs9FOObyKdKdRXurhyJcUsAta/view?usp=sharing)
-[![Drive](https://img.shields.io/badge/Drive-Slides--Extended-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1Hn_KFxcicQhIUo-62RGDIHyxNF6fz2I3/view?usp=sharing)
+[![Drive](https://img.shields.io/badge/Drive-Slides--Extended-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1PKKSH48y7tJ6vRExQEavhQUSjtHbIX4X/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Presentation--Extended-red?style=flat-square&logo=YouTube)](https://youtu.be/o6dW0dbayb8)
 [![Underline](https://img.shields.io/badge/Underline-black?style=flat-square)](https://underline.io/lecture/112072-pre-training-graph-neural-networks-on-molecules-by-using-subgraph-conditioned-graph-information-bottleneck)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/S-CGIB)](https://github.com/NSLab-CUK/S-CGIB)
