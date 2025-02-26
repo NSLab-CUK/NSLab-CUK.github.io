@@ -443,6 +443,12 @@ toc_label: "Table of Contents"
 ***
 
 <p align="center">
+  <img width="700" src="/images/AAAI2025_poster_Thuy_Extended.webp">
+</p>
+ 
+<br>
+
+<p align="center">
   <img width="700" src="/images/AAAI2024_poster_Thuy.webp">
 </p>
  
