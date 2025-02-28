@@ -392,6 +392,13 @@ toc_label: "Table of Contents"
 ***
 # Media Exposure
 
+* (Mar 5th, 2025) 가톨릭대 인공지능학과 이오준 교수, 그래프 신경망 분야에서 최첨단 연구를 선도하다
+  * Related News Articles: 시사매거진(4대 월간지)
+
+<p align="center">
+  <img width="700" src="/images/250305_News.webp">
+</p>
+
 * (Feb 17th, 2025) 분자 핵심 작용기 자동 식별 위한 그래프 신경망 기법 개발하여 세계적 권위 국제학술대회 ‘AAAI 2025’에서 발표
   * 가톨릭대학교 [**주요연구성과**](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=258005&article.offset=0&articleLimit=16)로 선정
   * Related Paper: [Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. **AAAI 2025**.](https://nslab-cuk.github.io/research/#media-exposure:~:text=Van%20Thuy%20Hoang%2C%20O%2DJoun%20Lee%3A%20Pre%2Dtraining%20Graph%20Neural%20Networks%20on%20Molecules%20by%20using%20Subgraph%2Dconditioned%20Graph%20Information%20Bottleneck.%20The%2039th%20AAAI%20Conference%20on%20Artificial%20Intelligence%20(AAAI%202025)%2C%20Philadelphia%2C%20PA%2C%20USA%3B%2002/2025.)
