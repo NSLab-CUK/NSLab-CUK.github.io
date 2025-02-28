@@ -1,106 +1,24 @@
 /* ==========================================================================
-   Grid
+   BASE ELEMENTS
    ========================================================================== */
 
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
-
-//$right-sidebar-width-narrow: 100% !default;
-//$right-sidebar-width: 100% !default;
-//$right-sidebar-width-wide: 100% !default;
-
-/* ==========================================================================
-   Other
-   ========================================================================== */
-
-$border-radius: 4px !default;
-$box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125) !default;
-$nav-height: 2em !default;
-$nav-toggle-height: 2rem !default;
-$navicon-width: 1.5rem !default;
-$navicon-height: 0.25rem !default;
-$global-transition: all 0.2s ease-in-out !default;
-$intro-transition: intro 0.3s both !default;
-
-/* system typefaces */
-$serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
-$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
-
-/* sans serif typefaces */
-$sans-serif-narrow: $sans-serif !default;
-$helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
-
-/* type scale */
-$type-size-1: 2.441em !default; // ~39.056px
-$type-size-2: 1.953em !default; // ~31.248px
-$type-size-3: 1.563em !default; // ~25.008px
-$type-size-4: 1.25em !default; // ~20px
-$type-size-5: 1em !default; // ~16px
-$type-size-6: 0.75em !default; // ~12px
-$type-size-7: 0.6875em !default; // ~11px
-$type-size-8: 0.625em !default; // ~10px
-
-/* color */
-$primary-color: #6f777d !default;
-$gray: #7a8288 !default;
-$dark-gray: mix(#000, $gray, 50%) !default;
-$focus-color: $primary-color !default;
-$active-color: mix(#fff, $primary-color, 80%) !default;
-$yiq-contrasted-dark-default: $dark-gray !default;
-$yiq-contrasted-light-default: #fff !default;
-$yiq-contrasted-threshold: 175 !default;
-$yiq-debug: false !default;
-$muted-text-color: mix(#fff, $text-color, 20%) !default;
-
-/* ==========================================================================
-   Import
-   ========================================================================== */
-
-@import "breakpoint";
-@import "mixins";
-
-
-
-
-/* ==========================================================================
-   Original
-   ========================================================================== */
-
-*, *::after, *::before {
-  box-sizing: border-box;
+html {
+  /* sticky footer fix */
+  position: relative;
+  min-height: 100%;
 }
 
 body {
-  font-family: $base-font-family;
-  font-size: $base-font-size;
-  line-height: $base-line-height;
+  margin: 0;
+  padding: 0;
   color: $text-color;
-  background-color: $background-color;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  input, textarea {
-		border: 1px solid $border-color;
-		outline: none;
-		&:focus:required:invalid {
-			border-color: #e02f40;
-		}
-		&:required:valid {
-			border-color: #34a74e;
-		}
-	}
-}
+  font-family: $global-font-family;
+  line-height: 1.5;
 
-
-::placeholder {
-	color: #666;
-}
-
-*::selection {
-  color: $white;
-  background-color: $dark;
+  &.overflow--hidden {
+    /* when primary navigation is visible, the content in the background won't scroll */
+    overflow: hidden;
+  }
 }
 
 h1,
@@ -109,589 +27,313 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $heading-font-family;
-  line-height: initial;
-  letter-spacing: 0.5px;
+  margin: 2em 0 0.5em;
+  line-height: 1.2;
+  font-family: $header-font-family;
+  font-weight: bold;
 }
 
 h1 {
-  font-size: $font-size-h1;
+  margin-top: 0;
+  font-size: $h-size-1;
 }
 
 h2 {
-  font-size: $font-size-h2;
+  font-size: $h-size-2;
 }
 
 h3 {
-  font-size: $font-size-h3;
+  font-size: $h-size-3;
 }
 
 h4 {
-  font-size: $font-size-h4;
+  font-size: $h-size-4;
 }
 
 h5 {
-  font-size: $font-size-h5;
+  font-size: $h-size-5;
 }
 
 h6 {
-  font-size: $font-size-h6;
+  font-size: $h-size-6;
 }
 
-blockquote {
-  margin: 30px -100px;
-  font-size: 28px;
-  line-height: 45px;
-  letter-spacing: 0.5px;
-  font-style: normal;
-  text-align: center;
-  
-  @media only screen and (max-width: $tablet) {
-    margin: 30px 0;
-    font-size: 24px;
-    line-height: 38px;
+small,
+.small {
+  font-size: $type-size-6;
+}
+
+p {
+  margin-bottom: 1.3em;
+}
+
+u,
+ins {
+  text-decoration: none;
+  border-bottom: 1px solid $text-color;
+  a {
+    color: inherit;
   }
+}
+
+del a {
+  color: inherit;
+}
+
+/* reduce orphans and widows when printing */
+
+p,
+pre,
+blockquote,
+ul,
+ol,
+dl,
+figure,
+table,
+fieldset {
+  orphans: 3;
+  widows: 3;
+}
+
+/* abbreviations */
+
+abbr[title],
+abbr[data-original-title] {
+  text-decoration: none;
+  cursor: help;
+  border-bottom: 1px dotted $text-color;
+}
+
+/* blockquotes */
+
+blockquote {
+  margin-block: 2em;
+  margin-inline-end: 1em;
+  padding-inline: 1em;
+  font-style: italic;
+  border-inline-start: 0.25em solid $primary-color;
+
+  cite {
+    font-style: italic;
+
+    &::before {
+      content: "\2014";
+      padding-inline-end: 5px;
+    }
+  }
+}
+
+/* links */
+
+a {
+  &:focus {
+    @extend %tab-focus;
+  }
+
+  &:visited {
+    color: $link-color-visited;
+  }
+
+  &:hover {
+    color: $link-color-hover;
+    outline: 0;
+  }
+}
+
+/* buttons */
+
+button:focus {
+  @extend %tab-focus;
+}
+
+/* code */
+
+tt,
+code,
+kbd,
+samp,
+pre {
+  font-family: $monospace;
 }
 
 pre {
-  overflow: auto;
-  padding: 15px;
-  margin-bottom: 0;
-  font-size: 14px;
-  white-space: pre-wrap;
-  word-wrap: break-word;
-  word-break: break-all;
+  overflow-x: auto; /* add scrollbars to wide code blocks*/
 }
 
-img,
-.zoom-img-wrap {
-  max-width: 100%;
-  height: auto;
-  vertical-align: middle;
-  &+em {
-    text-align: center;
-    display: block;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    color: $gray;
-  }
-}
-
-a {
-    text-decoration: none;
-    color: $link-color;
-    transition: $global-transition;
-    &:hover {
-      color: lighten($link-color, 10%);
-      text-decoration-line: underline;
-      text-decoration-style: dashed;
-      text-decoration-thickness: 1px;
-    }
-    &:active {
-      color: lighten($link-color, 20%);
-      text-decoration-line: underline;
-      text-decoration-style: dashed;
-      text-decoration-thickness: 1px;
-    }
-}
+/* horizontal rule */
 
 hr {
   display: block;
-  height: 1px;
-  margin: 40px 0;
+  margin: 1em 0;
   border: 0;
-  background: $light-gray;
+  border-top: 1px solid $border-color;
 }
 
-/* ==========================================================================
-   Breakpoints
-   ========================================================================== */
+/* lists */
 
-$small: 600px !default;
-$medium: 768px !default;
-$medium-wide: 900px !default;
-$large: 1024px !default;
-$x-large: 1280px !default;
-$max-width: $x-large !default;
-
-/* ==========================================================================
-   TABLE
-   ========================================================================== */
-
-/* 표 전체 공통 스타일 */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1.5em 0;
-  font-family: "Noto Sans KR", sans-serif; /* or "Open Sans" 등 원하는 폰트 */
-  font-size: 15px;
-  color: #333;
-  background-color: #fff;
+ul li,
+ol li {
+  margin-bottom: 0.5em;
 }
 
-/* 테이블 헤더 스타일 */
-table thead th {
-  background-color: #2a4d6e; /* 연구실 톤과 어울리는 남색 계열 */
-  color: #fff;
-  font-weight: 600;
-  padding: 12px 16px;
-  border-bottom: 2px solid #1f3c54; /* 헤더 아래쪽 경계선 (더 어두운 톤) */
-  text-align: left; /* 헤더 텍스트는 왼쪽 정렬 */
+li ul,
+li ol {
+  margin-top: 0.5em;
 }
-
-/* 테이블 바디 - 데이터 셀 스타일 */
-table tbody td {
-  padding: 12px 16px;
-  border-bottom: 1px solid #ddd;
-  vertical-align: top; 
-}
-
-/* 홀수 행과 짝수 행의 배경색을 다르게 (줄무늬 효과) */
-table tbody tr:nth-child(odd) {
-  background-color: #f9f9f9;
-}
-
-/* 마우스 오버 시 강조 효과 */
-table tbody tr:hover {
-  background-color: #ebf2f8;
-}
-
-/* 테이블 푸터(선택 사항)가 있을 경우 스타일 */
-table tfoot td {
-  padding: 12px 16px;
-  border-top: 2px solid #2a4d6e;
-  font-weight: bold;
-  background-color: #f3f6fa;
-}
-
-
-/* ==========================================================================
-   SIDEBAR
-   ========================================================================== */
 
 /*
-   Default
+   Media and embeds
    ========================================================================== */
 
-.sidebar {
-  @include clearfix();
-  // @include breakpoint(max-width $large) {
-  //   /* fix z-index order of follow links */
-  //   position: relative;
-  //   z-index: 10;
-  //   -webkit-transform: translate3d(0, 0, 0);
-  //   transform: translate3d(0, 0, 0);
-  // }
+/* Figures and images */
 
-  @include breakpoint($large) {
-    float: inline-start;
-    width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.75;
-    -webkit-transition: opacity 0.2s ease-in-out;
-    transition: opacity 0.2s ease-in-out;
+figure {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin: 2em 0;
 
-    &:hover {
-      opacity: 1;
-    }
-
-    &.sticky {
-      overflow-y: auto;
-      /* calculate height of nav list
-         viewport height - nav height - masthead x-padding
-      */
-      max-height: calc(100vh - #{$nav-height} - 2em);
-    }
-  }
-
-  @include breakpoint($x-large) {
-    width: calc(#{$right-sidebar-width} - 1em);
-  }
-
-  > * {
-    margin-top: 1em;
+  img,
+  iframe,
+  .fluid-width-video-wrapper {
     margin-bottom: 1em;
   }
 
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    margin-bottom: 0;
-    font-family: $sans-serif-narrow;
-  }
-
-  p,
-  li {
-    font-family: $sans-serif;
-    font-size: $type-size-6;
-    line-height: 1.5;
-  }
-
   img {
     width: 100%;
-
-    &.emoji {
-      width: 20px;
-      height: 20px;
-    }
-  }
-}
-
-.sidebar__right .toc {
-  position: sticky;
-  top: 2em;
-  max-height: calc(100vh - 7em);
-  overflow-y: auto;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background-color: $background-color;
-  box-shadow: $box-shadow;
-
-  .nav__title {
-    font-size: $type-size-2;
-    color: #fff;
-    background-color: $primary-color;
-    padding: 0.75rem 1rem;
-    font-size: $type-size-6;
-  }
-}
-
-@media only screen and (max-width: $medium) {
-  .sidebar__right .toc {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 999;
-    background-color: $background-color;
-    padding: 1em;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  }
-}
-
-@media only screen and (max-width: $small) {
-  .sidebar__right {
-    display: none;
-  }
-}
-
-.splash .sidebar__right {
-  @include breakpoint($large) {
-    position: relative;
-    float: inline-end;
-    margin-inline-end: 0;
+    border-radius: $border-radius;
+    -webkit-transition: $global-transition;
+    transition: $global-transition;
   }
 
-  @include breakpoint($x-large) {
-    margin-inline-end: 0;
-  }
-}
-
-/*
-   Author profile and links
-   ========================================================================== */
-
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  height: 36px;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-
-  img {
-    max-width: 110px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
-  }
-}
-
-.author__content {
-  display: table-cell;
-  vertical-align: top;
-  padding-inline: 15px 25px;
-  line-height: 1;
-
-  @include breakpoint($large) {
-    display: block;
-    width: 100%;
-    padding-inline: 0;
-  }
-
-  a {
-    color: inherit;
-    text-decoration: none;
-  }
-}
-
-.author__name {
-  margin: 0;
-
-  @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-}
-.sidebar .author__name {
-  font-family: $sans-serif;
-  font-size: $type-size-5;
-}
-
-.author__bio {
-  margin: 0;
-
-  @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
-  }
-}
-
-.author__urls-wrapper {
-  position: relative;
-  display: table-cell;
-  vertical-align: middle;
-  font-family: $sans-serif;
-  z-index: 20;
-  cursor: pointer;
-
-  li:last-child {
-    a {
-      margin-bottom: 0;
-    }
-  }
-
-  .author__urls {
-    span.label {
-      padding-inline-start: 5px;
-    }
-  }
-
-  @include breakpoint($large) {
+  > a {
     display: block;
   }
 
-  button {
-    position: relative;
-    margin-bottom: 0;
-
-    &:before {
-      @supports (pointer-events: none) {
-        content: '';
-        position: fixed;
-        top: 0;
-        inset-inline-start: 0;
-        width: 100%;
-        height: 100%;
-        pointer-events: none;
+  &.half {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(50% - 0.5em);
       }
     }
 
-    &.open {
-      &:before {
-        pointer-events: auto;
+    figcaption {
+      width: 100%;
+    }
+  }
+
+  &.third {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(33.3333% - 0.5em);
       }
     }
 
-    @include breakpoint($large) {
-      display: none;
+    figcaption {
+      width: 100%;
     }
   }
 }
 
-.author__urls {
-  display: none;
-  position: absolute;
-  inset-inline-end: 0;
-  margin-top: 15px;
-  padding: 10px;
-  list-style-type: none;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background: $background-color;
-  box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
-  cursor: default;
+/* Figure captions */
 
-  &.is--visible {
-    display: block;
-  }
-
-  @include breakpoint($large) {
-    display: block;
-    position: relative;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    box-shadow: none;
-  }
-
-  &::before {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -11px;
-    inset-inline-start: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: $border-color transparent;
-    z-index: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
-
-  &:after {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -10px;
-    inset-inline-start: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: $background-color transparent;
-    z-index: 1;
-
-    @include breakpoint($large) {
-      display: none;
-    }
-  }
-
-  ul {
-    padding: 10px;
-    list-style-type: none;
-  }
-
-  li {
-    white-space: nowrap;
-  }
-
-  a {
-    display: block;
-    margin-bottom: 5px;
-    padding-block: 2px;
-    padding-inline-end: 5px;
-    color: inherit;
-    font-size: $type-size-5;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-}
-
-/*
-   Wide Pages
-   ========================================================================== */
-
-.wide .sidebar__right {
-  margin-bottom: 1em;
-
-  @include breakpoint($large) {
-    position: initial;
-    top: initial;
-    inset-inline-end: initial;
-    width: initial;
-    margin-inline-end: initial;
-    padding-inline-start: initial;
-    z-index: initial;
-
-    &.sticky {
-      float: none;
-    }
-  }
-
-  @include breakpoint($x-large) {
-    width: initial;
-    margin-inline-end: initial;
-  }
-}
-
-.toc {
-  font-family: $sans-serif-narrow;
-  color: $gray;
-  background-color: $background-color;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
-  position: sticky;
-  top: 2em;
-  width: 280px;
-  max-height: calc(100vh - 7em);
-  overflow-y: auto;
-  padding: 1.5em;
-
-  .nav__title {
-    color: #fff;
-    font-size: $type-size-2;
-    background: $primary-color;
-    padding: 1rem;
-    border-start-start-radius: $border-radius;
-    border-start-end-radius: $border-radius;
-  }
-
-  .active a {
-    color: $primary-color;
-    border-left: 6px solid $primary-color;
-  }
-}
-
-.toc__menu {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  list-style: none;
+figcaption {
+  margin-bottom: 0.5em;
+  color: $muted-text-color;
+  font-family: $caption-font-family;
   font-size: $type-size-6;
-  line-height: 1.8;
-
-  li {
-    padding-left: 0;
-  }
 
   a {
-    display: block;
-    padding: 0.5rem 1rem;
-    color: $muted-text-color;
-    font-weight: bold;
-    text-indent: 0;
-    border-bottom: 1px solid $border-color;
-    border-left: 6px solid transparent;
-    transition: all 0.2s ease-in-out;
+    -webkit-transition: $global-transition;
+    transition: $global-transition;
 
     &:hover {
-      color: $text-color;
-    }
-
-    &.active {
-      color: $primary-color;
-      border-left-color: $primary-color;
-      font-size: $type-size-3;
-    }
-  }
-
-  li ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-
-    a {
-      padding-left: 1rem;
+      color: $link-color-hover;
     }
   }
 }
 
+/* Fix IE9 SVG bug */
 
+svg:not(:root) {
+  overflow: hidden;
+}
 
+/*
+   Navigation lists
+   ========================================================================== */
 
+/**
+ * Removes margins, padding, and bullet points from navigation lists
+ *
+ * Example usage:
+ * <nav>
+ *    <ul>
+ *      <li><a href="#link-1">Link 1</a></li>
+ *      <li><a href="#link-2">Link 2</a></li>
+ *      <li><a href="#link-3">Link 3</a></li>
+ *    </ul>
+ *  </nav>
+ */
+
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  /* override white-space for nested lists */
+  ul li,
+  ol li {
+    margin-bottom: 0;
+  }
+
+  li ul,
+  li ol {
+    margin-top: 0;
+  }
+}
+
+/*
+   Global animation transition
+   ========================================================================== */
+
+b,
+i,
+strong,
+em,
+blockquote,
+p,
+q,
+span,
+figure,
+img,
+h1,
+h2,
+header,
+input,
+a,
+tr,
+td,
+form button,
+input[type="submit"],
+.btn,
+.highlight,
+.archive__item-teaser {
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+}
