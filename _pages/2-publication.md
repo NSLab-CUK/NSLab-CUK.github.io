@@ -389,20 +389,20 @@ toc_label: "Table of Contents"
 * O-Joun Lee: An Overview of Graph Learning Models in Molecular Structure Analysis. [The 9th IEEE/IEIE International Conference on Consumer Electronics Asia (ICCE-Asia 2024)](https://icce-asia2024.org/2024/), Danang, Vietnam, 11/2024 
 
 <p align="center">
-  <img width="90%" data-action="zoom" src="/images/241104.jpg" alt="absolute">
+  <img width="700" data-action="zoom" src="/images/241104.jpg" alt="absolute">
 </p>
 
 * O-Joun Lee: Molecular Structure Analysis using Graph Neural Networks. [The 2024 Summer Workshop of Korean Institute of Next Generation Computing](https://www.manuscriptlink.com/society/kingpc/event/kingpc2024), Jeju, Korea, 08/2024
 
 <p align="center">
-  <img width="90%" data-action="zoom" src="/images/240822.jpg" alt="absolute">
+  <img width="700" data-action="zoom" src="/images/240822.jpg" alt="absolute">
 </p>
 
 * O-Joun Lee: Analyzing Molecular Structures with Graph Neural Networks. [The 2024 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2024s/pages/special_session.vm), Jeju, Korea, 06/2024
 
 <p align="center">
-  <img width="90%" data-action="zoom" src="/images/240626.jpg" alt="absolute">
-  <img width="90%" data-action="zoom" src="/images/Talk-IEIE-2024s.jpg" alt="absolute">
+  <img width="700" data-action="zoom" src="/images/240626.jpg" alt="absolute">
+  <img width="700" data-action="zoom" src="/images/Talk-IEIE-2024s.jpg" alt="absolute">
 </p>
 
 * O-Joun Lee: Knowledge Graph Reasoning and its Applications. [Telecommunications Technology Association](https://www.tta.or.kr/eng/index.do), Seongnam, Korea, 09/2023
@@ -410,20 +410,20 @@ toc_label: "Table of Contents"
 * O-Joun Lee: Semiconductor Design with Graph Neural Networks. [The 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm), Jeju, Korea, 06/2023
 
 <p align="center">
-  <img width="90%" data-action="zoom" src="/images/230629_Presentation.jpg" alt="absolute">
-  <img width="90%" data-action="zoom" src="/images/Talk-IEIE-2023s.jpg" alt="absolute">
+  <img width="700" data-action="zoom" src="/images/230629_Presentation.jpg" alt="absolute">
+  <img width="700" data-action="zoom" src="/images/Talk-IEIE-2023s.jpg" alt="absolute">
 </p>
 
 * O-Joun Lee: Spatio-Temporal Forecasting Models for Renewable Energy. [The 1st International Conference on Intelligence of Things (ICIT 2022)](https://icit2022.humg.edu.vn/), Hanoi, Vietnam, 08/2022
 
 <p align="center">
-  <img width="90%" data-action="zoom" src="/images/Talk-ICIT-2022.jpg" alt="absolute">
+  <img width="700" data-action="zoom" src="/images/Talk-ICIT-2022.jpg" alt="absolute">
 </p>
 
 * O-Joun Lee: Character Network Embedding for Computational Narrative Analytics. [The 2022 Summer Workshop of Korean Institute of Next Generation Computing](https://kingpc.or.kr/), Pyeongchang, Korea, 07/2022
 
 <p align="center">
-  <img width="90%" data-action="zoom" src="/images/220715.jpg" alt="absolute">
+  <img width="700" data-action="zoom" src="/images/220715.jpg" alt="absolute">
 </p>
 
 * O-Joun Lee: Heterogeneous Network Embedding and its Applications. [The 2021 Fall Conference of Korean Institute of Smart Media](https://www.manuscriptlink.com/society/kism/conference/sma2021f/programBook), Gwangju, Korea, 11/2021
@@ -431,7 +431,7 @@ toc_label: "Table of Contents"
 * O-Joun Lee: Trends in Interdisciplinary Research and Collaboration Opportunities. Vietnam National University, Hanoi - International School (VNU - IS), Virtual, 09/2021
 
 <p align="center">
-  <img width="90%" data-action="zoom" src="/images/Talk-VNUIS.jpg" alt="absolute">
+  <img width="700" data-action="zoom" src="/images/Talk-VNUIS.jpg" alt="absolute">
 </p>
 
 
@@ -442,79 +442,93 @@ toc_label: "Table of Contents"
 
 ***
 
+* AAAI 2025 (The 39th AAAI Conference on Artificial Intelligence), 02/2025
+
 <p align="center">
-  <img width="700" src="/images/AAAI2025_poster_Thuy_Extended.webp">
+  <img width="900" src="/images/AAAI2025_poster_Thuy_Extended.webp">
+</p>
+ 
+<br>
+
+* AAAI 2024 (The 38th AAAI Conference on Artificial Intelligence), 02/2024
+
+<p align="center">
+  <img width="900" src="/images/AAAI2024_poster_Thuy.webp">
+</p>
+ 
+<br>
+
+* XAI4Sci @ AAAI 2024 (The Explainable Machine Learning for Sciences Workshop held in conjunction with the 38th AAAI Conference on Artificial Intelligence), 02/2024
+
+<p align="center">
+  <img width="900" src="/images/AAAIw2024_Poster_HJ.webp">
+</p>
+ 
+<br>
+
+* ACK 2023 (The 2023 Annual Conference of Korea Information Processing Society), 11/2023
+
+<p align="center">
+  <img width="900" src="/images/ACK2023_poster_DK.webp">
 </p>
  
 <br>
 
 <p align="center">
-  <img width="700" src="/images/AAAI2024_poster_Thuy.webp">
+  <img width="900" src="/images/ACK2023_poster_SM.webp">
 </p>
- 
-<br>
- 
-<p align="center">
-  <img width="700" src="/images/AAAIw2024_Poster_HJ.webp">
-</p>
- 
-<br>
- 
-<p align="center">
-  <img width="700" src="/images/IUS2023_Poster_JL.webp">
-</p>
- 
-<br>
- 
-<p align="center">
-  <img width="700" src="/images/IUS2023_poster_JN.webp">
-</p>
- 
-<br>
- 
-<p align="center">
-  <img width="700" src="/images/ASK2023_poster_JL.webp">
-</p>
- 
-<br>
- 
-<p align="center">
-  <img width="700" src="/images/ASK2023_poster_JN.webp">
-</p>
- 
-<br>
- 
-<p align="center">
-  <img width="700" src="/images/Samsung2023_poster_JL.webp">
-</p>
- 
-<br>
- 
-<p align="center">
-  <img width="700" src="/images/ACK2023_poster_DK.webp">
-</p>
- 
-<br>
- 
-<p align="center">
-  <img width="700" src="/images/ASK2023_poster_DK.webp">
-</p>
- 
-<br>
- 
-<p align="center">
-  <img width="700" src="/images/AWAD2023_Poster.webp">
-</p>
- 
-<br>
- 
-<p align="center">
-  <img width="700" src="/images/ACK2023_poster_SM.webp">
-</p>
- 
-<br>
- 
 
+<br>
+
+* IUS 2023 (The 2023 IEEE International Ultrasonics Symposium),09/2023
+
+<p align="center">
+  <img width="900" src="/images/IUS2023_Poster_JL.webp">
+</p>
+ 
+<br>
+
+<p align="center">
+  <img width="900" src="/images/IUS2023_poster_JN.webp">
+</p>
+ 
+<br>
+
+* AWAD 2023 (The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices), 07/2023
+
+<p align="center">
+  <img width="900" src="/images/AWAD2023_Poster.webp">
+</p>
+ 
+<br>
+
+* ASK 2023 (The 2023 Spring Conference of The Acoustical Society of Korea), 06/2023
+
+<p align="center">
+  <img width="900" src="/images/ASK2023_poster_JL.webp">
+</p>
+ 
+<br>
+ 
+<p align="center">
+  <img width="900" src="/images/ASK2023_poster_JN.webp">
+</p>
+ 
+<br>
+
+<p align="center">
+  <img width="900" src="/images/ASK2023_poster_DK.webp">
+</p>
+
+<br>
+
+* Samsung Global Technology Symposium 2023, 04/2023
+
+<p align="center">
+  <img width="900" src="/images/Samsung2023_poster_JL.webp">
+</p>
+ 
+<br>
 
 ***
 
@@ -522,8 +536,10 @@ toc_label: "Table of Contents"
 
 ***
 
+* Journal of Materials Chemistry C, 09/2024
+
 <p align="center">
-  <img width="700" src="/images/JMCC_Cover.webp">
+  <img width="900" src="/images/JMCC_Cover.webp">
 </p>
  
 <br>
