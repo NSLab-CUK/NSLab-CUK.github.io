@@ -22,6 +22,28 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2025
+#### Mar 03rd, 2025
+{:.no_toc}
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition", WACV 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/fX5s1bSv01Q8M?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W. Jeong, Review on "Self-Supervised Graph Transformer on Large-Scale Molecular Data", NeurIPS 2020</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/DdrIArH2L8wkn0?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "Towards Foundation Models for Knowledge Graph Reasoning", ICLR 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/rSPAnmGuFYhtJ9?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Feb 24th, 2025
 {:.no_toc}
 
