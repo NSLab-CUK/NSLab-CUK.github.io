@@ -13,6 +13,19 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+##### Feb 25th, 2025 -- Mar 4th, 2025
+{:.no_toc}
+
+* We have participated in [AAAI 2025](https://aaai.org/aaai-conference/), Philadelphia, Pennsylvania, USA. Our team's steady stream of research on graph learning has been published as one paper.
+  * Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. The 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA, USA; 02/2025.
+
+<p align="center"><img width="700" src="/images/250228_01.jpg"></p>
+
+<p align="center"><img width="700" src="/images/AAAI2025_poster_Thuy_Extended.webp"></p>
+
+<p align="center"><img width="700" src="/images/AAAI2025.jpg"></p>
+
+***
 ##### Feb 21st, 2025
 {:.no_toc}
 
