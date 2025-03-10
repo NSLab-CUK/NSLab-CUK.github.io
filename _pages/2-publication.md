@@ -370,6 +370,12 @@ toc_label: "Table of Contents"
 
 ***
 
+* Feb 2025: Van Thuy Hoang, "The Best Award (최우수상)", The 22nd Graduate School Academic Awards (제22회 대학원 학술상), Bucheon, Korea
+
+<p align="center"><img width="700" src="/images/250227_Recipients.jpg" margin="10px"></p>
+
+<p align="center"><img width="700" src="/images/250227_Awards.jpg" margin="10px"></p>
+
 * Dec 2023: Van Thuy Hoang, "Excellence in Research Award", The 2nd CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2023), Bucheon, Korea
 
 <p align="center"><img width="700" src="/images/EiR2023_Hoang.webp" margin="10px"></p>
