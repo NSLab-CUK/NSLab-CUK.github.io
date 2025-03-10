@@ -22,6 +22,8 @@ toc_label: "Table of Contents"
 ##### Feb 27th, 2025
 {:.no_toc}
 
+* Van Thuy Hoang, a doctoral student at the Network Science Lab @ CUK, received the Best Award (최우수상) at the 22nd Graduate School Academic Awards (제22회 대학원 학술상) Ceremony for his outstanding research in graph learning, highlighting the Network Science Lab's leadership in graph ML.
+
 <p align="center"><img width="700" src="/images/250227_Recipients.jpg"></p>
 
 <p align="center"><img width="700" src="/images/250227_Awards.jpg"></p>
