@@ -326,6 +326,8 @@ toc_label: "Table of Contents"
 
 ***
 
+* O-Joun Lee, Van Thuy Hoang: Method for pre-training using graph information bottleneck based on subgraph and system thereof (서브그래프 기반 그래프 정보 병목 기법을 이용한 사전학습 방법 및 그 시스템). Ref. No: KR 1020250030478, 03/2025
+
 * O-Joun Lee, Van Thuy Hoang, Hochan Yang, Ju Hee Shim, Seung Kim, SungGyu Kim: System of Recommending Halal Cosmetics based on Knowledge Graph Representation Learning (지식 그래프 표현 학습에 기반한 할랄 화장품 추천 시스템). Ref. No: KR 1020240159542, 11/2024 (Transferred to [Shukran Korea Inc.](https://www.shukrankorea.com/))
 
 * O-Joun Lee, Van Thuy Hoang: Graph Represntation Learning Method and System Thereof (그래프 표현 학습 방법 및 그 시스템). Ref. No: KR 1020240104783, 08/2024
