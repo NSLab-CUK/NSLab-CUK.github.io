@@ -19,6 +19,14 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/250310.jpg"></p>
 
 ***
+##### Feb 27th, 2025
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/250227_Recipients.jpg"></p>
+
+<p align="center"><img width="700" src="/images/250227_Awards.jpg"></p>
+
+***
 ##### Feb 25th, 2025 -- Mar 4th, 2025
 {:.no_toc}
 
