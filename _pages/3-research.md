@@ -393,7 +393,7 @@ toc_label: "Table of Contents"
 # Media Exposure
 
 * (Mar 5th, 2025) 가톨릭대 인공지능학과 이오준 교수, 그래프 신경망 분야에서 최첨단 연구를 선도하다
-  * Related News Articles: 시사매거진(**4대 월간지**) <br>[![Drive](https://img.shields.io/badge/Drive-Article-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1DoyIW-pU98hL5B9ho2kQpynjXMI70jLR/view?usp=sharing)
+  * Related News Articles: [시사매거진](https://www.sisamagazine.co.kr/news/articleView.html?idxno=511802) (**4대 월간지**) <br>[![Drive](https://img.shields.io/badge/Drive-Article-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1DoyIW-pU98hL5B9ho2kQpynjXMI70jLR/view?usp=sharing)
 
 <p align="center">
   <img width="700" src="/images/250305_News.webp">
