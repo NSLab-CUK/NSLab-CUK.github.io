@@ -75,9 +75,9 @@ toc_label: "Table of Contents"
 ***
 ## Bibliographic Network Analysis
 
-<!--
-* Namgyu Jung, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Information Sciences. <br>[![Status](https://img.shields.io/badge/Status-Under%20Review-lightgrey?style=flat-square)](https://www.journals.elsevier.com/information-sciences) [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/jng6017/DHG-BERT)
--->
+* Namgyu Jung, David Camacho, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Cognitive Computation 03/2025. (To Appear) <br>
+[![DOI](http://img.shields.io/:DOI-10.1007/s12559--025--10441--1-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1007/s12559-025-10441-1) 
+[![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/jng6017/DHG-BERT)
 
 * O-Joun Lee, Hyeon-Ju Jeon, Jason J. Jung: Learning Multi-Resolution Representations of Research Patterns in Bibliographic Networks. Journal of Informetrics 02/2021; 15(1): 101126. <br>
 [![DOI](http://img.shields.io/:DOI-10.1016/j.joi.2020.101126-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1016/j.joi.2020.101126) 
