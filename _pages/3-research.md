@@ -69,6 +69,7 @@ toc_label: "Table of Contents"
 [![Drive](https://img.shields.io/badge/Drive-Slides--Extended-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1PKKSH48y7tJ6vRExQEavhQUSjtHbIX4X/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Presentation--Extended-red?style=flat-square&logo=YouTube)](https://youtu.be/o6dW0dbayb8)
 [![Underline](https://img.shields.io/badge/Underline-black?style=flat-square)](https://underline.io/lecture/112072-pre-training-graph-neural-networks-on-molecules-by-using-subgraph-conditioned-graph-information-bottleneck)
+[![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.news1.kr/society/education/5693005)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/S-CGIB)](https://github.com/NSLab-CUK/S-CGIB)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/S-CGIB)](https://github.com/NSLab-CUK/S-CGIB)
 
