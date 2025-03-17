@@ -15,7 +15,7 @@ toc_label: "Table of Contents"
 
 ***
 
-* Namgyu Jung, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Cognitive Computation 03/2025. (To Appear)
+* Namgyu Jung, David Camacho, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Cognitive Computation 03/2025. (To Appear)
 [![Link](https://img.shields.io/badge/IF%204.3%20--%20JCR%202023%20Top%2024.4%25-0C2E86?style=flat-square)](https://link.springer.com/journal/12559)
 
 * Tra Huong Thi Le, Nguyen Van Dien, Luong Vuong Nguyen, Tri-Hai Nguyen, O-Joun Lee: Transmission Power Optimization for Hybrid NOMA- URLLC System with STAR-RIS Assistance. IEEE Access 01/2025. (To Appear) DOI:10.1109/ACCESS.2025.3528251
