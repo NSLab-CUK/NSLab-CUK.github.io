@@ -22,6 +22,29 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2025
+#### Mar 17th, 2025
+{:.no_toc}
+
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "GLAD: Improving Latent Graph Generative Modeling with Simple Quantization", AAAI 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4QVUcuQ9uHwLgf?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "DriveLM: Driving with Graph Visual Question Answering", ECCV 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/h82KAUV1qUUCaw?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W. Jeong, Review on "KPGT: Knowledge-Guided Pre-training of Graph Transformer for Molecular Property Prediction", KDD 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/5gy2d2pl6QNKj2?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+
 #### Mar 10th, 2025
 {:.no_toc}
 
