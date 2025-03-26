@@ -15,14 +15,14 @@ toc_label: "Table of Contents"
 
 ***
 
-* Namgyu Jung, David Camacho, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Cognitive Computation 03/2025. (To Appear) DOI:10.1007/s12559-025-10441-1
+* Namgyu Jung, David Camacho, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Cognitive Computation 03/2025; 17: 85. DOI:10.1007/s12559-025-10441-1
 [![Link](https://img.shields.io/badge/IF%204.3%20--%20JCR%202023%20Top%2024.4%25-0C2E86?style=flat-square)](https://link.springer.com/journal/12559)
 <span class="__dimensions_badge_embed__" data-doi="10.1007/s12559-025-10441-1" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Tra Huong Thi Le, Nguyen Van Dien, Luong Vuong Nguyen, Tri-Hai Nguyen, O-Joun Lee: Transmission Power Optimization for Hybrid NOMA- URLLC System with STAR-RIS Assistance. IEEE Access 01/2025. (To Appear) DOI:10.1109/ACCESS.2025.3528251
+* Tra Huong Thi Le, Nguyen Van Dien, Luong Vuong Nguyen, Tri-Hai Nguyen, O-Joun Lee: Transmission Power Optimization for Hybrid NOMA- URLLC System with STAR-RIS Assistance. IEEE Access 01/2025; 13: 50216-50225. DOI:10.1109/ACCESS.2025.3528251
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3528251" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Van Thuy Hoang, Tien-Bach-Thanh Do, Jinho Seo, Seung Charlie Kim, Luong Vuong Nguyen, Duong Nguyen Minh Huy, Hyeon-Ju Jeon, O-Joun Lee: Halal or Not: Knowledge Graph Completion for Predicting Cultural Appropriateness of Daily Products. IEEE Access 01/2025. (To Appear) DOI:10.1109/ACCESS.2025.3528488
+* Van Thuy Hoang, Tien-Bach-Thanh Do, Jinho Seo, Seung Charlie Kim, Luong Vuong Nguyen, Duong Nguyen Minh Huy, Hyeon-Ju Jeon, O-Joun Lee: Halal or Not: Knowledge Graph Completion for Predicting Cultural Appropriateness of Daily Products. IEEE Access 01/2025; 13: 15158-15167. DOI:10.1109/ACCESS.2025.3528488
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3528488" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. Machine Learning: Science and Technology 10/2024; 5(4): 045036. DOI:10.1088/2632-2153/ad8981 
