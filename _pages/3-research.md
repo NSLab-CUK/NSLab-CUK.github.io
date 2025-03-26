@@ -76,7 +76,7 @@ toc_label: "Table of Contents"
 ***
 ## Bibliographic Network Analysis
 
-* Namgyu Jung, David Camacho, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Cognitive Computation 03/2025. (To Appear) <br>
+* Namgyu Jung, David Camacho, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Cognitive Computation 03/2025; 17: 85. <br>
 [![DOI](http://img.shields.io/:DOI-10.1007/s12559--025--10441--1-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1007/s12559-025-10441-1) 
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/jng6017/DHG-BERT)
 
@@ -122,7 +122,7 @@ toc_label: "Table of Contents"
 ### Cultural Appropriateness Prediction of Daily Products
 {:.no_toc}
 
-* Van Thuy Hoang, Tien-Bach-Thanh Do, Jinho Seo, Seung Charlie Kim, Luong Vuong Nguyen, Duong Nguyen Minh Huy, Hyeon-Ju Jeon, O-Joun Lee: Halal or Not: Knowledge Graph Completion for Predicting Cultural Appropriateness of Daily Products. IEEE Access 01/2025. (To Appear) <br>
+* Van Thuy Hoang, Tien-Bach-Thanh Do, Jinho Seo, Seung Charlie Kim, Luong Vuong Nguyen, Duong Nguyen Minh Huy, Hyeon-Ju Jeon, O-Joun Lee: Halal or Not: Knowledge Graph Completion for Predicting Cultural Appropriateness of Daily Products. IEEE Access 01/2025; 13: 15158-15167. <br>
 [![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2025.3528488-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/ACCESS.2025.3528488)
 [![arXiv](https://img.shields.io/badge/arXiv-2501.05768-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2501.05768)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Halal-or-Not)
