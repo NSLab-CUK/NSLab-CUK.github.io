@@ -243,6 +243,7 @@ Erdős Number: [6](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?s
 * Prof. Changhan Yoon, Inje University, Gimhae, Korea
 * Prof. [Kang-Min Kim](https://kangmin89.com/), The Catholic University of Korea, Bucheon, Korea
 * Prof. [Jun Young Kim](https://sites.google.com/view/jykimgroup/home), The Catholic University of Korea, Bucheon, Korea
+* Prof. [Suk Min Kim](https://sites.google.com/view/bbelgroup/professor), The Catholic University of Korea, Bucheon, Korea
 * Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), The Catholic University of Korea, Bucheon, Korea
 * Prof. Yu-Doo Kim, Dongyang Mirae University, Seoul, Korea
 * Prof. [Youjin Shin](https://adslab0.github.io/), The Catholic University of Korea, Bucheon, Korea
