@@ -82,19 +82,6 @@ Erdős Number: [6](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?s
 
 <br style="clear: both;" />
 
-###### Min-Woo Choi (Mar 2023 -- Present; On leaving)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/MWChoi.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Mar 2023 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
-* Mar 2017 -- Feb 2019: M.Sc. in Atmospheric Sciences, Kongju National University, Gongju, Korea
-* Mar 2011 -- Feb 2017: B.Sc. in Atmospheric Sciences, Kongju National University, Gongju, Korea
-* Research Interest: Weather Forecasting with Graph Neural Networks
-* <a href="mailto:choimin1231@catholic.ac.kr"><img src="https://img.shields.io/badge/-choimin1231@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-
-<br style="clear: both;" />
-
 ###### [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) (Mar 2024 -- Present)
 {:.no_toc}
 
@@ -109,49 +96,8 @@ Erdős Number: [6](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?s
 
 <br style="clear: both;" />
 
-###### [Huy Quang Tran](https://nslab-cuk.github.io/member/huy) (Mar 2024 -- Present)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/Huy.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Mar 2024 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea	
-* Mar 2021 -- Feb 2023: M.Eng. in Electrical, Electronics and Computer Engineering, University of Ulsan, Ulsan, Korea
-* Oct 2013 -- Sep 2017: B.Sc. in Mathematics and Computer Science, University of Science, Vietnam National University, Ho Chi Minh City, Vietnam
-* Research Interest: Graph Representation Learning
-* <a href="mailto:huytran1994@catholic.ac.kr"><img src="https://img.shields.io/badge/-huytran1994@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-* <a href="https://github.com/HasukiHT"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-
-<br style="clear: both;" />
-
 ***
 #### M.Eng. Course
-
-###### [Phuc Vinh Bui](https://nslab-cuk.github.io/member/phucbui) (Sep 2022 -- Present; On leaving)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/Phuc.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Sep 2022 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
-* Sep 2015 -- Jun 2019: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam
-* Research Interest: Medical Knowledge Graph
-* <a href="mailto:orenji@catholic.ac.kr"><img src="https://img.shields.io/badge/-orenji@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-* <a href="https://github.com/phucbuiforwork"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-
-<br style="clear: both;" />
-
-###### [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) (Sep 2022 -- Present; On leaving)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/Sang.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Sep 2022 -- Present: M.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
-* March 2021 -- Sep 2022: DevOps Engineer, <a href="https://symphony.com/">Symphony</a> project, FPT Software, Danang, Vietnam
-* Sep 2017 -- Jun 2021: B.Eng. in Software Engineering, Duy Tan University, Danang, Vietnam
-* Research Interest: Graph Representation Learning
-* <a href="mailto:sangnguyen@catholic.ac.kr"><img src="https://img.shields.io/badge/-sangnguyen@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-* <a href="https://github.com/nguyenthanhsang99"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-
-<br style="clear: both;" />
 
 ###### [Yanjun Wu](https://nslab-cuk.github.io/member/WYJ) (Aug 2023 -- Present)
 {:.no_toc}
