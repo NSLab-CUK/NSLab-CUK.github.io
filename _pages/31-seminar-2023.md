@@ -4,6 +4,7 @@ title: NS-CUK Weekly Seminar on 2023
 permalink: /seminar/2023/
 image: CUK_4Seasons.jpg
 description: Archive of papers reviewed by members of the Network Science Lab at the Catholic University of Korea as part of the NS-CUK Weekly Seminar series
+last_modified_at: 2025-01-03 15:30:00 +0900
 ---
 
 <!-- ![image](https://github.com/NSLab-CUK/NSLab-CUK.github.io/assets/100113405/96ea07b1-9117-4436-9e78-5f554d6629a4) -->
