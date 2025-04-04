@@ -7,6 +7,7 @@ description: Presentation of the research areas and ongoing research projects of
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
+last_modified_at: 2025-03-31 15:30:00 +0900
 ---
 
 > Graphs illustrate intricate patterns in our perception of the world and ourselves;<br> graph mining enhances this comprehension by highlighting overlooked details.
