@@ -7,6 +7,7 @@ description: Members, alumni and collaborators of the Network Science Lab at the
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
+last_modified_at: 2025-04-03 15:30:00 +0900
 ---
 
 
