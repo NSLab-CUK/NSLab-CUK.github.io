@@ -207,11 +207,9 @@ Erdős Number: [6](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?s
 <img align="right" src="https://nslab-cuk.github.io/images/mskim2.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
 * Mar 2019 -- Present: B.Eng. in Communications and Electronic Engineering, The Catholic University of Korea, Bucheon, Korea	
-* Research Interest: Recommendation Systems
+* Research Interest: Natural Language Processing
 * <a href="mailto:kms39273@catholic.ac.kr"><img src="https://img.shields.io/badge/-kms39273@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-* <a href="https://github.com/cukminseo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-* <a href="https://cukminseo.notion.site/Minseo-Kim-7cc7c1ee1137419fb878df36f38ac8bd?pvs=4"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"></a>
-* <a href="https://velog.io/@kms39273"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
+* <a href="https://github.com/luckyvickyricky"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 
 <br style="clear: both;" />
 
