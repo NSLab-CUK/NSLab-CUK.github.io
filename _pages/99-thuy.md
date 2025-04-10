@@ -2,7 +2,7 @@
 layout: page
 title: "Van Thuy Hoang"
 permalink: /member/hoangvanthuy90
-image: 
+image: 250228_02.jpg
 description: Curriculum vitae of Van Thuy Hoang
 ---
 
