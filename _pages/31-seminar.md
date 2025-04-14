@@ -23,6 +23,28 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2025
+#### Apr 14th, 2025
+{:.no_toc}
+
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Few-Shot Graph Learning for Molecular Property Prediction", WWW 2021</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/RG0UzdoHZpRg3?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Geometry Sensitive Cross-Modal Reasoning for Composed Query Based Image Retrieval", IEEE Transactions on Image Processing 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/uM1KGtZcHxOjWl?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.H. Shim, Review on "SPECTER: Document-level Representation Learning using Citation-informed Transformers", ACL 2020</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/GdwvsiiEaIYOYf?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Apr 07th, 2025
 {:.no_toc}
 
