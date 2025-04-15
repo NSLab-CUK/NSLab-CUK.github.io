@@ -159,8 +159,9 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 
 ***
 
-* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. The 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA, USA; 02/2025.
+* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. The 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA, USA; 02/2025. DOI:10.1609/aaai.v39i16.33891
 [![Link](https://img.shields.io/badge/AAAI'25-0C2E86?style=flat-square)](https://aaai.org/aaai-conference/)
+<span class="__dimensions_badge_embed__" data-doi="10.1609/aaai.v39i16.33891" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Van Thuy Hoang, Ho-Chan Yang, Ju-Hee Shim, O-Joun Lee: Halal Cosmetic Recommendation based on Knowledge Graph Representation Learning. The 10th International Conference on Next Generation Computing (ICNGC 2024), Angeles City, Philippines; 11/2024.
 
