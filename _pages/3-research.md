@@ -23,7 +23,8 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 * Van Thuy Hoang, O-Joun Lee: A Survey on Structure-Preserving Graph Transformers. arXiv preprint 01/2024; arXiv:2401.16176. (Preprint) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2401.16176-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2401.16176)
 
-* Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Message Passing Mechanism by Utilizing Community Structures. arXiv preprint 12/2023; arXiv:2312.16788. (Preprint) <br>
+* Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-attention. IEEE Transactions on Network Science and Engineering 04/2025. (To Appear)<br>
+(_arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Message Passing Mechanism by Utilizing Community Structures. arXiv preprint 12/2023; arXiv:2312.16788.)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-2312.16788-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2312.16788)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-biases-in-message-passing)
