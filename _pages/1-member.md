@@ -102,7 +102,7 @@ Erdős Number: [6](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?s
 
 <img align="right" src="https://nslab-cuk.github.io/images/kvpark.jpeg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2024 -- Present: Ph.D in Interdisciplinary Program in Artificial Intelligence, Seoul National University, Seoul, Republic of Korea
+* Mar 2024 -- Present: Ph.D in [Interdisciplinary Program in Artificial Intelligence, Seoul National University](https://gsai.snu.ac.kr/), Seoul, Republic of Korea
 * Sep 2018 -- Aug 2020: M.Sc. in Industrial Management Engineering, Korea University, Seoul, Republic of Korea
 * Mar 2013 -- Aug 2017: B.Sc. in Statistics, Dongguk University, Seoul, Republic of Korea
 * Research Interest: Spatio-Temporal GNNs
