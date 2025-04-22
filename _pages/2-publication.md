@@ -32,6 +32,7 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 [![Link](https://img.shields.io/badge/IF%204.3%20--%20JCR%202023%20Top%2024.4%25-0C2E86?style=flat-square)](https://link.springer.com/journal/12559)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1007/s12559-025-10441-1" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.1007/s12559-025-10441-1" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true">
 <div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.1007/s12559-025-10441-1'></div>
 </div>
 
