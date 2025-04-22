@@ -195,9 +195,11 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 
 ***
 # Digital Humanities and Social Sciences
+{:.no_toc}
 
 ***
 ## Digital Literature
+{:.no_toc}
 
 * Eun-Soon You, Sun-Jung Ryu, O-Joun Lee: A Study on the ‘Esprit’ Indices of The Barber of Seville and The Marriage of Figaro Using the Vocabulary-Based Text Analysis Tool LIWC-22. Story & Image Telling 06/2024; 27: 93-119. (In Korean) <br>
 [![DOI](http://img.shields.io/:DOI-10.22758/sni.2024.27.093-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.22758/sni.2024.27.093)
@@ -222,15 +224,18 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 
 ***
 ## Computational Social Sciences
+{:.no_toc}
 
 * Jooho Lee, Yoewon Yoon, O-Joun Lee: Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak. Figshare 08/2023. (Dataset) <br>
 [![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.24025491.v1-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.6084/m9.figshare.24025491.v1)
 
 ***
 # Medical Image and Signal Processing
+{:.no_toc}
 
 ***
 ## Ultrasonic Signal Analysis for Cell Characterization
+{:.no_toc}
 
 ### Automated Disease Diagnostics
 {:.no_toc}
@@ -289,6 +294,7 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 
 ***
 ## Ultrasound Image Analysis
+{:.no_toc}
 
 ### Diagnosis and Staging of Liver Fibrosis
 {:.no_toc}
@@ -305,9 +311,11 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 
 ***
 # Miscellaneous
+{:.no_toc}
 
 ***
 ## Semiconductor Design and Simulation
+{:.no_toc}
 
 * Minsun Cho, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Transfer Learning for Semiconductor Device Simulation. The 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024.
 
@@ -326,11 +334,13 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 
 ***
 ## AI-driven Chemical Process Design
+{:.no_toc}
 
 * TBA
 
 ***
 ## Water Distribution Pipe Corrosion Assessment
+{:.no_toc}
 
 * Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 07/2024; 7: 63. (†: Co-correspondence) <br> 
 [![DOI](http://img.shields.io/:DOI-10.1038/s41545--024--00358--x-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1038/s41545-024-00358-x)
