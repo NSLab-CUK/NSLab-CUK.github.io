@@ -194,8 +194,7 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 [![Website](https://img.shields.io/badge/-XAI4Sci%20Proceedings-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://xai4sci.github.io/#papers)
 
 ***
-# Digital Humanities and Social Sciences
-{:.no_toc}
+# Research in Other Domains
 
 ***
 ## Digital Literature
@@ -229,12 +228,9 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 * Jooho Lee, Yoewon Yoon, O-Joun Lee: Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak. Figshare 08/2023. (Dataset) <br>
 [![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.24025491.v1-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.6084/m9.figshare.24025491.v1)
 
-***
-# Medical Image and Signal Processing
-{:.no_toc}
 
 ***
-## Ultrasonic Signal Analysis for Cell Characterization
+## Medical Image and Signal Processing
 {:.no_toc}
 
 ### Automated Disease Diagnostics
@@ -291,11 +287,6 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing)
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.veritas-a.com/news/articleView.html?idxno=461451) 
 
-
-***
-## Ultrasound Image Analysis
-{:.no_toc}
-
 ### Diagnosis and Staging of Liver Fibrosis
 {:.no_toc}
 
@@ -309,9 +300,6 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 * Yunsang Joo, Hyun-Cheol Park, O-Joun Lee, Changhan Yoon, Moon Hyung Choi, Chang Choi: Classification of Liver Fibrosis from Heterogeneous Ultrasound Image. IEEE Access 01/2023; 11: 9920-9930. <br>
 [![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2023.3240216-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/ACCESS.2023.3240216)
 
-***
-# Miscellaneous
-{:.no_toc}
 
 ***
 ## Semiconductor Design and Simulation
@@ -353,8 +341,12 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1mLOJuRBatRkGGWKFN6u3U6bz-WMg9nWL/view?usp=sharing)
 
 
+
 ***
-# Regular Seminars
+# Miscellaneous
+
+***
+## Regular Seminars
 
 * If you are interested in our research topics and objectives, you may find it beneficial to explore the content of our regular seminars through the links provided below.<br>
 [![Link](https://img.shields.io/badge/NS@CUK-Weekly%20Seminar-0C2E86?style=flat-square)](https://nslab-cuk.github.io/seminar/)
@@ -373,14 +365,14 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 [![repo](https://custom-icon-badges.demolab.com/badge/%236%20in%20Eng-0C2E86.svg?style=flat-square&logo=repo&logoColor=FFFFFF)](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)
 
 ***
-# Open Source Projects
+## Open Source Projects
 
 * Open datasets and open source implementations created by members and collaborators of the Network Science Lab are available via the following links.<br>
 [![Link](https://img.shields.io/badge/NS@CUK-Open%20Datasets-0C2E86?style=flat-square)](https://nslab-cuk.github.io/open-datasets/)
 [![Link](https://img.shields.io/badge/NS@CUK-Open%20Source%20Projects-0C2E86?style=flat-square)](https://nslab-cuk.github.io/open-source-projects/)
 
 ***
-# Research Grants
+## Research Grants
 
 * “Literary Research in the Digital Age: Analysis of Literary Works using Deep Learning-based Language Model,” supported by the Academic Research Professors Program through NRF of Korea and funded by MOE of Korea (Jun 2024 – May 2025, 20 Mil KRW) (PI: Eun-Soon You)
 * “Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products,” through NRF of Korea and funded by MOE of Korea (Apr 2024 – Nov 2024, 30 Mil KRW), by cooperating with Shukran Korea Inc. (PI: O-Joun Lee)<br>
@@ -407,7 +399,7 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 * “Research Team Formation based on Bibliographic Network Embedding,” funded by The Catholic University of Korea (Sep 2021 – Aug 2022, 7 Mil KRW) (PI: O-Joun Lee)
 
 ***
-# Media Exposure
+## Media Exposure
 
 * (Mar 5th, 2025) 가톨릭대 인공지능학과 이오준 교수, 그래프 신경망 분야에서 최첨단 연구를 선도하다
   * Related News Articles: [시사매거진](https://www.sisamagazine.co.kr/news/articleView.html?idxno=511802) (**4대 월간지**) <br>[![Drive](https://img.shields.io/badge/Drive-Article-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1DoyIW-pU98hL5B9ho2kQpynjXMI70jLR/view?usp=sharing)
