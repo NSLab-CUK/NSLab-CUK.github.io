@@ -10,8 +10,7 @@ toc_label: "Table of Contents"
 last_modified_at: 2025-03-31 15:30:00 +0900
 ---
 
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async type="application/javascript" src="https://cdn.scite.ai/badge/scite-badge-latest.min.js"></script>
+
 
 ***
 
@@ -800,35 +799,32 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    const badgeScriptsLoaded = { dimensions: false, scite: false };
+    const badges = document.querySelectorAll('span.__dimensions_badge_embed__, div.scite-badge');
+    const dimensionsScriptUrl = "https://badge.dimensions.ai/badge.js";
+    const sciteScriptUrl = "https://cdn.scite.ai/badge/scite-badge-latest.min.js";
+    let dimensionsScriptLoaded = false;
+    let sciteScriptLoaded = false;
 
-    function loadScript(src) {
-        return new Promise((resolve, reject) => {
-            const script = document.createElement('script');
-            script.src = src;
-            script.async = true;
-            script.onload = resolve;
-            script.onerror = reject;
-            document.head.appendChild(script);
-        });
+    function loadScript(src, callback) {
+        const script = document.createElement('script');
+        script.src = src;
+        script.async = true;
+        script.onload = callback;
+        document.body.appendChild(script);
     }
 
-    const badges = document.querySelectorAll('.__dimensions_badge_embed__, .scite-badge');
-
-    const observer = new IntersectionObserver((entries, obs) => {
+    const observer = new IntersectionObserver((entries, observer) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
-                if (!badgeScriptsLoaded.dimensions) {
-                    loadScript('https://badge.dimensions.ai/badge.js').then(() => {
-                        badgeScriptsLoaded.dimensions = true;
-                    });
+                if (entry.target.classList.contains('__dimensions_badge_embed__') && !dimensionsScriptLoaded) {
+                    dimensionsScriptLoaded = true;
+                    loadScript(dimensionsScriptUrl);
                 }
-                if (!badgeScriptsLoaded.scite) {
-                    loadScript('https://cdn.scite.ai/badge/scite-badge-latest.min.js').then(() => {
-                        badgeScriptsLoaded.scite = true;
-                    });
+                if (entry.target.classList.contains('scite-badge') && !sciteScriptLoaded) {
+                    sciteScriptLoaded = true;
+                    loadScript(sciteScriptUrl);
                 }
-                obs.disconnect();
+                observer.unobserve(entry.target);
             }
         });
     });
