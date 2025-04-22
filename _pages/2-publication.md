@@ -11,6 +11,7 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 ---
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 ***
 
@@ -21,10 +22,12 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 * Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-attention. IEEE Transactions on Network Science and Engineering 04/2025. (To Appear) DOI:10.1109/TNSE.2025.3563697
 [![Link](https://img.shields.io/badge/IF%206.7%20--%20JCR%202023%20Top%203.3%25-0C2E86?style=flat-square)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TNSE.2025.3563697" data-style="small_rectangle"></span>
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1109/TNSE.2025.3563697'></div>
 
 * Namgyu Jung, David Camacho, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Cognitive Computation 03/2025; 17: 85. DOI:10.1007/s12559-025-10441-1
 [![Link](https://img.shields.io/badge/IF%204.3%20--%20JCR%202023%20Top%2024.4%25-0C2E86?style=flat-square)](https://link.springer.com/journal/12559)
 <span class="__dimensions_badge_embed__" data-doi="10.1007/s12559-025-10441-1" data-style="small_rectangle"></span>
+<div class='altmetric-embed' data-badge-popover='right' data-doi='10.1007/s12559-025-10441-1'></div>
 
 * Tra Huong Thi Le, Nguyen Van Dien, Luong Vuong Nguyen, Tri-Hai Nguyen, O-Joun Lee: Transmission Power Optimization for Hybrid NOMA- URLLC System with STAR-RIS Assistance. IEEE Access 01/2025; 13: 50216-50225. DOI:10.1109/ACCESS.2025.3528251
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3528251" data-style="small_rectangle"></span>
