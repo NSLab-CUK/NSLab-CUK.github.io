@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 image: Bib_Network.png
-description: Presentation of the research areas and ongoing research projects of the Network Science Lab at the Catholic University of Korea
+description: Overview of research areas, ongoing projects, and recent achievements from the Network Science Lab (NS Lab) at The Catholic University of Korea, specializing in advanced Graph ML methodologies and interdisciplinary applications.
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
