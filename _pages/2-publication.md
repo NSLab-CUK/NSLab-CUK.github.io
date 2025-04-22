@@ -622,10 +622,25 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 ***
 
 * Jooho Lee, Yoewon Yoon, O-Joun Lee: Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak. Figshare 08/2023. DOI:10.6084/m9.figshare.24025491.v1 (Dataset)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.6084/m9.figshare.24025491.v1" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.6084/m9.figshare.24025491.v1" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+<div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.6084/m9.figshare.24025491.v1'></div>
+</div>
 
 * Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Social Network of Characters Appeared in the French Novel Series "La Comédie humaine" and An Interaction Network of Novels in the Series. Figshare 08/2023. DOI:10.6084/m9.figshare.23994078.v1 (Dataset)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.6084/m9.figshare.23994078.v1" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.6084/m9.figshare.23994078.v1" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+<div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.6084/m9.figshare.23994078.v1'></div>
+</div>
 
 * Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel "Les Liaisons Dangereuses". Figshare 08/2023. DOI:10.6084/m9.figshare.23993748.v1 (Dataset)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.6084/m9.figshare.23993748.v1" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.6084/m9.figshare.23993748.v1" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+<div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.6084/m9.figshare.23993748.v1'></div>
+</div>
 
 
 
