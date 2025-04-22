@@ -492,21 +492,59 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 
 ***
 
-* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck. arXiv preprint 12/2024; arXiv:2412.15589. (Preprint)
+* Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention. arXiv preprint 04/2025; arXiv:2504.15075. (Preprint) DOI:10.48550/arXiv.2504.15075
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2504.15075" data-style="small_rectangle"></span>
+<div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.48550/arXiv.2504.15075'></div>
+</div>
 
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. arXiv preprint 03/2024; arXiv:2403.17384. (Preprint)
+* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck. arXiv preprint 12/2024; arXiv:2412.15589. (Preprint) DOI:10.48550/arXiv.2412.15589
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2412.15589" data-style="small_rectangle"></span>
+<div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.48550/arXiv.2412.15589'></div>
+</div>
 
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 02/2024; arXiv:2402.14861. (Preprint)
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. arXiv preprint 03/2024; arXiv:2403.17384. (Preprint) DOI:10.48550/arXiv.2403.17384
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2403.17384" data-style="small_rectangle"></span>
+<div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.48550/arXiv.2403.17384'></div>
+</div>
 
-* Van Thuy Hoang, O-Joun Lee: A Survey on Structure-Preserving Graph Transformers. arXiv preprint 01/2024; arXiv:2401.16176. (Preprint)
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 02/2024; arXiv:2402.14861. (Preprint) DOI:10.48550/arXiv.2402.14861
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2402.14861" data-style="small_rectangle"></span>
+<div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.48550/arXiv.2402.14861'></div>
+</div>
 
-* Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Message Passing Mechanism by Utilizing Community Structures. arXiv preprint 12/2023; arXiv:2312.16788. (Preprint)
+* Van Thuy Hoang, O-Joun Lee: A Survey on Structure-Preserving Graph Transformers. arXiv preprint 01/2024; arXiv:2401.16176. (Preprint) DOI:10.48550/arXiv.2401.16176
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2401.16176" data-style="small_rectangle"></span>
+<div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.48550/arXiv.2401.16176'></div>
+</div>
 
-* Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. arXiv preprint 09/2023; arXiv:2309.03219. (Preprint)
+* Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Message Passing Mechanism by Utilizing Community Structures. arXiv preprint 12/2023; arXiv:2312.16788. (Preprint) DOI:10.48550/arXiv.2312.16788
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2312.16788" data-style="small_rectangle"></span>
+<div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.48550/arXiv.2312.16788'></div>
+</div>
 
-* Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. arXiv preprint 08/2023; arXiv:2308.09517. (Preprint)
+* Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. arXiv preprint 09/2023; arXiv:2309.03219. (Preprint) DOI:10.48550/arXiv.2309.03219
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2309.03219" data-style="small_rectangle"></span>
+<div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.48550/arXiv.2309.03219'></div>
+</div>
 
-* Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv preprint 04/2023; arXiv:2304.13195. (Preprint)
+* Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. arXiv preprint 08/2023; arXiv:2308.09517. (Preprint) DOI:10.48550/arXiv.2308.09517
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2308.09517" data-style="small_rectangle"></span>
+<div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.48550/arXiv.2308.09517'></div>
+</div>
+
+* Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv preprint 04/2023; arXiv:2304.13195. (Preprint) DOI:10.48550/arXiv.2304.13195
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2304.13195" data-style="small_rectangle"></span>
+<div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.48550/arXiv.2304.13195'></div>
+</div>
 
 
 
