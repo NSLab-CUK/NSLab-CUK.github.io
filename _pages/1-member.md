@@ -22,28 +22,15 @@ last_modified_at: 2025-04-03 15:30:00 +0900
 
 O-Joun Lee has been an assistant professor at [the Catholic University of Korea](https://catholic.ac.kr), Rep. of Korea, since September 2021. He received his Ph.D. degree in Computer Science and Engineering from Chung-Ang University in 2019 (Supervisor: [Prof. Jason J. Jung](http://intelligent.pe.kr/); [Knowledge Engineering Lab](http://ke.cau.ac.kr/Main_Page)). He also received his B.Eng. degree in Software Science from Dankook University in 2015. He was a full-time researcher at Pohang University of Science and Technology, Rep. of Korea, from September 2019 to August 2021. His research interests include graph mining, graph representation learning, and graph neural networks. He has applied graph mining models and methods to various unstructured data, such as social media, bibliographic data, medical knowledge bases, traffic flow data, molecular structures, etc.
 
-Erdős Number: [6](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1361232&target=189017)
-
 <br style="clear: both;" />
-
-###### Research Experience
-{:.no_toc}
 
 * Sep 2021 -- Present: Assistant Professor, [<img src="/images/AI_Logo.png" alt="drawing" style="height: 20px;"/> Dept. of Artificial Intelligence](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Sep 2019 -- Aug 2021: Researcher, [<img src="/images/iLab_Logo.png" alt="drawing" style="height: 20px;"/> Future IT Innovation Laboratory](https://i-lab.postech.ac.kr/), [<img src="/images/POSTECHLogo.png" alt="drawing" style="height: 20px;"/> Pohang University of Science and Technology](https://postech.ac.kr/), Pohang, Korea
-
-###### Education
-{:.no_toc}
-
 * Mar 2015 -- Aug 2019: Ph.D. in Computer Science and Engineering, [<img src="/images/CAULogo.png" alt="drawing" style="height: 20px;"/> Chung-Ang University](https://www.cau.ac.kr/), Seoul, Korea
   * Under the supervision of [Prof. Jason J. Jung](http://intelligent.pe.kr/) within the [<img src="/images/KE_Logo.png" alt="drawing" style="height: 20px;"/> Knowledge Engineering Lab](http://ke.cau.ac.kr/Main_Page)
 * Mar 2011 -- Feb 2015: B.Eng. in Software Science, [<img src="/images/DKU_Logo1.jpg" alt="drawing" style="height: 20px;"/> Dankook University](https://www.dankook.ac.kr/), Yongin, Korea
-
-###### Contact
-{:.no_toc}
-
 * <a href="mailto:ojlee@catholic.ac.kr"><img src="https://img.shields.io/badge/ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-
+* Erdős Number: [6](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1361232&target=189017)
 
 ***
 # Post-Doctoral Researchers
