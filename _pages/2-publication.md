@@ -10,41 +10,44 @@ toc_label: "Table of Contents"
 last_modified_at: 2025-03-31 15:30:00 +0900
 ---
 
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 ***
 
 # Journal Publications
 
 ***
 
-* Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-attention. IEEE Transactions on Network Science and Engineering 04/2025. (To Appear)
+* Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-attention. IEEE Transactions on Network Science and Engineering 04/2025. (To Appear) DOI:10.1109/TNSE.2025.3563697
 [![Link](https://img.shields.io/badge/IF%206.7%20--%20JCR%202023%20Top%203.3%25-0C2E86?style=flat-square)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TNSE.2025.3563697" data-style="small_rectangle"></span>
 
 * Namgyu Jung, David Camacho, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Cognitive Computation 03/2025; 17: 85. DOI:10.1007/s12559-025-10441-1
 [![Link](https://img.shields.io/badge/IF%204.3%20--%20JCR%202023%20Top%2024.4%25-0C2E86?style=flat-square)](https://link.springer.com/journal/12559)
-<span class="__dimensions_badge_embed__" data-doi="10.1007/s12559-025-10441-1" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s12559-025-10441-1" data-style="small_rectangle"></span>
 
 * Tra Huong Thi Le, Nguyen Van Dien, Luong Vuong Nguyen, Tri-Hai Nguyen, O-Joun Lee: Transmission Power Optimization for Hybrid NOMA- URLLC System with STAR-RIS Assistance. IEEE Access 01/2025; 13: 50216-50225. DOI:10.1109/ACCESS.2025.3528251
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3528251" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3528251" data-style="small_rectangle"></span>
 
 * Van Thuy Hoang, Tien-Bach-Thanh Do, Jinho Seo, Seung Charlie Kim, Luong Vuong Nguyen, Duong Nguyen Minh Huy, Hyeon-Ju Jeon, O-Joun Lee: Halal or Not: Knowledge Graph Completion for Predicting Cultural Appropriateness of Daily Products. IEEE Access 01/2025; 13: 15158-15167. DOI:10.1109/ACCESS.2025.3528488
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3528488" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3528488" data-style="small_rectangle"></span>
 
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. Machine Learning: Science and Technology 10/2024; 5(4): 045036. DOI:10.1088/2632-2153/ad8981 
 [![Link](https://img.shields.io/badge/IF%206.3%20--%20JCR%202023%20Top%2010.8%25-0C2E86?style=flat-square)](https://iopscience.iop.org/journal/2632-2153)
-<span class="__dimensions_badge_embed__" data-doi="10.1088/2632-2153/ad8981" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1088/2632-2153/ad8981" data-style="small_rectangle"></span>
 
 * Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024; 12(41): 16691–16700. DOI:10.1039/D4TC01224K 
 [![Link](https://img.shields.io/badge/IF%205.7%20--%20JCR%202023%20Top%2019.3%25-0C2E86?style=flat-square)](https://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-c/)
-<span class="__dimensions_badge_embed__" data-doi="10.1039/D4TC01224K" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1039/D4TC01224K" data-style="small_rectangle"></span>
 
 * Eun-Soon You, O-Joun Lee: Training AI Experts for the Fourth Industrial Revolution Era: A Case Study of the Department of Artificial Intelligence at the Catholic University of Korea. Information and Communications Magazine 08/2024; 41(8): 23-27. (In Korean)
 
 * Huu-Tuong Ho, Luong Vuong Nguyen, Tra Huong Thi Le, O-Joun Lee: Face Detection Using Eigenfaces: A Comprehensive Review. IEEE Access 07/2024; 12: 118406-118426. DOI:10.1109/ACCESS.2024.3435964
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2024.3435964" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2024.3435964" data-style="small_rectangle"></span>
 
 * Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 07/2024; 7: 63. (†: Co-correspondence) DOI:10.1038/s41545-024-00358-x 
 [![Link](https://img.shields.io/badge/IF%2010.5%20--%20JCR%202023%20Top%201.2%25-0C2E86?style=flat-square)](https://www.nature.com/npjcleanwater/)
-<span class="__dimensions_badge_embed__" data-doi="10.1038/s41545-024-00358-x" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41545-024-00358-x" data-style="small_rectangle"></span>
 
 * Eun-Soon You, Sun-Jung Ryu, O-Joun Lee: A Study on the ‘Esprit’ Indices of The Barber of Seville and The Marriage of Figaro Using the Vocabulary-Based Text Analysis Tool LIWC-22. Story & Image Telling 06/2024; 27: 93-119. (In Korean) DOI:10.22758/sni.2024.27.093
 
@@ -52,26 +55,26 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 
 * Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 05/2024; 11(10): 18686-18697. (†: Co-correspondence) DOI:10.1109/JIOT.2024.3365144 
 [![Link](https://img.shields.io/badge/IF%208.2%20--%20JCR%202023%20Top%203.4%25-0C2E86?style=flat-square)](https://ieee-iotj.org/)
-<span class="__dimensions_badge_embed__" data-doi="10.1109/JIOT.2024.3365144" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/JIOT.2024.3365144" data-style="small_rectangle"></span>
 
 * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 04/2024; 24(7): 9626-9638. (†: Co-correspondence) DOI:10.1109/JSEN.2024.3364682
 [![Link](https://img.shields.io/badge/IF%204.3%20--%20JCR%202023%20Top%2019.1%25-0C2E86?style=flat-square)](https://ieee-sensors.org/ieee-sensors-journal/)
-<span class="__dimensions_badge_embed__" data-doi="10.1109/JSEN.2024.3364682" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/JSEN.2024.3364682" data-style="small_rectangle"></span>
 
 * Eun-Soon You, Sun-Jung Ryu: Étude sur l'enseignement de la littérature française à l'ère numérique. Enseignement de Langue et Littérature Françaises 03/2024; 84: 151-187. (In Korean) DOI:10.36747/ellf84.6
 
 * Hyun-Cheol Park, YunSang Joo, O-Joun Lee, Kunkyu Lee, Tai-Kyong Song, Chang Choi, Moon Hyung Choi, Changhan Yoon: Automated classification of liver fibrosis stages using ultrasound imaging. BMC Medical Imaging 02/2024; 24: 36. DOI:10.1186/s12880-024-01209-4
 [![Link](https://img.shields.io/badge/IF%202.9%20--%20JCR%202023%20Top%2029.2%25-0C2E86?style=flat-square)](https://bmcmedimaging.biomedcentral.com/)
-<span class="__dimensions_badge_embed__" data-doi="10.1186/s12880-024-01209-4" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1186/s12880-024-01209-4" data-style="small_rectangle"></span>
 
 * Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. Ultrasonics 01/2024; 136: 107167. (†: Co-correspondence) DOI:10.1016/j.ultras.2023.107167
 [![Link](https://img.shields.io/badge/IF%203.8%20--%20JCR%202023%20Top%2011.2%25-0C2E86?style=flat-square)](https://www.sciencedirect.com/journal/ultrasonics)
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ultras.2023.107167" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ultras.2023.107167" data-style="small_rectangle"></span>
 
 * Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house. Humanities Contents 12/2023; (71): 107-135. (In Korean) DOI:10.18658/humancon.2023.12.107
 
 * Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. IEEE Access 10/2023; 11: 114238-114249. DOI:10.1109/ACCESS.2023.3324046
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2023.3324046" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2023.3324046" data-style="small_rectangle"></span>
 
 * Van Thuy Hoang, Hyeon-Ju Jeon, Eun-Soon You, Yoewon Yoon, Sungyeop Jung, O-Joun Lee: Graph Representation Learning and its Applications: A Survey. Sensors 04/2023; 23(8): 4168. DOI:10.3390/s23084168
 <span class="__dimensions_badge_embed__" data-doi="10.3390/s23084168" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
