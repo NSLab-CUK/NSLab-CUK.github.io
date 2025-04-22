@@ -795,3 +795,44 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 <br>
 
 
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const badgeScriptsLoaded = { dimensions: false, scite: false };
+
+    function loadScript(src) {
+        return new Promise((resolve, reject) => {
+            const script = document.createElement('script');
+            script.src = src;
+            script.async = true;
+            script.onload = resolve;
+            script.onerror = reject;
+            document.head.appendChild(script);
+        });
+    }
+
+    const badges = document.querySelectorAll('.__dimensions_badge_embed__, .scite-badge');
+
+    const observer = new IntersectionObserver((entries, obs) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                if (!badgeScriptsLoaded.dimensions) {
+                    loadScript('https://badge.dimensions.ai/badge.js').then(() => {
+                        badgeScriptsLoaded.dimensions = true;
+                    });
+                }
+                if (!badgeScriptsLoaded.scite) {
+                    loadScript('https://cdn.scite.ai/badge/scite-badge-latest.min.js').then(() => {
+                        badgeScriptsLoaded.scite = true;
+                    });
+                }
+                obs.disconnect();
+            }
+        });
+    });
+
+    badges.forEach(badge => observer.observe(badge));
+});
+</script>
