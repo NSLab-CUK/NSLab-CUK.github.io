@@ -21,14 +21,14 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 
 * Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-attention. IEEE Transactions on Network Science and Engineering 04/2025. (To Appear) DOI:10.1109/TNSE.2025.3563697
 [![Link](https://img.shields.io/badge/IF%206.7%20--%20JCR%202023%20Top%203.3%25-0C2E86?style=flat-square)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
-<div style="display: flex; align-items: center; gap: 15px; margin-left: 1.5em; margin-top: 5px; margin-bottom: 15px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: 0px; margin-bottom: 15px;">
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TNSE.2025.3563697" data-style="small_rectangle"></span>
 <div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.1109/TNSE.2025.3563697'></div>
 </div>
 
 * Namgyu Jung, David Camacho, Chang Choi, O-Joun Lee: Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks. Cognitive Computation 03/2025; 17: 85. DOI:10.1007/s12559-025-10441-1
 [![Link](https://img.shields.io/badge/IF%204.3%20--%20JCR%202023%20Top%2024.4%25-0C2E86?style=flat-square)](https://link.springer.com/journal/12559)
-<div style="display: flex; align-items: center; gap: 15px; margin-left: 1.5em; margin-top: 5px; margin-bottom: 15px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: 0px; margin-bottom: 15px;">
 <span class="__dimensions_badge_embed__" data-doi="10.1007/s12559-025-10441-1" data-style="small_rectangle"></span>
 <div class='altmetric-embed' data-badge-type='4' data-badge-popover='right' data-doi='10.1007/s12559-025-10441-1'></div>
 </div>
