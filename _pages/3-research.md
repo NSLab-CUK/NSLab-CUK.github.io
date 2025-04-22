@@ -26,6 +26,7 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 * Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-attention. IEEE Transactions on Network Science and Engineering 04/2025. (To Appear)<br>
 (_arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Message Passing Mechanism by Utilizing Community Structures. arXiv preprint 12/2023; arXiv:2312.16788.)<br>
 [![DOI](http://img.shields.io/:DOI-10.1109/TNSE.2025.3563697-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/TNSE.2025.3563697)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.15075-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2504.15075)
 [![arXiv](https://img.shields.io/badge/arXiv-2312.16788-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2312.16788)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-biases-in-message-passing)
