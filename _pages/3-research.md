@@ -194,7 +194,7 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 [![Website](https://img.shields.io/badge/-XAI4Sci%20Proceedings-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://xai4sci.github.io/#papers)
 
 ***
-# Research in Other Domains
+# Multidisciplinary Research
 
 ***
 ## Digital Literature
