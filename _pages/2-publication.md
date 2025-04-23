@@ -522,6 +522,7 @@ This page includes only our international publications. For domestic publication
 
 
 
+<script>
 document.addEventListener("DOMContentLoaded", function () {
     const isMobile = window.matchMedia("only screen and (max-width: 768px)").matches;
 
@@ -586,4 +587,4 @@ document.addEventListener("DOMContentLoaded", function () {
         badges.forEach(badge => observer.observe(badge));
     }
 });
-
+</script>
