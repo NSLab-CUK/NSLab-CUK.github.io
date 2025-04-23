@@ -11,38 +11,10 @@ last_modified_at: 2025-04-23 15:30:00 +0900
 ---
 
 
-<style>
-.publications {
-    counter-reset: pub-counter calc(var(--pub-count) + 1);
-}
-
-.publications > ul {
-    list-style: none;
-    padding-left: 0;
-    margin-bottom: 1em;
-}
-
-.publications > ul > li {
-    counter-increment: pub-counter -1;
-    position: relative;
-    padding-left: 2em; /* 번호 공간 확보 */
-}
-
-.publications > ul > li::before {
-    content: counter(pub-counter) ". ";
-    position: absolute;
-    left: 0;
-    font-weight: bold;
-    color: #0C2E86;
-}
-</style>
-
-
 This page includes only our international publications. For domestic publications and other types of research outputs, please refer to the page below.
 * [Domestic Publications](https://nslab-cuk.github.io/publication/domestic/)
 * [Other Types of Research Outputs](https://nslab-cuk.github.io/publication/others/)
 
-<div class="publications" style="--pub-count: 39;">
 
 ***
 
@@ -302,7 +274,6 @@ This page includes only our international publications. For domestic publication
 <div class="scite-badge" data-doi="10.12700/APH.13.2.2016.2.10" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-</div>
 
 
 ***
