@@ -33,7 +33,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Geometry Sensitive Cross-Modal Reasoning for Composed Query Based Image Retrieval", IEEE Transactions on Image Processing 2022</summary>
+  <summary>T.B.T. Do, Review on "Geometry Sensitive Cross-Modal Reasoning for Composed Query Based Image Retrieval", IEEE Transactions on Image Processing, 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/uM1KGtZcHxOjWl?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -89,13 +89,13 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.H. Shim, Review on "A Context-Aware Citation Recommendation Model with BERT and Graph Convolutional Networks", Scientometrics 2020</summary>
+  <summary>J.H. Shim, Review on "A Context-Aware Citation Recommendation Model with BERT and Graph Convolutional Networks", Scientometrics, 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/pAalxOifSW0XOp?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.H. Cho, Review on "How Powerful are Graph Neural Networks?", arXiv preprint arXiv:1810.00826. 2018</summary>
+  <summary>J.H. Cho, Review on "How Powerful are Graph Neural Networks?", ICLR 2019</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/6qWmD8Avzxl62R?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -117,7 +117,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>H.W. Kim, Review on "Coarformer: Transformer for large graph via graph coarsening", OpenReview 2022</summary>
+  <summary>H.W. Kim, Review on "Coarformer: Transformer for large graph via graph coarsening", OpenReview Preprint, 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/5H5d0PzqwKQoDn?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -350,4 +350,37 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // 모든 details 요소를 선택
+  const detailsElements = document.querySelectorAll('details');
+
+  detailsElements.forEach(details => {
+    // 각 details 안의 iframe 찾기
+    const iframe = details.querySelector('iframe');
+    
+    if (iframe) {
+      // 원본 iframe의 src를 data-src 속성으로 저장
+      iframe.setAttribute('data-src', iframe.src);
+      iframe.src = ''; // iframe src 비워 로드 방지
+    }
+
+    // details가 열리고 닫힐 때 처리
+    details.addEventListener('toggle', function() {
+      const iframe = details.querySelector('iframe');
+      if (!iframe) return;
+
+      if (details.open) {
+        // 열렸을 때 원래 주소를 iframe에 설정하여 로딩
+        iframe.src = iframe.getAttribute('data-src');
+      } else {
+        // 닫혔을 때 src를 비워 iframe 로드 취소
+        iframe.src = '';
+      }
+    });
+  });
+});
+</script>
 
