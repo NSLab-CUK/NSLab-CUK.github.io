@@ -41,10 +41,10 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/ESYou.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Nov 2000 -- Jul 2007: Ph.D. in Computational Linguistics, University Bourgogne Franche-Comté, Besançon, France
-* Oct 1998 -- Oct 1999: M.A. in Computational Linguistics, University Bourgogne Franche-Comté, Besançon, France
-* Mar 1995 -- Feb 1997: M.A. in French Literature and Linguistics, Inha University, Incheon, Republic of Korea
-* Mar 1991 -- Feb 1995: B.A. in French Literature and Linguistics, Inha University, Incheon, Republic of Korea
+* Nov 2000 -- Jul 2007: Ph.D. in Computational Linguistics, [<img src="/images/UBFC_Logo.png" alt="drawing" style="height: 20px;"/> University Bourgogne Franche-Comté](https://www.ubfc.fr/), Besançon, France
+* Oct 1998 -- Oct 1999: M.A. in Computational Linguistics, [<img src="/images/UBFC_Logo.png" alt="drawing" style="height: 20px;"/> University Bourgogne Franche-Comté](https://www.ubfc.fr/), Besançon, France
+* Mar 1995 -- Feb 1997: M.A. in French Literature and Linguistics, [<img src="/images/Inha_Logo.png" alt="drawing" style="height: 20px;"/> Inha University](https://www.inha.ac.kr/kr/index.do), Incheon, Republic of Korea
+* Mar 1991 -- Feb 1995: B.A. in French Literature and Linguistics, [<img src="/images/Inha_Logo.png" alt="drawing" style="height: 20px;"/> Inha University](https://www.inha.ac.kr/kr/index.do), Incheon, Republic of Korea
 * Research Interest: Digital Humanities and Social Sciences
 * <a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
@@ -62,8 +62,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 <img align="right" src="https://nslab-cuk.github.io/images/Thuy.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
 * Sep 2022 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea	
-* Jan 2017 -- Dec 2018: M.Eng. in Information System, Le Quy Don Technical University, Hanoi, Vietnam
-* Sep 2008 -- Dec 2013: B.Eng. in Information Technology, Le Quy Don Technical University, Hanoi, Vietnam
+* Jan 2017 -- Dec 2018: M.Eng. in Information System, [<img src="/images/LQDTU_Logo.png" alt="drawing" style="height: 20px;"/> Le Quy Don Technical University](https://www.lqdtu.edu.vn/), Hanoi, Vietnam
+* Sep 2008 -- Dec 2013: B.Eng. in Information Technology, [<img src="/images/LQDTU_Logo.png" alt="drawing" style="height: 20px;"/> Le Quy Don Technical University](https://www.lqdtu.edu.vn/), Hanoi, Vietnam
 * Research Interest: Graph Representation Learning
 * <a href="mailto:hoangvanthuy90@catholic.ac.kr"><img src="https://img.shields.io/badge/-hoangvanthuy90@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
@@ -76,8 +76,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 <img align="right" src="https://nslab-cuk.github.io/images/Thanh.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
 * Mar 2024 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
-* Sep 2020 -- Feb 2023: M.Eng. in AI Convergence, Chonnam National University, Gwangju, Korea
-* Sep 2015 -- Aug 2020: B.Eng. in Information Systems, University of Information Technology, Ho Chi Minh City, Vietnam
+* Sep 2020 -- Feb 2023: M.Eng. in AI Convergence, [<img src="/images/CNU_Logo.png" alt="drawing" style="height: 20px;"/> Chonnam National University](https://www.jnu.ac.kr/), Gwangju, Korea
+* Sep 2015 -- Aug 2020: B.Eng. in Information Systems, [<img src="/images/UIT_Logo.png" alt="drawing" style="height: 20px;"/> University of Information Technology, Ho Chi Minh City](https://en.uit.edu.vn/), Vietnam
 * Research Interest: Graph Representation Learning
 * <a href="mailto:osfa19730@catholic.ac.kr"><img src="https://img.shields.io/badge/-osfa19730@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/BachThanh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
@@ -89,9 +89,9 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/kvpark.jpeg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2024 -- Present: Ph.D in [Interdisciplinary Program in Artificial Intelligence, Seoul National University](https://gsai.snu.ac.kr/), Seoul, Republic of Korea
-* Sep 2018 -- Aug 2020: M.Sc. in Industrial Management Engineering, Korea University, Seoul, Republic of Korea
-* Mar 2013 -- Aug 2017: B.Sc. in Statistics, Dongguk University, Seoul, Republic of Korea
+* Mar 2024 -- Present: Ph.D in [Interdisciplinary Program in Artificial Intelligence](https://gsai.snu.ac.kr/), [<img src="/images/SNU_Logo.png" alt="drawing" style="height: 20px;"/> Seoul National University](https://www.snu.ac.kr/), Seoul, Republic of Korea
+* Sep 2018 -- Aug 2020: M.Sc. in Industrial Management Engineering, [<img src="/images/KU_Logo.png" alt="drawing" style="height: 20px;"/> Korea University](https://www.korea.edu/), Seoul, Republic of Korea
+* Mar 2013 -- Aug 2017: B.Sc. in Statistics, [<img src="/images/DGU_Logo.png" alt="drawing" style="height: 20px;"/> Dongguk University](https://www.dongguk.edu/), Seoul, Republic of Korea
 * Research Interest: Spatio-Temporal GNNs
 * <a href="mailto:kbpark16@snu.ac.kr"><img src="https://img.shields.io/badge/-kbpark16@snu.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
@@ -218,8 +218,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/Sangmyeong.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Jan 2025 -- Present: Hanwha Momentum, Seoul, Korea
-* Mar 2023 -- Feb 2025: M.Eng. in Artificial Intelligence, Hanyang University, Seoul, Korea
+* Jan 2025 -- Present: [<img src="/images/Hanhwa_Logo.png" alt="drawing" style="height: 20px;"/> Hanwha Momentum](https://www.hanwhamomentum.com/), Seoul, Korea
+* Mar 2023 -- Feb 2025: M.Eng. in Artificial Intelligence, [<img src="/images/HYU_Logo.png" alt="drawing" style="height: 20px;"/> Hanyang University](https://www.hanyang.ac.kr/), Seoul, Korea
 * Mar 2016 -- Feb 2023: B.Sc. in Physics, The Catholic University of Korea, Bucheon, Korea
 * <a href="mailto:sngmng6506@gmail.com"><img src="https://img.shields.io/badge/-sngmng6506@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
