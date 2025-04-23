@@ -13,6 +13,15 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+##### Apr 18th, 2025
+{:.no_toc}
+
+* NS-CUK submitted one research paper to the [IEEE TNSE (Transactions on Network Science and Engineering)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902), which is one of the most prestigious journals in network science fields, and was successfully accepted. 
+  * Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-attention. IEEE Transactions on Network Science and Engineering 04/2025. (To Appear) DOI:10.1109/TNSE.2025.3563697
+
+<p align="center"><img width="700" src="/images/IEEE_TNSE.jpg"></p>
+
+***
 ##### Mar 16th, 2025
 {:.no_toc}
 
