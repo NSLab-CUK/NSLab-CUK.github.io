@@ -3,7 +3,7 @@ layout: page
 title: Publication
 permalink: /publication/
 image: Bib_Network.png
-description: Academic publications from the Network Science Lab at the Catholic University of Korea
+description: A comprehensive list of international publications authored by members of the Network Science Lab (NS Lab) at the Catholic University of Korea, covering peer-reviewed journal articles and conference papers published in international venues.
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
