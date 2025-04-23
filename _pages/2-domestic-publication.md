@@ -3,7 +3,7 @@ layout: page
 title: Domestic Publication
 permalink: /publication/domestic/
 image: Bib_Network.png
-description: Domestic publications from the Network Science Lab at the Catholic University of Korea
+description: A collection of domestic publications by the Network Science Lab (NS Lab) at the Catholic University of Korea, including peer-reviewed journal articles and conference papers published in Korea.
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
