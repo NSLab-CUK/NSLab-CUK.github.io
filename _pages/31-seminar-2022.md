@@ -130,3 +130,39 @@ This page is an archive for papers reviewed by members of the Network Science La
 <details markdown="1">
   <summary>V.T. Hoang, Review on "Autoencoder and Machine Learning basics"</summary>
 </details>
+
+
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // 모든 details 요소를 선택
+  const detailsElements = document.querySelectorAll('details');
+
+  detailsElements.forEach(details => {
+    // 각 details 안의 iframe 찾기
+    const iframe = details.querySelector('iframe');
+    
+    if (iframe) {
+      // 원본 iframe의 src를 data-src 속성으로 저장
+      iframe.setAttribute('data-src', iframe.src);
+      iframe.src = ''; // iframe src 비워 로드 방지
+    }
+
+    // details가 열리고 닫힐 때 처리
+    details.addEventListener('toggle', function() {
+      const iframe = details.querySelector('iframe');
+      if (!iframe) return;
+
+      if (details.open) {
+        // 열렸을 때 원래 주소를 iframe에 설정하여 로딩
+        iframe.src = iframe.getAttribute('data-src');
+      } else {
+        // 닫혔을 때 src를 비워 iframe 로드 취소
+        iframe.src = '';
+      }
+    });
+  });
+});
+</script>
