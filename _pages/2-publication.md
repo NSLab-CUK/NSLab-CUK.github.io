@@ -525,35 +525,40 @@ This page includes only our international publications. For domestic publication
 <script>
 document.addEventListener("DOMContentLoaded", function () {
     const isMobile = window.matchMedia("only screen and (max-width: 768px)").matches;
-
-    const dimensionsBadgeURL = "https://badge.dimensions.ai/details/id/";
-    const sciteBadgeURL = "https://cdn.scite.ai/badge/";
-
     const badges = document.querySelectorAll('span.__dimensions_badge_embed__, div.scite-badge');
 
     if (isMobile) {
-        // 모바일 환경: 기존 배지를 정적 이미지로 교체
         badges.forEach(badge => {
             let img = document.createElement('img');
             img.loading = "lazy";
 
+            const doi = badge.getAttribute('data-doi');
+
+            if (!doi) {
+                console.error("DOI 속성이 없습니다!", badge);
+                return;
+            }
+
+            let encodedDOI = encodeURIComponent(doi).replace(/%2F/g, '/');
+
             if (badge.classList.contains('__dimensions_badge_embed__')) {
-                const doi = badge.getAttribute('data-doi');
-                img.src = `https://badge.dimensions.ai/details/doi/${encodeURIComponent(doi)}/badge.svg`;
+                img.src = `https://badge.dimensions.ai/details/doi/${encodedDOI}/badge.svg`;
                 img.alt = "Dimensions Badge";
             }
 
             if (badge.classList.contains('scite-badge')) {
-                const doi = badge.getAttribute('data-doi');
-                img.src = `https://cdn.scite.ai/badge/${encodeURIComponent(doi)}.svg`;
+                img.src = `https://cdn.scite.ai/badge/${encodedDOI}.svg`;
                 img.alt = "Scite Badge";
             }
 
-            badge.innerHTML = ''; // 기존 내용 제거
-            badge.appendChild(img); // 정적 이미지 삽입
+            img.onerror = function() {
+                console.error("이미지 로딩 실패:", img.src);
+            };
+
+            badge.innerHTML = '';
+            badge.appendChild(img);
         });
     } else {
-        // 데스크탑 환경: 기존 IntersectionObserver 유지하며 동적 로딩
         let scriptsLoaded = { dimensions: false, scite: false };
 
         function loadScript(src) {
@@ -587,4 +592,5 @@ document.addEventListener("DOMContentLoaded", function () {
         badges.forEach(badge => observer.observe(badge));
     }
 });
+
 </script>
