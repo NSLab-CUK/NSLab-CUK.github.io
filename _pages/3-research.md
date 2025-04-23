@@ -212,21 +212,11 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 * Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house. Humanities Contents 12/2023; (71): 107-135. (In Korean) <br>
 [![DOI](http://img.shields.io/:DOI-10.18658/humancon.2023.12.107-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.18658/humancon.2023.12.107)
 
-* Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Social Network of Characters Appeared in the French Novel Series "La Comédie humaine" and An Interaction Network of Novels in the Series. Figshare 08/2023. (Dataset) <br>
-[![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.23994078.v1-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.6084/m9.figshare.23994078.v1)
-
-* Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel, "Les Liaisons Dangereuses". Figshare 08/2023. (Dataset) <br>
-[![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.23993748.v1-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.6084/m9.figshare.23993748.v1)
-
-* Eun-Soon You, "Albert Camus Digital Literary Museum". <br>
-[![Demo](https://img.shields.io/badge/-System%20Demo-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://albertcamus.storymate.net/)
-
 ***
 ## Computational Social Sciences
 {:.no_toc}
 
-* Jooho Lee, Yoewon Yoon, O-Joun Lee: Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak. Figshare 08/2023. (Dataset) <br>
-[![DOI](http://img.shields.io/:DOI-10.6084/m9.figshare.24025491.v1-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.6084/m9.figshare.24025491.v1)
+* TBA
 
 
 ***
@@ -265,27 +255,10 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Classification of Red Blood Cells for the Diagnosis of dysnatremia Based on Ultrasound and Convolutional Neural Networks. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023 <br>
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1SlepM15zrz8L5jP0Z96vSluohlZS8Fgr/view?usp=sharing)
 
-* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: A Potential Tool of Non-Invasive Diabetes Diagnosis using High-Frequency Ultrasound and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 (in Korean) <br>
-[![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1wcnm1kmlVxVGWQKs0Lpw1jLnvbo3RR1I/view?usp=sharing)
-
-* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Automated Dysnatremia Measurement using Ultrasound Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 (in Korean) <br>
-[![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1pb3myPMBzHBZCg1shM38BCV7fSXJL496/view?usp=sharing)
-
-* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: High-frequency ultrasound and convolutional neural network: A Potential tool for diagnosis of diabetes mellitus. [Samsung Global Technology Symposium](https://www.samsung-gts.technology/), Seoul, Korea; 04/2023 (in Korean) <br>
-[![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/10VUYGe9Y3unTdUDHQ5FP0LmF15_GLR1i/view?usp=sharing)
-[![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.veritas-a.com/news/articleView.html?idxno=457211) 
-
 ### Marine Environment Monitoring System
 {:.no_toc}
 
 * Daehun Kim, Hyeon-Ju Jeon, Yeongho Sung, Jin Hyeong Park, O-Joun Lee, Hae Gyun Lim: Real-time tracking system for red tides through acoustic signals and artificial intelligence. [The 2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (UFFC-JS 2024)](https://2024.ieee-uffc-js.org/), Taipei, Taiwan; 09/2024
-
-* Daehun Kim, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Development of an Automatic Monitoring System for Ultrasound Signals Using Artificial Intelligence and Convolutional Neural Networks. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 (in Korean) <br>
-[![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1UmF5wgWtroScELO2_vaKRavFpiiDnnWx/view?usp=sharing)
-
-* Daehun Kim, Hyeon-Ju Jeon, Hye Yun Jeong, O-Joun Lee, Hae Gyun Lim: Automatic Monitoring System for Red Tide Detection using Ultrasonic Signals and Convolutional Neural Networks. [The 2023 Spring Conference of The Acoustical Society of Korea](https://www.ask.or.kr/bbs/board.php?bo_table=notice&wr_id=265), Jeju, Korea; 06/2023 (in Korean) <br>
-[![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1TdYEOkzftD38bxeVG-hBnlu0px87z083/view?usp=sharing)
-[![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.veritas-a.com/news/articleView.html?idxno=461451) 
 
 ### Diagnosis and Staging of Liver Fibrosis
 {:.no_toc}
@@ -336,9 +309,6 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.news1.kr/local/busan-gyeongnam/5494391)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Internal-Pipe-Corrosion-Assessment-with-Ultrasound-and-CNNs)](https://github.com/NSLab-CUK/Internal-Pipe-Corrosion-Assessment-with-Ultrasound-and-CNNs)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Internal-Pipe-Corrosion-Assessment-with-Ultrasound-and-CNNs)](https://github.com/NSLab-CUK/Internal-Pipe-Corrosion-Assessment-with-Ultrasound-and-CNNs)
-
-* So Yeon Moon, Hyeon-Ju Jeon, Yeongho Sung, Min-Seo Kim, Daehun Kim, Jaeyeop Choi, Junghwan Oh, O-Joun Lee, Hae Gyun Lim: Dual-mode diagnosis system for water quality and corrosion in pipe using convolutional neural networks (CNN) and ultrasound. [The 2023 Annual Conference of Korea Information Processing Society](https://www.manuscriptlink.com/society/kips/conference/ack2023), Busan, Korea; 11/2023 (in Korean) <br>
-[![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1mLOJuRBatRkGGWKFN6u3U6bz-WMg9nWL/view?usp=sharing)
 
 
 
