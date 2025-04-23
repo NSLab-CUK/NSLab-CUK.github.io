@@ -13,7 +13,7 @@ last_modified_at: 2025-04-23 15:30:00 +0900
 
 This page includes only our domestic publications. For international publications and other types research outputs, please refer to the following pages:
 * [International Publications](https://nslab-cuk.github.io/publication/)
-* [Other Types of Research Outputs](https://nslab-cuk.github.io/publication/others/)
+* [Additional Research Outputs](https://nslab-cuk.github.io/publication/others/)
 
 
 ***
