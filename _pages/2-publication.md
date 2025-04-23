@@ -522,38 +522,68 @@ This page includes only our international publications. For domestic publication
 
 
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
+    const isMobile = window.matchMedia("only screen and (max-width: 768px)").matches;
+
+    const dimensionsBadgeURL = "https://badge.dimensions.ai/details/id/";
+    const sciteBadgeURL = "https://cdn.scite.ai/badge/";
+
     const badges = document.querySelectorAll('span.__dimensions_badge_embed__, div.scite-badge');
-    const dimensionsScriptUrl = "https://badge.dimensions.ai/badge.js";
-    const sciteScriptUrl = "https://cdn.scite.ai/badge/scite-badge-latest.min.js";
-    let dimensionsScriptLoaded = false;
-    let sciteScriptLoaded = false;
 
-    function loadScript(src, callback) {
-        const script = document.createElement('script');
-        script.src = src;
-        script.async = true;
-        script.onload = callback;
-        document.body.appendChild(script);
-    }
+    if (isMobile) {
+        // 모바일 환경: 기존 배지를 정적 이미지로 교체
+        badges.forEach(badge => {
+            let img = document.createElement('img');
+            img.loading = "lazy";
 
-    const observer = new IntersectionObserver((entries, observer) => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                if (entry.target.classList.contains('__dimensions_badge_embed__') && !dimensionsScriptLoaded) {
-                    dimensionsScriptLoaded = true;
-                    loadScript(dimensionsScriptUrl);
-                }
-                if (entry.target.classList.contains('scite-badge') && !sciteScriptLoaded) {
-                    sciteScriptLoaded = true;
-                    loadScript(sciteScriptUrl);
-                }
-                observer.unobserve(entry.target);
+            if (badge.classList.contains('__dimensions_badge_embed__')) {
+                const doi = badge.getAttribute('data-doi');
+                img.src = `https://badge.dimensions.ai/details/doi/${encodeURIComponent(doi)}/badge.svg`;
+                img.alt = "Dimensions Badge";
             }
-        });
-    });
 
-    badges.forEach(badge => observer.observe(badge));
+            if (badge.classList.contains('scite-badge')) {
+                const doi = badge.getAttribute('data-doi');
+                img.src = `https://cdn.scite.ai/badge/${encodeURIComponent(doi)}.svg`;
+                img.alt = "Scite Badge";
+            }
+
+            badge.innerHTML = ''; // 기존 내용 제거
+            badge.appendChild(img); // 정적 이미지 삽입
+        });
+    } else {
+        // 데스크탑 환경: 기존 IntersectionObserver 유지하며 동적 로딩
+        let scriptsLoaded = { dimensions: false, scite: false };
+
+        function loadScript(src) {
+            return new Promise(resolve => {
+                let script = document.createElement('script');
+                script.src = src;
+                script.async = true;
+                script.onload = resolve;
+                document.body.appendChild(script);
+            });
+        }
+
+        const observer = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    if (entry.target.classList.contains('__dimensions_badge_embed__') && !scriptsLoaded.dimensions) {
+                        scriptsLoaded.dimensions = true;
+                        loadScript("https://badge.dimensions.ai/badge.js");
+                    }
+
+                    if (entry.target.classList.contains('scite-badge') && !scriptsLoaded.scite) {
+                        scriptsLoaded.scite = true;
+                        loadScript("https://cdn.scite.ai/badge/scite-badge-latest.min.js");
+                    }
+
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, { rootMargin: "200px" });
+
+        badges.forEach(badge => observer.observe(badge));
+    }
 });
-</script>
+
