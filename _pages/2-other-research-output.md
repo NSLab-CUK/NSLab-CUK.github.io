@@ -3,7 +3,7 @@ layout: page
 title: Other Types of Research Output
 permalink: /publication/others/
 image: Bib_Network.png
-description: Other types of research output from the Network Science Lab at the Catholic University of Korea
+description: Additional research outputs from the Network Science Lab (NS Lab) at the Catholic University of Korea, encompassing datasets, patents, and other non-conventional scholarly materials.
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
