@@ -688,6 +688,11 @@ table tfoot td {
 .toc__menu ul ul,
 .toc__menu ul ul ul {
   list-style: none !important;
+}
+
+.toc__menu ul,
+.toc__menu ul ul,
+.toc__menu ul ul ul {
   margin: 0 !important;
   padding: 0 !important;
 }
