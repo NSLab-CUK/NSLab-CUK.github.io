@@ -734,3 +734,51 @@ table tfoot td {
   color: darken($muted-text-color, 15%); 
 }
 
+
+/* 모바일에서 sidebar 숨기고 콘텐츠 위로 TOC를 배치 */
+@media only screen and (max-width: 768) {
+  .sidebar__right {
+    display: none !important;  // sidebar는 모바일에서 숨김
+  }
+
+  .toc {
+    position: relative !important;  // 고정위치 해제
+    top: initial !important;
+    width: 100% !important; // 화면 너비에 맞춤
+    max-height: initial !important; // 높이 제한 해제
+    overflow-y: initial !important;
+    margin-bottom: 1rem !important; // TOC와 본문 간격 설정
+    box-shadow: none !important; // 그림자 제거
+    padding: 0.5rem 0.5rem !important;
+    border: none !important;
+    background-color: transparent !important;
+  }
+
+  .toc .nav__title {
+    background-color: transparent !important;
+    color: $primary-color !important;
+    padding: 0.3rem 0.5rem !important;
+    font-size: $type-size-4 !important;
+    font-weight: bold !important;
+    border-bottom: 2px solid $primary-color !important;
+  }
+
+  .toc__menu {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 0.2rem !important;
+  }
+
+  .toc__menu li {
+    flex: 1 1 auto !important;
+  }
+
+  .toc__menu li a {
+    padding: 0.2rem 0.4rem !important;
+    font-size: $type-size-6 !important;
+    border-bottom: none !important;
+    border-left: none !important;
+    background-color: rgba($primary-color, 0.1) !important;
+    border-radius: 4px !important;
+  }
+}
