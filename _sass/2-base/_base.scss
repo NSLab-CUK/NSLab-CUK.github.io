@@ -358,6 +358,7 @@ table tfoot td {
   }
 }
 
+/*
 @media only screen and (max-width: $medium) {
   .sidebar__right .toc {
     position: fixed;
@@ -369,9 +370,10 @@ table tfoot td {
     box-shadow: none;
   }
 }
+*/
 
 
-@media only screen and (max-width: $small) {
+@media only screen and (max-width: 768px) {
   .sidebar__right {
     display: none;
   }
