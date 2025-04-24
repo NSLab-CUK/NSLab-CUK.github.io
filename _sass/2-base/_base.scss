@@ -370,11 +370,13 @@ table tfoot td {
   }
 }
 
+/*
 @media only screen and (max-width: $small) {
   .sidebar__right {
     display: none;
   }
 }
+*/
 
 .splash .sidebar__right {
   @include breakpoint($large) {
@@ -736,7 +738,7 @@ table tfoot td {
 
 
 /* 모바일에서 sidebar 숨기고 콘텐츠 위로 TOC를 배치 */
-@media only screen and (max-width: 768) {
+@media only screen and (max-width: 768px) {
   .sidebar__right {
     display: none !important;  // sidebar는 모바일에서 숨김
   }
