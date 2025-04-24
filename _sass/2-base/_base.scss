@@ -742,5 +742,6 @@ table tfoot td {
 .sidebar__right .toc {
   border: none !important;  /* 테두리 제거 */
   box-shadow: none !important;  /* 그림자 제거 */
+  padding: 0 !important;                   // 추가: 패딩 제거
 }
 
