@@ -682,21 +682,37 @@ table tfoot td {
   }
 }
 
+/* TOC 리스트의 모든 중첩 레벨에서 리스트 스타일(동그라미) 제거 */
+.toc__menu,
+.toc__menu ul,
+.toc__menu ul ul,
+.toc__menu ul ul ul {
+  list-style: none !important;
+}
+
+/* 첫번째 레벨 링크 스타일 재설정 (볼드체, 색상 등) */
+.toc__menu > li > a {
+  font-weight: bold !important;
+  color: $muted-text-color !important;
+}
+
+/* 두 번째 레벨 이하 링크 스타일 */
+.toc__menu ul a {
+  font-weight: normal !important;
+  color: darken($muted-text-color, 10%) !important;
+}
+
+/* 명확한 들여쓰기 설정 */
 .toc__menu ul {
-  padding-left: 1em;
+  padding-left: 0.5em !important;
 }
 
 .toc__menu ul ul {
-  padding-left: 1.5em;
+  padding-left: 1.0em !important;
 }
 
 .toc__menu ul ul ul {
-  padding-left: 2em;
-}
-
-.toc__menu ul a {
-  font-weight: normal;
-  color: darken($muted-text-color, 10%);
+  padding-left: 1.5em !important;
 }
 
 .toc__menu ul ul a {
