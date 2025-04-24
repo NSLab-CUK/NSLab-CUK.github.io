@@ -691,3 +691,30 @@ table tfoot td {
     }
   }
 }
+
+.toc__menu ul {
+  padding-left: 1em;
+}
+
+.toc__menu ul ul {
+  padding-left: 1.5em;
+}
+
+.toc__menu ul ul ul {
+  padding-left: 2em;
+}
+
+.toc__menu ul a {
+  font-weight: normal;
+  color: darken($muted-text-color, 10%);
+}
+
+.toc__menu ul ul a {
+  font-size: $type-size-7;
+}
+
+.toc__menu ul ul ul a { 
+  font-size: $type-size-8;  
+  color: darken($muted-text-color, 15%); 
+}
+
