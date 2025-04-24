@@ -654,7 +654,7 @@ table tfoot td {
   width: 100%;
   list-style: none;
   font-size: $type-size-6;
-  line-height: 1.8;
+  line-height: 1.3;
 
   li {
     padding-left: 0;
@@ -662,7 +662,7 @@ table tfoot td {
 
   a {
     display: block;
-    padding: 0.5rem 1rem;
+    padding: 0.2rem 0.8rem;
     color: $muted-text-color;
     font-weight: bold;
     text-indent: 0;
@@ -688,6 +688,8 @@ table tfoot td {
 .toc__menu ul ul,
 .toc__menu ul ul ul {
   list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 /* 첫번째 레벨 링크 스타일 재설정 (볼드체, 색상 등) */
