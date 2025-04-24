@@ -350,11 +350,11 @@ table tfoot td {
   box-shadow: none;
 
   .nav__title {
-    font-size: $type-size-2;
     color: #fff;
     background-color: $primary-color;
     padding: 0.2rem 0.8rem;
     font-size: $type-size-6;
+    margin-bottom: 0 !important;  /* 추가: margin-bottom 제거 */
   }
 }
 
@@ -640,6 +640,7 @@ table tfoot td {
     padding: 0.2rem 0.8rem;
     border-start-start-radius: $border-radius;
     border-start-end-radius: $border-radius;
+    margin-bottom: 0 !important;  /* 추가: margin-bottom 제거 */
   }
 
   .active a {
@@ -655,6 +656,8 @@ table tfoot td {
   list-style: none;
   font-size: $type-size-6;
   line-height: 1.5;
+  margin-top: 0 !important; /* 추가: 상단 마진 제거 */
+  padding-top: 0 !important; /* 추가: 상단 패딩 제거 */
 
   li {
     padding-left: 0;
