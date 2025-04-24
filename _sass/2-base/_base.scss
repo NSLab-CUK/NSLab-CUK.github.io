@@ -740,29 +740,35 @@ table tfoot td {
 /* 모바일에서 sidebar 숨기고 콘텐츠 위로 TOC를 배치 */
 @media only screen and (max-width: 768px) {
   .sidebar__right {
-    display: none !important;  // sidebar는 모바일에서 숨김
+    display: block !important; // sidebar 숨김 해제
+    width: 100% !important;
+    position: relative !important;
+    float: none !important;
+    top: initial !important;
   }
 
-  .toc {
-    position: relative !important;  // 고정위치 해제
+  .sidebar__right > :not(.toc) {
+    display: none !important; // sidebar 내 다른 콘텐츠는 숨김
+  }
+
+  .sidebar__right .toc {
+    position: relative !important;
     top: initial !important;
-    width: 100% !important; // 화면 너비에 맞춤
-    max-height: initial !important; // 높이 제한 해제
-    overflow-y: initial !important;
-    margin-bottom: 1rem !important; // TOC와 본문 간격 설정
-    box-shadow: none !important; // 그림자 제거
-    padding: 0.5rem 0.5rem !important;
+    width: 100% !important;
+    max-height: none !important;
+    margin-bottom: 1rem !important;
+    padding: 0.5rem !important;
+    background: transparent !important;
+    box-shadow: none !important;
     border: none !important;
-    background-color: transparent !important;
   }
 
   .toc .nav__title {
-    background-color: transparent !important;
+    background: transparent !important;
     color: $primary-color !important;
-    padding: 0.3rem 0.5rem !important;
     font-size: $type-size-4 !important;
-    font-weight: bold !important;
     border-bottom: 2px solid $primary-color !important;
+    padding: 0.3rem 0 !important;
   }
 
   .toc__menu {
@@ -778,9 +784,8 @@ table tfoot td {
   .toc__menu li a {
     padding: 0.2rem 0.4rem !important;
     font-size: $type-size-6 !important;
-    border-bottom: none !important;
-    border-left: none !important;
     background-color: rgba($primary-color, 0.1) !important;
     border-radius: 4px !important;
+    border: none !important;
   }
 }
