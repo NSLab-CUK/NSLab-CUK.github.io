@@ -199,19 +199,23 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ***
 
 #### Ph.D.
+
 {:.no_toc}
 
 * TBA
 
 #### M.Eng.
+
 {:.no_toc}
 
 * TBA
 
 #### B.Eng.
+
 {:.no_toc}
 
 ###### [Min Seo Kim](https://nslab-cuk.github.io/member/mskim) (Aug 2023 -- Jun 2024)
+
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/mskim2.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
@@ -224,6 +228,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 <br style="clear: both;" />
 
 ###### [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) (Sep 2022 -- Dec 2022)
+
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/Sangmyeong.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
