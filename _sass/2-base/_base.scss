@@ -370,13 +370,13 @@ table tfoot td {
   }
 }
 
-/*
+
 @media only screen and (max-width: $small) {
   .sidebar__right {
     display: none;
   }
 }
-*/
+
 
 .splash .sidebar__right {
   @include breakpoint($large) {
@@ -736,56 +736,9 @@ table tfoot td {
   color: darken($muted-text-color, 15%); 
 }
 
-
-/* 모바일에서 sidebar 숨기고 콘텐츠 위로 TOC를 배치 */
-@media only screen and (max-width: 768px) {
-  .sidebar__right {
-    display: block !important; // sidebar 숨김 해제
-    width: 100% !important;
-    position: relative !important;
-    float: none !important;
-    top: initial !important;
-  }
-
-  .sidebar__right > :not(.toc) {
-    display: none !important; // sidebar 내 다른 콘텐츠는 숨김
-  }
-
-  .sidebar__right .toc {
-    position: relative !important;
-    top: initial !important;
-    width: 100% !important;
-    max-height: none !important;
-    margin-bottom: 1rem !important;
-    padding: 0.5rem !important;
-    background: transparent !important;
-    box-shadow: none !important;
-    border: none !important;
-  }
-
-  .toc .nav__title {
-    background: transparent !important;
-    color: $primary-color !important;
-    font-size: $type-size-4 !important;
-    border-bottom: 2px solid $primary-color !important;
-    padding: 0.3rem 0 !important;
-  }
-
-  .toc__menu {
-    display: flex !important;
-    flex-wrap: wrap !important;
-    gap: 0.2rem !important;
-  }
-
-  .toc__menu li {
-    flex: 1 1 auto !important;
-  }
-
-  .toc__menu li a {
-    padding: 0.2rem 0.4rem !important;
-    font-size: $type-size-6 !important;
-    background-color: rgba($primary-color, 0.1) !important;
-    border-radius: 4px !important;
-    border: none !important;
-  }
+.toc, 
+.sidebar__right .toc {
+  border: none !important;  /* 테두리 제거 */
+  box-shadow: none !important;  /* 그림자 제거 */
 }
+
