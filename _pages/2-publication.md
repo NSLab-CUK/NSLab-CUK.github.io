@@ -22,6 +22,8 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Yanjun Wu, Luong Vuong Nguyen, O-Joun Lee: Capturing Semantic Relationships Using Full Dependency Forests to Improve Consistency in Long Document Summarization. IEEE Access 04/2025. (To Appear)
+
 * Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-attention. IEEE Transactions on Network Science and Engineering 04/2025. (To Appear) DOI:10.1109/TNSE.2025.3563697
 [![Link](https://img.shields.io/badge/IF%206.7%20--%20JCR%202023%20Top%203.3%25-0C2E86?style=flat-square)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
