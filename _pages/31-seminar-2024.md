@@ -15,7 +15,9 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 
-<h5>Previous Years</h5>
+##### [This Year](https://nslab-cuk.github.io/seminar/)
+
+##### Previous Years
 
 * [2023](https://nslab-cuk.github.io/seminar/2023/)
 * [2022](https://nslab-cuk.github.io/seminar/2022/)
