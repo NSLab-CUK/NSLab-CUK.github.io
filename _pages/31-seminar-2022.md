@@ -14,6 +14,10 @@ last_modified_at: 2025-01-03 15:30:00 +0900
 This page is an archive for papers reviewed by members of the Network Science Lab, along with corresponding presentation materials, as part of the NS-CUK Weekly Seminar series. Launched in Fall 2022, this seminar series is intended to be a platform for the members of the Network Science Lab at the Catholic University of Korea to exchange insights and understanding of state-of-the-art AI methodologies and models for graph mining.
 
 ***
+
+##### [This Year](https://nslab-cuk.github.io/seminar/)
+
+***
 ### 2022
 
 ***
