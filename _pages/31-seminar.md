@@ -27,7 +27,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "Unified Graph Neural Networks Pre-training for Multi-domain Graphs", WWW 2021</summary>
+  <summary>V.T. Hoang, Review on "Unified Graph Neural Networks Pre-training for Multi-domain Graphs", AAAI 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3v5zufBCmNsPVy?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
