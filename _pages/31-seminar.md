@@ -33,7 +33,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Geometry Sensitive Cross-Modal Reasoning for Composed Query Based Image Retrieval", IEEE Transactions on Image Processing, 2022</summary>
+  <summary>T.B.T. Do, Review on "Geometry Sensitive Cross-Modal Reasoning for Composed Query Based Image Retrieval", IEEE Transactions on Pattern Analysis and Machine Intelligence 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2wxqaJizPhTXLH?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
