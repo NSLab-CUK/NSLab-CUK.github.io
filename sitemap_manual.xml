@@ -1,5 +1,6 @@
 ---
-layout: null
+layout: none
+permalink: /sitemap_manual.xml
 sitemap: false
 ---
 <?xml version="1.0" encoding="UTF-8"?>
