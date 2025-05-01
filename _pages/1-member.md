@@ -64,7 +64,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/Thuy.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Sep 2022 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea	
+* Sep 2022 -- Present: Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea	
 * Jan 2017 -- Dec 2018: M.Eng. in Information System, [<img src="/images/LQDTU_Logo.png" alt="drawing" style="height: 20px;"/> Le Quy Don Technical University](https://www.lqdtu.edu.vn/), Hanoi, Vietnam
 * Sep 2008 -- Dec 2013: B.Eng. in Information Technology, [<img src="/images/LQDTU_Logo.png" alt="drawing" style="height: 20px;"/> Le Quy Don Technical University](https://www.lqdtu.edu.vn/), Hanoi, Vietnam
 * Research Interest: Graph Representation Learning
@@ -78,7 +78,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/Thanh.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2024 -- Present: Ph.D. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* Mar 2024 -- Present: Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Sep 2020 -- Feb 2023: M.Eng. in AI Convergence, [<img src="/images/CNU_Logo.png" alt="drawing" style="height: 20px;"/> Chonnam National University](https://www.jnu.ac.kr/), Gwangju, Korea
 * Sep 2015 -- Aug 2020: B.Eng. in Information Systems, [<img src="/images/UIT_Logo.png" alt="drawing" style="height: 20px;"/> University of Information Technology, Ho Chi Minh City](https://en.uit.edu.vn/), Vietnam
 * Research Interest: Graph Representation Learning
@@ -109,7 +109,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/ujO.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Sep 2023 -- Present: M.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* Sep 2023 -- Present: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Sep 2019 -- Aug 2023: B.A. in Korean Language and Literature, Jeonju University, Jeonju, Korea
 * Sep 2015 -- Aug 2019: B.P.A. in Public Administration, The Open University of China, Beijing, China
 * Research Interset: NLP Long Text Summary
@@ -126,7 +126,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/jwJeong.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2020 -- Present: B.Sc. in Mathematics, The Catholic University of Korea, Bucheon, Korea
+* Mar 2020 -- Present: B.Sc. in Mathematics, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Research Interest: Recommender System
 * <a href="mailto:zeus0208b@catholic.ac.kr"><img src="https://img.shields.io/badge/-zeus0208b@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://velog.io/@zeus0208b"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
@@ -138,7 +138,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/jhSeo.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2023 -- Present: B.Eng. in  Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
+* Mar 2023 -- Present: B.Eng. in  Computer Science and Information Engineering, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Research Interest: Software Vulnerability Analysis with GNNs
 * <a href="mailto:kkinho04@catholic.ac.kr"><img src="https://img.shields.io/badge/-kkinho04@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/orangemush7777"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
@@ -150,7 +150,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/hcYang.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2020 -- Present: B.Eng. in  Computer Science and Information Engineering, The Catholic University of Korea, Bucheon, Korea
+* Mar 2020 -- Present: B.Eng. in  Computer Science and Information Engineering, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Research Interest: Natural Language Processing
 * <a href="mailto:ukg_15@catholic.ac.kr"><img src="https://img.shields.io/badge/-ukg_15@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
@@ -161,7 +161,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/jhShim.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2022 -- Present: B.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* Mar 2022 -- Present: B.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Research Interest: Recommender System
 * <a href="mailto:shim020616@catholic.ac.kr"><img src="https://img.shields.io/badge/-shim020616@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
@@ -172,7 +172,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/hwKim.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2024 -- Present: B.Sc. in Biomedical Software Engineering, The Catholic University of Korea, Bucheon, Korea		
+* Mar 2024 -- Present: B.Sc. in Biomedical Software Engineering, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea		
 * Research Interest: Graph Representation Learning, Recommender System
 * <a href="mailto:kimwoohyun0622@catholic.ac.kr"><img src="https://img.shields.io/badge/-kimwoohyun0622@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
@@ -183,7 +183,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" display="block" src="https://nslab-cuk.github.io/images/jhCho.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2021 -- Present: B.Eng. in Artificial Intelligence, The Catholic University of Korea, Bucheon, Korea
+* Mar 2021 -- Present: B.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Research Interest: Recommender System
 * <a href="mailto:junhe0733@catholic.ac.kr"><img src="https://img.shields.io/badge/-junhe0733@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
@@ -213,7 +213,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/mskim2.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2019 -- Present: B.Eng. in Communications and Electronic Engineering, The Catholic University of Korea, Bucheon, Korea	
+* Mar 2019 -- Present: B.Eng. in Communications and Electronic Engineering, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea	
 * Research Interest: Natural Language Processing
 * <a href="mailto:kms39273@catholic.ac.kr"><img src="https://img.shields.io/badge/-kms39273@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/luckyvickyricky"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
@@ -227,7 +227,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 * Jan 2025 -- Present: [<img src="/images/Hanhwa_Logo.png" alt="drawing" style="height: 20px;"/> Hanwha Momentum](https://www.hanwhamomentum.com/), Seoul, Korea
 * Mar 2023 -- Feb 2025: M.Eng. in Artificial Intelligence, [<img src="/images/HYU_Logo.png" alt="drawing" style="height: 20px;"/> Hanyang University](https://www.hanyang.ac.kr/), Seoul, Korea
-* Mar 2016 -- Feb 2023: B.Sc. in Physics, The Catholic University of Korea, Bucheon, Korea
+* Mar 2016 -- Feb 2023: B.Sc. in Physics, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * <a href="mailto:sngmng6506@gmail.com"><img src="https://img.shields.io/badge/-sngmng6506@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/sngmng6506"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 * <a href="https://velog.io/@sngmng6506"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
