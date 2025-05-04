@@ -10,6 +10,7 @@ description: Curriculum vitae of Tien-Bach-Thanh Do
 [![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google+Scholar&logoColor=white)](https://scholar.google.com/citations?user=6xihJdgAAAAJ) 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-3068-3338) 
 [![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=59516886400) 
+[![IEEE](https://img.shields.io/badge/IEEE%20Author%20Profile-00629B?style=flat-square&logo=IEEE&logoColor=white)](https://ieeexplore.ieee.org/author/952704473073652) 
 
 <br>
 
