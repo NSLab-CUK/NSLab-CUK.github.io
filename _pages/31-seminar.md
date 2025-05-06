@@ -33,7 +33,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Dual-Graph Attention Convolution Network for 3D Point Cloud Classification", IEEE Transactions on Neural Networks and Learning Systems 2024</summary>
+  <summary>T.B.T. Do, Review on "Dual-Graph Attention Convolution Network for 3D Point Cloud Classification", IEEE Transactions on Neural Networks and Learning Systems, 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Ew5pYdoIqiSJ9M?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -55,19 +55,19 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Geometry Sensitive Cross-Modal Reasoning for Composed Query Based Image Retrieval", IEEE Transactions on Pattern Analysis and Machine Intelligence 2023</summary>
+  <summary>T.B.T. Do, Review on "Geometry Sensitive Cross-Modal Reasoning for Composed Query Based Image Retrieval", IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2wxqaJizPhTXLH?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Review on "KGAT: Knowledge Graph Attention Network for Recommendation", SIGKDD 2019</summary>
+  <summary>J.W. Jeong, Review on "KGAT: Knowledge Graph Attention Network for Recommendation", KDD 2019</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9kuxD5ITlVOfYW?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>H.W. Kim, Review on "Conditional Graph Information Bottleneck for Molecular Relational Learning", PMLR 2023</summary>
+  <summary>H.W. Kim, Review on "Conditional Graph Information Bottleneck for Molecular Relational Learning", ICML 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/46xkp7rC9InKWx?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -83,7 +83,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "DE NOVO MOLECULAR GENERATION VIA CONNECTION-AWARE MOTIF MINING", ICLR 2023</summary>
+  <summary>V.T. Hoang, Review on "De Novo Molecular Generation via Connection-aware Motif Mining", ICLR 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/5asatKhJAHtjnk?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -105,7 +105,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Geometry Sensitive Cross-Modal Reasoning for Composed Query Based Image Retrieval", IEEE Transactions on Image Processing 2022</summary>
+  <summary>T.B.T. Do, Review on "Geometry Sensitive Cross-Modal Reasoning for Composed Query Based Image Retrieval", IEEE Transactions on Image Processing, 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/uM1KGtZcHxOjWl?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -360,7 +360,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "Multi-channel learning for integrating structural hierarchies into contextdependent molecular representation", Nature Communications 2025</summary>
+  <summary>V.T. Hoang, Review on "Multi-channel learning for integrating structural hierarchies into contextdependent molecular representation", Nature Communications, 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/eif1FVBnBgP8Ul?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -394,7 +394,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>H.W. Kim, Review on "Progressive layered extraction (PLE): A novel multi-task learning (MTL) model for personalized recommendations", Conference on Recommender Systems 2020</summary>
+  <summary>H.W. Kim, Review on "Progressive layered extraction (PLE): A novel multi-task learning (MTL) model for personalized recommendations", RecSys 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vIq7Hnuy1pQZOc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
