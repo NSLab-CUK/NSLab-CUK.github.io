@@ -23,7 +23,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2025
-#### May 05th, 2025
+#### May 5th, 2025
 {:.no_toc}
 
 <details markdown="1">
@@ -117,7 +117,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Apr 07th, 2025
+#### Apr 7th, 2025
 {:.no_toc}
 
 <details markdown="1">
@@ -246,7 +246,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Mar 03rd, 2025
+#### Mar 3rd, 2025
 {:.no_toc}
 
 <details markdown="1">
@@ -328,7 +328,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Feb 03rd, 2025
+#### Feb 3rd, 2025
 {:.no_toc}
 
 <details markdown="1">
