@@ -23,7 +23,7 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 * Van Thuy Hoang, O-Joun Lee: A Survey on Structure-Preserving Graph Transformers. arXiv preprint 01/2024; arXiv:2401.16176. (Preprint) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2401.16176-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2401.16176)
 
-* Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-attention. IEEE Transactions on Network Science and Engineering 04/2025. (To Appear)<br>
+* Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-attention. **IEEE Transactions on Network Science and Engineering** 04/2025. (To Appear)<br>
 (_arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Message Passing Mechanism by Utilizing Community Structures. arXiv preprint 12/2023; arXiv:2312.16788.)<br>
 [![DOI](http://img.shields.io/:DOI-10.1109/TNSE.2025.3563697-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/TNSE.2025.3563697)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.15075-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2504.15075)
@@ -31,6 +31,7 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 [![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-bias-in-graph)
 [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code--Previous-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-biases-in-message-passing)
+[![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.newsis.com/view/NISX20250507_0003166687)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Community-aware-Graph-Transformer)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Community-aware-Graph-Transformer)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 
