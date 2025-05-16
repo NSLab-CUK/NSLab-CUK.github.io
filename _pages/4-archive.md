@@ -13,6 +13,16 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+##### May 15th, 2025
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/250515.jpg"></p>
+
+<p align="center"><img width="700" src="/images/250515_1.jpg"></p>
+
+<p align="center"><img width="700" src="/images/250515_2.jpg"></p>
+
+***
 ##### May 7th, 2025
 {:.no_toc}
 
