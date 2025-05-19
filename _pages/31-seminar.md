@@ -23,6 +23,28 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2025
+#### May 19th, 2025
+{:.no_toc}
+
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Graph Neural Networks Need Cluster-Normalize-Activate Modules", NeurIPS 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/b7KBybmpnM89DL?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "A Graph-Based Approach for Category-Agnostic Pose Estimation", ECCV 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/cnRdm6jtZsjO3M?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W. Jeong, Review on "KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction", IJCAI 2020</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nBslcMVtOX9HW7?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### May 12th, 2025
 {:.no_toc}
 
