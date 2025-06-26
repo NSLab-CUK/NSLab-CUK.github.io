@@ -31,6 +31,8 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 [![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-bias-in-graph)
 [![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code--Previous-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-biases-in-message-passing)
+[![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1y0HJxWs4J_zRQTaB7kJHByxE4M8dIMQU/view?usp=sharing)
+[![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/dp1h6ANz6LM)
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.newsis.com/view/NISX20250507_0003166687)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Community-aware-Graph-Transformer)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Community-aware-Graph-Transformer)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
