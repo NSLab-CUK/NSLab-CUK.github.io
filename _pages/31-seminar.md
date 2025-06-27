@@ -23,6 +23,22 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2025
+#### Jun 23th, 2025
+{:.no_toc}
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation", EMNLP 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/SMM1lxpi18GPZ?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.W. Jeong, Review on "STRATEGIES FOR PRE-TRAINING GRAPH NEURAL NETWORKS", ICLR 2020</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nqT4wqME4BAsbG?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Jun 16th, 2025
 {:.no_toc}
 
