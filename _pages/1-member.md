@@ -26,7 +26,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
  
-* Jun 2025 -- Present: Head of AI Center, JinJin System Co., Ltd.
+* Jun 2025 -- Present: Head of AI Center, [JinJin System Co., Ltd.](https://www.jinjin.co.kr/main.do)
 * Sep 2021 -- Present: Assistant Professor, [<img src="/images/AI_Logo.png" alt="drawing" style="height: 20px;"/> Dept. of Artificial Intelligence](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Sep 2019 -- Aug 2021: Researcher, [<img src="/images/iLab_Logo.png" alt="drawing" style="height: 20px;"/> Future IT Innovation Laboratory](https://i-lab.postech.ac.kr/), [<img src="/images/POSTECHLogo.png" alt="drawing" style="height: 20px;"/> Pohang University of Science and Technology](https://postech.ac.kr/), Pohang, Korea
 * Mar 2015 -- Aug 2019: Ph.D. in Computer Science and Engineering, [<img src="/images/CAULogo.png" alt="drawing" style="height: 20px;"/> Chung-Ang University](https://www.cau.ac.kr/), Seoul, Korea
