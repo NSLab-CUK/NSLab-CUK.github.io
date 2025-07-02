@@ -13,6 +13,13 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+##### May 27th, 2025
+{:.no_toc}
+
+* We are pleased to announce the establishment of a new Major of AI-Chemical Engineering in the Department of Artificial Intelligence at the Graduate School, in addition to the existing Major of Artificial Intelligence. The new major is titled “AI화학공학전공” in Korean and “Major of AI-Chemical Engineering, Dept. of Artificial Intelligence” in English. Applicants may apply for Master’s, Doctoral, or Integrated programs (Master of Engineering/Doctor of Engineering). Students interested in research at the intersection of AI and chemical engineering are encouraged to apply.
+* 일반대학원 인공지능학과에 인공지능학전공 외에 AI화학공학전공이 새롭게 신설되었습니다. 신설 세부전공의 명칭은 ‘AI화학공학전공’이며, 영문 명칭은 Major of AI-Chemical Engineering, Dept. of Artificial Intelligence입니다. 석사, 박사 및 석박통합 과정(공학석사/공학박사)에 지원 가능하니, AI와 화학공학의 융합 연구에 관심 있는 학생 여러분의 많은 참여를 바랍니다.
+
+***
 ##### May 15th, 2025
 {:.no_toc}
 
