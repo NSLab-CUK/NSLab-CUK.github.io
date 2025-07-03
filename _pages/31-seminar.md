@@ -45,7 +45,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jun 23th, 2025
+#### Jun 23rd, 2025
 {:.no_toc}
 
 <details markdown="1">
@@ -77,11 +77,11 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jun 09th, 2025
+#### Jun 9th, 2025
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "InstructMol: Multi-Modal Integration for Building a Versatile and Reliable Molecular Assistant in Drug Discovery", Coling 2025</summary>
+  <summary>V.T. Hoang, Review on "InstructMol: Multi-Modal Integration for Building a Versatile and Reliable Molecular Assistant in Drug Discovery", COLING 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/FJvnwQ3dbu81ay?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -93,7 +93,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jun 02nd, 2025
+#### Jun 2nd, 2025
 {:.no_toc}
 
 <details markdown="1">
@@ -125,7 +125,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "Leveraging large language models for predictive chemistrys", Nature Machine Intelligence 2024</summary>
+  <summary>V.T. Hoang, Review on "Leveraging large language models for predictive chemistrys", Nature Machine Intelligence, 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/f3bwpKYvYy0Zf?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -137,7 +137,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Review on "Hierarchical Molecular Graph Self-Supervised Learning for property prediction", Communications Chemistry 2023</summary>
+  <summary>J.W. Jeong, Review on "Hierarchical Molecular Graph Self-Supervised Learning for property prediction", Communications Chemistry, 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/jNyl3HAPzkvwW6?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -215,7 +215,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Dual-Graph Attention Convolution Network for 3D Point Cloud Classification", IEEE Transactions on Neural Networks and Learning Systems 2024</summary>
+  <summary>T.B.T. Do, Review on "Dual-Graph Attention Convolution Network for 3D Point Cloud Classification", IEEE Transactions on Neural Networks and Learning Systems, 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Ew5pYdoIqiSJ9M?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
