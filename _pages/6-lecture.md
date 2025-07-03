@@ -13,6 +13,17 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+#### Summer 2025
+{:.no_toc}
+
+* 06298-01 Living with AI (AI와 함께 살아가기) - [CU12 (한국 가톨릭 공유대학)](https://www.cu12.ac.kr/el/main/main_form.acl)
+  * Instructor: Eun-Soon You
+
+* 06483-01 and 06484-01 	Internship Program for Artificial Intelligence 1 and 2 (인공지능학과 현장실습 1 - 2) - Joint Lecture
+  * Instructor: Faculty members of Dept. of AI
+
+
+***
 #### Spring 2025
 {:.no_toc}
 
@@ -37,9 +48,6 @@ toc_label: "Table of Contents"
 * 06480-01 and 06481-01 Capstone Design for Artificial Intelligence 1 and 2 (인공지능학과 캡스톤디자인 1 - 2) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
 
-* 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (인공지능학과 현장실습 1 - 5) - Joint Lecture
-  * Instructor: Faculty members of Dept. of AI
-
 * 54366-01 Academic Writing and Research Ethics (학술적 글쓰기와 연구윤리) - Graduate Course 
   * Instructor: Eun-Soon You
 
@@ -48,6 +56,7 @@ toc_label: "Table of Contents"
 
 * 06298-01 Living with AI (AI와 함께 살아가기)
   * Instructor: Eun-Soon You
+
 
 ***
 ### 2024
@@ -61,6 +70,7 @@ toc_label: "Table of Contents"
 
 * 06328-01 Life in the Age of Science and Technology (과학기술 시대의 삶)
   * Instructor: Eun-Soon You
+
 
 ***
 #### Fall 2024
@@ -99,6 +109,7 @@ toc_label: "Table of Contents"
 * 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (인공지능학과 현장실습 1 - 5) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
 
+
 ***
 #### Summer 2024
 {:.no_toc}
@@ -110,6 +121,7 @@ toc_label: "Table of Contents"
 * [Summer School on Technical Writing](https://nslab-cuk.github.io/2024/05/20/SS/) (Special Course)
   * Instructor: Eun-Soon You
   * TA: TBA
+
 
 ***
 #### Spring 2024
@@ -152,6 +164,7 @@ toc_label: "Table of Contents"
 * 06298-01 Living with AI (AI와 함께 살아가기)
   * Instructor: Eun-Soon You
 
+
 ***
 ### 2023
  
@@ -169,6 +182,7 @@ toc_label: "Table of Contents"
 
 * 06483-01 to 06484-01 	Internship Program for Artificial Intelligence 1 to 2 (인공지능학과 현장실습 1 - 2) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
+
 
 ***
 #### Fall 2023
@@ -201,6 +215,7 @@ toc_label: "Table of Contents"
 * 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (인공지능학과 현장실습 1 - 5) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
 
+
 ***
 #### Summer 2023
 {:.no_toc}
@@ -224,6 +239,7 @@ toc_label: "Table of Contents"
 * 06483-01 to 06484-01 	Internship Program for Artificial Intelligence 1 to 2 (인공지능학과 현장실습 1 - 2) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
 
+
 ***
 #### Spring 2023
 {:.no_toc}
@@ -246,6 +262,7 @@ toc_label: "Table of Contents"
 * 06298-01 Living with AI (AI와 함께 살아가기)
   * Instructor: Eun-Soon You
 
+
 ***
 ### 2022
  
@@ -256,6 +273,7 @@ toc_label: "Table of Contents"
 * [Winter School on Ethics of AI and Robots](https://nslab-cuk.github.io/2022/12/05/WS/) (Special Course)
   * Instructor: Eun-Soon You
   * TA: [Se Eun Cho](https://nslab-cuk.github.io/member/secho) and [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
+
 
 ***
 #### Fall 2022
@@ -271,6 +289,7 @@ toc_label: "Table of Contents"
 * 54345-01 Artificial Intelligence/Robot Ethics (인공지능/로봇 윤리) - Graduate Course 
   * Instructor: Eun-Soon You
 
+
 ***
 #### Spring 2022
 {:.no_toc}
@@ -283,6 +302,7 @@ toc_label: "Table of Contents"
 
 * 06479-01 Undergraduate Research (인공지능학과 경험랩) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
+
 
 ***
 ### 2021
@@ -299,5 +319,6 @@ toc_label: "Table of Contents"
 
 * 06535-01 Career exploration of Artificial Intelligence (인공지능학과 진로탐색) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
+
 
 ***
