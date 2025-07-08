@@ -122,7 +122,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 ### Undergraduate Interns
 
-#### [Jin Woo Jeong](https://nslab-cuk.github.io/member/jwJeong) (Jul 2023 -- Present)
+#### Jin Woo Jeong (Jul 2023 -- Present)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/jwJeong.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
@@ -135,7 +135,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
  
-#### [Jinho Seo](https://nslab-cuk.github.io/member/jhSeo) (Jul 2023 -- Present)
+#### Jinho Seo (Jul 2023 -- Present)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/jhSeo.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
@@ -147,7 +147,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
  
-#### [Hochan Yang](https://nslab-cuk.github.io/member/hcYang) (May 2024 -- Present)
+#### Hochan Yang (May 2024 -- Present)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/hcYang.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
@@ -158,7 +158,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
  
-#### [Hyun Woo Kim](https://nslab-cuk.github.io/member/hwKim) (May 2024 -- Present)
+#### Hyun Woo Kim (May 2024 -- Present)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/hwKim.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
@@ -169,7 +169,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
  
-#### [Jun Hee Cho](https://nslab-cuk.github.io/member/jhCho) (May 2024 -- Present)
+#### Jun Hee Cho (May 2024 -- Present)
 {:.no_toc}
 
 <img align="right" display="block" src="https://nslab-cuk.github.io/images/jhCho.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
@@ -199,7 +199,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ### B.Eng.
 {:.no_toc}
 
-#### [Ju Hee Shim](https://nslab-cuk.github.io/member/jhShim) (May 2024 -- Jun 2025)
+#### Ju Hee Shim (May 2024 -- Jun 2025)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/jhShim.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
