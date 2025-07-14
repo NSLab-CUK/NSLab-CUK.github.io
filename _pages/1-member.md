@@ -244,25 +244,26 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 * [Hyeon-Ju Jeon](https://higd963.github.io/), [Korea Institute of Atmospheric Prediction System](https://www.kiaps.org/front/main.do), Seoul, Korea <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/higd963)
 * Prof. [Chang Choi](https://sites.google.com/site/phdchangchoi/), Gachon University, Seongnam, Korea
-* Prof. Hoon Ko, Sunmoon University, Asan, Korea
 * Prof. [Hae Gyun Lim](https://sites.google.com/view/lim-lab/home), Pukyong National University, Busan, Korea 
 * Prof. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung), Korea University Sejong Campus, Sejong, Korea
 * Dr. [Luong Vuong Nguyen](https://luongvuongnguyen.github.io/), FPT University, Da Nang, Vietnam
 * [Nam Gyu Jung](https://namgyu97.github.io/), Gachon University, Seongnam, Korea <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/Namgyu97)
 * Dr. [Tri-Hai Nguyen](https://sites.google.com/view/tri-hai-nguyen), Van Lang University, Hanoi, Vietnam
-* Prof. Changhan Yoon, Inje University, Gimhae, Korea
 * Prof. [Kang-Min Kim](https://kangmin89.com/), The Catholic University of Korea, Bucheon, Korea
 * Prof. [Jun Young Kim](https://sites.google.com/view/jykimgroup/home), The Catholic University of Korea, Bucheon, Korea
 * Prof. [Suk Min Kim](https://sites.google.com/view/bbelgroup/professor), The Catholic University of Korea, Bucheon, Korea
-* Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), The Catholic University of Korea, Bucheon, Korea
 * Prof. Yu-Doo Kim, Dongyang Mirae University, Seoul, Korea
 * Prof. [Youjin Shin](https://adslab0.github.io/), The Catholic University of Korea, Bucheon, Korea
+* Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), The Catholic University of Korea, Bucheon, Korea
+* Prof. Hoon Ko, Sunmoon University, Asan, Korea
+* Prof. Changhan Yoon, Inje University, Gimhae, Korea
 * Prof. Hyun-Cheol Park, Korea National University of Transportation, Chungju, Korea
 * Prof. Kyungroul Lee, Mokpo National University, Muan, Korea
 * Prof. Yoewon Yoon, Dongguk University, Seoul, Korea
-* Seung Charlie Kim, [Shukran Korea Inc.](https://www.shukrankorea.com/), Seoul, Korea
-* [Sojung An](https://scholar.google.com.hk/citations?user=gKrLgVUAAAAJ), Korea University, Seoul, Korea
 * Jong-Seo Lee, [Movements Inc.](https://movements.kr/#s1), Daejeon, Korea
+* Seung Charlie Kim, [Shukran Korea Inc.](https://www.shukrankorea.com/), Seoul, Korea
+* Hyungseok Kim, [Petobio Co., Ltd.](https://www.petobio.com/en/), Hanam, Korea
+* [Sojung An](https://scholar.google.com.hk/citations?user=gKrLgVUAAAAJ), Korea University, Seoul, Korea
 * Dong Kook Park, [IntoCNS Inc.](https://www.intocns.com/), Yongin, Korea
 * Dr. Nam D. Vo, FPT University, Danang, Vietnam
 * Dr. Phuong-Mai Nguyen, International School, Vietnam National University, Hanoi, Vietnam
