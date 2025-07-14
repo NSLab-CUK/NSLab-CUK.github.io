@@ -349,6 +349,8 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 ***
 ## Research Grants
 
+* “Knowledge Graph Construction for Major Companion Animal Diseases,” funded by [Petobio Co., Ltd.](https://www.petobio.com/en) (Jul 2025 – Oct 2025, 15 Mil KRW) (PI: O-Joun Lee; Co-PIs: Kang-Min Kim)<br>
+(반려동물 주요질환 지식그래프 구축, [주식회사 페토바이오](https://www.petobio.com/)/산학과제)
 * “Literary Research in the Digital Age: Analysis of Literary Works using Deep Learning-based Language Model,” supported by the Academic Research Professors Program through NRF of Korea and funded by MOE of Korea (Jun 2024 – May 2025, 20 Mil KRW) (PI: Eun-Soon You)
 * “Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products,” through NRF of Korea and funded by MOE of Korea (Apr 2024 – Nov 2024, 30 Mil KRW), by cooperating with Shukran Korea Inc. (PI: O-Joun Lee)<br>
 (지식그래프 기반 한국 식품/화장품 글로벌 개인화 추천 솔루션, 한국연구재단(NRF)/산학공동기술개발과제(LINC 3.0))
