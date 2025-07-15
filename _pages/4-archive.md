@@ -16,7 +16,7 @@ toc_label: "Table of Contents"
 ##### Jul 15th, 2025
 {:.no_toc}
 
-* We started participating in an industry-academic cooperation project on “Knowledge Graph Construction for Major Companion Animal Diseases (반려동물 주요질환 지식그래프 구축),” funded by [Petobio Co., Ltd. (주식회사 페토바이오)](https://www.petobio.com/en) (Jul 2025 -- Oct 2025, 15 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
+* We started an industry-academic cooperation project on “Knowledge Graph Construction for Major Companion Animal Diseases (반려동물 주요질환 지식그래프 구축),” funded by [Petobio Co., Ltd. (주식회사 페토바이오)](https://www.petobio.com/en) (Jul 2025 -- Oct 2025, 15 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.petobio.com/en"><img align="center" src="/images/Petobio_Logo.png" style="width : 300px; margin : 10px"></a></p>
 
