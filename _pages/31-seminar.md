@@ -33,7 +33,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder", Transactions on Machine Learning Research 2024</summary>
+  <summary>T.B.T. Do, Review on "Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder", Transactions on Machine Learning Research, 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/acdbrI4yOy6L4h?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -45,11 +45,11 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-#### Jul 07th, 2025
+#### Jul 7th, 2025
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "3D-MOLM: TOWARDS 3D MOLECULE-TEXT INTERPRETATION IN LANGUAGE MODELS", ICLR 2024</summary>
+  <summary>V.T. Hoang, Review on "3D-MOLM: Towards 3D Molecule-Text Interpretation in Language Models", ICLR 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/KZKjDfTATTDVH2?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -67,7 +67,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>H.W. Kim, Review on "CHEMICAL-REACTION-AWARE MOLECULE REPRESENTATION LEARNING", ICLR 2022</summary>
+  <summary>H.W. Kim, Review on "Chemical-Reaction-Aware Molecule Representation Learning", ICLR 2022</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9dnN3NdCxVuPJM?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
