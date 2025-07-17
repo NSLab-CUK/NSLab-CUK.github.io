@@ -29,6 +29,16 @@ toc_label: "Table of Contents"
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.petobio.com/en"><img align="center" src="/images/Petobio_Logo.png" style="width : 300px; margin : 10px"></a></p>
 
 ***
+##### Jun 12th, 2025
+{:.no_toc}
+
+* Jin Woo Jeong and Ju Hee Shim, undergraduate interns at the NS Lab @ CUK, have successfully completed their capstone project developing a research paper recommendation system designed for beginners in the AI field.
+
+<p align="center"><img width="700" src="/images/250612_1.jpg"></p>
+
+<p align="center"><img width="700" src="/images/250612_2.jpg"></p>
+
+***
 ##### May 27th, 2025
 {:.no_toc}
 
