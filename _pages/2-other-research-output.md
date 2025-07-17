@@ -104,6 +104,12 @@ This page includes additional research outputs beyond conventional academic publ
 
 ***
 
+* O-Joun Lee: An Overview of Graph Learning Models in Molecular Structure Analysis. Daegyeong Technology Application Division, [Korea Institute of Industrial Technology (KITECH)](https://eng.kitech.re.kr/main/), Daegu, Korea, 07/2025
+
+<p align="center">
+  <img width="700" data-action="zoom" src="/images/250716.jpg" alt="absolute">
+</p>
+
 * O-Joun Lee: An Overview of Graph Learning Models in Molecular Structure Analysis. [The 9th IEEE/IEIE International Conference on Consumer Electronics Asia (ICCE-Asia 2024)](https://icce-asia2024.org/2024/), Danang, Vietnam, 11/2024 
 
 <p align="center">
@@ -123,7 +129,7 @@ This page includes additional research outputs beyond conventional academic publ
   <img width="700" data-action="zoom" src="/images/Talk-IEIE-2024s.jpg" alt="absolute">
 </p>
 
-* O-Joun Lee: Knowledge Graph Reasoning and its Applications. [Telecommunications Technology Association](https://www.tta.or.kr/eng/index.do), Seongnam, Korea, 09/2023
+* O-Joun Lee: Knowledge Graph Reasoning and its Applications. [Telecommunications Technology Association (TTA)](https://www.tta.or.kr/eng/index.do), Seongnam, Korea, 09/2023
 
 * O-Joun Lee: Semiconductor Design with Graph Neural Networks. [The 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm), Jeju, Korea, 06/2023
 
