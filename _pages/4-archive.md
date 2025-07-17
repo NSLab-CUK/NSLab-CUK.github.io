@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+##### Jul 16th, 2025
+{:.no_toc}
+
+* We visited the Daegyeong Technology Application Division of the [Korea Institute of Industrial Technology (KITECH)](https://eng.kitech.re.kr/main/) in Daegu, Korea, where we delivered an invited talk titled “An Overview of Graph Learning Models in Molecular Structure Analysis.”
+
+<p align="center"><img width="700" src="/images/250716.jpg"></p>
+
+***
 ##### Jul 15th, 2025
 {:.no_toc}
 
