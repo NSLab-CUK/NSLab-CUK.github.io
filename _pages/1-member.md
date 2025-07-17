@@ -244,6 +244,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 * [Hyeon-Ju Jeon](https://higd963.github.io/), [Korea Institute of Atmospheric Prediction System](https://www.kiaps.org/front/main.do), Seoul, Korea <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/higd963)
 * Prof. [Chang Choi](https://sites.google.com/site/phdchangchoi/), Gachon University, Seongnam, Korea
+* Prof. [Sang-Woong Lee](http://pr.gachon.ac.kr/), Gachon University, Seongnam, Korea
 * Prof. [Hae Gyun Lim](https://sites.google.com/view/lim-lab/home), Pukyong National University, Busan, Korea 
 * Prof. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung), Korea University Sejong Campus, Sejong, Korea
 * Dr. [Luong Vuong Nguyen](https://luongvuongnguyen.github.io/), FPT University, Da Nang, Vietnam
@@ -261,6 +262,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Prof. Kyungroul Lee, Mokpo National University, Muan, Korea
 * Prof. Yoewon Yoon, Dongguk University, Seoul, Korea
 * Jong-Seo Lee, [Movements Inc.](https://movements.kr/#s1), Daejeon, Korea
+* Daehoon Yoon, [Movements Inc.](https://movements.kr/#s1), Daejeon, Korea
 * Seung Charlie Kim, [Shukran Korea Inc.](https://www.shukrankorea.com/), Seoul, Korea
 * Hyungseok Kim, [Petobio Co., Ltd.](https://www.petobio.com/en/), Hanam, Korea
 * [Sojung An](https://scholar.google.com.hk/citations?user=gKrLgVUAAAAJ), Korea University, Seoul, Korea
