@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Graph Learning Reading List for Newcomers
-permalink: /research/reading-list-for-newcomers/2024/
+permalink: /research/reading-list-for-newcomers/2023-12-14/
 image: Bib_Network.png
 description: This reading list is designed to help newcomers to the Network Science Lab @ CUK understand the fundamental concepts and models in graph learning.
 toc: true
