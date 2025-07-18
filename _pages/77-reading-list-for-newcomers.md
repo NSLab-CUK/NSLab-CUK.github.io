@@ -58,9 +58,9 @@ _Last updated: Jul 18th, 2025_
 - Kim, D.; Oh, A. How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision. In Proceedings of the 9th International Conference on Learning Representations; ICLR 2021.
 - Shaked Brody, Uri Alon, Eran Yahav: How Attentive are Graph Attention Networks? ICLR 2022
 
-### Limitations of GNNs and Their Solutions
+## Limitations of GNNs and Their Solutions
 
-#### GNNs with Scalability
+### GNNs with Scalability
 - Chen, J.; Ma, T.; Xiao, C. FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. In Proceedings of the 6th International Conference on Learning Representations (ICLR 2018); OpenReview.net: Vancouver, BC, Canada, 2018 
 - Chiang, W.; Liu, X.; Si, S.; Li, Y.; Bengio, S.; Hsieh, C. Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks. In Proceedings of the 25th International Conference on Knowledge Discovery & Data Mining (KDD 2019); ACM: Anchorage, Alaska, USA, 2019; pp. 257–266. https://doi.org/10.1145/3292500.3330925.
 - Li, G.; Xiong, C.; Thabet, A.K.; Ghanem, B. DeeperGCN: All You Need to Train Deeper GCNs. CoRR 2020, abs/2006.07739 [2006.07739].
@@ -69,7 +69,7 @@ _Last updated: Jul 18th, 2025_
 - Chuang Liu, Yibing Zhan, Xueqi Ma, Liang Ding, Dapeng Tao, Jia Wu, and Wenbin Hu. Gapformer: Graph Transformer With Graph Pooling For Node Classification. In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI), pages 2196–2205, 2023.
 - Chen, Jinsong, Kaiyuan Gao, Gaichao Li, and Kun He. "NAGphormer: A tokenized graph transformer for node classification in large graphs." ICRL 2023.
 
-#### GNNs with Fairness
+### GNNs with Fairness
 - Jiang, Zhimeng, et al. "Chasing Fairness in Graphs: A GNN Architecture Perspective." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 19. 2024.
 - Wang, Ruijia, et al. "Uncovering the structural fairness in graph contrastive learning." Advances in neural information processing systems 35 (2022): 32465-32473.
 - Liu, Zemin, Trung-Kien Nguyen, and Yuan Fang. "On generalized degree fairness in graph neural networks." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 37. No. 4. 2023.
@@ -77,21 +77,21 @@ _Last updated: Jul 18th, 2025_
 - Renqiang Luo, Huafei Huang, Shuo Yu, Xiuzhen Zhang, Feng Xia. Fairgt: A fairness-aware graph transformer. IJCAI 2024.
 - Liu, Z., Qiu, R., Zeng, Z., Yoo, H., Zhou, D., Xu, Z., ... & Tong, H. Class-imbalanced graph learning without class rebalancing. ICRL 2024.
 
-#### GNNs with Heterophily
+### GNNs with Heterophily
 - Wang, Junfu, et al. "Understanding heterophily for graph neural networks." ICRL 2024
 - Park, MoonJeong, Jaeseung Heo, and Dongwoo Kim. "Mitigating oversmoothing through reverse process of gnns for heterophilic graphs." arXiv preprint arXiv:2403.10543 (2024).
 - Wu, Yuhao, Jiangchao Yao, Bo Han, Lina Yao, and Tongliang Liu. "Unraveling the impact of heterophilic structures on graph positive-unlabeled learning." ICRL 2024
 - Luan, Sitao, Chenqing Hua, Qincheng Lu, Jiaqi Zhu, Mingde Zhao, Shuyuan Zhang, Xiao-Wen Chang, and Doina Precup. "Revisiting heterophily for graph neural networks." Advances in neural information processing systems 35 (2022): 1362-1375.
 - Zhu, Jiong, et al. "Graph neural networks with heterophily." Proceedings of the AAAI conference on artificial intelligence. Vol. 35. No. 12. 2021.
 
-#### GNNs with Long-Range Dependency
+### GNNs with Long-Range Dependency
 - Bamberger, J., Gutteridge, B., Roux, S. L., Bronstein, M. M., & Dong, X. (2025). On Measuring Long-Range Interactions in Graph Neural Networks. arXiv preprint arXiv:2506.05971.
 - Susheel Suresh, Vinith Budde, Jennifer Neville, Pan Li, Jianzhu Ma: Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns. KDD 2021
 - Wu, Zhanghao, et al. "Representing long-range context for graph neural networks with global attention." Advances in neural information processing systems 34 (2021): 13266-13279.
 - Chen, Dexiong, Till Hendrik Schulz, and Karsten Borgwardt. "Learning long range dependencies on graphs via random walks." ICLR 2025
 - Wu, Zhanghao, et al. "Representing long-range context for graph neural networks with global attention." Advances in neural information processing systems 34 (2021): 13266-13279.
 
-#### Over-smoothing Problems
+### Over-smoothing Problems
 - Park, M., Choi, S., Heo, J., Park, E., & Kim, D. (2025). The Oversmoothing Fallacy: A Misguided Narrative in GNN Research. arXiv preprint arXiv:2506.04653.
 - Juan Shu, Bowei Xi, Yu Li, Fan Wu, Charles A. Kamhoua, Jianzhu Ma: Understanding Dropout for Graph Neural Networks. WWW 2022
 - Chen, Deli, et al. "Measuring and relieving the over-smoothing problem for graph neural networks from the topological view." Proceedings of the AAAI conference on artificial intelligence. Vol. 34. No. 04. 2020. 
@@ -99,7 +99,7 @@ _Last updated: Jul 18th, 2025_
 - Liu, Meng, Hongyang Gao, and Shuiwang Ji. "Towards deeper graph neural networks." Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining. 2020.
 - Zhou, Kaixiong, et al. "Towards deeper graph neural networks with differentiable group normalization." Advances in neural information processing systems 33 (2020): 4917-4928.
 
-#### Over-squarshing Problems
+### Over-squarshing Problems
 - Giraldo, Jhony H., et al. "On the trade-off between over-smoothing and over-squashing in deep graph neural networks." Proceedings of the 32nd ACM international conference on information and knowledge management. 2023.
 - Z. Ying, J. You, C. Morris, X. Ren, W. Hamilton, J. Leskovec, Hierarchical graph representation learning with differentiable pooling, Adv. Neural Inf. Process. Syst. 31 (2018)
 - C. Sanders, A. Roth, T. Liebig, Curvature-based pooling within graph neural networks, 2023, arXiv preprint arXiv:2308.16516.
@@ -107,11 +107,13 @@ _Last updated: Jul 18th, 2025_
 - Di Giovanni, Francesco, et al. "On over-squashing in message passing neural networks: The impact of width, depth, and topology." International conference on machine learning. PMLR, 2023. 
 - Alon, Uri, and Eran Yahav. "On the bottleneck of graph neural networks and its practical implications." ICRL 2021.
 
-#### Over-globalizing Problems in Graph Transformers
+### Over-globalizing Problems in Graph Transformers
 - Xing, Yujie, et al. "Less is more: on the over-globalizing problem in graph transformers." arXiv preprint arXiv:2405.01102 (2024).
 - Yadati, Naganand. "Localformer: Mitigating over-globalising in transformers on graphs with localised training." Transactions on Machine Learning Research (2025).
 - Wu, Q., Zhao, W., Yang, C., Zhang, H., Nie, F., Jiang, H., Bian, Y., and Yan, J. Simplifying and empowering transformers for large-graph representations. In Thirty seventh Conference on Neural Information Processing Systems, 2023.
 
+
+## Graph Transformers
 
 ### GNNs with Graph Transformers
 - Shi, Y.; Huang, Z.; Feng, S.; Zhong, H.; Wang, W.; Sun, Y. Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification. In Proceedings of the Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI 2021). 
