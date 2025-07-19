@@ -42,27 +42,27 @@ _Last updated: Jul 18th, 2025_
 
 ### Graph Autoencoders
 
-- Kipf, Thomas N., and Max Welling. "Variational graph auto-encoders." arXiv preprint arXiv:1611.07308 (2016).
-- Wang, D.; Cui, P.; Zhu, W. Structural Deep Network Embedding. In Proceedings of the 22nd International Conference on Knowledge Discovery and Data Mining (SIGKDD 2016); Association for Computing Machinery: New York, NY, USA, 2016; KDD ’16, p. 1225–1234. https://doi.org/10.1145/2939672.2939753. 
-- Tu, K.; Cui, P.; Wang, X.; Wang, F.; Zhu, W. Structural Deep Embedding for Hyper-Networks. In Proceedings of the 32nd Conference on Artificial Intelligence (AAAI 2018); AAAI Press: New Orleans, Louisiana, USA, 2018; pp. 426–433.
+* **Kipf, T. N., & Welling, M. (2016).** Variational Graph Auto-Encoders. *arXiv:1611.07308*
+* **Wang, D., Cui, P., & Zhu, W. (2016).** Structural Deep Network Embedding (SDNE). In *Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (pp. 1225–1234). doi:10.1145/2939672.2939753
+* **Tu, K., Cui, P., Wang, X., Wang, F., & Zhu, W. (2018).** Structural Deep Embedding for Hyper-Networks. In *AAAI 2018* (pp. 426–433).
 
 ### Spatial GNNs
 
-- Thomas N. Kipf, Max Welling: Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017
-- Hamilton, W.L.; Ying, Z.; Leskovec, J. Inductive Representation Learning on Large Graphs. In Proceedings of the 30th Annual Conference on Neural Information Processing Systems (NIPS 2017); 2017; pp. 1024–1034
-- Chen, J.; Ma, T.; Xiao, C. FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. In Proceedings of the 6th International Conference on Learning Representations (ICLR 2018); OpenReview.net: Vancouver, BC, Canada, 2018 
-- Chiang, W.; Liu, X.; Si, S.; Li, Y.; Bengio, S.; Hsieh, C. Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks. In Proceedings of the 25th International Conference on Knowledge Discovery & Data Mining (KDD 2019); ACM: Anchorage, Alaska, USA, 2019; pp. 257–266. https://doi.org/10.1145/3292500.3330925.
-- Li, G.; Xiong, C.; Thabet, A.K.; Ghanem, B. DeeperGCN: All You Need to Train Deeper GCNs. CoRR 2020, abs/2006.07739 [2006.07739].
-- Chen, M.; Wei, Z.; Huang, Z.; Ding, B.; Li, Y. Simple and Deep Graph Convolutional Networks. In Proceedings of the 37th International Conference on Machine Learning (ICML 2020); PMLR: Virtual Event, 2020; Vol. 119, Proceedings of Machine Learning Research, pp. 1725–1735
-- Xu, Keyulu, Weihua Hu, Jure Leskovec, and Stefanie Jegelka. "How powerful are graph neural networks?." arXiv preprint arXiv:1810.00826 (2018).
+* **Kipf, T. N., & Welling, M. (2017).** Semi-Supervised Classification with Graph Convolutional Networks. *ICLR 2017*.
+* **Hamilton, W. L., Ying, Z., & Leskovec, J. (2017).** Inductive Representation Learning on Large Graphs (GraphSAGE). *NeurIPS 2017*, 1024–1034.
+* **Chen, J., Ma, T., & Xiao, C. (2018).** FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling. *ICLR 2018*.
+* **Chiang, W., Liu, X., Si, S., Li, Y., Bengio, S., & Hsieh, C.-J. (2019).** Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks. *KDD 2019*, 257–266.
+* **Li, G., Xiong, C., Thabet, A. K., & Ghanem, B. (2020).** DeeperGCN: All You Need to Train Deeper GCNs. *arXiv:2006.07739*.
+* **Chen, M., Wei, Z., Huang, Z., Ding, B., & Li, Y. (2020).** Simple and Deep Graph Convolutional Networks. *ICML 2020*, Vol. 119, 1725–1735.
+* **Xu, K., Hu, W., Leskovec, J., & Jegelka, S. (2018).** How Powerful Are Graph Neural Networks? *ICLR 2019*.
 
 ### Attentive GNNs
 
-- Petar Velickovic, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio: Graph Attention Networks. CoRR abs/1710.10903 (2017)
-- Hong, X., Li, W., Wang, C., Lin, M., & Lu, S. Label attentive distillation for GNN-based graph classification. AAAI  2024.
-- Yang Ye, Shihao Ji: Sparse Graph Attention Networks. IEEE Trans. Knowl. Data Eng. 35(1): 905-916 (2023)
-- Kim, D.; Oh, A. How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision. In Proceedings of the 9th International Conference on Learning Representations; ICLR 2021.
-- Shaked Brody, Uri Alon, Eran Yahav: How Attentive are Graph Attention Networks? ICLR 2022
+* **Veličković, P., Cucurull, G., Casanova, A., Romero, A., Liò, P., & Bengio, Y. (2018).** Graph Attention Networks. *ICLR 2018*.
+* **Hong, X., Li, W., Wang, C., Lin, M., & Lu, S. (2024).** Label Attentive Distillation for GNN-Based Graph Classification. *AAAI 2024*, 8499–8507.
+* **Ye, Y., & Ji, S. (2023).** Sparse Graph Attention Networks. *IEEE Trans. Knowl. Data Eng.*, 35(1), 905–916.
+* **Kim, D., & Oh, A. (2021).** How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision. *ICLR 2021*.
+* **Brody, S., Alon, U., & Yahav, E. (2022).** How Attentive Are Graph Attention Networks? *ICLR 2022*.
 
 ***
 
