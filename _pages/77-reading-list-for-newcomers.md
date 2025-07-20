@@ -18,6 +18,7 @@ _Last updated: Jul 18th, 2025_
 ***
 
 <h5>Previous Versions</h5>
+{:.no_toc}
 
 * [Dec 14th, 2023](https://nslab-cuk.github.io/research/reading-list-for-newcomers/2023-12-14/)
 
