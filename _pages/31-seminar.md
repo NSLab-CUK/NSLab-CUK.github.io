@@ -23,6 +23,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2025
+
 #### Jul 21st, 2025
 {:.no_toc}
 
@@ -39,7 +40,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Thien Nguyen, Review on "Variational Graph Auto-Encoders", arXiv:1611.07308 2016</summary>
+  <summary>Thien Nguyen, Review on "Variational Graph Auto-Encoders", arXiv preprint arXiv:1611.07308 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vQ3uDJKs79GZb0?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
