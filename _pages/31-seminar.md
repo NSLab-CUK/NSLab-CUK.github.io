@@ -23,6 +23,34 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2025
+#### Jul 21st, 2025
+{:.no_toc}
+
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models", ICLR 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ySMJZpqfalSf9b?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "On Measuring Long-Range Interactions in Graph Neural Networks", ICML 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/adbTnuma0jBCDD?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Thien Nguyen, Review on "Variational Graph Auto-Encoders", arXiv:1611.07308 2016</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vQ3uDJKs79GZb0?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "RingFormer: A Ring-Enhanced Graph Transformer for Organic Solar Cell Property Prediction", AAAI 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vt7ZJRdblywfVj?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Jul 14th, 2025
 {:.no_toc}
 
@@ -33,7 +61,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder", Transactions on Machine Learning Research, 2024</summary>
+  <summary>T.B.T. Do, Review on "Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder", Transactions on Machine Learning Research 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/acdbrI4yOy6L4h?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
