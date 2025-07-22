@@ -1012,7 +1012,7 @@ toc_label: "Table of Contents"
 
 * We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by by POSTECH (Nov 2020 -- Sep 2021, 50 Mil KRW).
 
-<p align="center"><a href="https://cite.postech.ac.kr/"><img align="center" src="/images/iLab_Logo.png" style="width : 110px; margin : 10px"></a><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" style="width : 110px; margin : 10px"></a></p>
+<p align="center"><a href="https://cite.postech.ac.kr/"><img align="center" src="/images/iLab_Logo.png" style="width : 110px; margin : 10px"></a><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" style="width : 100px; margin : 10px"></a></p>
 
 ***
 ##### Feb 15th, 2020
