@@ -382,6 +382,7 @@ _In Korean --_ 웨어러블 디바이스를 활용한 반려동물 행동 패턴
 _In Korean --_ 챗봇 기반 장애인용 키오스크 인터페이스 및 메뉴 추천 시스템, [오더퀸 주식회사](http://www.orderqueen.co.kr/)/산학과제
 * Intramural Research Program funded by The Catholic University of Korea (Sep 2021 – Aug 2022, 7 Mil KRW) (PI: **O-Joun Lee**)
 * Intramural Research Program funded by POSTECH (Nov 2020 – Sep 2021, 50 Mil KRW) (PI: **O-Joun Lee**)
+* Intramural Research Program funded by RIST (Jan 2020 – Jan 2021, 224 Mil KRW) (PI: Ho-Keun Song; Co-Is: Ki Heung Kim, Choong-Hyong Lee, Jintaek Kim, Joon-Yeop Kwon, Yeongdeog Kim, Kwang-Seok Han, Sang-Joon Park, **O-Joun Lee**)
 
 ***
 ## Media Exposure
