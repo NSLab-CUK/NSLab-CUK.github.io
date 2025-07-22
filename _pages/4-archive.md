@@ -403,6 +403,12 @@ toc_label: "Table of Contents"
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
 ***
+##### Dec 19th, 2023
+{:.no_toc}
+
+* [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) has joined NS Lab@CUK as a Ph.D. course student. 
+
+***
 ##### Dec 18th, 2023
 {:.no_toc}
 
