@@ -97,6 +97,14 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/250310.jpg"></p>
 
 ***
+##### May 2nd, 2025
+{:.no_toc}
+
+* We started an intramural research project on "Topography-aware Wind Speed and Direction Forecasting System based on Multi-modal Spatio-temporal Graph Neural Networks," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (May 2025 -- Apr 2026, 7 Mil KRW).
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
 ##### Feb 27th, 2025
 {:.no_toc}
 
@@ -700,7 +708,7 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/2023-1-admission.jpg"></p>
 
 ***
-##### Apr 11th, 2024
+##### Apr 11th, 2023
 {:.no_toc}
 
 * We started an intramural research project on "Topography-aware Wind Speed and Direction Forecasting System based on Multi-modal Spatio-temporal Graph Neural Networks," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Mar 2023 -- Feb 2024, 7 Mil KRW).
@@ -997,6 +1005,14 @@ toc_label: "Table of Contents"
 ***
 ### Before then
 {:.no_toc}
+
+***
+##### Sep 18th, 2020
+{:.no_toc}
+
+* We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by by POSTECH (Nov 2020 -- Sep 2021, 50 Mil KRW).
+
+<p align="center"><a href="https://cite.postech.ac.kr/"><img align="center" src="/images/iLab_Logo.png" style="width : 110px; margin : 10px"></a><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" style="width : 110px; margin : 10px"></a></p>
 
 ***
 ##### Feb 15th, 2020
