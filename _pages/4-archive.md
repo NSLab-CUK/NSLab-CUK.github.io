@@ -561,9 +561,6 @@ toc_label: "Table of Contents"
 ##### Jul 28th, 2023
 {:.no_toc}
 
-* [Min Seo Kim](https://nslab-cuk.github.io/member/skmin) has joined as an undergraduate researcher. :tada: :tada:
-* On a hot summer afternoon,
-
 <p align="center"><img width="700" src="/images/230728.jpg"></p>
 
 ***
@@ -661,12 +658,6 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/20230515.jpg"></p>
 
 ***
-##### May 4th, 2023
-{:.no_toc}
-
-* Hye-Min Kim has joined as an undergraduate researcher. :tada: :tada:
-
-***
 ##### Apr 29th, 2023
 {:.no_toc}
 
@@ -735,18 +726,6 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/230216.JPG"></p>
 
 ***
-##### Feb 7th, 2023
-{:.no_toc}
-
-* [Yu Jin Yang](https://nslab-cuk.github.io/member/yjyang) has joined as an undergraduate researcher. :tada: :tada:
-
-***
-##### Feb 6th, 2023
-{:.no_toc}
-
-* Min-Woo Choi has joined NS Lab@CUK as a Ph.D. course student. :tada: :tada:
-
-***
 ##### Jan 26th -- 27th, 2023
 {:.no_toc}
 
@@ -759,12 +738,6 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/Colloquium2022_Group.jpg"></p>
 
 <p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 380px; margin : 10px"></a></p>
-
-***
-##### Jan 16th, 2023
-{:.no_toc}
-
-* [Hyo Eun Lee](https://nslab-cuk.github.io/member/helee) has joined as an undergraduate researcher. :tada: :tada:
 
 ***
 ##### Jan 3rd, 2023
@@ -783,7 +756,6 @@ toc_label: "Table of Contents"
 ##### Dec 21th, 2022
 {:.no_toc}
 
-* [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim) has joined as an undergraduate researcher.
 * :santa: :santa: :christmas_tree: :christmas_tree: :tada: :tada: :beers: :beers: :cake: :cake:
 
 <p align="center"><img width="700" src="/images/Christmas2022.jpg"></p>
@@ -860,12 +832,6 @@ toc_label: "Table of Contents"
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
 
 ***
-##### Sep 7th, 2022
-{:.no_toc}
-
-* [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) has joined as an undergraduate researcher. 
-
-***
 ##### Sep 1st, 2022
 {:.no_toc}
 
@@ -877,7 +843,7 @@ toc_label: "Table of Contents"
 ##### Aug 29th, 2022
 {:.no_toc}
 
-* [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90), [Phuc Vinh Bui](https://nslab-cuk.github.io/member/phucbui), and [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) have joined NS Lab@CUK as a Ph.D. course student, an MS/Ph.D. combined course student, and an MS course student, respectively. 
+* [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) has joined NS Lab@CUK as a Ph.D. course student. 
 
 <p align="center"><img width="700" height="700" src="/images/220908_1.jpg"></p>
 
@@ -916,32 +882,10 @@ toc_label: "Table of Contents"
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
 
 ***
-##### May 27th, 2022
-{:.no_toc}
-
-* We successfully finished an interim result presentation of the industry-academic cooperation project on "Development of Veterinary Information Services based on Chatbot," funded by [IntoCNS Co., Ltd.](http://intoh.monoalliance.com/) (Feb 2022 -- Oct 2022, 150 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
-
-<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://intoh.monoalliance.com/"><img align="center" src="/images/IntoCNSLogo.jpg" style="width : 120px; margin : 10px"></a></p>
-
-***
 ##### May 15th, 2022
 {:.no_toc}
 
 <p align="center"><img width="700" height="700" src="/images/20220513.jpg"></p>
-
-***
-##### May 13th, 2022
-{:.no_toc}
-
-* We successfully finished a final result presentation of the industry-academic cooperation project on "Chatbot-based Kiosk Interface and Menu Recommendation System," funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 -- Apr 2022, 10 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
-
-<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/OrderQueenLogo.png" style="width : 100px; margin : 10px"></a></p>
-
-***
-##### Apr 20th, 2022
-{:.no_toc}
-
-* Yeongmin Kim has joined as an undergraduate researcher. 
 
 ***
 ##### Apr 1st, 2022
@@ -974,31 +918,7 @@ toc_label: "Table of Contents"
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/OrderQueenLogo.png" style="width : 100px; margin : 10px"></a></p>
 
 ***
-##### Jan 4th, 2022
-{:.no_toc}
-
-* [Se Eun Cho](https://nslab-cuk.github.io/member/secho) has joined as an undergraduate researcher. 
-
-***
 ### 2021
-
-***
-##### Dec 15th, 2021
-{:.no_toc}
-
-* [Jiyoon Song](https://nslab-cuk.github.io/member/jysong) has joined as an undergraduate researcher. 
-
-***
-##### Dec 3rd, 2021
-{:.no_toc}
-
-* [Hyebin Ahn](https://nslab-cuk.github.io/member/hbahn) has joined as an undergraduate researcher. 
-
-***
-##### Nov 11th, 2021
-{:.no_toc}
-
-* [Jooho Lee](https://nslab-cuk.github.io/member/jhlee) has joined as an undergraduate researcher. 
 
 ***
 ##### Nov 3rd, 2021
