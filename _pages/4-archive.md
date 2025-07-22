@@ -1010,7 +1010,7 @@ toc_label: "Table of Contents"
 ##### Sep 18th, 2020
 {:.no_toc}
 
-* We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by by POSTECH (Nov 2020 -- Sep 2021, 50 Mil KRW).
+* We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by POSTECH (Nov 2020 -- Sep 2021, 50 Mil KRW).
 
 <p align="center"><a href="https://cite.postech.ac.kr/"><img align="center" src="/images/iLab_Logo.png" style="width : 110px; margin : 10px"></a><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" style="width : 100px; margin : 10px"></a></p>
 
@@ -1025,6 +1025,12 @@ toc_label: "Table of Contents"
 
 <p align="center"><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" style="width : 120px; margin : 10px"></a><a href="https://www.cau.ac.kr/"><img align="center" src="/images/CAULogo.png" style="width : 120px; margin : 10px"></a></p>
 
+***
+##### Sep 18th, 2020
+{:.no_toc}
 
+* We started participating an intramural research project on "Enhancing Industry-Academia-Research Cooperation among POSCO, RIST, and POSTECH," funded by RIST (Jan 2020 -- Jan 2021, 224 Mil KRW).
+
+<p align="center"><a href="https://cite.postech.ac.kr/"><img align="center" src="/images/iLab_Logo.png" style="width : 110px; margin : 10px"></a><a href="https://postech.ac.kr/"><img align="center" src="/images/POSTECHLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.rist.re.kr/"><img align="center" src="/images/RIST_Logo.jpg" style="width : 110px; margin : 10px"></a></p>
 
 
