@@ -349,7 +349,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ***
 ## Research Grants
 
-* “Development of Human Intrinsic AI through Unified Semantic Representation of Heterogeneous Multimodal Data,” supported by IITP of Korea and funded by MSIT of Korea (Jul 2025 – Dec 2028, 4,533 Mil KRW) (PI: Sang-Woong Lee; Co-PI: **O-Joun Lee**, Ick Hyun Um, and Jae-Keun Lee; Co-Is: Okran Jeong and Kang-Min Kim)<br>
+* “Development of Human Intrinsic AI through Unified Semantic Representation of Heterogeneous Multimodal Data,” supported by IITP of Korea and funded by MSIT of Korea (Jul 2025 – Dec 2028, 4,533 Mil KRW) (PI: Sang-Woong Lee; Co-PIs: **O-Joun Lee**, Ick Hyun Um, and Jae-Keun Lee; Co-Is: Okran Jeong and Kang-Min Kim)<br>
 _In Korean --_ 이기종 멀티모달 데이터의 의미 통합 표상 기반 인간지향적 인공지능 개발, 정보통신기획평가원(IITP)/**인간지향적차세대도전형AI기술개발**/RS-2025-25443681
 * “Knowledge Graph Construction for Major Companion Animal Diseases,” funded by [Petobio Co., Ltd.](https://www.petobio.com/en) (Jul 2025 – Oct 2025, 15 Mil KRW) (PI: **O-Joun Lee**; Co-I: Kang-Min Kim)<br>
 _In Korean --_ 반려동물 주요질환 지식그래프 구축, [주식회사 페토바이오](https://www.petobio.com/)/산학과제
