@@ -370,7 +370,7 @@ _In Korean --_ 크로스컬처 지식그래프 기반 한국 식품/화장품 �
 _In Korean --_ 건설기준 중복.상충부 분석 용역, [한국건설기술연구원](https://www.kict.re.kr/)/연구용역
 * Intramural Research Program funded by The Catholic University of Korea (Mar 2023 – Feb 2024, 7 Mil KRW) (PI: **O-Joun Lee**)
 * “Organizing Korea-EU Research Group for (Semi-) Automated Diagnostics Support System based on Medical Knowledge Graph Mining,” supported by the Korea-EU Cooperation Promotion Program through NRF of Korea and funded by MSIT of Korea (Oct 2022 – Sep 2023, 25 Mil KRW) (PI: **O-Joun Lee**; Co-Is: Chang Choi, Hoon Ko, and Kang-Min Kim)<br>
-_In Korean --_ 의료 지식그래프 마이닝 기반 진단보조시스템 연구를 위한 한-EU 연구그룹 구성, 한국연구재단(NRF)/**국제공동활성화연구비**/2022K1A3A1A79089461
+_In Korean --_ 의료 지식그래프 마이닝 기반 진단보조시스템 연구를 위한 한-EU 연구그룹 구성, 한국연구재단(NRF)/**한-EU 협력진흥사업**/2022K1A3A1A79089461
 * Intramural Research Program funded by The Catholic University of Korea (Sep 2022 – Aug 2023, 7 Mil KRW) (PI: **O-Joun Lee**)
 * “Conversational Interface and Menu Recommendation System for Robot Cafe,” funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Aug 2022 – Nov 2022, 30 Mil KRW) (PI: **O-Joun Lee**; Co-I: Kang-Min Kim)<br>
 _In Korean --_ 플레토 로봇카페 키오스크용 대화형 인터페이스 및 메뉴 추천 시스템, [오더퀸 주식회사](http://www.orderqueen.co.kr/)/산학과제
