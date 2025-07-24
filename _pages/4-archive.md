@@ -16,7 +16,7 @@ toc_label: "Table of Contents"
 ##### Jul 24th, 2025
 {:.no_toc}
 
-* We started participating in the Human‑Centric Next‑Generation Challenge‑Type AI Technology Development Program (인간지향적차세대도전형AI기술개발사업) on "Development of Human Intrinsic AI through Unified Semantic Representation of Heterogeneous Multimodal Data (이기종 멀티모달 데이터의 의미 통합 표상 기반 인간지향적 인공지능 개발)," supported by IITP (정보통신기획평가원) of Korea and funded by MSIT (과학기술정보통신부) of Korea (Jul 2025 -- Dec 2028, 4,533 Mil KRW), by cooperating with Prof. Sang-Woong Lee and Prof. Okran Jeong at Gachon University, Prof. Kang-Min Kim at the Catholic University of Korea, Ick Hyun Um at GDS Consulting, and Jae-Keun Lee at Kolab Inc. 
+* We started participating in the Human‑Centric Next‑Generation Challenge‑Type AI Technology Development Program (인간지향적차세대도전형AI기술개발사업) on "Development of Human Intrinsic AI through Unified Semantic Representation of Heterogeneous Multimodal Data (이기종 멀티모달 데이터의 의미 통합 표상 기반 인간지향적 인공지능 개발)," supported by IITP of Korea (정보통신기획평가원) and funded by MSIT of Korea (과학기술정보통신부) (Jul 2025 -- Dec 2028, 4,533 Mil KRW), by cooperating with Prof. Sang-Woong Lee and Prof. Okran Jeong at Gachon University, Prof. Kang-Min Kim at the Catholic University of Korea, Ick Hyun Um at GDS Consulting, and Jae-Keun Lee at Kolab Inc. 
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.iitp.kr/"><img align="center" src="/images/IITP_Logo.png" style="width : 120px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a><a href="https://www.gachon.ac.kr/"><img align="center" src="/images/GCU_Logo.jpg" style="width : 100px; margin : 10px"></a><a href="http://gdsconsulting.co.kr/"><img align="center" src="/images/GDS_Logo.png" style="width : 120px; margin : 10px"></a><a href="https://kolabcro.com/"><img align="center" src="/images/Kolab_Logo.png" style="width : 120px; margin : 10px"></a></p>
 
@@ -304,7 +304,7 @@ toc_label: "Table of Contents"
 ##### Apr 15th, 2024
 {:.no_toc}
 
-* We started an industry-academic joint technology development project, affiliated with [Leaders in INdustry-university Cooperation 3.0 (LINC3.0)](https://linc.catholic.ac.kr/lincplus/index.html) on "Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products," through NRF of Korea and funded by MOE of Korea (Apr 2024 -- Nov 2024, 30 Mil KRW), by cooperating with [Shukran Korea Inc.](https://www.shukrankorea.com/)
+* We started an industry-academic joint technology development project, affiliated with [Leaders in INdustry-university Cooperation 3.0 (LINC3.0)](https://linc.catholic.ac.kr/lincplus/index.html) (산학공동기술개발과제(LINC 3.0)) on "Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products (지식그래프 기반 한국 식품/화장품 글로벌 개인화 추천 솔루션)," through NRF of Korea (한국연구재단) and funded by MOE of Korea (교육부) (Apr 2024 -- Nov 2024, 30 Mil KRW), by cooperating with [Shukran Korea Inc. (주식회사 슈크란코리아)](https://www.shukrankorea.com/).
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://www.shukrankorea.com/"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 280px; margin : 10px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/Shukran_Logo.png" style="width : 220px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.moe.go.kr/"><img align="center" src="/images/MOE_Logo.png" style="width : 100px; margin : 10px"></a></p>
 
@@ -428,7 +428,7 @@ toc_label: "Table of Contents"
 ##### Dec 18th, 2023
 {:.no_toc}
 
-* We started participating in an industry-academic cooperation project on “Development of AI-powered Algorithms to Build Smart Cart System,” funded by [Pixel Inc.](http://www.pixel-global.com/) (Jan 2024 -- Dec 2026, 150 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), and their teams.
+* We started participating in an industry-academic cooperation project on “Development of AI-powered Algorithms to Build Smart Cart System (스마트 카트 구축을 위한 비콘 기반 광학 문자 인식 기술 구현),” funded by [Pixel Inc. (주식회사 픽셀)](http://www.pixel-global.com/) (Jan 2024 -- Dec 2026, 150 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), and their teams.
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.pixel-global.com/"><img align="center" src="/images/Pixel_Logo.png" style="width : 140px; margin : 10px"></a></p>
 
@@ -436,7 +436,7 @@ toc_label: "Table of Contents"
 ##### Dec 11th, 2023
 {:.no_toc}
 
-* We started participating in a Scale-up TIPS project on "Development of Underground Burial Analysis Technology and System using Ground Penetrating Radar and Artificial Intelligence," led by [Movements Inc.](https://www.movements.kr/) and funded by [Ministry of SMEs and Startups (MSS)](https://www.mss.go.kr/site/eng/main.do) (Jan 2024 -- Dec 2026, 1,140 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), and their teams.
+* We started participating in a Scale-up TIPS project on "Development of Underground Burial Analysis Technology and System using Ground Penetrating Radar and Artificial Intelligence (지표투과레이더(GPR)와 인공지능을 활용한 지하 시설물 분석 기술 및 시스템 개발)," led by [Movements Inc. (주식회사 무브먼츠)](https://www.movements.kr/) and funded by [Ministry of SMEs and Startups (MSS)](https://www.mss.go.kr/site/eng/main.do) of Korea (중소벤처기업부) (Jan 2024 -- Dec 2026, 1,140 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), and their teams.
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.movements.kr/"><img align="center" src="/images/Movements_Logo.png" style="width : 330px; margin : 10px"></a><a href="https://www.mss.go.kr/site/eng/main.do"><img align="center" src="/images/MSS_Logo.jpg" style="width : 120px; margin : 10px"></a></p>
 
@@ -494,7 +494,7 @@ toc_label: "Table of Contents"
 ##### Sep 22nd, 2023
 {:.no_toc}
 
-* We started participating in a commissioned research project on "A study on the application and use of generative AI to support the process of the prosecution," funded by [Supreme Prosecutors' Office of the Republic of Korea](https://www.spo.go.kr/site/eng/main.do) (Oct 2023 -- Dec 2023, 80 Mil KRW), by cooperating with Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Kang-Min Kim](https://kangmin89.com/), and their teams. <br>
+* We started participating in a commissioned research project on "A study on the application and use of generative AI to support the process of the prosecution (생성형 AI의 검찰 사건처리업무 활용방안 연구)," funded by [Supreme Prosecutors' Office of the Republic of Korea](https://www.spo.go.kr/site/eng/main.do) (대검찰청) (Oct 2023 -- Dec 2023, 80 Mil KRW), by cooperating with Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Kang-Min Kim](https://kangmin89.com/), and their teams. <br>
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.sedaily.com/NewsView/2D5DCAWDPN)
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/Prosecution_Logo.png" style="width : 120px; margin : 10px"></a></p>
@@ -620,7 +620,7 @@ toc_label: "Table of Contents"
 ##### Jul 1st, 2023
 {:.no_toc}
 
-* We started an industry-academic joint technology development project, affiliated with [Leaders in INdustry-university Cooperation 3.0 (LINC3.0)](https://linc.catholic.ac.kr/lincplus/index.html) on "K-Food/Cosmetics safety evaluation and recommendation solution based on cross-culture knowledge graph," through NRF of Korea and funded by MOE of Korea (Jul 2023 -- Dec 2023, 60 Mil KRW), by cooperating with [Shukran Korea Inc.](https://www.shukrankorea.com/)
+* We started an industry-academic joint technology development project, affiliated with [Leaders in INdustry-university Cooperation 3.0 (LINC3.0)](https://linc.catholic.ac.kr/lincplus/index.html) (산학공동기술개발과제(LINC 3.0)) on "K-Food/Cosmetics safety evaluation and recommendation solution based on cross-culture knowledge graph (크로스컬처 지식그래프 기반 한국 식품/화장품 안전성 평가 및 추천 솔루션)," through NRF of Korea and funded by MOE of Korea (Jul 2023 -- Dec 2023, 60 Mil KRW), by cooperating with [Shukran Korea Inc. (주식회사 슈크란코리아)](https://www.shukrankorea.com/).
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://www.shukrankorea.com/"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 280px; margin : 10px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/Shukran_Logo.png" style="width : 220px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.moe.go.kr/"><img align="center" src="/images/MOE_Logo.png" style="width : 100px; margin : 10px"></a></p>
 
@@ -668,7 +668,7 @@ toc_label: "Table of Contents"
 
 <p align="center"><a href="https://sites.google.com/view/lim-lab/home"><img align="center" src="https://nslab-cuk.github.io/images/BU_Logo.jpg" style="width : 30%; margin : 10px"></a><a href="https://nslab-cuk.github.io/"><img align="center" src="https://nslab-cuk.github.io/images/Logo_Rect.png" style="width : 55%; margin : 10px"></a></p>
 
-* We started participating in a commissioned research project on "Analysis of Redundancies and Conflicts in Construction Standards," funded by [Korea Institute of Civil Engineering and Building Technology (KICT)](https://www.kict.re.kr/eng/) (Jun 2023 -- Nov 2023, 90 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), and their teams. <br>
+* We started participating in a commissioned research project on "Analysis of Redundancies and Conflicts in Construction Standards (건설기준 중복.상충부 분석 용역)," funded by [Korea Institute of Civil Engineering and Building Technology (KICT)](https://www.kict.re.kr/eng/) (한국건설기술연구원) (Jun 2023 -- Nov 2023, 90 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), and their teams. <br>
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.yna.co.kr/view/AKR20230822132800003?input=1195m)
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/KICT_Logo.png" style="width : 150px; margin : 10px"></a></p>
@@ -849,7 +849,7 @@ toc_label: "Table of Contents"
 ##### Oct 1st, 2022
 {:.no_toc}
 
-* We started a research project on "Organizing Korea-EU Research Group for (Semi-) Automated Diagnostics Support System based on Medical Knowledge Graph Mining," supported by the Korea-EU Cooperation Promotion Program through NRF of Korea and funded by MSIT of Korea (Oct 2022 -- Sep 2023, 25 Mil KRW). 
+* We started a research project on "Organizing Korea-EU Research Group for (Semi-) Automated Diagnostics Support System based on Medical Knowledge Graph Mining (의료 지식그래프 마이닝 기반 진단보조시스템 연구를 위한 한-EU 연구그룹 구성)," supported by the Korea-EU Cooperation Promotion Program (한-EU 협력진흥사업) through NRF of Korea (한국연구재단) and funded by MSIT of Korea (과학기술정보통신부) (Oct 2022 -- Sep 2023, 25 Mil KRW). 
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
 
@@ -873,7 +873,7 @@ toc_label: "Table of Contents"
 ##### Aug 1st, 2022
 {:.no_toc}
 
-* We started participating in an industry-academic cooperation project on "Conversational Interface and Menu Recommendation System for Robot Cafe," funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Aug 2022 -- Nov 2022, 30 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
+* We started participating in an industry-academic cooperation project on "Conversational Interface and Menu Recommendation System for Robot Cafe (플레토 로봇카페 키오스크용 대화형 인터페이스 및 메뉴 추천 시스템)," funded by [Order Queen Co., Ltd. (오더퀸 주식회사)](http://www.orderqueen.co.kr/) (Aug 2022 -- Nov 2022, 30 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/OrderQueenLogo.png" style="width : 100px; margin : 10px"></a></p>
 
@@ -899,7 +899,7 @@ toc_label: "Table of Contents"
 ##### Jun 1st, 2022
 {:.no_toc}
 
-* We started a research project on "Multi-modal Transformer Model for Self-supervised Representation Learning of Dynamic Heterogeneous Networks," supported by the Basic Science Research Program through NRF of Korea and funded by MSIT of Korea (Jun 2022 -- Feb 2025, 132 Mil KRW). 
+* We started a research project on "Multi-modal Transformer Model for Self-supervised Representation Learning of Dynamic Heterogeneous Networks (동적 이종 네트워크의 자기지도 표현학습을 위한 Multi-modal 트랜스포머 모델 개발)," supported by the Basic Science Research Program (기본연구지원사업) through NRF of Korea (한국연구재단) and funded by MSIT of Korea (과학기술정보통신부) (Jun 2022 -- Feb 2025, 132 Mil KRW). 
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
 
@@ -913,7 +913,7 @@ toc_label: "Table of Contents"
 ##### Apr 1st, 2022
 {:.no_toc}
 
-* We started participating in the Next-generation Intelligence-Type Semiconductor Development Program on "Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors," supported by NRF of Korea and funded by MSIT of Korea (Apr 2022 -- Dec 2024, 550 Mil KRW), by cooperating with Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung) at Advanced Institute of Convergence Technology. 
+* We started participating in the Next-generation Intelligence-Type Semiconductor Development Program (차세대지능형반도체기술개발사업) on "Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors (인공지능 반도체용 ReRAM crossbar array(CBA) 회로 설계 및 최적화를 위한 기계학습 기반 멀티 스케일 시뮬레이션 플랫폼 개발)," supported by NRF of Korea (한국연구재단) and funded by MSIT of Korea (과학기술정보통신부) (Apr 2022 -- Dec 2024, 550 Mil KRW), by cooperating with Dr. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung) at Advanced Institute of Convergence Technology. 
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a><a href="https://aict.snu.ac.kr/"><img align="center" src="/images/AICTLogo.jpg" style="width : 120px; margin : 10px"></a></p>
 
@@ -927,7 +927,7 @@ toc_label: "Table of Contents"
 ##### Feb 7th, 2022
 {:.no_toc}
 
-* We started an industry-academic cooperation project on "Development of Veterinary Information Services based on Chatbot," funded by [IntoCNS Co., Ltd.](http://intoh.monoalliance.com/) (Feb 2022 -- Oct 2022, 150 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
+* We started an industry-academic cooperation project on "Development of Veterinary Information Services based on Chatbot (웨어러블 디바이스를 활용한 반려동물 행동 패턴 및 질병 진단 예측 모델 개발과 챗봇 기반 동물의학정보 제공 솔루션 개발)," funded by [IntoCNS Co., Ltd. (주식회사 인투씨엔에스)](http://intoh.monoalliance.com/) (Feb 2022 -- Oct 2022, 150 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://intoh.monoalliance.com/"><img align="center" src="/images/IntoCNSLogo.jpg" style="width : 120px; margin : 10px"></a></p>
 
@@ -935,7 +935,7 @@ toc_label: "Table of Contents"
 ##### Jan 26th, 2022
 {:.no_toc}
 
-* We started an industry-academic cooperation project on "Chatbot-based Kiosk Interface and Menu Recommendation System," funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 -- Apr 2022, 10 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
+* We started an industry-academic cooperation project on "Chatbot-based Kiosk Interface and Menu Recommendation System (챗봇 기반 장애인용 키오스크 인터페이스 및 메뉴 추천 시스템)," funded by [Order Queen Co., Ltd. (오더퀸 주식회사)](http://www.orderqueen.co.kr/) (Feb 2022 -- Apr 2022, 10 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/) and his team.
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/OrderQueenLogo.png" style="width : 100px; margin : 10px"></a></p>
 
