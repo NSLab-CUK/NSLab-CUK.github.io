@@ -356,7 +356,7 @@ _In Korean --_ 반려동물 주요질환 지식그래프 구축, [주식회사 �
 * Intramural Research Program funded by The Catholic University of Korea (Mar 2025 – Feb 2026, 7 Mil KRW) (PI: **O-Joun Lee**)
 * “Literary Research in the Digital Age: Analysis of Literary Works using Deep Learning-based Language Model,” supported by the Academic Research Professors Program through NRF of Korea and funded by MOE of Korea (Jun 2024 – May 2025, 20 Mil KRW) (PI: Eun-Soon You)
 * “Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products,” supported by NRF of Korea and funded by MOE of Korea (Apr 2024 – Nov 2024, 30 Mil KRW), by cooperating with [Shukran Korea Inc.](https://shukrankorea.com/) (PI: **O-Joun Lee**)<br>
-_In Korean --_ 지식그래프 기반 한국 식품/화장품 글로벌 개인화 추천 솔루션, 한국연구재단(NRF)/산학공동기술개발과제(LINC 3.0)-[슈크란코리아](https://shukrankorea.com/)
+_In Korean --_ 지식그래프 기반 한국 식품/화장품 글로벌 개인화 추천 솔루션, 한국연구재단(NRF)/LINC 3.0 산학공동기술개발과제-[슈크란코리아](https://shukrankorea.com/)
 * Intramural Research Program funded by The Catholic University of Korea (Mar 2024 – Feb 2025, 7 Mil KRW) (PI: **O-Joun Lee**)
 * “Development of AI-powered Algorithms to Build Smart Cart System,” funded by [Pixel Inc.](https://www.pixel-global.com/Home.html) (Jan 2024 – Dec 2026, 150 Mil KRW) (PI: Keunsoo Ko; Co-Is: **O-Joun Lee**, Kang-Min Kim, and Youjin Shin)<br>
 _In Korean --_ 스마트 카트 구축을 위한 비콘 기반 광학 문자 인식 기술 구현, [주식회사 픽셀](https://www.pixel-global.com/Home.html)/산학과제
@@ -365,7 +365,7 @@ _In Korean --_ GPR 탐사 결과 분석 시스템 연구개발, [주식회사 �
 * “A study on the application and use of generative AI to support the process of the prosecution,” funded by [Supreme Prosecutors’ Office of the Republic of Korea](https://www.spo.go.kr/site/spo/main.do) (Oct 2023 – Dec 2023, 80 Mil KRW) (PI: Youjin Shin; Co-Is: Kang-Min Kim, **O-Joun Lee**, and Keunsoo Ko)<br>
 _In Korean --_ 생성형 AI의 검찰 사건처리업무 활용방안 연구, [대검찰청](https://www.spo.go.kr/site/spo/main.do)/연구용역
 * “K-Food/Cosmetics safety evaluation and recommendation solution based on cross-culture knowledge graph,” supported by NRF of Korea and funded by MOE of Korea (Jul 2023 – Dec 2023, 60 Mil KRW), by cooperating with [Shukran Korea Inc.](https://shukrankorea.com/) (PI: **O-Joun Lee**)<br>
-_In Korean --_ 크로스컬처 지식그래프 기반 한국 식품/화장품 안전성 평가 및 추천 솔루션, 한국연구재단(NRF)/산학공동기술개발과제(LINC 3.0)-[슈크란코리아](https://shukrankorea.com/)
+_In Korean --_ 크로스컬처 지식그래프 기반 한국 식품/화장품 안전성 평가 및 추천 솔루션, 한국연구재단(NRF)/LINC 3.0 산학공동기술개발과제-[슈크란코리아](https://shukrankorea.com/)
 * “Analysis of Redundancies and Conflicts in Construction Standards,” funded by [Korea Institute of Civil Engineering and Building Technology (KICT)](https://www.kict.re.kr/) (Jun 2023 – Nov 2023, 90 Mil KRW) (PI: Kang-Min Kim; Co-Is: **O-Joun Lee** and Youjin Shin)<br>
 _In Korean --_ 건설기준 중복.상충부 분석 용역, [한국건설기술연구원](https://www.kict.re.kr/)/연구용역
 * Intramural Research Program funded by The Catholic University of Korea (Mar 2023 – Feb 2024, 7 Mil KRW) (PI: **O-Joun Lee**)
