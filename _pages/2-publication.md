@@ -294,6 +294,12 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Minsun Cho, Jinwoo Jeong, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. The 247th Electrochemical Society (ECS) Meeting, Montreal, Canada; 05/2025. DOI:[10.1149/MA2025-01331662mtgabs](https://doi.org/10.1149/MA2025-01331662mtgabs)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.1149/MA2025-01331662mtgabs" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.1149/MA2025-01331662mtgabs" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
+
 * Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. The 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA, USA; 02/2025. DOI:[10.1609/aaai.v39i16.33891](https://doi.org/10.1609/aaai.v39i16.33891)
 [![Link](https://img.shields.io/badge/AAAI'25-0C2E86?style=flat-square)](https://aaai.org/aaai-conference/)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
