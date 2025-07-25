@@ -72,6 +72,14 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/250507.png"></p>
 
 ***
+##### May 2nd, 2025
+{:.no_toc}
+
+* We started an intramural research project on "Topography-aware Wind Speed and Direction Forecasting System based on Multi-modal Spatio-temporal Graph Neural Networks," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (May 2025 -- Apr 2026, 7 Mil KRW).
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
 ##### Apr 18th, 2025
 {:.no_toc}
 
@@ -103,14 +111,6 @@ toc_label: "Table of Contents"
 {:.no_toc}
 
 <p align="center"><img width="700" src="/images/250310.jpg"></p>
-
-***
-##### May 2nd, 2025
-{:.no_toc}
-
-* We started an intramural research project on "Topography-aware Wind Speed and Direction Forecasting System based on Multi-modal Spatio-temporal Graph Neural Networks," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (May 2025 -- Apr 2026, 7 Mil KRW).
-
-<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
 
 ***
 ##### Feb 27th, 2025
