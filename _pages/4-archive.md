@@ -13,6 +13,17 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+##### Jul 25th, 2025
+{:.no_toc}
+
+* [Nam Gyu Jung](https://namgyu97.github.io/), Sae Bom Lee, and [Jun Ho Yoon](https://junhoy00n.github.io/), who are doctoral students at the [IIP Lab @ Gachon University](http://iiplab.gachon.ac.kr/) (Advisor: Prof. Chang Choi), visited us to deliever ivited talks on their doctoral research.
+
+<p align="center"><img width="700" src="/images/250725_1.jpg"></p>
+<p align="center"><img width="700" src="/images/250725_2.jpg"></p>
+<p align="center"><img width="700" src="/images/250725_3.jpg"></p>
+<p align="center"><img width="700" src="/images/250725_4.jpg"></p>
+
+***
 ##### Jul 24th, 2025
 {:.no_toc}
 
