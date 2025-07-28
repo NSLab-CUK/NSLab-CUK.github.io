@@ -40,7 +40,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.H. Cho, Review on "A Novel Shape-Aware Topological Representation for GPR Data with DNN Integration", arXiv:2506.06311 2025</summary>
+  <summary>J.H. Cho, Review on "A Novel Shape-Aware Topological Representation for GPR Data with DNN Integration", arXiv preprint arXiv:2506.06311 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/jfzejAhlXiNSmp?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -62,7 +62,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Thien Nguyen, Review on "Variational Graph Auto-Encoders", arXiv:1611.07308 2016</summary>
+  <summary>Thien Nguyen, Review on "Variational Graph Auto-Encoders", arXiv preprint arXiv:1611.07308 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vQ3uDJKs79GZb0?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
