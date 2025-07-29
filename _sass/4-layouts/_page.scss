@@ -131,3 +131,10 @@ iframe {
   border: none;
   display: block;
 }
+
+iframe.instagram-media {
+  aspect-ratio: auto !important;
+  height: auto !important;
+  position: static !important;
+}
+
