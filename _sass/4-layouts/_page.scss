@@ -132,9 +132,21 @@ iframe {
   display: block;
 }
 
+
+/* 기존 global iframe 규칙 때문에 생기는 aspect-ratio 문제 해결 */
 iframe.instagram-media {
-  aspect-ratio: auto !important;
-  height: auto !important;
-  position: static !important;
+  aspect-ratio: auto !important;  /* 16:9 비율 해제 */
+  display: block;                 /* 가운데 정렬을 위해 block 요소로 */
+  margin-left: auto;              /* 가운데 정렬 */
+  margin-right: auto;
+  width: 100%;                    /* 모바일에서는 전체 폭 사용 */
+  max-width: 700px;               /* 데스크톱에서는 700px까지만 확대 */
+}
+
+/* 필요하다면 미디어 쿼리로 데스크톱 폭을 강제 지정할 수도 있습니다 */
+@media (min-width: 768px) {
+  iframe.instagram-media {
+    width: 700px !important;
+  }
 }
 
