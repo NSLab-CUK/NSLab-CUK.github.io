@@ -76,7 +76,7 @@ This page includes additional research outputs beyond conventional academic publ
 
 ***
 
-# Awards & Grants
+# Awards
 
 ***
 
@@ -158,7 +158,15 @@ This page includes additional research outputs beyond conventional academic publ
   <img width="700" data-action="zoom" src="/images/Talk-VNUIS.jpg" alt="absolute">
 </p>
 
+***
 
+# Technical Advisory
+
+***
+
+* O-Joun Lee: Reviewing Ontology Modeling for Abnormal Driving Scenarios, Telecommunications Technology Association (TTA), Seongnam, Korea, 08/2025
+
+* O-Joun Lee: Consulting for Development of a Big Data-Based Sports Science Analysis System for the Korean Para Sports Association, Jinjin System Co., Ltd., Seoul, Korea, 06/2025 -- 06/2026
 
 ***
 
