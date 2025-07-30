@@ -18,20 +18,6 @@ This page includes additional research outputs beyond conventional academic publ
 
 ***
 
-# Open Datasets
-
-***
-
-* Jooho Lee, Yoewon Yoon, O-Joun Lee: Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak. Figshare 08/2023. DOI:10.6084/m9.figshare.24025491.v1 (Dataset)
-
-* Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Social Network of Characters Appeared in the French Novel Series "La Comédie humaine" and An Interaction Network of Novels in the Series. Figshare 08/2023. DOI:10.6084/m9.figshare.23994078.v1 (Dataset)
-
-* Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel "Les Liaisons Dangereuses". Figshare 08/2023. DOI:10.6084/m9.figshare.23993748.v1 (Dataset)
-
-
-
-***
-
 # Patents
 
 ***
@@ -81,20 +67,35 @@ This page includes additional research outputs beyond conventional academic publ
 ***
 
 * Feb 2025: Van Thuy Hoang, "The Best Award (최우수상)", The 22nd Graduate School Academic Awards (제22회 대학원 학술상), Bucheon, Korea
-
-<p align="center"><img width="700" src="/images/250227_Recipients.jpg" margin="10px"></p>
-
-<p align="center"><img width="700" src="/images/250227_Awards.jpg" margin="10px"></p>
+  <details markdown="1">
+    <summary>Details</summary>
+    <p align="center"><img width="700" src="/images/250227_Recipients.jpg" margin="10px"></p>
+    <p align="center"><img width="700" src="/images/250227_Awards.jpg" margin="10px"></p>
+  </details>
 
 * Dec 2023: Van Thuy Hoang, "Excellence in Research Award", The 2nd CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2023), Bucheon, Korea
-
-<p align="center"><img width="700" src="/images/EiR2023_Hoang.webp" margin="10px"></p>
+  <details markdown="1">
+    <summary>Details</summary>
+    <p align="center"><img width="700" src="/images/EiR2023_Hoang.webp" margin="10px"></p>
+  </details>
 
 * Dec 2022: Sang Thanh Nguyen, "Excellence in Research Award", The 1st CUK Annual Colloquium on Artificial Intelligence (CUK AI Colloquium 2022), Seoul, Korea
 
 * Jun 2022: Jiyoon Song, Se Eun Cho, Jooho Lee, Yeongmin Kim, Hyebin Ahn, O-Joun Lee, "[Best Paper Award](https://drive.google.com/file/d/1vMnVNUzf29TECy6coVAU-oL2PftihMt3/view?usp=sharing)", The 2022 Conference of Korea Institute of Smart Media (KISM), Daejeon, Korea
+  <details markdown="1">
+    <summary>Details</summary>
+    <p align="center"><img width="700" src="/images/BP1.jpg" margin="10px"></p>
+  </details>
 
-<p align="center"><img width="700" src="/images/BP1.jpg" margin="10px"></p>
+* Apr 2019: O-Joun Lee, Jason J. Jung, "Best Paper Award", The 2019 Spring Conference of Korea Institute of Smart Media (KISM) and Society for e-Business Studies (SEBS), Chungju, Korea
+
+* Sep 2017: Jae-Hong Park, O-Joun Lee, Joo-Man Han, Eon-Ji Lee, Jason J. Jung, Luca Carratore, Francesco Piccialli, "Best Paper Award", The 2nd International Workshop in Data Mining on IoT Systems (DaMIS 2017), Lund, Sweden
+
+* Aug 2017: Jason J. Jung, Minsung Hong, O-Joun Lee, Jaehong Park, Chang Choi, "Best Poster Award", The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea
+
+* Nov 2016: Quang Dieu Tran, Dosam Hwang, O.-Joun Lee, Jason J. Jung, "Best Paper Award", The 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea
+
+* Nov 2015: Myeong-Yeon Yi, O-Joun Lee, Jason J. Jung, "Best Paper Award", The 4th EAI International Conference on Context-Aware Systems and Applications (ICCASA 2015), Vung Tau, Vietnam
 
 
 
@@ -105,58 +106,70 @@ This page includes additional research outputs beyond conventional academic publ
 ***
 
 * O-Joun Lee: An Overview of Graph Learning Models in Molecular Structure Analysis. Daegyeong Technology Application Division, [Korea Institute of Industrial Technology (KITECH)](https://eng.kitech.re.kr/main/), Daegu, Korea, 07/2025
-
-<p align="center">
-  <img width="700" data-action="zoom" src="/images/250716.jpg" alt="absolute">
-</p>
+  <details markdown="1">
+    <summary>Photos</summary>
+    <p align="center"><img width="700" data-action="zoom" src="/images/250716.jpg" alt="absolute"></p>
+  </details>
 
 * O-Joun Lee: An Overview of Graph Learning Models in Molecular Structure Analysis. [The 9th IEEE/IEIE International Conference on Consumer Electronics Asia (ICCE-Asia 2024)](https://icce-asia2024.org/2024/), Danang, Vietnam, 11/2024 
-
-<p align="center">
-  <img width="700" data-action="zoom" src="/images/241104.jpg" alt="absolute">
-</p>
+  <details markdown="1">
+    <summary>Photos</summary>
+    <p align="center"><img width="700" data-action="zoom" src="/images/241104.jpg" alt="absolute"></p>
+  </details>
 
 * O-Joun Lee: Molecular Structure Analysis using Graph Neural Networks. [The 2024 Summer Workshop of Korean Institute of Next Generation Computing](https://www.manuscriptlink.com/society/kingpc/event/kingpc2024), Jeju, Korea, 08/2024
-
-<p align="center">
-  <img width="700" data-action="zoom" src="/images/240822.jpg" alt="absolute">
-</p>
+  <details markdown="1">
+    <summary>Photos</summary>
+    <p align="center"><img width="700" data-action="zoom" src="/images/240822.jpg" alt="absolute"></p>
+  </details>
 
 * O-Joun Lee: Analyzing Molecular Structures with Graph Neural Networks. [The 2024 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2024s/pages/special_session.vm), Jeju, Korea, 06/2024
-
-<p align="center">
-  <img width="700" data-action="zoom" src="/images/240626.jpg" alt="absolute">
-  <img width="700" data-action="zoom" src="/images/Talk-IEIE-2024s.jpg" alt="absolute">
-</p>
+  <details markdown="1">
+    <summary>Photos</summary>
+    <p align="center">
+      <img width="700" data-action="zoom" src="/images/240626.jpg" alt="absolute">
+      <img width="700" data-action="zoom" src="/images/Talk-IEIE-2024s.jpg" alt="absolute">
+    </p>
+  </details>
 
 * O-Joun Lee: Knowledge Graph Reasoning and its Applications. [Telecommunications Technology Association (TTA)](https://www.tta.or.kr/eng/index.do), Seongnam, Korea, 09/2023
 
 * O-Joun Lee: Semiconductor Design with Graph Neural Networks. [The 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm), Jeju, Korea, 06/2023
-
-<p align="center">
-  <img width="700" data-action="zoom" src="/images/230629_Presentation.jpg" alt="absolute">
-  <img width="700" data-action="zoom" src="/images/Talk-IEIE-2023s.jpg" alt="absolute">
-</p>
+  <details markdown="1">
+    <summary>Photos</summary>
+    <p align="center">
+      <img width="700" data-action="zoom" src="/images/230629_Presentation.jpg" alt="absolute">
+      <img width="700" data-action="zoom" src="/images/Talk-IEIE-2023s.jpg" alt="absolute">
+    </p>
+  </details>
 
 * O-Joun Lee: Spatio-Temporal Forecasting Models for Renewable Energy. [The 1st International Conference on Intelligence of Things (ICIT 2022)](https://icit2022.humg.edu.vn/), Hanoi, Vietnam, 08/2022
-
-<p align="center">
-  <img width="700" data-action="zoom" src="/images/Talk-ICIT-2022.jpg" alt="absolute">
-</p>
+  <details markdown="1">
+    <summary>Photos</summary>
+    <p align="center">
+      <img width="700" data-action="zoom" src="/images/Talk-ICIT-2022.jpg" alt="absolute">
+    </p>
+  </details>
 
 * O-Joun Lee: Character Network Embedding for Computational Narrative Analytics. [The 2022 Summer Workshop of Korean Institute of Next Generation Computing](https://kingpc.or.kr/), Pyeongchang, Korea, 07/2022
-
-<p align="center">
-  <img width="700" data-action="zoom" src="/images/220715.jpg" alt="absolute">
-</p>
+  <details markdown="1">
+    <summary>Photos</summary>
+    <p align="center">
+      <img width="700" data-action="zoom" src="/images/220715.jpg" alt="absolute">
+    </p>
+  </details>
 
 * O-Joun Lee: Heterogeneous Network Embedding and its Applications. [The 2021 Fall Conference of Korean Institute of Smart Media](https://www.manuscriptlink.com/society/kism/conference/sma2021f/programBook), Gwangju, Korea, 11/2021
 
 * O-Joun Lee: Trends in Interdisciplinary Research and Collaboration Opportunities. Vietnam National University, Hanoi - International School (VNU - IS), Virtual, 09/2021
+  <details markdown="1">
+    <summary>Photos</summary>
+    <p align="center">
+      <img width="700" data-action="zoom" src="/images/Talk-VNUIS.jpg" alt="absolute">
+    </p>
+  </details>
 
-<p align="center">
-  <img width="700" data-action="zoom" src="/images/Talk-VNUIS.jpg" alt="absolute">
-</p>
+
 
 ***
 
@@ -167,6 +180,22 @@ This page includes additional research outputs beyond conventional academic publ
 * O-Joun Lee: Reviewing Ontology Modeling for Abnormal Driving Scenarios, Telecommunications Technology Association (TTA), Seongnam, Korea, 08/2025
 
 * O-Joun Lee: Consulting for Development of a Big Data-Based Sports Science Analysis System for the Korean Para Sports Association, Jinjin System Co., Ltd., Seoul, Korea, 06/2025 -- 06/2026
+
+
+
+***
+
+# Open Datasets
+
+***
+
+* Jooho Lee, Yoewon Yoon, O-Joun Lee: Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak. Figshare 08/2023. DOI:10.6084/m9.figshare.24025491.v1 (Dataset)
+
+* Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Social Network of Characters Appeared in the French Novel Series "La Comédie humaine" and An Interaction Network of Novels in the Series. Figshare 08/2023. DOI:10.6084/m9.figshare.23994078.v1 (Dataset)
+
+* Eun-Soon You, Hyeon-Ju Jeon, O-Joun Lee: A Dynamic Social Network of Characters Appeared in the French Novel "Les Liaisons Dangereuses". Figshare 08/2023. DOI:10.6084/m9.figshare.23993748.v1 (Dataset)
+
+
 
 ***
 
