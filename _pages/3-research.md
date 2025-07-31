@@ -109,9 +109,9 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 * TBA
 
 ***
-## Knowledge Graph Embedding
+## Knowledge Graph Reasoning
 
-### Medical Knowledge Graph Embedding for Disease Diagnosis
+### Medical Knowledge Graph Reasoning for Disease Diagnosis
 {:.no_toc}
 
 * Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. IEEE Access 10/2023; 11: 114238-114249. <br>
@@ -123,7 +123,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/LiteralKG)](https://github.com/NSLab-CUK/LiteralKG)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/LiteralKG)](https://github.com/NSLab-CUK/LiteralKG)
 
-### Medical Knowledge Graph Embedding for Drug Effect Prediction
+### Medical Knowledge Graph Reasoning for Drug Effect Prediction
 {:.no_toc}
 
 * TBA
@@ -155,7 +155,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Context-Aware-Residual-Transformer)](https://github.com/NSLab-CUK/Context-Aware-Residual-Transformer)
 
 ***
-## Spatio-Temporal Graph Neural Networks
+## Weather Forecasting
 
 ### Solar Irradiance Forecasting
 {:.no_toc}
