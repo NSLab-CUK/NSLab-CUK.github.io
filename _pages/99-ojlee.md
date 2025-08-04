@@ -240,15 +240,19 @@ Editorship
 Conference Committee
 ------------
 
-* Poster Session Chair, The 2024 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2024), TBD, Italy, 10/2024.
+* Track Committee Member, The Renewable and Sustainable Energy (RSE) Track at the 40th ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2025), Thessaloniki, Greece, 03/2026.
+* Program Committee Member, The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, 01/2026.
+* Program Committee Member, The 34th ACM International Conference on Information and Knowledge Management (CIKM 2025), Seoul, Korea, 11/2025.
+* Track Committee Member, The Renewable and Sustainable Energy (RSE) Track at the 40th ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2025), Catania, Italy, 03/2025.
+* Poster Session Chair, The 2024 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2024), Pompeii, Italy, 10/2024.
 * Program Committee Chair, The 4th International Conference on Human-centered Artificial Intelligence (Computing4Human 2023), Hanoi, Vietnam, 12/2023.
 * Program Committee Chair, The 3rd International Conference on Human-centered Artificial Intelligence (Computing4Human 2022), Hanoi, Vietnam, 12/2022.
 * Program Committee Chair, The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Danang, Vietnam, 10/2021.
 * Program Committee Member, Artificial Inteligence for Narratives Workshop (AI4Narrative) held in conjunction with the 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020), 07/2020.
 * Committee Member, The 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020), Pohang, Korea, 02/2020.
-* Member of Track Committee, The SFECS track at the 35th ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2020), Brno, Czech Republic, 03/2020.
+* Track Committee Member, The SFECS track at the 35th ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2020), Brno, Czech Republic, 03/2020.
 * Committee Member, The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea, 06/2019.
-* Member of Technical Program Committee, The 8th EAI International Conference on Big Data Technologies and Applications (BDTA 2017), Gwangju, Korea, 11/2017.
+* Program Committee Member, The 8th EAI International Conference on Big Data Technologies and Applications (BDTA 2017), Gwangju, Korea, 11/2017.
 * Committee Member, The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea, 08/2017.
 * Workshop Chair, The 1st International Workshop on Digital Humanity with Big Data (DiHuBiDa 2016), affiliated with the 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea, 11/2016.
 
