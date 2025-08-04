@@ -179,7 +179,7 @@ This page includes additional research outputs beyond conventional academic publ
 
 * O-Joun Lee: Writing a commissioned technical article on adversarial vulnerabilities in object‑recognition models for autonomous driving, Telecommunications Technology Association (TTA), Seongnam, Korea, 08/2025 -- 09/2025
 
-* O-Joun Lee: Defining an ontology schema for abnormal driving scenarios of autonomous vehicles, Telecommunications Technology Association (TTA), Seongnam, Korea, 08/2025 -- 09/2025
+* O-Joun Lee: Writing a commissioned technical article on defining an ontology schema for abnormal driving scenarios of autonomous vehicles, Telecommunications Technology Association (TTA), Seongnam, Korea, 08/2025 -- 09/2025
 
 * O-Joun Lee: Consulting for development of a big data-based sports science analysis system for the Korean Para Sports Association, Jinjin System Co., Ltd., Seoul, Korea, 06/2025 -- 06/2026
 
