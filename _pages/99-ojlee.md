@@ -240,7 +240,7 @@ Editorship
 Conference Committee
 ------------
 
-* Track Committee Member, The Renewable and Sustainable Energy (RSE) Track at the 40th ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2025), Thessaloniki, Greece, 03/2026.
+* Track Committee Member, The Renewable and Sustainable Energy (RSE) Track at the 40th ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2026), Thessaloniki, Greece, 03/2026.
 * Program Committee Member, The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, 01/2026.
 * Program Committee Member, The 34th ACM International Conference on Information and Knowledge Management (CIKM 2025), Seoul, Korea, 11/2025.
 * Track Committee Member, The Renewable and Sustainable Energy (RSE) Track at the 40th ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2025), Catania, Italy, 03/2025.
