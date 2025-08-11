@@ -443,7 +443,7 @@ This page includes only our international publications. For domestic publication
 <div class="scite-badge" data-doi="10.1007/978-3-319-98752-1_7" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Quang Dieu Tran, Dosam Hwang, O.-Joun Lee, Jason J. Jung: A Novel Method for Extracting Dynamic Character Network from Movie. Big Data Technologies and Applications, Edited by Jason J. Jung, Pankoo Kim, 06/2017: pages 48-53; Springer International Publishing., ISBN: 978-3-319-58967-1, DOI:[10.1007/978-3-319-58967-1_6](https://doi.org/10.1007/978-3-319-58967-1_6)
+* Quang Dieu Tran, Dosam Hwang, O-Joun Lee, Jason J. Jung: A Novel Method for Extracting Dynamic Character Network from Movie. Big Data Technologies and Applications, Edited by Jason J. Jung, Pankoo Kim, 06/2017: pages 48-53; Springer International Publishing., ISBN: 978-3-319-58967-1, DOI:[10.1007/978-3-319-58967-1_6](https://doi.org/10.1007/978-3-319-58967-1_6)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-319-58967-1_6" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1007/978-3-319-58967-1_6" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
