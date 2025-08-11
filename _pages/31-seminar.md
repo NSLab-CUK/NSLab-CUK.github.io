@@ -28,26 +28,26 @@ This page is an archive for papers reviewed by members of the Network Science La
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "Knowledge Enhanced Representation Learning for Drug Discovery", AAAI 2024</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/10SogpM7WWmT8f?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>V.T. Hoang, Review on "BioBRIDGE: BRIDGING BIOMEDICAL FOUNDATION MODELS VIA KNOWLEDGE GRAPHS", ICLR 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gbbAFjcci3XdBN?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "On the Trade-off between Over-smoothing and Over-squashing in Deep Graph Neural Networks", CIKM 2023</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/gNYxnTHEGtePzP?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>T.B.T. Do, Review on "Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy", CVPR 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1SNfnFimvAeK1q?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>Thien Nguyen, Review on "Variational Graph Auto-Encoders", arXiv preprint arXiv:1611.07308 2016</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vQ3uDJKs79GZb0?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>Thien Nguyen, Review on "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks", KDD 2019</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/d9RKZQTd1lE1Lv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
-BioBRIDGE: BRIDGING BIOMEDICAL FOUNDATION MODELS VIA KNOWLEDGE GRAPHS
+
 <details markdown="1">
-  <summary>H.W. Kim, Review on "Discrete Curvature Graph Information Bottleneck", AAAI 2025</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/jgshyROlVSiHuz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>H.W. Kim, Review on "Self-Supervised Graph Information Bottleneck for Multiview Molecular Embedding Learning", IEEE Transactions on Artificial Intelligence 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/LRQEVId5vMgmio?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
