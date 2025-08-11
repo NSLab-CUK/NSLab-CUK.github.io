@@ -93,7 +93,7 @@ This page includes additional research outputs beyond conventional academic publ
 
 * Aug 2017: Jason J. Jung, Minsung Hong, O-Joun Lee, Jaehong Park, Chang Choi, "Best Poster Award", The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea
 
-* Nov 2016: Quang Dieu Tran, Dosam Hwang, O.-Joun Lee, Jason J. Jung, "Best Paper Award", The 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea
+* Nov 2016: Quang Dieu Tran, Dosam Hwang, O-Joun Lee, Jason J. Jung, "Best Paper Award", The 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, Korea
 
 * Nov 2015: Myeong-Yeon Yi, O-Joun Lee, Jason J. Jung, "Best Paper Award", The 4th EAI International Conference on Context-Aware Systems and Applications (ICCASA 2015), Vung Tau, Vietnam
 
