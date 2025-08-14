@@ -753,3 +753,40 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/99Ycd8Meucvrtu?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
+
+
+
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // 모든 details 요소를 선택
+  const detailsElements = document.querySelectorAll('details');
+
+  detailsElements.forEach(details => {
+    // 각 details 안의 iframe 찾기
+    const iframe = details.querySelector('iframe');
+    
+    if (iframe) {
+      // 원본 iframe의 src를 data-src 속성으로 저장
+      iframe.setAttribute('data-src', iframe.src);
+      iframe.src = ''; // iframe src 비워 로드 방지
+    }
+
+    // details가 열리고 닫힐 때 처리
+    details.addEventListener('toggle', function() {
+      const iframe = details.querySelector('iframe');
+      if (!iframe) return;
+
+      if (details.open) {
+        // 열렸을 때 원래 주소를 iframe에 설정하여 로딩
+        iframe.src = iframe.getAttribute('data-src');
+      } else {
+        // 닫혔을 때 src를 비워 iframe 로드 취소
+        iframe.src = '';
+      }
+    });
+  });
+});
+</script>
