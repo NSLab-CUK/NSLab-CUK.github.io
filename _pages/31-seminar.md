@@ -24,6 +24,8 @@ This page is an archive for papers reviewed by members of the Network Science La
 ***
 ### 2025
 
+***
+
 #### Aug 18th, 2025
 {:.no_toc}
 
@@ -32,6 +34,8 @@ This page is an archive for papers reviewed by members of the Network Science La
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7LtnlkKJDhvPA?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
+
+***
 
 #### Aug 11th, 2025
 {:.no_toc}
