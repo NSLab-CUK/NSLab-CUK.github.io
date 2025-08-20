@@ -179,6 +179,9 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ### Atmospheric State Estimation
 {:.no_toc}
 
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations between Earth Observations in Global Atmospheric State Estimation by using Adaptive Graph Structure Learning. arXiv preprint 08/2025; arXiv:2508.07659. (Preprint) <br>
+[![arXiv](https://img.shields.io/badge/arXiv-2508.07659-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2508.07659)
+
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. Machine Learning: Science and Technology 10/2024; 5(4): 045036. <br>
 [![DOI](http://img.shields.io/:DOI-10.1088/2632--2153/ad8981-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1088/2632-2153/ad8981)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/CloudNine)
