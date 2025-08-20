@@ -13,6 +13,32 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+#### Fall 2025
+{:.no_toc}
+
+* 54495-01 Advanced Machine Learning (고급 기계학습) - Graduate Course 
+  * Instructor: O-Joun Lee
+
+* [06838-01 Graph Neural Networks](https://ns-cuk.notion.site/06838-Graph-Neural-Networks-Fall-2024-e0b7776e069c4218a3b900c0bbc6210a?pvs=4) (그래프 신경망)
+  * Instructor: O-Joun Lee
+  * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/thanhdo19730)
+  * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/kor)]
+  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2024)
+
+* 54514-01 Study for Doctoral Thesis 2 (박사논문연구 2) - Graduate Course  
+  * Instructor: O-Joun Lee
+
+* 07215-01 Career exploration of Artificial Intelligence 2 (인공지능학과 진로탐색 2) - Joint Lecture
+  * Instructor: Faculty members of Dept. of AI
+
+* 06480-01 and 06481-01 Capstone Design for Artificial Intelligence 1 and 2 (인공지능학과 캡스톤디자인 1 - 2) - Joint Lecture
+  * Instructor: Faculty members of Dept. of AI
+
+* 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (인공지능학과 현장실습 1 - 5) - Joint Lecture
+  * Instructor: Faculty members of Dept. of AI
+
+
+***
 #### Summer 2025
 {:.no_toc}
 
