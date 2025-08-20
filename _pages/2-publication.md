@@ -481,6 +481,12 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations between Earth Observations in Global Atmospheric State Estimation by using Adaptive Graph Structure Learning. arXiv preprint 08/2025; arXiv:2508.07659. (Preprint) DOI:[10.48550/arXiv.2508.07659](https://doi.org/10.48550/arXiv.2508.07659)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2508.07659" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.48550/arXiv.2508.07659" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
+
 * Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention. arXiv preprint 04/2025; arXiv:2504.15075. (Preprint) DOI:[10.48550/arXiv.2504.15075](https://doi.org/10.48550/arXiv.2504.15075)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2504.15075" data-style="small_rectangle"></span>
