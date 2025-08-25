@@ -25,7 +25,40 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2025
 
 ***
+#### Aug 25th, 2025
+{:.no_toc}
 
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Bi-level Contrastive Learning for Knowledge-Enhanced Molecule Representations", AAAI 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/lh7IFY5ZeOHmdp?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval", MM 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ikrhsBVEPEtyBt?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Thien Nguyen, Review on "Simple and Deep Graph Convolutional Networks", ICML 2020</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/C5ms8HIMyrpy5e?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning", ACL 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3KP92J1VFfjlaW?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.H. Cho, Review on "Collaborative Graph Convolutional Networks for Recommender Systems", WWW 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7Hk1KQ4ksClFyN?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Aug 18th, 2025
 {:.no_toc}
 
@@ -36,7 +69,6 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 ***
-
 #### Aug 11th, 2025
 {:.no_toc}
 
@@ -59,7 +91,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>H.W. Kim, Review on "Self-Supervised Graph Information Bottleneck for Multiview Molecular Embedding Learning", IEEE Transactions on Artificial Intelligence, 2024</summary>
+  <summary>H.W. Kim, Review on "Self-Supervised Graph Information Bottleneck for Multiview Molecular Embedding Learning", IEEE Transactions on Artificial Intelligence 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/LRQEVId5vMgmio?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
