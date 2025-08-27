@@ -23,7 +23,7 @@ last_modified_at: 2025-03-31 15:30:00 +0900
 * Van Thuy Hoang, O-Joun Lee: A Survey on Structure-Preserving Graph Transformers. arXiv preprint 01/2024; arXiv:2401.16176. (Preprint) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2401.16176-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2401.16176)
 
-* Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-attention. **IEEE Transactions on Network Science and Engineering** 04/2025. (To Appear)<br>
+* Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-attention. **IEEE Transactions on Network Science and Engineering** 04/2025; 12(5): 3656-3670.<br>
 _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Message Passing Mechanism by Utilizing Community Structures. arXiv preprint 12/2023; arXiv:2312.16788.<br>
 [![DOI](http://img.shields.io/:DOI-10.1109/TNSE.2025.3563697-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/TNSE.2025.3563697)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.15075-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2504.15075)
