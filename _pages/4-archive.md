@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+##### Aug 26th, 2025
+{:.no_toc}
+
+* We attended the inaugural general meeting of the [AI Infrastructure Research Association (AI 인프라 연구조합)](http://aira.kr/).
+
+<p align="center"><img width="700" src="/images/250826.jpg"></p>
+
+***
 ##### Aug 18th, 2025
 {:.no_toc}
 
