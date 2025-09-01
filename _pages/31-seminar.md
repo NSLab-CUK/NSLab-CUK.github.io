@@ -25,7 +25,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2025
 
 ***
-#### Aug 25th, 2025
+#### Sep 01st, 2025
 {:.no_toc}
 
 <details markdown="1">
