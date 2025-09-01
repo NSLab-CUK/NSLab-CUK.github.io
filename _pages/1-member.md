@@ -87,6 +87,19 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="https://github.com/BachThanh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+
+#### Thien Nguyen (Sep 2025 -- Present)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/Thien.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Sep 2025 -- Present: Combined Ms-Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Sep 2004 -- Jun 2009: B.Eng. in Information Technology, [Danang University of Science and Technology](https://dut.udn.vn/EN), Danang City, Vietnam
+* Research Interest: Graph Representation Learning
+* <a href="mailto:osfa19730@catholic.ac.kr"><img src="https://img.shields.io/badge/-petitlotus001@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="https://github.com/BachThanh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
  
 #### Keonvin Park (Apr 2025 -- Present; Visiting Researcher)
 {:.no_toc}
