@@ -13,6 +13,12 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+##### Sep 1st, 2025
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/250901.jpg"></p>
+
+***
 ##### Aug 29th, 2025
 {:.no_toc}
 
