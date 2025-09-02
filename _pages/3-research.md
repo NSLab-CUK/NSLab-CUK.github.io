@@ -355,7 +355,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ***
 ## Research Grants
 
-* “Multi-view Pre-training and Parameter-efficient Tuning for Structure-Preserving Molecular Graph Foundation Models,” supported by the Outstanding Young Scientist Grants (Seeds Grants) through NRF of Korea and funded by MSIT of Korea (Jun 2022 – Feb 2025, 132 Mil KRW) (PI: **O-Joun Lee**)<br>
+* “Multi-view Pre-training and Parameter-efficient Tuning for Structure-Preserving Molecular Graph Foundation Models,” supported by the Outstanding Young Scientist Grants (Seeds Grants) through NRF of Korea and funded by MSIT of Korea (Sep 2025 – Aug 2026, 80 Mil KRW) (PI: **O-Joun Lee**)<br>
 _In Korean --_ 구조 식별력을 갖춘 분자 그래프 파운데이션 모델을 위한 다중 뷰 사전학습 및 파라미터 효율적 튜닝, 한국연구재단(NRF)/**우수신진연구(씨앗연구)**/RS-2025-24523038
 * “Development of Human Intrinsic AI through Unified Semantic Representation of Heterogeneous Multimodal Data,” supported by the Human‑Centric Next‑Generation Challenge‑Type AI Technology Development Program through IITP of Korea and funded by MSIT of Korea (Jul 2025 – Dec 2028, 4,533 Mil KRW) (PI: Sang-Woong Lee; Co-PIs: **O-Joun Lee**, Ick Hyun Um, and Jae-Keun Lee; Co-Is: Okran Jeong and Kang-Min Kim)<br>
 _In Korean --_ 이기종 멀티모달 데이터의 의미 통합 표상 기반 인간지향적 인공지능 개발, 정보통신기획평가원(IITP)/**인간지향적차세대도전형AI기술개발**/RS-2025-25443681
