@@ -130,7 +130,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
-#### 안신육 (Sep 2025 -- Present)
+#### 안신욱 (Sep 2025 -- Present)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/An-Sin-Yuk.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
