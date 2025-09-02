@@ -117,20 +117,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 ### M.Eng. Course
 
-#### [Yanjun Wu](https://nslab-cuk.github.io/member/WYJ) (Aug 2023 -- Present)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/ujO.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Sep 2023 -- Present: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
-* Sep 2019 -- Aug 2023: B.A. in Korean Language and Literature, Jeonju University, Jeonju, Korea
-* Sep 2015 -- Aug 2019: B.P.A. in Public Administration, The Open University of China, Beijing, China
-* Research Interset: NLP Long Text Summary
-* <a href="mailto:wuyanjun@catholic.ac.kr"><img src="https://img.shields.io/badge/-wuyanjun@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
-
-#### 안신욱 (Sep 2025 -- Present)
+#### Xinxu An (Sep 2025 -- Present)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/An-Sin-Yuk.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
@@ -218,7 +205,18 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ### M.Eng.
 {:.no_toc}
 
-* TBA
+#### [Yanjun Wu](https://nslab-cuk.github.io/member/WYJ) (Sep 2023 -- Aug 2025)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/ujO.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Sep 2023 -- Present: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Sep 2019 -- Aug 2023: B.A. in Korean Language and Literature, Jeonju University, Jeonju, Korea
+* Sep 2015 -- Aug 2019: B.P.A. in Public Administration, The Open University of China, Beijing, China
+* Research Interset: NLP Long Text Summary
+* <a href="mailto:wuyanjun@catholic.ac.kr"><img src="https://img.shields.io/badge/-wuyanjun@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
 ### B.Eng.
 {:.no_toc}
