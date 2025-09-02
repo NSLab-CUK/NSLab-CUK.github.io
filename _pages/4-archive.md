@@ -212,6 +212,14 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/250212_Group.jpg"></p>
 
 ***
+##### Feb 7th, 2025
+{:.no_toc}
+
+* We started an industry-academic cooperation project on "Development of GPR Survey Result Analysis System - 2nd Year (GPR 탐사 결과 분석 시스템 연구개발 - 2차년도)," funded by [Movements Inc. (주식회사 무브먼츠)](https://www.movements.kr/) (Mar 2025 -- Nov 2025, 80 Mil KRW).
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.movements.kr/"><img align="center" src="/images/Movements_Logo.png" style="width : 330px; margin : 10px"></a></p>
+
+***
 ### 2024
 
 ***
@@ -331,6 +339,14 @@ toc_label: "Table of Contents"
 * We started a research project on "Literary Research in the Digital Age: Analysis of Literary Works using Deep Learning-based Language Model," supported by the Academic Research Professors Program (PI: Dr. Eun-Soon You) through NRF of Korea and funded by MOE of Korea (Jun 2024 -- May 2025, 20 Mil KRW). 
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.moe.go.kr/"><img align="center" src="/images/MOE_Logo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
+##### May 30th, 2024
+{:.no_toc}
+
+* We started an industry-academic cooperation project on "Development of GPR Survey Result Analysis System - 1st Year (GPR 탐사 결과 분석 시스템 연구개발)," funded by [Movements Inc. (주식회사 무브먼츠)](https://www.movements.kr/) (Jun 2024 -- Oct 2024, 60 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), and their teams.
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.movements.kr/"><img align="center" src="/images/Movements_Logo.png" style="width : 330px; margin : 10px"></a></p>
 
 ***
 ##### May 20th, 2024
@@ -485,14 +501,6 @@ toc_label: "Table of Contents"
 * We started participating in an industry-academic cooperation project on “Development of AI-powered Algorithms to Build Smart Cart System (스마트 카트 구축을 위한 비콘 기반 광학 문자 인식 기술 구현),” funded by [Pixel Inc. (주식회사 픽셀)](http://www.pixel-global.com/) (Jan 2024 -- Dec 2026, 150 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), and their teams.
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.pixel-global.com/"><img align="center" src="/images/Pixel_Logo.png" style="width : 140px; margin : 10px"></a></p>
-
-***
-##### Dec 11th, 2023
-{:.no_toc}
-
-* We started participating in a Scale-up TIPS project on "Development of Underground Burial Analysis Technology and System using Ground Penetrating Radar and Artificial Intelligence (지표투과레이더(GPR)와 인공지능을 활용한 지하 시설물 분석 기술 및 시스템 개발)," led by [Movements Inc. (주식회사 무브먼츠)](https://www.movements.kr/) and funded by [Ministry of SMEs and Startups (MSS)](https://www.mss.go.kr/site/eng/main.do) of Korea (중소벤처기업부) (Jan 2024 -- Dec 2026, 1,140 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), and their teams.
-
-<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.movements.kr/"><img align="center" src="/images/Movements_Logo.png" style="width : 330px; margin : 10px"></a><a href="https://www.mss.go.kr/site/eng/main.do"><img align="center" src="/images/MSS_Logo.jpg" style="width : 120px; margin : 10px"></a></p>
 
 ***
 ##### Dec 10th, 2023
