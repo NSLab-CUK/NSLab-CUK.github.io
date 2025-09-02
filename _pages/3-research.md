@@ -355,41 +355,44 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ***
 ## Research Grants
 
-* “Multi-view Pre-training and Parameter-efficient Tuning for Structure-Preserving Molecular Graph Foundation Models,” supported by the Outstanding Young Scientist Grants (Seeds Grants) through NRF of Korea and funded by MSIT of Korea (Sep 2025 – Aug 2026, 80 Mil KRW) (PI: **O-Joun Lee**)<br>
-_In Korean --_ 구조 식별력을 갖춘 분자 그래프 파운데이션 모델을 위한 다중 뷰 사전학습 및 파라미터 효율적 튜닝, 한국연구재단(NRF)/**우수신진연구(씨앗연구)**/RS-2025-24523038
-* “Development of Human Intrinsic AI through Unified Semantic Representation of Heterogeneous Multimodal Data,” supported by the Human‑Centric Next‑Generation Challenge‑Type AI Technology Development Program through IITP of Korea and funded by MSIT of Korea (Jul 2025 – Dec 2028, 4,533 Mil KRW) (PI: Sang-Woong Lee; Co-PIs: **O-Joun Lee**, Ick Hyun Um, and Jae-Keun Lee; Co-Is: Okran Jeong and Kang-Min Kim)<br>
-_In Korean --_ 이기종 멀티모달 데이터의 의미 통합 표상 기반 인간지향적 인공지능 개발, 정보통신기획평가원(IITP)/**인간지향적차세대도전형AI기술개발**/RS-2025-25443681
-* “Knowledge Graph Construction for Major Companion Animal Diseases,” funded by [Petobio Co., Ltd.](https://www.petobio.com/en) (Jul 2025 – Oct 2025, 15 Mil KRW) (PI: **O-Joun Lee**; Co-I: Kang-Min Kim)<br>
-_In Korean --_ 반려동물 주요질환 지식그래프 구축, [주식회사 페토바이오](https://www.petobio.com/)/산학과제
-* Intramural Research Program funded by The Catholic University of Korea (Mar 2025 – Feb 2026, 7 Mil KRW) (PI: **O-Joun Lee**)
+* “Multi-view Pre-training and Parameter-efficient Tuning for Structure-Preserving Molecular Graph Foundation Models,” supported by the Outstanding Young Scientist Grants (Seeds Grants) through NRF of Korea and funded by MSIT of Korea (Sep 2025 – Aug 2026, 80 Mil KRW) (PI: **O-Joun Lee**)
+  * _In Korean_: 구조 식별력을 갖춘 분자 그래프 파운데이션 모델을 위한 다중 뷰 사전학습 및 파라미터 효율적 튜닝, 한국연구재단(NRF)/**우수신진연구(씨앗연구)**/RS-2025-24523038
+* “Development of Human Intrinsic AI through Unified Semantic Representation of Heterogeneous Multimodal Data,” supported by the Human‑Centric Next‑Generation Challenge‑Type AI Technology Development Program through IITP of Korea and funded by MSIT of Korea (Jul 2025 – Dec 2028, 4,533 Mil KRW) (PI: Sang-Woong Lee; Co-PIs: **O-Joun Lee**, Ick Hyun Um, and Jae-Keun Lee; Co-Is: Okran Jeong and Kang-Min Kim)
+  * _In Korean_: 이기종 멀티모달 데이터의 의미 통합 표상 기반 인간지향적 인공지능 개발, 정보통신기획평가원(IITP)/**인간지향적차세대도전형AI기술개발**/RS-2025-25443681
+* “Knowledge Graph Construction for Major Companion Animal Diseases,” funded by [Petobio Co., Ltd.](https://www.petobio.com/en) (Jul 2025 – Oct 2025, 15 Mil KRW) (PI: **O-Joun Lee**; Co-I: Kang-Min Kim)
+  * _In Korean_: 반려동물 주요질환 지식그래프 구축, [주식회사 페토바이오](https://www.petobio.com/)/산학과제
+* Intramural Research Program funded by The Catholic University of Korea (May 2025 – Apr 2026, 7 Mil KRW) (PI: **O-Joun Lee**)
+* “Development of GPR Survey Result Analysis System - 2nd Year,” funded by [Movements Inc.](https://www.movements.kr/) (Mar 2025 – Nov 2025, 80 Mil KRW) (PI: **O-Joun Lee**)
+  * _In Korean_: GPR 탐사 결과 분석 시스템 연구개발 - 2차년도, [주식회사 무브먼츠](https://www.movements.kr/)/산학과제
 * “Literary Research in the Digital Age: Analysis of Literary Works using Deep Learning-based Language Model,” supported by the Academic Research Professors Program through NRF of Korea and funded by MOE of Korea (Jun 2024 – May 2025, 20 Mil KRW) (PI: Eun-Soon You)
-* “Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products,” supported by NRF of Korea and funded by MOE of Korea (Apr 2024 – Nov 2024, 30 Mil KRW), by cooperating with [Shukran Korea Inc.](https://shukrankorea.com/) (PI: **O-Joun Lee**)<br>
-_In Korean --_ 지식그래프 기반 한국 식품/화장품 글로벌 개인화 추천 솔루션, 한국연구재단(NRF)/LINC 3.0 산학공동기술개발과제-[슈크란코리아](https://shukrankorea.com/)
+  * _In Korean_: 디지털 시대의 문학 연구 : 딥러닝(Deep Learning) 기반의 언어 모델(Language Model)을 활용한 문학 작품 분석/인문사회학술연구교수(B유형)/2024S1A5B5A17037301
+* “Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products,” supported by NRF of Korea and funded by MOE of Korea (Apr 2024 – Nov 2024, 30 Mil KRW), by cooperating with [Shukran Korea Inc.](https://shukrankorea.com/) (PI: **O-Joun Lee**)
+  * _In Korean_: 지식그래프 기반 한국 식품/화장품 글로벌 개인화 추천 솔루션, 한국연구재단(NRF)/LINC 3.0 산학공동기술개발과제-[슈크란코리아](https://shukrankorea.com/)
 * Intramural Research Program funded by The Catholic University of Korea (Mar 2024 – Feb 2025, 7 Mil KRW) (PI: **O-Joun Lee**)
-* “Development of AI-powered Algorithms to Build Smart Cart System,” funded by [Pixel Inc.](https://www.pixel-global.com/Home.html) (Jan 2024 – Dec 2026, 150 Mil KRW) (PI: Keunsoo Ko; Co-Is: **O-Joun Lee**, Kang-Min Kim, and Youjin Shin)<br>
-_In Korean --_ 스마트 카트 구축을 위한 비콘 기반 광학 문자 인식 기술 구현, [주식회사 픽셀](https://www.pixel-global.com/Home.html)/산학과제
-* “Development of Underground Burial Analysis Technology and System using Ground Penetrating Radar and Artificial Intelligence,” led by [Movements Inc.](https://www.movements.kr/) and funded by Ministry of SMEs and Startups (MSS) (Jan 2024 – Dec 2026, 1,140 Mil KRW) (PI: **O-Joun Lee**; Co-Is: Keunsoo Ko, Kang-Min Kim, and Youjin Shin)<br>
-_In Korean --_ GPR 탐사 결과 분석 시스템 연구개발, [주식회사 무브먼츠](https://www.movements.kr/)/산학과제
-* “A study on the application and use of generative AI to support the process of the prosecution,” funded by [Supreme Prosecutors’ Office of the Republic of Korea](https://www.spo.go.kr/site/spo/main.do) (Oct 2023 – Dec 2023, 80 Mil KRW) (PI: Youjin Shin; Co-Is: Kang-Min Kim, **O-Joun Lee**, and Keunsoo Ko)<br>
-_In Korean --_ 생성형 AI의 검찰 사건처리업무 활용방안 연구, [대검찰청](https://www.spo.go.kr/site/spo/main.do)/연구용역
-* “K-Food/Cosmetics safety evaluation and recommendation solution based on cross-culture knowledge graph,” supported by NRF of Korea and funded by MOE of Korea (Jul 2023 – Dec 2023, 60 Mil KRW), by cooperating with [Shukran Korea Inc.](https://shukrankorea.com/) (PI: **O-Joun Lee**)<br>
-_In Korean --_ 크로스컬처 지식그래프 기반 한국 식품/화장품 안전성 평가 및 추천 솔루션, 한국연구재단(NRF)/LINC 3.0 산학공동기술개발과제-[슈크란코리아](https://shukrankorea.com/)
-* “Analysis of Redundancies and Conflicts in Construction Standards,” funded by [Korea Institute of Civil Engineering and Building Technology (KICT)](https://www.kict.re.kr/) (Jun 2023 – Nov 2023, 90 Mil KRW) (PI: Kang-Min Kim; Co-Is: **O-Joun Lee** and Youjin Shin)<br>
-_In Korean --_ 건설기준 중복.상충부 분석 용역, [한국건설기술연구원](https://www.kict.re.kr/)/연구용역
+* “Development of AI-powered Algorithms to Build Smart Cart System,” funded by [Pixel Inc.](https://www.pixel-global.com/Home.html) (Jan 2024 – Dec 2026, 150 Mil KRW) (PI: Keunsoo Ko; Co-Is: **O-Joun Lee**, Kang-Min Kim, and Youjin Shin)
+  * _In Korean_: 스마트 카트 구축을 위한 비콘 기반 광학 문자 인식 기술 구현, [주식회사 픽셀](https://www.pixel-global.com/Home.html)/산학과제
+* “Development of GPR Survey Result Analysis System - 1st Year,” funded by [Movements Inc.](https://www.movements.kr/) (Jun 2024 – Oct 2024, 60 Mil KRW) (PI: **O-Joun Lee**; Co-Is: Keunsoo Ko, Kang-Min Kim, and Youjin Shin)
+  * _In Korean_: GPR 탐사 결과 분석 시스템 연구개발, [주식회사 무브먼츠](https://www.movements.kr/)/산학과제
+* “A study on the application and use of generative AI to support the process of the prosecution,” funded by [Supreme Prosecutors’ Office of the Republic of Korea](https://www.spo.go.kr/site/spo/main.do) (Oct 2023 – Dec 2023, 80 Mil KRW) (PI: Youjin Shin; Co-Is: Kang-Min Kim, **O-Joun Lee**, and Keunsoo Ko)
+  * _In Korean_: 생성형 AI의 검찰 사건처리업무 활용방안 연구, [대검찰청](https://www.spo.go.kr/site/spo/main.do)/연구용역
+* “K-Food/Cosmetics safety evaluation and recommendation solution based on cross-culture knowledge graph,” supported by NRF of Korea and funded by MOE of Korea (Jul 2023 – Dec 2023, 60 Mil KRW), by cooperating with [Shukran Korea Inc.](https://shukrankorea.com/) (PI: **O-Joun Lee**)
+  * _In Korean_: 크로스컬처 지식그래프 기반 한국 식품/화장품 안전성 평가 및 추천 솔루션, 한국연구재단(NRF)/LINC 3.0 산학공동기술개발과제-[슈크란코리아](https://shukrankorea.com/)
+* “Analysis of Redundancies and Conflicts in Construction Standards,” funded by [Korea Institute of Civil Engineering and Building Technology (KICT)](https://www.kict.re.kr/) (Jun 2023 – Nov 2023, 90 Mil KRW) (PI: Kang-Min Kim; Co-Is: **O-Joun Lee** and Youjin Shin)
+  * _In Korean_: 건설기준 중복.상충부 분석 용역, [한국건설기술연구원](https://www.kict.re.kr/)/연구용역
 * Intramural Research Program funded by The Catholic University of Korea (Mar 2023 – Feb 2024, 7 Mil KRW) (PI: **O-Joun Lee**)
-* “Organizing Korea-EU Research Group for (Semi-) Automated Diagnostics Support System based on Medical Knowledge Graph Mining,” supported by the Korea-EU Cooperation Promotion Program through NRF of Korea and funded by MSIT of Korea (Oct 2022 – Sep 2023, 25 Mil KRW) (PI: **O-Joun Lee**; Co-Is: Chang Choi, Hoon Ko, and Kang-Min Kim)<br>
-_In Korean --_ 의료 지식그래프 마이닝 기반 진단보조시스템 연구를 위한 한-EU 연구그룹 구성, 한국연구재단(NRF)/**한-EU 협력진흥사업**/2022K1A3A1A79089461
+* “Organizing Korea-EU Research Group for (Semi-) Automated Diagnostics Support System based on Medical Knowledge Graph Mining,” supported by the Korea-EU Cooperation Promotion Program through NRF of Korea and funded by MSIT of Korea (Oct 2022 – Sep 2023, 25 Mil KRW) (PI: **O-Joun Lee**; Co-Is: Chang Choi, Hoon Ko, and Kang-Min Kim)
+  * _In Korean_: 의료 지식그래프 마이닝 기반 진단보조시스템 연구를 위한 한-EU 연구그룹 구성, 한국연구재단(NRF)/**한-EU 협력진흥사업**/2022K1A3A1A79089461
 * Intramural Research Program funded by The Catholic University of Korea (Sep 2022 – Aug 2023, 7 Mil KRW) (PI: **O-Joun Lee**)
-* “Conversational Interface and Menu Recommendation System for Robot Cafe,” funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Aug 2022 – Nov 2022, 30 Mil KRW) (PI: **O-Joun Lee**; Co-I: Kang-Min Kim)<br>
-_In Korean --_ 플레토 로봇카페 키오스크용 대화형 인터페이스 및 메뉴 추천 시스템, [오더퀸 주식회사](http://www.orderqueen.co.kr/)/산학과제
-* “Multi-modal Transformer Model for Self-supervised Representation Learning of Dynamic Heterogeneous Networks,” supported by the Basic Science Research Program through NRF of Korea and funded by MSIT of Korea (Jun 2022 – Feb 2025, 132 Mil KRW) (PI: **O-Joun Lee**)<br>
-_In Korean --_ 동적 이종 네트워크의 자기지도 표현학습을 위한 Multi-modal 트랜스포머 모델 개발, 한국연구재단(NRF)/**기본연구지원사업**/2022R1F1A1065516
-* “Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors,” supported by the Next-generation Intelligence-Type Semiconductor Development Program through NRF of Korea and funded by MSIT of Korea (Apr 2022 – Dec 2024, 550 Mil KRW) (PI: Sungyeop Jung; Co-I: **O-Joun Lee**)<br>
-_In Korean --_ 인공지능 반도체용 ReRAM crossbar array(CBA) 회로 설계 및 최적화를 위한 기계학습 기반 멀티 스케일 시뮬레이션 플랫폼 개발, 한국연구재단(NRF)/**차세대지능형반도체기술개발사업**/2022M3F3A2A01085531
-* “Development of Veterinary Information Services based on Chatbot,” funded by [IntoCNS Co., Ltd.](https://www.intocns.com/) (Feb 2022 – Oct 2022, 150 Mil KRW) (PI: Kang-Min Kim; Co-Is: **O-Joun Lee**, Mansu Kim, and Donghwa Jeong)<br>
-_In Korean --_ 웨어러블 디바이스를 활용한 반려동물 행동 패턴 및 질병 진단 예측 모델 개발과 챗봇 기반 동물의학정보 제공 솔루션 개발, [주식회사 인투씨엔에스](https://www.intocns.com/)/산학과제
-* “Chatbot-based Kiosk Interface and Menu Recommendation System,” funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 – Apr 2022, 20 Mil KRW) (PI: Kang-Min Kim; Co-I: **O-Joun Lee**)<br>
-_In Korean --_ 챗봇 기반 장애인용 키오스크 인터페이스 및 메뉴 추천 시스템, [오더퀸 주식회사](http://www.orderqueen.co.kr/)/산학과제
+* “Conversational Interface and Menu Recommendation System for Robot Cafe,” funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Aug 2022 – Nov 2022, 30 Mil KRW) (PI: **O-Joun Lee**; Co-I: Kang-Min Kim)
+  * _In Korean_: 플레토 로봇카페 키오스크용 대화형 인터페이스 및 메뉴 추천 시스템, [오더퀸 주식회사](http://www.orderqueen.co.kr/)/산학과제
+* “Multi-modal Transformer Model for Self-supervised Representation Learning of Dynamic Heterogeneous Networks,” supported by the Basic Science Research Program through NRF of Korea and funded by MSIT of Korea (Jun 2022 – Feb 2025, 132 Mil KRW) (PI: **O-Joun Lee**)
+  * _In Korean_: 동적 이종 네트워크의 자기지도 표현학습을 위한 Multi-modal 트랜스포머 모델 개발, 한국연구재단(NRF)/**기본연구지원사업**/2022R1F1A1065516
+* “Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors,” supported by the Next-generation Intelligence-Type Semiconductor Development Program through NRF of Korea and funded by MSIT of Korea (Apr 2022 – Dec 2024, 550 Mil KRW) (PI: Sungyeop Jung; Co-I: **O-Joun Lee**)
+  * _In Korean_: 인공지능 반도체용 ReRAM crossbar array(CBA) 회로 설계 및 최적화를 위한 기계학습 기반 멀티 스케일 시뮬레이션 플랫폼 개발, 한국연구재단(NRF)/**차세대지능형반도체기술개발사업**/2022M3F3A2A01085531
+* “Development of Veterinary Information Services based on Chatbot,” funded by [IntoCNS Co., Ltd.](https://www.intocns.com/) (Feb 2022 – Oct 2022, 150 Mil KRW) (PI: Kang-Min Kim; Co-Is: **O-Joun Lee**, Mansu Kim, and Donghwa Jeong)
+  * _In Korean_: 웨어러블 디바이스를 활용한 반려동물 행동 패턴 및 질병 진단 예측 모델 개발과 챗봇 기반 동물의학정보 제공 솔루션 개발, [주식회사 인투씨엔에스](https://www.intocns.com/)/산학과제
+* “Chatbot-based Kiosk Interface and Menu Recommendation System,” funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 – Apr 2022, 20 Mil KRW) (PI: Kang-Min Kim; Co-I: **O-Joun Lee**)
+  * _In Korean_: 챗봇 기반 장애인용 키오스크 인터페이스 및 메뉴 추천 시스템, [오더퀸 주식회사](http://www.orderqueen.co.kr/)/산학과제
 * Intramural Research Program funded by The Catholic University of Korea (Sep 2021 – Aug 2022, 7 Mil KRW) (PI: **O-Joun Lee**)
 * Intramural Research Program funded by POSTECH (Nov 2020 – Sep 2021, 50 Mil KRW) (PI: **O-Joun Lee**)
 * Intramural Research Program funded by RIST (Jan 2020 – Jan 2021, 224 Mil KRW) (PI: Ho-Keun Song; Co-Is: Ki Heung Kim, Choong-Hyong Lee, Jintaek Kim, Joon-Yeop Kwon, Yeongdeog Kim, Kwang-Seok Han, Sang-Joon Park, **O-Joun Lee**)
