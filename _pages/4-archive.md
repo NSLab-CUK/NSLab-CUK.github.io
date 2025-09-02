@@ -26,6 +26,14 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/250829_2.jpg"></p>
 
 ***
+##### Aug 27th, 2025
+{:.no_toc}
+
+* We started a research project on "Multi-view Pre-training and Parameter-efficient Tuning for Structure-Preserving Molecular Graph Foundation Models (구조 식별력을 갖춘 분자 그래프 파운데이션 모델을 위한 다중 뷰 사전학습 및 파라미터 효율적 튜닝)," supported by the Outstanding Young Scientist Grants (Seeds Grants) (우수신진연구(씨앗연구)) through NRF of Korea (한국연구재단) and funded by MSIT of Korea (과학기술정보통신부) (Sep 2025 -- Aug 2026, 80 Mil KRW). 
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
+
+***
 ##### Aug 26th, 2025
 {:.no_toc}
 
