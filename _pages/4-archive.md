@@ -51,7 +51,7 @@ toc_label: "Table of Contents"
 ##### Aug 14th, 2025
 {:.no_toc}
 
-* A research contribution from NS Lab@CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=263055) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
+* A research contribution from NS Lab @ CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=263055) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
 
 <p align="center"><img width="700" src="/images/250814.jpg"></p>
 
@@ -101,6 +101,12 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/250612_2.jpg"></p>
 
 ***
+##### Jun 7th, 2025
+{:.no_toc}
+
+* Thien Nguyen has joined NS Lab @ CUK as a Ph.D. course student.
+
+***
 ##### May 27th, 2025
 {:.no_toc}
 
@@ -121,7 +127,7 @@ toc_label: "Table of Contents"
 ##### May 7th, 2025
 {:.no_toc}
 
-* A research contribution from NS Lab@CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=260298) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
+* A research contribution from NS Lab @ CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=260298) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
 
 <p align="center"><img width="700" src="/images/250507.png"></p>
 
@@ -199,7 +205,7 @@ toc_label: "Table of Contents"
 ##### Feb 17th, 2025
 {:.no_toc}
 
-* A research contribution from NS Lab@CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=258005) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
+* A research contribution from NS Lab @ CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=258005) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
 
 <p align="center"><img width="700" src="/images/250217.png"></p>
 
@@ -245,7 +251,7 @@ toc_label: "Table of Contents"
 ##### Nov 11th, 2024
 {:.no_toc}
 
-* A research contribution from NS Lab@CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=250554&article.offset=0&articleLimit=16) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
+* A research contribution from NS Lab @ CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=250554&article.offset=0&articleLimit=16) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
 
 <p align="center"><img width="700" src="/images/241111.png"></p>
 
@@ -281,7 +287,7 @@ toc_label: "Table of Contents"
 ##### Sep 3rd, 2024 -- Nov 26th, 2024
 {:.no_toc}
 
-* NS Lab@CUK organizes [the 2024 Fall CUK Artificial Intelligence Seminar Series (2024년 가을 가톨릭대학교 인공지능 세미나)](https://nslab-cuk.github.io/2024/08/24/Seminar/) with the Department of AI. This seminar series consists of 11 invited talks given by experts from both the corporate world and research institutions and is scheduled to take place over a period of 13 weeks, from September 3rd, 2024, to November 26th, 2024. 
+* NS Lab @ CUK organizes [the 2024 Fall CUK Artificial Intelligence Seminar Series (2024년 가을 가톨릭대학교 인공지능 세미나)](https://nslab-cuk.github.io/2024/08/24/Seminar/) with the Department of AI. This seminar series consists of 11 invited talks given by experts from both the corporate world and research institutions and is scheduled to take place over a period of 13 weeks, from September 3rd, 2024, to November 26th, 2024. 
 
 <p align="center">
  <img width="700" src="/images/2024-2-Seminar-Poster-1.webp">
@@ -304,7 +310,7 @@ toc_label: "Table of Contents"
 ##### Jul 30th, 2024
 {:.no_toc}
 
-* A research contribution from NS Lab@CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=217407&article.offset=0&articleLimit=16) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
+* A research contribution from NS Lab @ CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=217407&article.offset=0&articleLimit=16) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
 
 <p align="center"><img width="700" src="/images/240730.png"></p>
 
@@ -312,7 +318,7 @@ toc_label: "Table of Contents"
 ##### Jul 17th, 2024 -- Jul 31st, 2024
 {:.no_toc}
 
-* NS Lab@CUK organizes [the 2nd NS-CUK Summer School on Digital Humanities (NS-CUK DH 2024)](https://nslab-cuk.github.io/2024/05/21/SS/) and [the 2nd NS-CUK Summer School on Technical Writing (NS-CUK TW 2024)](https://nslab-cuk.github.io/2024/05/20/SS/). Each of these programs consists of 11 lectures presented by Dr. Eun-Soon You and is scheduled to take place over a period of three weeks, from July 17th, 2024, to July 31st, 2024.
+* NS Lab @ CUK organizes [the 2nd NS-CUK Summer School on Digital Humanities (NS-CUK DH 2024)](https://nslab-cuk.github.io/2024/05/21/SS/) and [the 2nd NS-CUK Summer School on Technical Writing (NS-CUK TW 2024)](https://nslab-cuk.github.io/2024/05/20/SS/). Each of these programs consists of 11 lectures presented by Dr. Eun-Soon You and is scheduled to take place over a period of three weeks, from July 17th, 2024, to July 31st, 2024.
 
 <p align="center"><img width="700" src="/images/SummerSchool2024_Poster.webp"></p>
 
@@ -406,7 +412,7 @@ toc_label: "Table of Contents"
 ##### Mar 12th, 2024 -- Jun 4th, 2024
 {:.no_toc}
 
-* NS Lab@CUK organizes [the 2024 Spring CUK Artificial Intelligence Seminar Series (2024년 봄 가톨릭대학교 인공지능 세미나)](https://nslab-cuk.github.io/2024/02/22/Seminar/) with the Department of AI. This seminar series consists of 12 invited talks given by experts from both the corporate world and research institutions and is scheduled to take place over a period of 13 weeks, from March 12th, 2024, to June 4th, 2024. 
+* NS Lab @ CUK organizes [the 2024 Spring CUK Artificial Intelligence Seminar Series (2024년 봄 가톨릭대학교 인공지능 세미나)](https://nslab-cuk.github.io/2024/02/22/Seminar/) with the Department of AI. This seminar series consists of 12 invited talks given by experts from both the corporate world and research institutions and is scheduled to take place over a period of 13 weeks, from March 12th, 2024, to June 4th, 2024. 
 
 <p align="center"><img width="700" src="/images/2024-1-Seminar-Poster.webp"></p>
 
@@ -430,7 +436,7 @@ toc_label: "Table of Contents"
 ##### Feb 27th, 2024
 {:.no_toc}
 
-* A research contribution from NS Lab@CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=147912&article.offset=0&articleLimit=16) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
+* A research contribution from NS Lab @ CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=147912&article.offset=0&articleLimit=16) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
 
 <p align="center"><img width="700" src="/images/240227.png"></p>
 
@@ -472,7 +478,7 @@ toc_label: "Table of Contents"
 ##### Dec 18th, 2023 -- Dec 29th, 2023
 {:.no_toc}
 
-* NS Lab@CUK organizes [the 1st NS-CUK Winter School on Digital Humanities](https://nslab-cuk.github.io/2023/11/22/WS/). This program consists of 9 lectures presented by Dr. Eun-Soon You (유은순 박사), and is scheduled to take place over a period of two weeks, from December 18th, 2023, to December 29th, 2023.
+* NS Lab @ CUK organizes [the 1st NS-CUK Winter School on Digital Humanities](https://nslab-cuk.github.io/2023/11/22/WS/). This program consists of 9 lectures presented by Dr. Eun-Soon You (유은순 박사), and is scheduled to take place over a period of two weeks, from December 18th, 2023, to December 29th, 2023.
 
 <p align="center"><img width="700" src="/images/240111_1.jpg"></p>
 
@@ -482,7 +488,7 @@ toc_label: "Table of Contents"
 ##### Dec 18th, 2023 -- Dec 29th, 2023
 {:.no_toc}
 
-* NS Lab@CUK organizes [the 2nd NS-CUK Winter School on Ethics of AI and Robots](https://nslab-cuk.github.io/2023/11/21/WS/). This program consists of 9 lectures presented by Dr. Eun-Soon You (유은순 박사), and is scheduled to take place over a period of two weeks, from December 18th, 2023, to December 29th, 2023.
+* NS Lab @ CUK organizes [the 2nd NS-CUK Winter School on Ethics of AI and Robots](https://nslab-cuk.github.io/2023/11/21/WS/). This program consists of 9 lectures presented by Dr. Eun-Soon You (유은순 박사), and is scheduled to take place over a period of two weeks, from December 18th, 2023, to December 29th, 2023.
 
 <p align="center"><img width="700" src="/images/240111_2.jpg"></p>
 
@@ -492,7 +498,7 @@ toc_label: "Table of Contents"
 ##### Dec 19th, 2023
 {:.no_toc}
 
-* [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) has joined NS Lab@CUK as a Ph.D. course student. 
+* [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) has joined NS Lab @ CUK as a Ph.D. course student. 
 
 ***
 ##### Dec 18th, 2023
@@ -585,7 +591,7 @@ toc_label: "Table of Contents"
 ##### Aug 29th, 2023 -- Dec 5th, 2023
 {:.no_toc}
 
-* NS Lab@CUK organizes [the 2023 Fall CUK Artificial Intelligence Seminar Series (2023년 가을 가톨릭대학교 인공지능 세미나)](https://nslab-cuk.github.io/2023/08/06/Seminar/) with the Department of AI. This seminar series consists of 13 invited talks given by experts from both the corporate world and research institutions and is scheduled to take place over a period of 15 weeks, from August 29th, 2023, to December 5th, 2023. 
+* NS Lab @ CUK organizes [the 2023 Fall CUK Artificial Intelligence Seminar Series (2023년 가을 가톨릭대학교 인공지능 세미나)](https://nslab-cuk.github.io/2023/08/06/Seminar/) with the Department of AI. This seminar series consists of 13 invited talks given by experts from both the corporate world and research institutions and is scheduled to take place over a period of 15 weeks, from August 29th, 2023, to December 5th, 2023. 
 
 <p align="center"><img width="700" src="/images/230906.jpg"></p>
 
@@ -599,7 +605,7 @@ toc_label: "Table of Contents"
 ##### Aug 22nd, 2023
 {:.no_toc}
 
-* NS Lab@CUK and the [Advanced Institute of Convergence Technology (AICT; 차세대융합기술연구원)](https://aict.snu.ac.kr/eng/) have successfully organized a joint seminar ([The 2023 CUK-AICT Joint Seminar on Artificial Intelligence; 2023년 가톨릭대학교-차세대융합기술연구원 공동 인공지능 세미나](https://nslab-cuk.github.io/2023/08/08/Seminar/)) focusing on various application areas of artificial intelligence.
+* NS Lab @ CUK and the [Advanced Institute of Convergence Technology (AICT; 차세대융합기술연구원)](https://aict.snu.ac.kr/eng/) have successfully organized a joint seminar ([The 2023 CUK-AICT Joint Seminar on Artificial Intelligence; 2023년 가톨릭대학교-차세대융합기술연구원 공동 인공지능 세미나](https://nslab-cuk.github.io/2023/08/08/Seminar/)) focusing on various application areas of artificial intelligence.
 
 <p align="center"><img width="700" src="/images/230822.jpg"></p>
 
@@ -625,7 +631,7 @@ toc_label: "Table of Contents"
 ##### Aug 1st, 2023 -- Aug 31st, 2023
 {:.no_toc}
 
-* NS Lab@CUK organizes [the 1st NS-CUK Summer School on eXtended Reality (NS-CUK XR 2023)](https://nslab-cuk.github.io/2023/07/03/SS/). This program consists of 9 lectures presented by Yea Som Lee and is scheduled to take place over a period of five weeks, from August 1st, 2023, to August 31st, 2023.
+* NS Lab @ CUK organizes [the 1st NS-CUK Summer School on eXtended Reality (NS-CUK XR 2023)](https://nslab-cuk.github.io/2023/07/03/SS/). This program consists of 9 lectures presented by Yea Som Lee and is scheduled to take place over a period of five weeks, from August 1st, 2023, to August 31st, 2023.
 
 <p align="center"><img width="700" src="/images/230801.jpg"></p>
 
@@ -635,7 +641,7 @@ toc_label: "Table of Contents"
 ##### Jul 31st, 2023 -- Aug 21st, 2023
 {:.no_toc}
 
-* NS Lab@CUK organizes [the 1st NS-CUK Summer School on Technical Writing (NS-CUK TW 2023)](https://nslab-cuk.github.io/2023/05/25/SS/). This program consists of 10 lectures presented by Dr. Eun-Soon You and is scheduled to take place over a period of five weeks, from July 31st, 2023, to August 21st, 2023.
+* NS Lab @ CUK organizes [the 1st NS-CUK Summer School on Technical Writing (NS-CUK TW 2023)](https://nslab-cuk.github.io/2023/05/25/SS/). This program consists of 10 lectures presented by Dr. Eun-Soon You and is scheduled to take place over a period of five weeks, from July 31st, 2023, to August 21st, 2023.
 
 <p align="center"><img width="700" src="/images/230731.jpg"></p>
 
@@ -672,7 +678,7 @@ toc_label: "Table of Contents"
 ##### Jul 3rd, 2023 -- Jul 31st, 2023
 {:.no_toc}
 
-* NS Lab@CUK organizes [the 1st NS-CUK Summer School on Deep Learning with PyTorch (NS-CUK DL 2023)](https://nslab-cuk.github.io/2023/05/31/SS/). This program consists of 5 lectures presented by Namgyu Jung and is scheduled to take place over a period of five weeks, from July 3rd, 2023, to July 31st, 2023.
+* NS Lab @ CUK organizes [the 1st NS-CUK Summer School on Deep Learning with PyTorch (NS-CUK DL 2023)](https://nslab-cuk.github.io/2023/05/31/SS/). This program consists of 5 lectures presented by Namgyu Jung and is scheduled to take place over a period of five weeks, from July 3rd, 2023, to July 31st, 2023.
 
 <p align="center"><img width="700" src="/images/230703.jpg"></p>
 
@@ -700,7 +706,7 @@ toc_label: "Table of Contents"
 ##### Jun 27th, 2023 -- Jul 27th, 2023
 {:.no_toc}
 
-* NS Lab@CUK organizes [the 1st NS-CUK Summer School on Digital Humanities (NS-CUK DH 2023)](https://nslab-cuk.github.io/2023/05/24/SS/). This program consists of 10 lectures presented by Dr. Eun-Soon You and is scheduled to take place over a period of five weeks, from June 27th, 2023, to July 27th, 2023.
+* NS Lab @ CUK organizes [the 1st NS-CUK Summer School on Digital Humanities (NS-CUK DH 2023)](https://nslab-cuk.github.io/2023/05/24/SS/). This program consists of 10 lectures presented by Dr. Eun-Soon You and is scheduled to take place over a period of five weeks, from June 27th, 2023, to July 27th, 2023.
 
 <p align="center"><img width="700" src="/images/230627.jpg"></p>
 
@@ -753,7 +759,7 @@ toc_label: "Table of Contents"
 ##### Apr 24th, 2023
 {:.no_toc}
 
-* NS Lab@CUK released a novel graph representation learning framework, [Connector](https://github.com/NSLab-CUK/Connector), which is developed in Python using the PyTorch library. Connector Ver. 0.5 is a test release that will be further developed to enable researchers from different fields to apply graph representation learning models to their research. Connector is available at:
+* NS Lab @ CUK released a novel graph representation learning framework, [Connector](https://github.com/NSLab-CUK/Connector), which is developed in Python using the PyTorch library. Connector Ver. 0.5 is a test release that will be further developed to enable researchers from different fields to apply graph representation learning models to their research. Connector is available at:
   * [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Connector)
   * [![arXiv](https://img.shields.io/badge/arXiv-2304.13195-b31b1b?style=flat-square)](https://arxiv.org/abs/2304.13195)
 
@@ -827,7 +833,7 @@ toc_label: "Table of Contents"
 ##### Jan 3rd, 2023
 {:.no_toc}
 
-* [AIM (Artificial Intelligence Master)](https://cuk-aim.github.io/), a student-run academic society affiliated with the Department of AI at CUK, has been founded as a sister society of NS Lab@CUK. :tada: :tada:
+* [AIM (Artificial Intelligence Master)](https://cuk-aim.github.io/), a student-run academic society affiliated with the Department of AI at CUK, has been founded as a sister society of NS Lab @ CUK. :tada: :tada:
   * President: [Se Eun Cho](https://nslab-cuk.github.io/member/secho)
   * Vice-President: [Ho Beom Kim](https://nslab-cuk.github.io/member/hbkim)
 
@@ -848,7 +854,7 @@ toc_label: "Table of Contents"
 ##### Dec 19th, 2022 -- Jan 27th, 2023
 {:.no_toc}
 
-* NS Lab@CUK organizes [the 1st NS-CUK Winter School on Ethics of AI and Robots (AI Ethics 2022)](https://nslab-cuk.github.io/2022/12/05/WS/), which consists of 18 lectures given by Dr. Eun-Soon You.  
+* NS Lab @ CUK organizes [the 1st NS-CUK Winter School on Ethics of AI and Robots (AI Ethics 2022)](https://nslab-cuk.github.io/2022/12/05/WS/), which consists of 18 lectures given by Dr. Eun-Soon You.  
 
 <p align="center"><img width="700" src="/images/WS2022.jpg"></p>
 
@@ -927,7 +933,7 @@ toc_label: "Table of Contents"
 ##### Aug 29th, 2022
 {:.no_toc}
 
-* [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) has joined NS Lab@CUK as a Ph.D. course student. 
+* [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) has joined NS Lab @ CUK as a Ph.D. course student. 
 
 <p align="center"><img width="700" height="700" src="/images/220908_1.jpg"></p>
 
