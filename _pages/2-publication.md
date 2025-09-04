@@ -294,140 +294,142 @@ This page includes only our international publications. For domestic publication
 
 ***
 
-* Minsun Cho, Jinwoo Jeong, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. The 247th Electrochemical Society (ECS) Meeting, Montreal, Canada; 05/2025. DOI:[10.1149/MA2025-01331662mtgabs](https://doi.org/10.1149/MA2025-01331662mtgabs)
+* Minsun Cho, Jinwoo Jeong, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. Proceedings of the 247th Electrochemical Society (ECS) Meeting, Montreal, Canada; 05/2025. DOI:[10.1149/MA2025-01331662mtgabs](https://doi.org/10.1149/MA2025-01331662mtgabs)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1149/MA2025-01331662mtgabs" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1149/MA2025-01331662mtgabs" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. The 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA, USA; 02/2025. DOI:[10.1609/aaai.v39i16.33891](https://doi.org/10.1609/aaai.v39i16.33891)
+* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA, USA; 02/2025. DOI:[10.1609/aaai.v39i16.33891](https://doi.org/10.1609/aaai.v39i16.33891)
 [![Link](https://img.shields.io/badge/AAAI'25-0C2E86?style=flat-square)](https://aaai.org/aaai-conference/)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1609/aaai.v39i16.33891" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1609/aaai.v39i16.33891" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Van Thuy Hoang, Ho-Chan Yang, Ju-Hee Shim, O-Joun Lee: Halal Cosmetic Recommendation based on Knowledge Graph Representation Learning. The 10th International Conference on Next Generation Computing (ICNGC 2024), Angeles City, Philippines; 11/2024.
+* Van Thuy Hoang, Ho-Chan Yang, Ju-Hee Shim, O-Joun Lee: Halal Cosmetic Recommendation based on Knowledge Graph Representation Learning. Proceedings of the 10th International Conference on Next Generation Computing (ICNGC 2024), Angeles City, Philippines; 11/2024.
 
-* Van Thuy Hoang, O-Joun Lee: An Overview of Pre-trained Graph Models for Molecular Structure Analysis. The 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024. DOI:[10.1109/ICCE-Asia63397.2024.10773928](https://doi.org/10.1109/ICCE-Asia63397.2024.10773928)
+* Van Thuy Hoang, O-Joun Lee: An Overview of Pre-trained Graph Models for Molecular Structure Analysis. Proceedings of the 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024. DOI:[10.1109/ICCE-Asia63397.2024.10773928](https://doi.org/10.1109/ICCE-Asia63397.2024.10773928)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ICCE-Asia63397.2024.10773928" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1109/ICCE-Asia63397.2024.10773928" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Minsun Cho, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Transfer Learning for Semiconductor Device Simulation. The 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024.
+* Minsun Cho, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Transfer Learning for Semiconductor Device Simulation. Proceedings of the 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024.
 
-* Minsun Cho, Jinwoo Jung, Taeheon Lee, Wolfgang Goes, Ahmed Nejim, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. [The 2024 Wiley Forum Fall Meeting](https://www.wileyforum2024.com/), Seoul, Korea; 10/2024.
+* Minsun Cho, Jinwoo Jung, Taeheon Lee, Wolfgang Goes, Ahmed Nejim, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. [Proceedings of the 2024 Wiley Forum Fall Meeting](https://www.wileyforum2024.com/), Seoul, Korea; 10/2024.
 
-* Luong Vuong Nguyen, Quoc-Trinh Vo, Cao Vu Bui, Thi-Thu-Hong Phan, O-Joun Lee: Knowledge Graph-based Recommender Systems: A Case Study on Movie Domain. The 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea; 10/2024.
+* Luong Vuong Nguyen, Quoc-Trinh Vo, Cao Vu Bui, Thi-Thu-Hong Phan, O-Joun Lee: Knowledge Graph-based Recommender Systems: A Case Study on Movie Domain. Proceedings of the 15th International Conference on ICT Convergence (ICTC 2024), Jeju, Korea; 10/2024. DOI:[10.1109/ICTC62082.2024.10827472](https://doi.org/10.1109/ICTC62082.2024.10827472)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ICTC62082.2024.10827472" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.1109/ICTC62082.2024.10827472" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
 
-* Huu-Tuong Ho, Minh-Tien Pham, Quang-Duong Tran, Quang-Huy Pham, Quang Dieu Tran, Nguyen Ngoc Phi, O-Joun Lee, Luong Vuong Nguyen: MoviePoster-Grounded Contextual Visualization Using Multimodal Techniques. The 3rd International Conference on Intelligence of Things (ICIT 2024), Da Nang, Vietnam; 09/2024.
+* Daehun Kim, Hyeon-Ju Jeon, Yeongho Sung, Jin Hyeong Park, O-Joun Lee, Hae Gyun Lim: Real-time tracking system for red tides through acoustic signals and artificial intelligence. Proceedings of the 2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (UFFC-JS 2024), Taipei, Taiwan; 09/2024.
 
-* Daehun Kim, Hyeon-Ju Jeon, Yeongho Sung, Jin Hyeong Park, O-Joun Lee, Hae Gyun Lim: Real-time tracking system for red tides through acoustic signals and artificial intelligence. The 2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium (UFFC-JS 2024), Taipei, Taiwan; 09/2024.
-
-* Minsun Cho, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based on Transfer Learning for Organic FETs. The 245th Electrochemical Society (ECS) Meeting, San Francisco, CA, USA; 05/2024. DOI:[10.1149/MA2024-01311549mtgabs](https://doi.org/10.1149/MA2024-01311549mtgabs)
+* Minsun Cho, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based on Transfer Learning for Organic FETs. Proceedings of the 245th Electrochemical Society (ECS) Meeting, San Francisco, CA, USA; 05/2024. DOI:[10.1149/MA2024-01311549mtgabs](https://doi.org/10.1149/MA2024-01311549mtgabs)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1149/MA2024-01311549mtgabs" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1149/MA2024-01311549mtgabs" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. 
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. Proceedings of the Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. 
 [![Link](https://img.shields.io/badge/AAAIw'24-0C2E86?style=flat-square)](https://xai4sci.github.io/)
 
-* Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. DOI:[10.1609/aaai.v38i11.29138](https://doi.org/10.1609/aaai.v38i11.29138)
+* Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024. DOI:[10.1609/aaai.v38i11.29138](https://doi.org/10.1609/aaai.v38i11.29138)
 [![Link](https://img.shields.io/badge/AAAI'24-0C2E86?style=flat-square)](https://aaai.org/aaai-conference/)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1609/aaai.v38i11.29138" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1609/aaai.v38i11.29138" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Blood Glucose Classification Using high-Frequency Ultrasound and Artificial Intelligence. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023. ([Poster](https://drive.google.com/file/d/1GUoRZhbhRHc8hNTWGhlYDD_Re6mNVPwt/view?usp=sharing))
+* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee, Hae Gyun Lim: Blood Glucose Classification Using high-Frequency Ultrasound and Artificial Intelligence. Proceedings of the 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023. ([Poster](https://drive.google.com/file/d/1GUoRZhbhRHc8hNTWGhlYDD_Re6mNVPwt/view?usp=sharing))
 
-* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Classification of Red Blood Cells for the Diagnosis of dysnatremia Based on Ultrasound and Convolutional Neural Networks. The 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023. ([Poster](https://drive.google.com/file/d/1SlepM15zrz8L5jP0Z96vSluohlZS8Fgr/view?usp=sharing))
+* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee, Hae Gyun Lim: Classification of Red Blood Cells for the Diagnosis of dysnatremia Based on Ultrasound and Convolutional Neural Networks. Proceedings of the 2023 IEEE International Ultrasonics Symposium (IEEE IUS 2023), Montreal, Canada; 09/2023. ([Poster](https://drive.google.com/file/d/1SlepM15zrz8L5jP0Z96vSluohlZS8Fgr/view?usp=sharing))
 
-* Akshat Gaurav, Varsha Arya, Kwok Tai Chui, Brij B. Gupta, Chang Choi, O-Joun Lee: Long Short-Term Memory Network (LSTM) based Stock Price Prediction. The 2023 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2023), Gdańsk, Poland; 08/2023. DOI:[10.1145/3599957.3606240](https://doi.org/10.1145/3599957.3606240)
+* Akshat Gaurav, Varsha Arya, Kwok Tai Chui, Brij B. Gupta, Chang Choi, O-Joun Lee: Long Short-Term Memory Network (LSTM) based Stock Price Prediction. Proceedings of the 2023 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2023), Gdańsk, Poland; 08/2023. DOI:[10.1145/3599957.3606240](https://doi.org/10.1145/3599957.3606240)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1145/3599957.3606240" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1145/3599957.3606240" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. The 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023), Yokohama, Japan; 07/2023. ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing))
+* Minsun Cho, O-Joun Lee, Sungyeop Jung: An Artificial Neural Network-based Compact Model for Organic Field-Effect Transistors with the Gaussian Disorder Model. Proceedings of the 2023 Asia-Pacific Workshop on Advanced Semiconductor Devices (AWAD 2023), Yokohama, Japan; 07/2023. ([Poster](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing))
 
-* San-Hee Park, Kang-Min Kim, O-Joun Lee, Youjin Kang, Jaewon Lee, Su-Min Lee, SangKeun Lee: "Why do I feel offended?" - Korean Dataset for Offensive Language Identification. Findings of the Association for Computational Linguistics - The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Dubrovnik, Croatia; 05/2023. DOI:[10.18653/v1/2023.findings-eacl.85](https://doi.org/10.18653/v1/2023.findings-eacl.85)
+* San-Hee Park, Kang-Min Kim, O-Joun Lee, Youjin Kang, Jaewon Lee, Su-Min Lee, SangKeun Lee: "Why do I feel offended?" - Korean Dataset for Offensive Language Identification. Findings of the Association for Computational Linguistics - Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Dubrovnik, Croatia; 05/2023. DOI:[10.18653/v1/2023.findings-eacl.85](https://doi.org/10.18653/v1/2023.findings-eacl.85)
 [![Link](https://img.shields.io/badge/EACL'23-0C2E86?style=flat-square)](https://2023.eacl.org/)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.18653/v1/2023.findings-eacl.85" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.18653/v1/2023.findings-eacl.85" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Nam D Vo, O-Joun Lee, Khac-Hoai Nam Bui, Hae Gyun Lim, Hyeon-Ju Jeon, Phuong-Mai Nguyen, Jin-Taek Kim, Bui Quang Tuyen, Jason J Jung, Thuy Anh Vo: Computing4Human 2021: The 2nd International Conference on Human-centered Artificial Intelligence. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021. (Editorial)
+* Nam D Vo, O-Joun Lee, Khac-Hoai Nam Bui, Hae Gyun Lim, Hyeon-Ju Jeon, Phuong-Mai Nguyen, Jin-Taek Kim, Bui Quang Tuyen, Jason J Jung, Thuy Anh Vo: Computing4Human 2021: The 2nd International Conference on Human-centered Artificial Intelligence. Proceedings of the 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021. (Editorial)
 
-* Hyeon-Ju Jeon, Gyu-Sik Choi, Se-Young Cho, Hanbin Lee, Hee Yeon Ko, Jason J Jung, O-Joun Lee, Myeong-Yeon Yi: Learning Contextual Representations of Citations via Graph Transformer. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021. 
+* Hyeon-Ju Jeon, Gyu-Sik Choi, Se-Young Cho, Hanbin Lee, Hee Yeon Ko, Jason J Jung, O-Joun Lee, Myeong-Yeon Yi: Learning Contextual Representations of Citations via Graph Transformer. Proceedings of the 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021. 
 
-* O-Joun Lee, Jin-Taek Kim, Eun-Soon You: Quantifying Conflicts in Narrative Multimedia by Analyzing Visual Storytelling Techniques. The 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021.
+* O-Joun Lee, Jin-Taek Kim, Eun-Soon You: Quantifying Conflicts in Narrative Multimedia by Analyzing Visual Storytelling Techniques. Proceedings of the 2nd International Conference on Human-centered Artificial Intelligence (Computing4Human 2021), Da Nang, Vietnam; 10/2021.
 
-* O-Joun Lee, Jason J Jung: Story Embedding: Learning Distributed Representations of Stories based on Character Networks (Extended Abstract). The 29th International Joint Conference on Artificial Intelligence (IJCAI 2020) and the 17th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2020), Yokohama, Japan; 01/2021. DOI:[10.24963/ijcai.2020/709](https://doi.org/10.24963/ijcai.2020/709)
+* O-Joun Lee, Jason J Jung: Story Embedding: Learning Distributed Representations of Stories based on Character Networks (Extended Abstract). Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020) and the 17th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2020), Yokohama, Japan; 01/2021. DOI:[10.24963/ijcai.2020/709](https://doi.org/10.24963/ijcai.2020/709)
 [![Link](https://img.shields.io/badge/IJCAI'20-0C2E86?style=flat-square)](https://ijcai20.org/)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.24963/ijcai.2020/709" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.24963/ijcai.2020/709" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* O-Joun Lee, Sung Youn Park, Jin-Taek Kim: IdeaNet: Potential Opportunity Discovery for Business Innovation. Artificial Intelligence for Narratives Workshop (AI4Narratives 2020) held in conjunction with the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020) and the 17th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2020), Yokohama, Japan; 01/2021.
+* O-Joun Lee, Sung Youn Park, Jin-Taek Kim: IdeaNet: Potential Opportunity Discovery for Business Innovation. Proceedings of the Artificial Intelligence for Narratives Workshop (AI4Narratives 2020) held in conjunction with the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020) and the 17th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2020), Yokohama, Japan; 01/2021.
 [![Link](https://img.shields.io/badge/IJCAIw'20-0C2E86?style=flat-square)](https://dblp.org/db/conf/ijcai/ai4narratives2020.html)
 
-* O-Joun Lee, Jin-Taek Kim, Eun-Soon You: Towards Story-based Summarization of Narrative Multimedia. The 2020 ACM International Conference on Intelligent Computing and its Emerging Applications (ICEA 2020), Gangwon, Korea; 12/2020. DOI:[10.1145/3440943.3444719](https://doi.org/10.1145/3440943.3444719)
+* O-Joun Lee, Jin-Taek Kim, Eun-Soon You: Towards Story-based Summarization of Narrative Multimedia. Proceedings of the 2020 ACM International Conference on Intelligent Computing and its Emerging Applications (ICEA 2020), Gangwon, Korea; 12/2020. DOI:[10.1145/3440943.3444719](https://doi.org/10.1145/3440943.3444719)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1145/3440943.3444719" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1145/3440943.3444719" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* O-Joun Lee, Jin-Taek Kim: Learning Multi-modal Representations of Narrative Multimedia: a Case Study of Webtoons. The 2020 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2020), Gwangju, Korea; 10/2020. DOI:[10.1145/3400286.3418216](https://doi.org/10.1145/3400286.3418216)
+* O-Joun Lee, Jin-Taek Kim: Learning Multi-modal Representations of Narrative Multimedia: a Case Study of Webtoons. Proceedings of the 2020 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2020), Gwangju, Korea; 10/2020. DOI:[10.1145/3400286.3418216](https://doi.org/10.1145/3400286.3418216)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1145/3400286.3418216" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1145/3400286.3418216" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* O-Joun Lee, Jin-Taek Kim: Measuring Narrative Fluency by Analyzing Dynamic Interaction Networks in Textual Narratives. The 3rd Workshop on Narrative Extraction From Texts (Text2Story 2020), co-located with the 42nd European Conference on Information Retrieval (ECIR 2020), Lisbon, Portugal; 04/2020.
+* O-Joun Lee, Jin-Taek Kim: Measuring Narrative Fluency by Analyzing Dynamic Interaction Networks in Textual Narratives. Proceedings of the 3rd Workshop on Narrative Extraction From Texts (Text2Story 2020), co-located with the 42nd European Conference on Information Retrieval (ECIR 2020), Lisbon, Portugal; 04/2020.
 [![Link](https://img.shields.io/badge/ECIRw'20-0C2E86?style=flat-square)](https://dl.acm.org/doi/10.1145/3451964.3451975)
 
-* Jin-Taek Kim, Jason J. Jung, Eunsoon You, O-Joun Lee: Computing4Human 2020: The 1st International Workshop on Computational Humanities and Social Sciences. The 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020), Pohang, Korea; 02/2020. (Editorial)
+* Jin-Taek Kim, Jason J. Jung, Eunsoon You, O-Joun Lee: Computing4Human 2020: The 1st International Workshop on Computational Humanities and Social Sciences. Proceedings of the 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020), Pohang, Korea; 02/2020. (Editorial)
 
-* O-Joun Lee, Jin-Taek Kim: Discovering Mise-en-scène in Movies by Analyzing Scripts. The 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020), Pohang, Korea; 02/2020.
+* O-Joun Lee, Jin-Taek Kim: Discovering Mise-en-scène in Movies by Analyzing Scripts. Proceedings of the 1st International Workshop on Computational Humanities and Social Sciences (Computing4Human 2020), Pohang, Korea; 02/2020.
 
-* O-Joun Lee, Jason J Jung: Computational Narrative Representation and Analytics. The 2nd International Conference on AI Humanities (ICAIH 2019), Seoul, Republic of Korea; 08/2019.
+* O-Joun Lee, Jason J Jung: Computational Narrative Representation and Analytics. Proceedings of the 2nd International Conference on AI Humanities (ICAIH 2019), Seoul, Republic of Korea; 08/2019.
 
-* Luong Vuong Nguyen, O-Joun Lee, Hoang Long Nguyen, Sojung An, Jason J. Jung, Yue-Shan Chang: Crowdsourcing System for Measuring Cognitive Similarity in Recommendation System. 2019 ISSAT International Conference on Data Science in Business, Finance and Industry, Da Nang, Vietnam; 07/2019.
+* Luong Vuong Nguyen, O-Joun Lee, Hoang Long Nguyen, Sojung An, Jason J. Jung, Yue-Shan Chang: Crowdsourcing System for Measuring Cognitive Similarity in Recommendation System. Proceedings of the 2019 ISSAT International Conference on Data Science in Business, Finance and Industry, Da Nang, Vietnam; 07/2019.
 
-* O-Joun Lee, Jason J. Jung: Character Network Embedding-based Plot Structure Discovery in Narrative Multimedia. The 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea; 06/2019. DOI:[10.1145/3326467.3326485](https://doi.org/10.1145/3326467.3326485)
+* O-Joun Lee, Jason J. Jung: Character Network Embedding-based Plot Structure Discovery in Narrative Multimedia. Proceedings of the 9th International Conference on Web Intelligence, Mining and Semantics (WIMS 2019), Seoul, Korea; 06/2019. DOI:[10.1145/3326467.3326485](https://doi.org/10.1145/3326467.3326485)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1145/3326467.3326485" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1145/3326467.3326485" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* O-Joun Lee, Nayoung Jo, Jason J. Jung: Measuring Character-based Story Similarity by Analyzing Movie Scripts. The 1st Workshop on Narrative Extraction From Text (Text2Story 2018), co-located with the 40th European Conference on Information Retrieval (ECIR 2018), Grenoble, France; 03/2018.
+* O-Joun Lee, Nayoung Jo, Jason J. Jung: Measuring Character-based Story Similarity by Analyzing Movie Scripts. Proceedings of the 1st Workshop on Narrative Extraction From Text (Text2Story 2018), co-located with the 40th European Conference on Information Retrieval (ECIR 2018), Grenoble, France; 03/2018.
 [![Link](https://img.shields.io/badge/ECIRw'18-0C2E86?style=flat-square)](https://dl.acm.org/doi/10.1145/3274784.3274801)
 
-* O-Joun Lee, Jason J. Jung: Explainable Movie Recommendation Systems by using Story-based Similarity. The workshop on Explainable Smart Systems (ExSS 2018), held in conjunction with the 23rd International Conference on Intelligent User Interfaces (IUI 2018), Tokyo, Japan; 03/2018.
+* O-Joun Lee, Jason J. Jung: Explainable Movie Recommendation Systems by using Story-based Similarity. Proceedings of the workshop on Explainable Smart Systems (ExSS 2018), held in conjunction with the 23rd International Conference on Intelligent User Interfaces (IUI 2018), Tokyo, Japan; 03/2018.
 [![Link](https://img.shields.io/badge/IUIw'18-0C2E86?style=flat-square)](https://dblp.org/db/conf/iui/iui2018w.html)
 
-* Jason J. Jung, Minsung Hong, O-Joun Lee, Jaehong Park, Chang Choi: Towards Affective Lifelogging with Information Fusion. The 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea; 08/2017. DOI:[10.1109/IE.2017.25](https://doi.org/10.1109/IE.2017.25)
+* Jason J. Jung, Minsung Hong, O-Joun Lee, Jaehong Park, Chang Choi: Towards Affective Lifelogging with Information Fusion. Proceedings of the 13th International Conference on Intelligent Environments (IE 2017), Seoul, Korea; 08/2017. DOI:[10.1109/IE.2017.25](https://doi.org/10.1109/IE.2017.25)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1109/IE.2017.25" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1109/IE.2017.25" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* O-Joun Lee, Jason J. Jung: Affective Character Network for Understanding Plots of Narrative Contents. The 1st International Workshop on Affective Computing and Context Awareness in Ambient Intelligence (AfCAI 2016), Murcia, Spain; 11/2016.
+* O-Joun Lee, Jason J. Jung: Affective Character Network for Understanding Plots of Narrative Contents. Proceedings of the 1st International Workshop on Affective Computing and Context Awareness in Ambient Intelligence (AfCAI 2016), Murcia, Spain; 11/2016.
 
-* O-Joun Lee, Jason J. Jung, Eunsoon You: Predictive Clustering for Performance Stability in Collaborative Filtering Techniques. The 2nd IEEE International Conference on Cybernetics (CYBCONF 2015), Gdynia, Poland; 06/2015. DOI:[10.1109/CYBConf.2015.7175905](https://doi.org/10.1109/CYBConf.2015.7175905)
+* O-Joun Lee, Jason J. Jung, Eunsoon You: Predictive Clustering for Performance Stability in Collaborative Filtering Techniques. Proceedings of the 2nd IEEE International Conference on Cybernetics (CYBCONF 2015), Gdynia, Poland; 06/2015. DOI:[10.1109/CYBConf.2015.7175905](https://doi.org/10.1109/CYBConf.2015.7175905)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1109/CYBConf.2015.7175905" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1109/CYBConf.2015.7175905" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Min-Sung Hong, O-Joun Lee, Jason J. Jung: Adaptive Clustering for Scalable Collaborative Filtering in Recommender Systems. The 3rd International Conference on Smart Media and Applications (SMA 2014), Chiang Mai, Thailand; 12/2014.
+* Min-Sung Hong, O-Joun Lee, Jason J. Jung: Adaptive Clustering for Scalable Collaborative Filtering in Recommender Systems. Proceedings of the 3rd International Conference on Smart Media and Applications (SMA 2014), Chiang Mai, Thailand; 12/2014.
 
-* Min-Sung Hong, O-Joun Lee, Gyu-Chan Lim, Se-Jun Park, Seung-Hoon Kim, Jae-Dong Lee: Meta-data Configuration and Learning Technique for Wellness Content Recommendation. International Conference on Computer Applications and Information Processing Technology (CAIPT 2014), Ulaanbaatar, Mongolia; 06/2014. 
+* Min-Sung Hong, O-Joun Lee, Gyu-Chan Lim, Se-Jun Park, Seung-Hoon Kim, Jae-Dong Lee: Meta-data Configuration and Learning Technique for Wellness Content Recommendation. Proceedings of the 2014 International Conference on Computer Applications and Information Processing Technology (CAIPT 2014), Ulaanbaatar, Mongolia; 06/2014. 
 
 
 
@@ -437,37 +439,43 @@ This page includes only our international publications. For domestic publication
 
 ***
 
-* Nam Bui Khac Hoai, Sungrae Cho, Jason J. Jung, Joongheon Kim, O-Joun Lee, Woongsoo Na: Network Engineering: Towards Data-Driven Framework for Network Configuration. Big Data Technologies and Applications, 11/2018: pages 60-65; Springer, Cham., ISBN: 978-3-319-98751-4, DOI:[10.1007/978-3-319-98752-1_7](https://doi.org/10.1007/978-3-319-98752-1_7)
+* Huu-Tuong Ho, Minh-Tien Pham, Quang-Duong Tran, Quang-Huy Pham, Quang Dieu Tran, Nguyen Ngoc Phi, O-Joun Lee, Luong Vuong Nguyen: MoviePoster-Grounded Contextual Visualization Using Multimodal Techniques. Intelligence of Things: Technologies and Applications - Proceedings of the 3rd International Conference on Intelligence of Things (ICIT 2024), Da Nang, Vietnam, 09/2024, Edited by Nhu-Ngoc Dao, Quang-Dung Pham, Sungrae Cho, Ngoc Thanh Nguyen; Lecture Notes on Data Engineering and Communications Technologies (LNDECT, volume 230): pages 88-99; Springer, Cham., ISBN: 978-3-319-98751-4, DOI:[10.1007/978-3-031-75596-5_9](https://doi.org/10.1007/978-3-031-75596-5_9)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-75596-5_9" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.1007/978-3-031-75596-5_9" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
+
+* Nam Bui Khac Hoai, Sungrae Cho, Jason J. Jung, Joongheon Kim, O-Joun Lee, Woongsoo Na: Network Engineering: Towards Data-Driven Framework for Network Configuration. Big Data Technologies and Applications - Proceedings of the 8th EAI International Conference on Big Data Technologies and Applications (BDTA 2017), Gwangju, South Korea, 11/2017, Edited by Jason J. Jung, Pankoo Kim, Kwang Nam Choi; Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (LNICST, volume 248): pages 60-65; Springer, Cham., ISBN: 978-3-319-98751-4, DOI:[10.1007/978-3-319-98752-1_7](https://doi.org/10.1007/978-3-319-98752-1_7)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-319-98752-1_7" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1007/978-3-319-98752-1_7" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Quang Dieu Tran, Dosam Hwang, O-Joun Lee, Jason J. Jung: A Novel Method for Extracting Dynamic Character Network from Movie. Big Data Technologies and Applications, Edited by Jason J. Jung, Pankoo Kim, 06/2017: pages 48-53; Springer International Publishing., ISBN: 978-3-319-58967-1, DOI:[10.1007/978-3-319-58967-1_6](https://doi.org/10.1007/978-3-319-58967-1_6)
+* Quang Dieu Tran, Dosam Hwang, O-Joun Lee, Jason J. Jung: A Novel Method for Extracting Dynamic Character Network from Movie. Big Data Technologies and Applications - Proceedings of the 7th EAI International Conference on Big Data Technologies and Applications (BDTA 2016), Seoul, South Korea, 11/2016, Edited by Jason J. Jung, Pankoo Kim; Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (LNICST, volume 194): pages 48-53; Springer, Cham., ISBN: 978-3-319-58967-1, DOI:[10.1007/978-3-319-58967-1_6](https://doi.org/10.1007/978-3-319-58967-1_6)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-319-58967-1_6" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1007/978-3-319-58967-1_6" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Khac-Hoai Nam Bui, O-Joun Lee, Jason J. Jung, David Camacho: Dynamic Traffic Light Control System Based on Process Synchronization Among Connected Vehicles. Ambient Intelligence- Software and Applications – 7th International Symposium on Ambient Intelligence (ISAmI 2016), Edited by Helena Lindgren, Juan F. De Paz, Paulo Novais, Antonio Fernández-Caballero, Hyun Yoe, Andres Jiménez Ramírez, Gabriel Villarrubia, 05/2016: pages 77-85; Springer., ISBN: 978-3-319-40113-3, DOI:[10.1007/978-3-319-40114-0_9](https://doi.org/10.1007/978-3-319-40114-0_9)
+* Khac-Hoai Nam Bui, O-Joun Lee, Jason J. Jung, David Camacho: Dynamic Traffic Light Control System Based on Process Synchronization Among Connected Vehicles. Ambient Intelligence- Software and Applications - Proceedings of the 7th International Symposium on Ambient Intelligence (ISAmI 2016), Seville, Spain, 06/2016, Edited by Helena Lindgren, Juan F. De Paz, Paulo Novais, Antonio Fernández-Caballero, Hyun Yoe, Andres Jiménez Ramírez, Gabriel Villarrubia; Advances in Intelligent Systems and Computing (AISC, volume 476): pages 77-85; Springer, Cham., ISBN: 978-3-319-40113-3, DOI:[10.1007/978-3-319-40114-0_9](https://doi.org/10.1007/978-3-319-40114-0_9)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-319-40114-0_9" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1007/978-3-319-40114-0_9" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Khac-Hoai Nam Bui, Xuan Hau Pham, Jason J. Jung, O-Joun Lee, Min-Sung Hong: Context-Based Traffic Recommendation System. Context-Aware Systems and Applications, Edited by Cong Vinh Phan, Alagar Vangalur, 04/2016: pages 122-131; Springer International Publishing., ISBN: 978-3-319-29235-9, DOI:[10.1007/978-3-319-29236-6_13](https://doi.org/10.1007/978-3-319-29236-6_13)
+* Khac-Hoai Nam Bui, Xuan Hau Pham, Jason J. Jung, O-Joun Lee, Min-Sung Hong: Context-Based Traffic Recommendation System. Context-Aware Systems and Applications - Proceedings of the 5th EAI International Conference on Context-Aware Systems and Applications (ICCASA 2015), Vung Tau, Vietnam, 11/2015, Edited by Cong Vinh Phan, Alagar Vangalur; Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (LNICST, volume 165): pages 122-131; Springer, Cham., ISBN: 978-3-319-29235-9, DOI:[10.1007/978-3-319-29236-6_13](https://doi.org/10.1007/978-3-319-29236-6_13)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-319-29236-6_13" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1007/978-3-319-29236-6_13" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Myeong-Yeon Yi, O-Joun Lee, Jason J. Jung: MBTI-based Collaborative Recommendation System: A Case Study of Webtoon Contents. Context-Aware Systems and Applications, Edited by Cong Vinh Phan, Alagar Vangalur, 04/2016: pages 101-110; Springer International Publishing., ISBN: 978-3-319-29236-6, DOI:[10.1007/978-3-319-29236-6_11](https://doi.org/10.1007/978-3-319-29236-6_11)
+* Myeong-Yeon Yi, O-Joun Lee, Jason J. Jung: MBTI-based Collaborative Recommendation System: A Case Study of Webtoon Contents. Context-Aware Systems and Applications - Proceedings of the 5th EAI International Conference on Context-Aware Systems and Applications (ICCASA 2015), Vung Tau, Vietnam, 11/2015, Edited by Cong Vinh Phan, Alagar Vangalur; Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (LNICST, volume 165): pages 101-110; Springer, Cham., ISBN: 978-3-319-29236-6, DOI:[10.1007/978-3-319-29236-6_11](https://doi.org/10.1007/978-3-319-29236-6_11)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-319-29236-6_11" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1007/978-3-319-29236-6_11" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* O-Joun Lee, Eunsoon You, Min-Sung Hong, Jason J. Jung: Adaptive Complex Event Processing Based on Collaborative Rule Mining Engine. Intelligent Information and Database Systems, Edited by Ngoc Thanh Nguyen, Bogdan Trawiński, Raymond Kosala, 03/2015: pages 430–439; Springer International Publishing., ISBN: 978-3-319-15701-6, DOI:[10.1007/978-3-319-15702-3_42](https://doi.org/10.1007/978-3-319-15702-3_42)
+* O-Joun Lee, Eunsoon You, Min-Sung Hong, Jason J. Jung: Adaptive Complex Event Processing Based on Collaborative Rule Mining Engine. Intelligent Information and Database Systems - Proceedings of the 7th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2015), Bali, Indonesia, 03/2015, Edited by Ngoc Thanh Nguyen, Bogdan Trawiński, Raymond Kosala; Lecture Notes in Computer Science (LNCS, volume 9011): pages 430–439; Springer, Cham., ISBN: 978-3-319-15701-6, DOI:[10.1007/978-3-319-15702-3_42](https://doi.org/10.1007/978-3-319-15702-3_42)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-319-15702-3_42" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1007/978-3-319-15702-3_42" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
