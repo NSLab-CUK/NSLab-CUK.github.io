@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+##### Sep 5th, 2025
+{:.no_toc}
+
+* Jinho Seo and his team were awarded the Grand Prize at the 170th Anniversary CUK Biohealthcare Competition 2025.
+
+<p align="center"><img width="700" src="/images/250905.jpg"></p>
+
+***
 ##### Sep 1st, 2025
 {:.no_toc}
 
