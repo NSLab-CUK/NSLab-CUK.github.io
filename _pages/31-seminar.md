@@ -41,8 +41,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Thien Nguyen, Review on "KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG", KDD 2025</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/5ubNpnsGMcbREL?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <summary>Thien Nguyen, Review on "G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation", ACM on Web Conference 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/jRmvEw6SfxGsyF?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
