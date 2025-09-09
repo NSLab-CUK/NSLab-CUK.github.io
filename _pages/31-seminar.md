@@ -25,6 +25,40 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2025
 
 ***
+#### Sep 8th, 2025
+{:.no_toc}
+
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "MutaPLM: Protein Language Modeling for Mutation Explanation and Engineering", NeurIPS 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/6oNcS6KrQmUAuE?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "HGFormer: Topology-Aware Vision Transformer With HyperGraph Learning", IEEE Transactions on Multimedia 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/D4Z3sykvV9Hd5q?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Thien Nguyen, Review on "KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG", KDD 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/5ubNpnsGMcbREL?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "DIFFERENTIAL TRANSFORMER", ICLR 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/D4Z3sykvV9Hd5q?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.H. Cho, Review on "GRAPH NEURAL NETWORKS GONE HOGWILD", ICLR 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/CXzBaeHmUFg4Tz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Sep 1st, 2025
 {:.no_toc}
 
