@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+##### Sep 10th, 2025
+{:.no_toc}
+
+* We started a regional industry‑academia cooperation technology development project, affiliated with the Gyeonggi RISE Project, on "Constructing Veterinary Knowledge Graph and Developing GraphRAG-based LLM Services (수의료 지식그래프 구축을 통한 GraphRAG 기반 수의료 LLM 서비스 개발)," funded by MOE of Korea (교육부) and Gyeonggi Province (경기도) (Sep 2025 -- Jan 2026, 30 Mil KRW), by cooperating with [Petobio Co., Ltd. (주식회사 페토바이오)](https://www.petobio.com/en).
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://www.petobio.com/en"><img align="center" src="/images/Petobio_Logo.png" style="width : 300px; margin : 10px"></a><a href="https://www.gg.go.kr/"><img align="center" src="/images/Gyeonggi_Logo.png" style="width : 120px; margin : 10px"></a><a href="https://www.moe.go.kr/"><img align="center" src="/images/MOE_Logo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
 ##### Sep 5th, 2025
 {:.no_toc}
 
