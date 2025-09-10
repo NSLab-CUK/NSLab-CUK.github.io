@@ -355,6 +355,8 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ***
 ## Research Grants
 
+* “Constructing Veterinary Knowledge Graph and Developing GraphRAG-based LLM Services,” supported by the Gyeonggi RISE Project and funded by MOE of Korea and Gyeonggi Province (Sep 2025 – Jan 2026, 30 Mil KRW), by cooperating with [Petobio Co., Ltd.](https://www.petobio.com/en) (PI: **O-Joun Lee**)
+  * _In Korean_: 수의료 지식그래프 구축을 통한 GraphRAG 기반 수의료 LLM 서비스 개발, 경기도/RISE 지산학협력기술개발과제-[주식회사 페토바이오](https://www.petobio.com/)
 * “Multi-view Pre-training and Parameter-efficient Tuning for Structure-Preserving Molecular Graph Foundation Models,” supported by the Outstanding Young Scientist Grants (Seeds Grants) through NRF of Korea and funded by MSIT of Korea (Sep 2025 – Aug 2026, 80 Mil KRW) (PI: **O-Joun Lee**)
   * _In Korean_: 구조 식별력을 갖춘 분자 그래프 파운데이션 모델을 위한 다중 뷰 사전학습 및 파라미터 효율적 튜닝, 한국연구재단(NRF)/**우수신진연구(씨앗연구)**/RS-2025-24523038
 * “Development of Human Intrinsic AI through Unified Semantic Representation of Heterogeneous Multimodal Data,” supported by the Human‑Centric Next‑Generation Challenge‑Type AI Technology Development Program through IITP of Korea and funded by MSIT of Korea (Jul 2025 – Dec 2028, 4,533 Mil KRW) (PI: Sang-Woong Lee; Co-PIs: **O-Joun Lee**, Ick Hyun Um, and Jae-Keun Lee; Co-Is: Okran Jeong and Kang-Min Kim)
