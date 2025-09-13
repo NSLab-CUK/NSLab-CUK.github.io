@@ -18,7 +18,7 @@ toc_label: "Table of Contents"
 
 * Jinho Seo has reported a software vulnerability to NASA, which has been officially acknowledged by the agency.
 
-<p align="center"><img width="700" src="/images/250911.jpg"></p>
+<p align="center"><img width="700" src="/images/JinHo_NASA.jpg"></p>
 
 ***
 ##### Sep 10th, 2025
