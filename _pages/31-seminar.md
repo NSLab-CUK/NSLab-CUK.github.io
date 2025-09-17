@@ -25,6 +25,40 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2025
 
 ***
+#### Sep 15th, 2025
+{:.no_toc}
+
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "OntoProtein: Protein Pretraining With Gene Ontology Embedding", ICLR 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/kBX6on8Rh0m4xe?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "How Much and When Do We Need Higher-order Information in Hypergraphs? A Case Study on Hyperedge Prediction", WWW 2020</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/pREcexnMo95r31?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Thien Nguyen, Review on "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering", NeurIPS 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9FHOADutK9DzCY?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "Improving Subgraph Recognition with Variational Graph Information Bottleneck", CVPR 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/zZJMejC3LS6Yo9?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>S.H. Lee, Review on "Graph Neural Ordinary Differential Equations", arXiv preprint arXiv:1911.07532 2019</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1VDiLjjLKI3BS5?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Sep 8th, 2025
 {:.no_toc}
 
@@ -725,7 +759,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 ***
 #### Feb 17th, 2025
-{:.no_toc}
+{:.no_toc} 
 
 <details markdown="1">
   <summary>V.T. Hoang, Review on "MMGNN: A Molecular Merged Graph Neural Network for Explainable Solvation Free Energy Prediction", IJCAI 2024</summary>
