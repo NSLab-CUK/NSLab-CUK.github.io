@@ -231,6 +231,7 @@ Membership
 Editorship
 ------------
 
+* Editorial Board Member, [Academia AI and Applications](https://www.academia.edu/journals/academia-ai-and-applications/about/editorial-board?source=journal-top-nav), since May 2025
 * Guest Editor, Applied Sciences, Special Issue on "[Machine Learning and Artificial Intelligence for Human Information Analysis](https://www.mdpi.com/journal/applsci/special_issues/9E6QLH63AE)."
 * [Academic Editor, Plos One](https://journals.plos.org/plosone/static/editorial-board), since Dec 2022
 * Guest Editor, Sensors, Special Issue on "[Machine Learning and AI for Medical Data Analysis](https://www.mdpi.com/journal/sensors/special_issues/mdata_analysis)."
