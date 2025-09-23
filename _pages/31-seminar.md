@@ -41,7 +41,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Thien Nguyen, Review on "Neural Tree Search for Context-guided Multi-hop KGQA", NeurIPS 2023</summary>
+  <summary>T.T.T. Nguyen, Review on "Neural Tree Search for Context-guided Multi-hop KGQA", NeurIPS 2023</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/HwKRGkXC7dVofH?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -69,7 +69,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Thien Nguyen, Review on "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering", NeurIPS 2024</summary>
+  <summary>T.T.T. Nguyen, Review on "G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering", NeurIPS 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9FHOADutK9DzCY?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -103,7 +103,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Thien Nguyen, Review on "G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation", ACM on Web Conference 2025</summary>
+  <summary>T.T.T. Nguyen, Review on "G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation", ACM on Web Conference 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/jRmvEw6SfxGsyF?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -137,7 +137,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Thien Nguyen, Review on "KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG", KDD 2025</summary>
+  <summary>T.T.T. Nguyen, Review on "KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG", KDD 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/5ubNpnsGMcbREL?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -159,7 +159,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Thien Nguyen, Review on "Simple and Deep Graph Convolutional Networks", ICML 2020</summary>
+  <summary>T.T.T. Nguyen, Review on "Simple and Deep Graph Convolutional Networks", ICML 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/C5ms8HIMyrpy5e?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -203,7 +203,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Thien Nguyen, Review on "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks", KDD 2019</summary>
+  <summary>T.T.T. Nguyen, Review on "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks", KDD 2019</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/d9RKZQTd1lE1Lv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -275,7 +275,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Thien Nguyen, Review on "Variational Graph Auto-Encoders", arXiv preprint arXiv:1611.07308 2016</summary>
+  <summary>T.T.T. Nguyen, Review on "Variational Graph Auto-Encoders", arXiv preprint arXiv:1611.07308 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vQ3uDJKs79GZb0?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
