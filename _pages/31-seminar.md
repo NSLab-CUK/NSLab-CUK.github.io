@@ -35,7 +35,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "DHHG-TAC: Fusion of Dynamic Heterogeneous Hypergraphs and Transformer Attention  Mechanism for Visual Question  Answering Tasks", IEEE Transactions on Industrial Informatics 2025</summary>
+  <summary>T.B.T. Do, Review on "DHHG-TAC: Fusion of Dynamic Heterogeneous Hypergraphs and Transformer Attention  Mechanism for Visual Question  Answering Tasks", IEEE Transactions on Industrial Informatics, 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/JqmSjW2RPzb4Dk?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -81,7 +81,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>S.H. Lee, Review on "Graph Neural Ordinary Differential Equations", arXiv preprint arXiv:1911.07532 2019</summary>
+  <summary>S.H. Lee, Review on "Graph Neural Ordinary Differential Equations", arXiv preprint, arXiv:1911.07532, 2019</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1VDiLjjLKI3BS5?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -97,25 +97,25 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "HGFormer: Topology-Aware Vision Transformer With HyperGraph Learning", IEEE Transactions on Multimedia 2025</summary>
+  <summary>T.B.T. Do, Review on "HGFormer: Topology-Aware Vision Transformer With HyperGraph Learning", IEEE Transactions on Multimedia, 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/D4Z3sykvV9Hd5q?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>T.T.T. Nguyen, Review on "G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation", ACM on Web Conference 2025</summary>
+  <summary>T.T.T. Nguyen, Review on "G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation", WWW 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/jRmvEw6SfxGsyF?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>H.W. Kim, Review on "DIFFERENTIAL TRANSFORMER", ICLR 2025</summary>
+  <summary>H.W. Kim, Review on "Differential Transformer", ICLR 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4Sp4sQmYHzcUkL?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>J.H. Cho, Review on "GRAPH NEURAL NETWORKS GONE HOGWILD", ICLR 2025</summary>
+  <summary>J.H. Cho, Review on "Graph Neural Networks Gone Hogwild", ICLR 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/CXzBaeHmUFg4Tz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -209,7 +209,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>H.W. Kim, Review on "Self-Supervised Graph Information Bottleneck for Multiview Molecular Embedding Learning", IEEE Transactions on Artificial Intelligence 2024</summary>
+  <summary>H.W. Kim, Review on "Self-Supervised Graph Information Bottleneck for Multiview Molecular Embedding Learning", IEEE Transactions on Artificial Intelligence, 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/LRQEVId5vMgmio?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -253,7 +253,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.H. Cho, Review on "A Novel Shape-Aware Topological Representation for GPR Data with DNN Integration", arXiv preprint arXiv:2506.06311 2025</summary>
+  <summary>J.H. Cho, Review on "A Novel Shape-Aware Topological Representation for GPR Data with DNN Integration", arXiv preprint, arXiv:2506.06311, 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/jfzejAhlXiNSmp?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -275,7 +275,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.T.T. Nguyen, Review on "Variational Graph Auto-Encoders", arXiv preprint arXiv:1611.07308 2016</summary>
+  <summary>T.T.T. Nguyen, Review on "Variational Graph Auto-Encoders", arXiv preprint, arXiv:1611.07308, 2016</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/vQ3uDJKs79GZb0?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -297,7 +297,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder", Transactions on Machine Learning Research 2024</summary>
+  <summary>T.B.T. Do, Review on "Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder", Transactions on Machine Learning Research, 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/acdbrI4yOy6L4h?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -623,7 +623,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "Joint Attribute Manipulation and Modality Alignment Learning for Composing Text and Image to Image Retrieval", ACM MM 2020</summary>
+  <summary>T.B.T. Do, Review on "Joint Attribute Manipulation and Modality Alignment Learning for Composing Text and Image to Image Retrieval", MM 2020</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/F4UTbVpxmxs7mL?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -802,7 +802,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>J.W. Jeong, Review on "Keep It Simple: Towards Accurate Vulnerability Detection for Large Code Graphs", arXiv preprint arXiv:2412.10164 2024</summary>
+  <summary>J.W. Jeong, Review on "Keep It Simple: Towards Accurate Vulnerability Detection for Large Code Graphs", arXiv preprint, arXiv:2412.10164, 2024</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ls93weKMvVyCil?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
