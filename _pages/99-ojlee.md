@@ -241,6 +241,7 @@ Editorship
 Conference Committee
 ------------
 
+* Program Committee Member, The 31st International Conference on Database Systems for Advanced Applications (DASFAA 2026), Jeju, Korea, 04/2026.
 * Track Committee Member, The Renewable and Sustainable Energy (RSE) Track at the 40th ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2026), Thessaloniki, Greece, 03/2026.
 * Program Committee Member, The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, 01/2026.
 * Program Committee Member, The 2025 RIVF International Conference on Computing and Communication Technologies (RIVF 2025), Ho Chi Minh City, Vietnam, 12/2025.
