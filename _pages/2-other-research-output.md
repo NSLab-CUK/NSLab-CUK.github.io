@@ -105,6 +105,12 @@ This page includes additional research outputs beyond conventional academic publ
 
 ***
 
+* O-Joun Lee: Toward Molecular Foundation Models: Pre-training GNNs for Effectiveness, Generalizability, and Interpretability. Daegyeong Technology Application Division, The 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam, 11/2025
+  <details markdown="1">
+    <summary>Photos</summary>
+    <p align="center"><img width="700" data-action="zoom" src="/images/Talk-RACS-2025.webp" alt="absolute"></p>
+  </details>
+
 * O-Joun Lee: An Overview of Graph Learning Models in Molecular Structure Analysis. Daegyeong Technology Application Division, [Korea Institute of Industrial Technology (KITECH)](https://eng.kitech.re.kr/main/), Daegu, Korea, 07/2025
   <details markdown="1">
     <summary>Photos</summary>
