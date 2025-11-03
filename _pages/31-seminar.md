@@ -25,6 +25,40 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2025
 
 ***
+#### Nov 03rd, 2025
+{:.no_toc}
+
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Grounded Language-Image Pre-training", CVPR 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/dimmczD931O0Pv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "One Last Attention for Your Vision-Language Model​", ICCV 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2lORGreo0exj5l?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.T.T. Nguyen, Review on "Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation",  arXiv e-prints (2025): arXiv-2510</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2ooYVgXX8bNkLu?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "PROTEIN-LIGAND BINDING REPRESENTATION LEARNING FROM FINE-GRAINED INTERACTIONS", ICLR 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4rlPedhNDu7Q9A?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>S.H. Lee, Review on "Expressiveness of Graph Neural Networks"</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nxhUB5qt0B08YS?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Oct 27th, 2025
 {:.no_toc}
 
