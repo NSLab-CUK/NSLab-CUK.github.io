@@ -107,6 +107,8 @@ This page includes additional research outputs beyond conventional academic publ
 
 ***
 
+* O-Joun Lee: Toward Molecular Foundation Models: Pre-training GNNs for Effectiveness, Generalizability, and Interpretability. Van Lang University, Ho Chi Minh, Vietnam, 11/2025
+
 * O-Joun Lee: Toward Molecular Foundation Models: Pre-training GNNs for Effectiveness, Generalizability, and Interpretability. [The 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025)](https://www.sigapp.org/RACS/RACS2025/keynote_speakers.php), Ho Chi Minh, Vietnam, 11/2025
   <details markdown="1">
     <summary>Photos</summary>
