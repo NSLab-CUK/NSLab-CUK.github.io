@@ -296,6 +296,12 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Thien Nguyen, Eun-Soon You, Hyun Woo Kim, Van Thuy Hoang, Luong Vuong Nguyen, O-Joun Lee: Constructing a Companion Animal Disease Knowledge Graph by Utilizing LLMs in Data Preprocessing and Pseudo Annotation. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025.
+
+* Tien-Bach-Thanh Do, Jun-Hee Cho, Jin-Hyouk Park, Ki-Nam Kim, Luong Vuong Nguyen, O-Joun Lee: Ground Penetrating Radar Image Analysis for Underground Barrier Detection by Combining YOLOv12 with Channel-wise Attention and Denoising Auto-Encoder. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025.
+
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations of Earth Observations for Weather Forecasting using Graph Structure Learning. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025.
+
 * Minsun Cho, Jinwoo Jeong, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. Proceedings of the 247th Electrochemical Society (ECS) Meeting, Montreal, Canada; 05/2025. DOI:[10.1149/MA2025-01331662mtgabs](https://doi.org/10.1149/MA2025-01331662mtgabs)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1149/MA2025-01331662mtgabs" data-style="small_rectangle"></span>
