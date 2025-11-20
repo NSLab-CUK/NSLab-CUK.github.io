@@ -271,7 +271,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Prof. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung), Korea University Sejong Campus, Sejong, Korea
 * Dr. [Luong Vuong Nguyen](https://luongvuongnguyen.github.io/), FPT University, Da Nang, Vietnam
 * [Nam Gyu Jung](https://namgyu97.github.io/), Gachon University, Seongnam, Korea <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/Namgyu97)
-* Dr. [Tri-Hai Nguyen](https://sites.google.com/view/tri-hai-nguyen), Van Lang University, Hanoi, Vietnam
+* Dr. [Tri-Hai Nguyen](https://sites.google.com/view/tri-hai-nguyen), Van Lang University, Ho Chi Minh City, Vietnam
 * Prof. [Kang-Min Kim](https://kangmin89.com/), The Catholic University of Korea, Bucheon, Korea
 * Prof. [Jun Young Kim](https://sites.google.com/view/jykimgroup/home), The Catholic University of Korea, Bucheon, Korea
 * Prof. [Suk Min Kim](https://sites.google.com/view/bbelgroup/professor), The Catholic University of Korea, Bucheon, Korea
