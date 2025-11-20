@@ -108,11 +108,20 @@ This page includes additional research outputs beyond conventional academic publ
 ***
 
 * O-Joun Lee: Toward Molecular Foundation Models: Pre-training GNNs for Effectiveness, Generalizability, and Interpretability. Van Lang University, Ho Chi Minh, Vietnam, 11/2025
+  <details markdown="1">
+    <summary>Photos</summary>
+    <p align="center"><img width="700" data-action="zoom" src="/images/Talk-VLU-2025.webp" alt="absolute"></p>
+    <p align="center"><img width="700" data-action="zoom" src="/images/Talk-VLU-2025_1.jpg" alt="absolute"></p>
+    <p align="center"><img width="700" data-action="zoom" src="/images/Talk-VLU-2025_2.jpg" alt="absolute"></p>
+  </details>
 
-* O-Joun Lee: Toward Molecular Foundation Models: Pre-training GNNs for Effectiveness, Generalizability, and Interpretability. [The 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025)](https://www.sigapp.org/RACS/RACS2025/keynote_speakers.php), Ho Chi Minh, Vietnam, 11/2025
+* **[Keynote]** O-Joun Lee: Toward Molecular Foundation Models: Pre-training GNNs for Effectiveness, Generalizability, and Interpretability. [The 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025)](https://www.sigapp.org/RACS/RACS2025/keynote_speakers.php), Ho Chi Minh, Vietnam, 11/2025
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center"><img width="700" data-action="zoom" src="/images/Talk-RACS-2025.webp" alt="absolute"></p>
+    <p align="center"><img width="700" data-action="zoom" src="/images/Talk-RACS-2025_1.jpg" alt="absolute"></p>
+    <p align="center"><img width="700" data-action="zoom" src="/images/Talk-RACS-2025_2.jpg" alt="absolute"></p>
+    <p align="center"><img width="700" data-action="zoom" src="/images/Talk-RACS-2025_3.webp" alt="absolute"></p>
   </details>
 
 * O-Joun Lee: An Overview of Graph Learning Models in Molecular Structure Analysis. Daegyeong Technology Application Division, [Korea Institute of Industrial Technology (KITECH)](https://eng.kitech.re.kr/main/), Daegu, Korea, 07/2025
@@ -153,7 +162,7 @@ This page includes additional research outputs beyond conventional academic publ
     </p>
   </details>
 
-* O-Joun Lee: Spatio-Temporal Forecasting Models for Renewable Energy. [The 1st International Conference on Intelligence of Things (ICIT 2022)](https://icit2022.humg.edu.vn/), Hanoi, Vietnam, 08/2022
+* **[Keynote]** O-Joun Lee: Spatio-Temporal Forecasting Models for Renewable Energy. [The 1st International Conference on Intelligence of Things (ICIT 2022)](https://icit2022.humg.edu.vn/), Hanoi, Vietnam, 08/2022
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center">
