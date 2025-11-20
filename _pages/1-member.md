@@ -94,12 +94,24 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 <img align="right" src="https://nslab-cuk.github.io/images/Thien.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
 * Sep 2025 -- Present: Combined Ms-Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
-* Sep 2004 -- Jun 2009: B.Eng. in Information Technology, [Danang University of Science and Technology](https://dut.udn.vn/EN), Danang City, Vietnam
+* Sep 2004 -- Jun 2009: B.Eng. in Information Technology, [Danang University of Science and Technology](https://dut.udn.vn/EN), Danang, Vietnam
 * Research Interest: Graph Representation Learning
 * <a href="mailto:petitlotus001@gmail.com"><img src="https://img.shields.io/badge/-petitlotus001@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
- 
+
+#### Ho Huu Tuong (Mar 2026 -- Present)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/Tuong.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Mar 2026 -- Present: Combined Ms-Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Sep 2021 -- Apr 2025: B.Eng. in Artificial Intelligence, [FPT University](https://daihoc.fpt.edu.vn/), Danang, Vietnam
+* Research Interest: Graph Representation Learning
+* <a href="mailto:petitlotus001@gmail.com"><img src="https://img.shields.io/badge/-petitlotus001@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+
 #### Keonvin Park (Apr 2025 -- Present; Visiting Researcher)
 {:.no_toc}
 
