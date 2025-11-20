@@ -13,6 +13,21 @@ toc_label: "Table of Contents"
 ### 2025
 
 ***
+##### Nov 15th, 2025 -- Nov 19th, 2025
+{:.no_toc}
+
+* We have participated in [ACM RACS 2025](https://www.sigapp.org/RACS/RACS2025/), held in Ho Chi Minh City, Vietnam. Tien-Bach-Thanh Do, Thien Nguyen, Jun Hee Cho, and Hyun Woo Kim presented our latest research outcomes from ongoing academic–industry collaboration projects.
+  * Tien-Bach-Thanh Do, Jun-Hee Cho, Jin-Hyouk Park, Ki-Nam Kim, Luong Vuong Nguyen, O-Joun Lee: Ground Penetrating Radar Image Analysis for Underground Barrier Detection by Combining YOLOv12 with Channel-wise Attention and Denoising Auto-Encoder. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025.
+  * Thien Nguyen, Eun-Soon You, Hyun Woo Kim, Van Thuy Hoang, Luong Vuong Nguyen, O-Joun Lee: Constructing a Companion Animal Disease Knowledge Graph by Utilizing LLMs in Data Preprocessing and Pseudo Annotation. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025.
+
+<p align="center"><img width="700" src="/images/251118_1.jpg"></p>
+<p align="center"><img width="700" src="/images/251118_2.jpg"></p>
+<p align="center"><img width="700" src="/images/251118_3.jpg"></p>
+<p align="center"><img width="700" src="/images/251118_4.jpg"></p>
+<p align="center"><img width="700" src="/images/251118_5.jpg"></p>
+<p align="center"><img width="700" src="/images/251118_6.jpg"></p>
+
+***
 ##### Sep 11th, 2025
 {:.no_toc}
 
