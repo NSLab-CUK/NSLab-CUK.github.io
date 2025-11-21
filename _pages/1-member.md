@@ -51,8 +51,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 * Nov 2000 -- Jul 2007: Ph.D. in Computational Linguistics, [<img src="/images/UBFC_Logo.png" alt="drawing" style="height: 20px;"/> University Bourgogne Franche-Comté](https://www.ubfc.fr/), Besançon, France
 * Oct 1998 -- Oct 1999: M.A. in Computational Linguistics, [<img src="/images/UBFC_Logo.png" alt="drawing" style="height: 20px;"/> University Bourgogne Franche-Comté](https://www.ubfc.fr/), Besançon, France
-* Mar 1995 -- Feb 1997: M.A. in French Literature and Linguistics, [<img src="/images/Inha_Logo.png" alt="drawing" style="height: 20px;"/> Inha University](https://www.inha.ac.kr/kr/index.do), Incheon, Republic of Korea
-* Mar 1991 -- Feb 1995: B.A. in French Literature and Linguistics, [<img src="/images/Inha_Logo.png" alt="drawing" style="height: 20px;"/> Inha University](https://www.inha.ac.kr/kr/index.do), Incheon, Republic of Korea
+* Mar 1995 -- Feb 1997: M.A. in French Literature and Linguistics, [<img src="/images/Inha_Logo.png" alt="drawing" style="height: 20px;"/> Inha University](https://www.inha.ac.kr/kr/index.do), Incheon, Korea
+* Mar 1991 -- Feb 1995: B.A. in French Literature and Linguistics, [<img src="/images/Inha_Logo.png" alt="drawing" style="height: 20px;"/> Inha University](https://www.inha.ac.kr/kr/index.do), Incheon, Korea
 * Research Interest: Digital Humanities and Social Sciences
 * <a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
@@ -117,9 +117,9 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/kvpark.jpeg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2024 -- Present: Ph.D in [Interdisciplinary Program in Artificial Intelligence](https://gsai.snu.ac.kr/), [<img src="/images/SNU_Logo.png" alt="drawing" style="height: 20px;"/> Seoul National University](https://www.snu.ac.kr/), Seoul, Republic of Korea
-* Sep 2018 -- Aug 2020: M.Sc. in Industrial Management Engineering, [<img src="/images/KU_Logo.png" alt="drawing" style="height: 20px;"/> Korea University](https://www.korea.edu/), Seoul, Republic of Korea
-* Mar 2013 -- Aug 2017: B.Sc. in Statistics, [<img src="/images/DGU_Logo.png" alt="drawing" style="height: 20px;"/> Dongguk University](https://www.dongguk.edu/), Seoul, Republic of Korea
+* Mar 2024 -- Present: Ph.D in [Interdisciplinary Program in Artificial Intelligence](https://gsai.snu.ac.kr/), [<img src="/images/SNU_Logo.png" alt="drawing" style="height: 20px;"/> Seoul National University](https://www.snu.ac.kr/), Seoul, Korea
+* Sep 2018 -- Aug 2020: M.Sc. in Industrial Management Engineering, [<img src="/images/KU_Logo.png" alt="drawing" style="height: 20px;"/> Korea University](https://www.korea.edu/), Seoul, Korea
+* Mar 2013 -- Aug 2017: B.Sc. in Statistics, [<img src="/images/DGU_Logo.png" alt="drawing" style="height: 20px;"/> Dongguk University](https://www.dongguk.edu/), Seoul, Korea
 * Research Interest: Spatio-Temporal GNNs
 * <a href="mailto:kbpark16@snu.ac.kr"><img src="https://img.shields.io/badge/-kbpark16@snu.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
