@@ -22,7 +22,11 @@ This page includes only our international publications. For domestic publication
 
 ***
 
-* Jeong Eun Lee, Hyeon-Ju Jeon, Min-Seo Kim, Taeyang Kwon, O-Joun Lee†, Hae Gyun Lim†: AI-Assisted Ultrasonic System for Non-Invasive Glucose Classification in Whole Blood. npj Acoustics 09/2025. (To Appear) (†: Co-correspondence)
+* Jeong Eun Lee, Hyeon-Ju Jeon, Min-Seo Kim, Taeyang Kwon, O-Joun Lee†, Hae Gyun Lim†: AI-Assisted Ultrasonic System for Non-Invasive Glucose Classification in Whole Blood. npj Acoustics 11/2025; 1: 29. (†: Co-correspondence) DOI:[10.1038/s44384-025-00034-5](https://doi.org/10.1038/s44384-025-00034-5)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s44384-025-00034-5" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.1038/s44384-025-00034-5" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
 
 * Minh Nguyen-Duc, Luong Vuong Nguyen, Huy Nguyen-Ho-Nhat, Tri-Hai Nguyen, O-Joun Lee: A Comparative Study of Deep Audio Models for Spectrogram- and Waveform-based SingFake Detection. IEEE Access 05/2025; 13: 95739-95752. DOI:[10.1109/ACCESS.2025.3571728](https://doi.org/10.1109/ACCESS.2025.3571728)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
