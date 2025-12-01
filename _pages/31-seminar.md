@@ -28,7 +28,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 {:.no_toc}
 
 <details markdown="1">
-  <summary>V.T. Hoang, Review on "Vision GNN: An Image is Worth Graph of Nodes", NeurIPS 2022</summary>
+  <summary>V.T. Hoang, Review on "Graph-based High-Order Relation Discovery for Fine-grained Recognition", CVPR 2021</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Cja790yeLq3WnH?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
