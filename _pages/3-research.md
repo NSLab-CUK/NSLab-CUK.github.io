@@ -29,8 +29,6 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 [![arXiv](https://img.shields.io/badge/arXiv-2504.15075-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2504.15075)
 [![arXiv](https://img.shields.io/badge/arXiv--Previous-2312.16788-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2312.16788)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
-[![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-bias-in-graph)
-[![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code--Previous-CGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/mitigating-degree-biases-in-message-passing)
 [![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1y0HJxWs4J_zRQTaB7kJHByxE4M8dIMQU/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/dp1h6ANz6LM)
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.newsis.com/view/NISX20250507_0003166687)
@@ -41,7 +39,6 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 [![DOI](http://img.shields.io/:DOI-10.1609/aaai.v38i11.29138-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1609/aaai.v38i11.29138)
 [![arXiv](https://img.shields.io/badge/arXiv-2308.09517-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2308.09517)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
-[![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-UGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/transitivity-preserving-graph-representation)
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1uLluSX5RJ2_9xYkOm5Q3VCQmOM9gTGCp/view?usp=sharing)
 [![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1coABVZSKQGzzW9wtz3n6e8b4if4VtWA0/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/pq-lzrBDqBY)
@@ -57,7 +54,6 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 * Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv preprint 04/2023; arXiv:2304.13195. (Preprint) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2304.13195-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2304.13195)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Connector)
-[![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-Connector%200%2E5-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/connector-0-5-a-unified-framework-for-graph)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Connector)](https://github.com/NSLab-CUK/Connector)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Connector)](https://github.com/NSLab-CUK/Connector)
 
@@ -66,11 +62,16 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1ZcadK5rmvpjQB?startSlide=1" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
+* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on 2D and 3D Molecular Structures by using Multi-View Conditional Information Bottleneck. arXiv preprint 11/2025; arXiv:2511.18404. (Preprint) <br>
+[![arXiv](https://img.shields.io/badge/arXiv-2511.18404-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2511.18404)
+[![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/MVCIB)
+[![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/MVCIB)](https://github.com/NSLab-CUK/MVCIB)
+[![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/MVCIB)](https://github.com/NSLab-CUK/MVCIB)
+
 * Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. The 39th AAAI Conference on Artificial Intelligence (**AAAI 2025**), Philadelphia, PA, USA; 02/2025. <br>
 [![DOI](http://img.shields.io/:DOI-10.1609/aaai.v39i16.33891-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1609/aaai.v39i16.33891)
 [![arXiv](https://img.shields.io/badge/arXiv-2412.15589-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2412.15589)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/S-CGIB)
-[![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-S--CGIB-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/pre-training-graph-neural-networks-on)
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1Hn_KFxcicQhIUo-62RGDIHyxNF6fz2I3/view?usp=sharing)
 [![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1ywIsOkyVOiOq_NbO6SrXtejpgEqGPvCm/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/OLQA4FqHPU0)
@@ -118,7 +119,6 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 [![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2023.3324046-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/ACCESS.2023.3324046)
 [![arXiv](https://img.shields.io/badge/arXiv-2309.03219-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2309.03219)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/LiteralKG)
-[![PWC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-LiteralKG-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/companion-animal-disease-diagnostics-based-on)
 [![Demo](https://img.shields.io/badge/-System%20Demo-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://nslab.catholic.ac.kr/)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/LiteralKG)](https://github.com/NSLab-CUK/LiteralKG)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/LiteralKG)](https://github.com/NSLab-CUK/LiteralKG)
