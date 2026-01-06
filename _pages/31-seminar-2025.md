@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NS-CUK Weekly Seminar
+title: NS-CUK Weekly Seminar on 2025
 permalink: /seminar/2025
 image: CUK_4Seasons.jpg
 description: Archive of papers reviewed by members of the Network Science Lab at the Catholic University of Korea as part of the NS-CUK Weekly Seminar series
