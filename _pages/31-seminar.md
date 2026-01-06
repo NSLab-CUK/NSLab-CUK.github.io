@@ -23,6 +23,9 @@ This page is an archive for papers reviewed by members of the Network Science La
 * [2022](https://nslab-cuk.github.io/seminar/2022/)
 
 ***
+### 2026
+
+***
 #### Jan 05th, 2026
 {:.no_toc}
 
