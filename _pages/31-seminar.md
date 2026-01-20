@@ -26,6 +26,34 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2026
 
 ***
+#### Jan 19th, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>V.T. Hoang, Review on "Group graph: a molecular graph representation with enhanced performance, efficiency and interpretability", Journal of Cheminformatics 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2qUyDdbvXeCOg4?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "DHGFormer: Dynamic Hierarchical Graph Transformer for Disorder Brain Disease Diagnosis​", MICCAI 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4hoCooQbnWQimR?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "Hierarchical Graph Latent Diffusion Model for ConditionalMolecule Generation", CIKM 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1ZgtECnOVriwFw?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>S.H. Lee, Review on "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models", deepseek 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1vNaifs5RlHL3q?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Jan 12th, 2026
 {:.no_toc}
 
