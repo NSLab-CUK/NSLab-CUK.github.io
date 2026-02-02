@@ -1,4 +1,4 @@
-<img width="1843" height="275" alt="image" src="https://github.com/user-attachments/assets/95e16c7a-33f5-4883-932d-c7a28d60d197" />---
+---
 layout: page
 title: NS-CUK Weekly Seminar
 permalink: /seminar/
