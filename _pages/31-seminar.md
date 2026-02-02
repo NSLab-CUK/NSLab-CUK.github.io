@@ -1,4 +1,4 @@
----
+<img width="1843" height="275" alt="image" src="https://github.com/user-attachments/assets/95e16c7a-33f5-4883-932d-c7a28d60d197" />---
 layout: page
 title: NS-CUK Weekly Seminar
 permalink: /seminar/
@@ -24,6 +24,22 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2026
+
+***
+#### Feb 02nd, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Neurocircuitry-Inspired Hierarchical Graph Causal Attention Networks for Explainable Depression Identification​", ICLR 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/D9W2GODtKmwSmd?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "Winner Takes It All: Training Performant RL Populations for Combinatorial Optimization", NeurIPS 2023</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/sNDd0bY0XTEpxI?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
 
 ***
 #### Jan 26th, 2026
