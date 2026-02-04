@@ -302,6 +302,12 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Tri-Hai Nguyen, Huy T. Nguyen, Vo Nguyen Quoc Bao, Thanh-Dat Le, Luong Vuong Nguyen, O-Joun Lee: Energy-Efficient Resource Allocation in O-RAN Using Soft Actor-Critic. Proceedings of the 2025 RIVF International Conference on Computing and Communication Technologies (RIVF 2025), Ho Chi Minh, Vietnam; 12/2025. DOI:[10.1109/RIVF68649.2025.11365239](https://doi.org/10.1109/RIVF68649.2025.11365239)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.1109/RIVF68649.2025.11365239" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.1109/RIVF68649.2025.11365239" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
+
 * Thien Nguyen, Eun-Soon You, Hyun Woo Kim, Van Thuy Hoang, Luong Vuong Nguyen, O-Joun Lee: Constructing a Companion Animal Disease Knowledge Graph by Utilizing LLMs in Data Preprocessing and Pseudo Annotation. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025.
 
 * Tien-Bach-Thanh Do, Jun-Hee Cho, Jin-Hyouk Park, Ki-Nam Kim, Luong Vuong Nguyen, O-Joun Lee: Ground Penetrating Radar Image Analysis for Underground Barrier Detection by Combining YOLOv12 with Channel-wise Attention and Denoising Auto-Encoder. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025.
