@@ -311,11 +311,23 @@ This page includes only our international publications. For domestic publication
 <div class="scite-badge" data-doi="10.1109/RIVF68649.2025.11365239" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Thien Nguyen, Eun-Soon You, Hyun Woo Kim, Van Thuy Hoang, Luong Vuong Nguyen, O-Joun Lee: Constructing a Companion Animal Disease Knowledge Graph by Utilizing LLMs in Data Preprocessing and Pseudo Annotation. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025.
+* Thien Nguyen, Eun-Soon You, Hyun Woo Kim, Van Thuy Hoang, Luong Vuong Nguyen, O-Joun Lee: Constructing a Companion Animal Disease Knowledge Graph by Utilizing LLMs in Data Preprocessing and Pseudo Annotation. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025. DOI:[10.1145/3769002.3769990](https://doi.org/10.1145/3769002.3769990)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.1145/3769002.3769990" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.1145/3769002.3769990" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
 
-* Tien-Bach-Thanh Do, Jun-Hee Cho, Jin-Hyouk Park, Ki-Nam Kim, Luong Vuong Nguyen, O-Joun Lee: Ground Penetrating Radar Image Analysis for Underground Barrier Detection by Combining YOLOv12 with Channel-wise Attention and Denoising Auto-Encoder. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025.
+* Tien-Bach-Thanh Do, Jun-Hee Cho, Jin-Hyouk Park, Ki-Nam Kim, Luong Vuong Nguyen, O-Joun Lee: Ground Penetrating Radar Image Analysis for Underground Barrier Detection by Combining YOLOv12 with Channel-wise Attention and Denoising Auto-Encoder. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025. DOI:[10.1145/3769002.3769961](https://doi.org/10.1145/3769002.3769961)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.1145/3769002.3769961" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.1145/3769002.3769961" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
 
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations of Earth Observations for Weather Forecasting using Graph Structure Learning. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025.
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations of Earth Observations for Weather Forecasting using Graph Structure Learning. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025. DOI:[10.1145/3769002.3769956](https://doi.org/10.1145/3769002.3769956)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.1145/3769002.3769956" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.1145/3769002.3769956" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
 
 * Minsun Cho, Jinwoo Jeong, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. Proceedings of the 247th Electrochemical Society (ECS) Meeting, Montreal, Canada; 05/2025. DOI:[10.1149/MA2025-01331662mtgabs](https://doi.org/10.1149/MA2025-01331662mtgabs)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
