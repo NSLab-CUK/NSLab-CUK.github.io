@@ -57,15 +57,13 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
- 
-### Ph.D. Course
 
-#### [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Sep 2022 -- Present; **Lab Representative**)
+#### Dr. [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Sep 2022 -- Feb 2026)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/Thuy.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Sep 2022 -- Present: Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea	
+* Sep 2022 -- Feb 2026: Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea	
 * Jan 2017 -- Dec 2018: M.Eng. in Information System, [<img src="/images/LQDTU_Logo.png" alt="drawing" style="height: 20px;"/> Le Quy Don Technical University](https://www.lqdtu.edu.vn/), Hanoi, Vietnam
 * Sep 2008 -- Dec 2013: B.Eng. in Information Technology, [<img src="/images/LQDTU_Logo.png" alt="drawing" style="height: 20px;"/> Le Quy Don Technical University](https://www.lqdtu.edu.vn/), Hanoi, Vietnam
 * Research Interest: Graph Representation Learning
@@ -73,6 +71,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+ 
+### Ph.D. Course
  
 #### [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) (Mar 2024 -- Present)
 {:.no_toc}
@@ -85,18 +85,6 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Graph Representation Learning
 * <a href="mailto:osfa19730@catholic.ac.kr"><img src="https://img.shields.io/badge/-osfa19730@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/BachThanh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
-
-#### Thien Nguyen (Sep 2025 -- Present)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/Thien.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Sep 2025 -- Present: Combined Ms-Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
-* Sep 2004 -- Jun 2009: B.Eng. in Information Technology, [Danang University of Science and Technology](https://dut.udn.vn/EN), Danang, Vietnam
-* Research Interest: Graph Representation Learning
-* <a href="mailto:petitlotus001@gmail.com"><img src="https://img.shields.io/badge/-petitlotus001@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
@@ -144,19 +132,6 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ***
 
 ### Undergraduate Interns
-
-#### Jin Woo Jeong (Jul 2023 -- Present)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/jwJeong.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Mar 2020 -- Present: B.Sc. in Mathematics, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
-* Research Interest: Recommender System
-* <a href="mailto:zeus0208b@catholic.ac.kr"><img src="https://img.shields.io/badge/-zeus0208b@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-* <a href="https://github.com/jinnwooo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-* <a href="https://velog.io/@zeus0208b"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
  
 #### Jinho Seo (Jul 2023 -- Present)
 {:.no_toc}
@@ -212,7 +187,19 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ### Ph.D.
 {:.no_toc}
 
-* TBA
+#### Dr. [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Sep 2022 -- Feb 2026)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/Thuy.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Sep 2022 -- Feb 2026: Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea	
+* Jan 2017 -- Dec 2018: M.Eng. in Information System, [<img src="/images/LQDTU_Logo.png" alt="drawing" style="height: 20px;"/> Le Quy Don Technical University](https://www.lqdtu.edu.vn/), Hanoi, Vietnam
+* Sep 2008 -- Dec 2013: B.Eng. in Information Technology, [<img src="/images/LQDTU_Logo.png" alt="drawing" style="height: 20px;"/> Le Quy Don Technical University](https://www.lqdtu.edu.vn/), Hanoi, Vietnam
+* Research Interest: Graph Representation Learning
+* <a href="mailto:hoangvanthuy90@catholic.ac.kr"><img src="https://img.shields.io/badge/-hoangvanthuy90@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
 ### M.Eng.
 {:.no_toc}
