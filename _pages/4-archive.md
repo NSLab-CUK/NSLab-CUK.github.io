@@ -10,6 +10,20 @@ toc_label: "Table of Contents"
 ---
 
 ***
+### 2026
+
+***
+##### Nov 15th, 2025 -- Nov 19th, 2025
+{:.no_toc}
+
+* [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) received his Ph.D. degree in Artificial Intelligence. :tada: :tada:
+
+<p align="center"><img width="700" src="/images/260219_1.jpg"></p>
+<p align="center"><img width="700" src="/images/260219_2.jpg"></p>
+<p align="center"><img width="700" src="/images/260219_3.jpg"></p>
+<p align="center"><img width="700" src="/images/260219_4.jpg"></p>
+
+***
 ### 2025
 
 ***
