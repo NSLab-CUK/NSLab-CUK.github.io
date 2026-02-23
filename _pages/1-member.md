@@ -58,7 +58,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
-#### Dr. [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Sep 2022 -- Feb 2026)
+#### Dr. [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) (Mar 2026 -- Present)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/Thuy.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
@@ -196,6 +196,10 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Jan 2017 -- Dec 2018: M.Eng. in Information System, [<img src="/images/LQDTU_Logo.png" alt="drawing" style="height: 20px;"/> Le Quy Don Technical University](https://www.lqdtu.edu.vn/), Hanoi, Vietnam
 * Sep 2008 -- Dec 2013: B.Eng. in Information Technology, [<img src="/images/LQDTU_Logo.png" alt="drawing" style="height: 20px;"/> Le Quy Don Technical University](https://www.lqdtu.edu.vn/), Hanoi, Vietnam
 * Research Interest: Graph Representation Learning
+* Dissertation: Structure-Preserving Graph Foundation Models for Molecular Structure Analysis<br>
+[![Drive](https://img.shields.io/badge/Drive-Dissertation-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1JgSaUxw4OjdbZ9b0JcJ2-NNiCo1Akxqp/view?usp=sharing)
+[![Drive](https://img.shields.io/badge/Drive-Proposal%20Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1UgAN5gnq1DnJWMG0xA0lcChNPOXgkDc1/view?usp=sharing)
+[![YouTube](https://img.shields.io/badge/YouTube-Proposal%20Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/X1PkYvAEKGw)
 * <a href="mailto:hoangvanthuy90@catholic.ac.kr"><img src="https://img.shields.io/badge/-hoangvanthuy90@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 
