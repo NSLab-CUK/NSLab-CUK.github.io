@@ -62,6 +62,12 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1ZcadK5rmvpjQB?startSlide=1" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
+* Van Thuy Hoang, O-Joun Lee: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction. arXiv preprint 01/2026; arXiv:2601.11135. (Preprint) <br>
+[![arXiv](https://img.shields.io/badge/arXiv-2601.11135-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2601.11135)
+[![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/CaMol)
+[![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/CaMol)](https://github.com/NSLab-CUK/CaMol)
+[![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/CaMol)](https://github.com/NSLab-CUK/CaMol)
+
 * Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on 2D and 3D Molecular Structures by using Multi-View Conditional Information Bottleneck. arXiv preprint 11/2025; arXiv:2511.18404. (Preprint) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2511.18404-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2511.18404)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/MVCIB)
