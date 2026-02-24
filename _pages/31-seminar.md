@@ -52,8 +52,8 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4i2l9ecSdQPqW4?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
-***
 
+***
 #### Feb 02nd, 2026
 {:.no_toc}
 
