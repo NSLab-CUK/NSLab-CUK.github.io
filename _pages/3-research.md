@@ -121,6 +121,11 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ### Medical Knowledge Graph Reasoning for Disease Diagnosis
 {:.no_toc}
 
+* Thien Nguyen, Eun-Soon You, Hyun Woo Kim, Van Thuy Hoang, Luong Vuong Nguyen, O-Joun Lee: Constructing a Companion Animal Disease Knowledge Graph by Utilizing LLMs in Data Preprocessing and Pseudo Annotation. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025. <br>
+[![DOI](http://img.shields.io/:DOI-10.1145/3769002.3769990-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1145/3769002.3769990)
+[![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/noVHy1JOEj8)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=flat-square&logo=YouTube)](https://youtu.be/O_gmLmPHYrs)
+
 * Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. IEEE Access 10/2023; 11: 114238-114249. <br>
 [![DOI](http://img.shields.io/:DOI-10.1109/ACCESS.2023.3324046-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/ACCESS.2023.3324046)
 [![arXiv](https://img.shields.io/badge/arXiv-2309.03219-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2309.03219)
