@@ -224,6 +224,7 @@ Academic Activities
 Membership
 ------------
 
+* 가톨릭대학교 교수협의회, 운영위원, 2026
 * [대한의용생체공학회](https://kosombe.or.kr/society/sub04.html), 학술위원, since Feb 2026
 * [한국정보과학회](https://www.kiise.or.kr/) [데이터소사이어티](https://dbsociety.kr/), 이사, since Feb 2025
 * [한국스마트미디어학회](https://kism.jams.or.kr/co/main/jmMain.kci), 상임이사, since Jan 2023
