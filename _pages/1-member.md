@@ -71,7 +71,9 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
- 
+
+***
+
 ### Ph.D. Course
  
 #### [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) (Mar 2024 -- Present)
