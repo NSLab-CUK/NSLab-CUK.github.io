@@ -22,11 +22,13 @@ This page includes additional research outputs beyond conventional academic publ
 
 ***
 
+* O-Joun Lee, Hyun-Woo Kim, Soohaeng Lee, Eun-Soon You, Heyong Seok Kim, Tae Woo Kim: System for Compressing Data based on Knowledge Graph and Method Thereof (지식그래프 기반 데이터 압축 시스템 및 그 방법). Ref. No: KR 1020260017562, 01/2026 (Transferred to [Petobio Co., Ltd.](https://www.petobio.com/en), 7.5 Mil KRW)
+
 * O-Joun Lee, Van Thuy Hoang: Method for pre-training graph neural network for 2D and 3D molecular structures and system thereof (분자의 2차원 및 3차원 구조에 대한 그래프 신경망 사전학습 방법 및 그 시스템). Ref. No: KR 1020250169745, 11/2025
 
 * O-Joun Lee, Van Thuy Hoang: Method for pre-training using graph information bottleneck based on subgraph and system thereof (서브그래프 기반 그래프 정보 병목 기법을 이용한 사전학습 방법 및 그 시스템). Ref. No: KR 1020250030478, 03/2025
 
-* O-Joun Lee, Van Thuy Hoang, Hochan Yang, Ju Hee Shim, Seung Kim, SungGyu Kim: System of Recommending Halal Cosmetics based on Knowledge Graph Representation Learning (지식 그래프 표현 학습에 기반한 할랄 화장품 추천 시스템). Ref. No: KR 1020240159542, 11/2024 (Transferred to [Shukran Korea Inc.](https://www.shukrankorea.com/))
+* O-Joun Lee, Van Thuy Hoang, Hochan Yang, Ju Hee Shim, Seung Kim, SungGyu Kim: System of Recommending Halal Cosmetics based on Knowledge Graph Representation Learning (지식 그래프 표현 학습에 기반한 할랄 화장품 추천 시스템). Ref. No: KR 1020240159542, 11/2024 (Transferred to [Shukran Korea Inc.](https://www.shukrankorea.com/), 6 Mil KRW)
 
 * O-Joun Lee, Van Thuy Hoang: Graph Represntation Learning Method and System Thereof (그래프 표현 학습 방법 및 그 시스템). Ref. No: KR 1020240104783, 08/2024
 
@@ -34,7 +36,7 @@ This page includes additional research outputs beyond conventional academic publ
 
 * O-Joun Lee, Van Thuy Hoang: Apparatus and Method for Training Graph Neural Network based on Graph Augmentation (그래프 증강 기반 그래프 뉴럴 네트워크 학습 방법 및 장치). Ref. No: KR 1020240086072, 07/2024 
 
-* O-Joun Lee, Van Thuy Hoang, Ho Beom Kim, Jinho Seo, Seung Charlie Kim, Nox Kim: System and Method for Predicting Availability based on Knowledge Graph (지식 그래프 기반의 가용성 예측 시스템 및 방법). Ref. No: KR 1020230171167, 11/2023 (Transferred to [Shukran Korea Inc.](https://www.shukrankorea.com/))
+* O-Joun Lee, Van Thuy Hoang, Ho Beom Kim, Jinho Seo, Seung Charlie Kim, Nox Kim: System and Method for Predicting Availability based on Knowledge Graph (지식 그래프 기반의 가용성 예측 시스템 및 방법). Ref. No: KR 1020230171167, 11/2023 (Transferred to [Shukran Korea Inc.](https://www.shukrankorea.com/), 11 Mil KRW)
 
 * Young Man Kwon, Seok Jeong, O-Joun Lee, [Joo-Ho Lee](https://nslab-cuk.github.io/member/jhlee), [Ji-Yoon Song](https://nslab-cuk.github.io/member/jysong): System for Providing Context Awareness based Cross-Domain Recommendation Service for Retail Kiosk (리테일 키오스크를 위한 상황인지 기반 크로스도메인 추천 서비스 제공 시스템). Ref. No: KR 1020220087796, 07/2022
 
