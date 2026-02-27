@@ -202,6 +202,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 [![Drive](https://img.shields.io/badge/Drive-Dissertation-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1JgSaUxw4OjdbZ9b0JcJ2-NNiCo1Akxqp/view?usp=sharing)
 [![Drive](https://img.shields.io/badge/Drive-Proposal%20Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1UgAN5gnq1DnJWMG0xA0lcChNPOXgkDc1/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Proposal%20Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/X1PkYvAEKGw)
+[![Drive](https://img.shields.io/badge/Drive-Defense%20Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1fLpLcoP2RcHldwFliGWY1-ZjViYVV_hf/view?usp=sharing)
+[![YouTube](https://img.shields.io/badge/YouTube-Defense%20Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/qvEsSLBOJhk)
 * <a href="mailto:hoangvanthuy90@catholic.ac.kr"><img src="https://img.shields.io/badge/-hoangvanthuy90@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
 
