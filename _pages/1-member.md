@@ -100,7 +100,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Mar 2012 -- Feb 2014: M.B.A. in Business Administration, 🏛 Sungkyunkwan University, Seoul, Korea
 * Mar 2005 -- Feb 2009: B.Eng. in Computer Engineering, 🏛 Sangmyung University, Seoul, Korea
 * Industry Experience (14+ yrs): KT · INNOCEAN (Hyundai Motor Group) · CJ · LG · Samsung AI/DX Strategy & Consulting
-* Books: "AI 전환 절대 공식 (AI Transformation Absolute Formula)", Hankyung Business Press, 2025 (Bestseller)
+* Books: "[AI 전환 절대 공식 (AI Transformation Absolute Formula)](https://product.kyobobook.co.kr/detail/S000219116321)", Hankyung Business Press, 2025 (Bestseller)
 * Research Interest: AI Transformation (AX) Strategy, Enterprise AI Adoption, Generative AI for Business Process Redesign
 * <a href="mailto:wjfmqur@naver.com"><img src="https://img.shields.io/badge/-wjfmqur@naver.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://www.linkedin.com/in/kimkunwoo/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"></a>
