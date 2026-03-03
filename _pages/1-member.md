@@ -90,6 +90,46 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
+#### Kunwoo Kim (Mar 2026 -- Present; Part-time)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/kwkim.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Mar 2026 -- Present: Adjunct Professor, Dept. of Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Mar 2025 -- Present: Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Mar 2012 -- Feb 2014: M.B.A. in Business Administration, 🏛 Sungkyunkwan University, Seoul, Korea
+* Mar 2005 -- Feb 2009: B.Eng. in Computer Engineering, 🏛 Sangmyung University, Seoul, Korea
+* Industry Experience (14+ yrs): KT · INNOCEAN (Hyundai Motor Group) · CJ · LG · Samsung AI/DX Strategy & Consulting
+* Books: "AI 전환 절대 공식 (AI Transformation Absolute Formula)", Hankyung Business Press, 2025 (Bestseller)
+* Research Interest: AI Transformation (AX) Strategy, Enterprise AI Adoption, Generative AI for Business Process Redesign
+* <a href="mailto:wjfmqur@naver.com"><img src="https://img.shields.io/badge/-wjfmqur@naver.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="https://www.linkedin.com/in/kimkunwoo/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"></a>
+* <a href="https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bjky&x_csa=%7B%22fromUi%22%3A%22kb%22%7D&pkid=1&os=40684826&qvt=0&query=%EA%B9%80%EA%B1%B4%EC%9A%B0%20%EC%9E%91%EA%B0%80"><img src="https://img.shields.io/badge/Naver-인물-03C75A?style=flat-square&logo=naver&logoColor=03C75A"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+
+#### Gwangcheol Lee (Mar 2026 -- Present; Part-time)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/gclee.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Mar 2025 -- Present: Combined Ms-Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Research Interest: Graph Representation Learning, Natural Language Processing, Health and Medical Big Data on Parents with Disabilities
+* <a href="mailto:gwangcheol@catholic.ac.kr"><img src="https://img.shields.io/badge/-gwangcheol@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+
+#### Won Pyo Hong (Mar 2026 -- Present; Part-time)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/wphong.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Mar 2025 -- Present: Combined Ms-Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Research Interest: Agentic AI
+* <a href="mailto:dnjsvy16@gmail.com"><img src="https://img.shields.io/badge/-dnjsvy16@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+
 #### Ho Huu Tuong (Mar 2026 -- Present)
 {:.no_toc}
 
@@ -98,7 +138,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Mar 2026 -- Present: Combined Ms-Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Sep 2021 -- Apr 2025: B.Eng. in Artificial Intelligence, [FPT University](https://daihoc.fpt.edu.vn/), Danang, Vietnam
 * Research Interest: Graph Representation Learning
-* <a href="mailto:petitlotus001@gmail.com"><img src="https://img.shields.io/badge/-petitlotus001@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="mailto:tuongho.dev@gmail.com"><img src="https://img.shields.io/badge/-tuongho.dev@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
