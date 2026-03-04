@@ -366,6 +366,8 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ***
 ## Research Grants
 
+* “Development of GPR Survey Result Analysis System - 3rd Year,” funded by [Movements Inc.](https://www.movements.kr/) (Mar 2026 – Nov 2026, 80 Mil KRW) (PI: **O-Joun Lee**)
+  * _In Korean_: GPR 탐사 결과 분석 시스템 연구개발 - 3차년도, [주식회사 무브먼츠](https://www.movements.kr/)/산학과제
 * “Constructing Veterinary Knowledge Graph and Developing GraphRAG-based LLM Services,” supported by the Gyeonggi RISE Project and funded by MOE of Korea and Gyeonggi Province (Sep 2025 – Jan 2026, 30 Mil KRW), by cooperating with [Petobio Co., Ltd.](https://www.petobio.com/en) (PI: **O-Joun Lee**)
   * _In Korean_: 수의료 지식그래프 구축을 통한 GraphRAG 기반 수의료 LLM 서비스 개발, 경기도/RISE 지산학협력기술개발과제-[주식회사 페토바이오](https://www.petobio.com/)
 * “Multi-view Pre-training and Parameter-efficient Tuning for Structure-Preserving Molecular Graph Foundation Models,” supported by the Outstanding Young Scientist Grants (Seeds Grants) through NRF of Korea and funded by MSIT of Korea (Sep 2025 – Aug 2026, 80 Mil KRW) (PI: **O-Joun Lee**)
