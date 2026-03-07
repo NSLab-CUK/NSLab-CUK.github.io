@@ -174,7 +174,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 #### YU JUNCHENG (Mar 2026 -- Present)
 {:.no_toc}
 
-<img align="right" src="https://nslab-cuk.github.io/imagesYuJunCheng.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+<img align="right" src="https://nslab-cuk.github.io/images/YuJunCheng.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
 * Mar 2026 -- Present: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Research Interest: Natural Language Processing
