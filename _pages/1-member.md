@@ -162,10 +162,11 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 #### HUANG JINXI (Mar 2026 – Present)
 {:.no_toc}
 
-<img align="right" src="https://nslab-cuk.github.io/images/YuJunCheng.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+<img align="right" src="https://nslab-cuk.github.io/images/HuangJinXi.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
 * Mar 2026 -- Present: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
-* Research Interest: Natural Language Processing
+* Sep 2020 -- Jun 2024: B.Eng. in Communication Engineering, [Yanbian University](https://en.ybu.edu.cn), Yanbian City, China
+* Research Interest: Natural Language Processing, Large Language Models, Deep Learning
 * <a href="mailto:anxinxu20020413@outlook.com"><img src="https://img.shields.io/badge/-anxinxu20020413@outlook.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
@@ -173,11 +174,10 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 #### YU JUNCHENG (Mar 2026 -- Present)
 {:.no_toc}
 
-<img align="right" src="https://nslab-cuk.github.io/images/An-Sin-Yuk.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+<img align="right" src="https://nslab-cuk.github.io/imagesYuJunCheng.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Sep 2025 -- Present: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
-* Sep 2020 -- Jun 2024: B.Eng. in Communication Engineering, [Yanbian University](https://en.ybu.edu.cn), Yanbian City, China
-* Research Interest: Graph Representation Learning
+* Mar 2026 -- Present: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Research Interest: Natural Language Processing
 * <a href="mailto:anxinxu20020413@outlook.com"><img src="https://img.shields.io/badge/-anxinxu20020413@outlook.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
