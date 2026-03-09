@@ -211,29 +211,6 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 ### Undergraduate Interns
  
-#### Jinho Seo (Jul 2023 -- Present)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/jhSeo.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Mar 2023 -- Present: B.Eng. in  Computer Science and Information Engineering, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
-* Research Interest: Software Vulnerability Analysis with GNNs
-* <a href="mailto:kkinho04@catholic.ac.kr"><img src="https://img.shields.io/badge/-kkinho04@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-* <a href="https://github.com/orangemush7777"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
- 
-#### Hochan Yang (May 2024 -- Present)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/hcYang.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Mar 2020 -- Present: B.Eng. in  Computer Science and Information Engineering, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
-* Research Interest: Natural Language Processing
-* <a href="mailto:ukg_15@catholic.ac.kr"><img src="https://img.shields.io/badge/-ukg_15@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
- 
 #### Hyun Woo Kim (May 2024 -- Present)
 {:.no_toc}
 
