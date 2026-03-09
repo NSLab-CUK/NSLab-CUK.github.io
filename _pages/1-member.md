@@ -181,7 +181,32 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="mailto:anxinxu20020413@outlook.com"><img src="https://img.shields.io/badge/-anxinxu20020413@outlook.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
-   
+
+#### Li Yayong (Mar 2026 -- Present)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/Li Yayong.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Mar 2026 -- Present: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Sep 2012 -- Jun 2016: B.Eng. in Communication Engineering, Jiangxi University of Science and Technology, GanZhou City, China
+* Research Interest: Natural Language Processing, Deep Learning
+* <a href="mailto:fengyun.lyy@gmail.com"><img src="https://img.shields.io/badge/-fengyun.lyy@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+
+#### Du Wenbo (Mar 2026 -- Present)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/Du Wenbo.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Mar 2026 -- Present: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Sep 2021 -- Jun 2025: B.Eng. in Communication Engineering, Shandong Yingcai University, JiNan City, China
+* Research Interest: Natural Language Processing, Deep Learning
+* <a href="mailto:yese020814@163.com"><img src="https://img.shields.io/badge/-yese020814@163.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+
+
 ***
 
 ### Undergraduate Interns
@@ -230,7 +255,61 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="mailto:junhe0733@catholic.ac.kr"><img src="https://img.shields.io/badge/-junhe0733@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
- 
+
+#### Soo Haeng Lee (Sep 2025 -- Present)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/Soo Haeng Lee.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Mar 2018 -- Present: B.A. in Philosophy, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Research Interest: Graph Representation Learning
+* <a href="mailto:soo7121@gmail.com"><img src="https://img.shields.io/badge/-soo7121@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+
+#### Min Seo Kwon (Jan 2026 -- Present)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/Min Seo Kwon.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Jan 2026 -- Present: B.Eng. in Data Science, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Research Interest: Graph-based NLP
+* <a href="mailto:minssoo666@gmail.com"><img src="https://img.shields.io/badge/-minssoo666@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+
+#### Da Sol Kim (Jan 2026 -- Present)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/Da Sol Kim.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Mar 2024 -- Present: B.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Research Interest: Graph Representation Learning
+* <a href="mailto:dasol040509@catholic.ac.kr"><img src="https://img.shields.io/badge/-dasol040509@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+
+#### Chae Won Park (Jan 2026 -- Present)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/Chae Won Park.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Mar 2024 -- Present: B.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Research Interest: Graph Representation Learning
+* <a href="mailto:codnjsld@catholic.ac.kr"><img src="https://img.shields.io/badge/-codnjsld@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+
+#### Na Hae Eom (Mar 2026 -- Present)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/Na Hae Eom.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Mar 2024 -- Present: B.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Research Interest: Recommender System, Graph Representational Learning on Heterophilic Graph
+* <a href="mailto:loveyooforevermore@gmail.com"><img src="https://img.shields.io/badge/-loveyooforevermore@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 ***
 
 ## Alumni
