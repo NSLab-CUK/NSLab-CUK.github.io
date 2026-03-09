@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2026
 
 ***
+##### Mar 9th, 2026
+{:.no_toc}
+
+* We started an industry-academic cooperation project on "Development of GPR Survey Result Analysis System - 3rd Year (GPR 탐사 결과 분석 시스템 연구개발 - 3차년도)," funded by [Movements Inc. (주식회사 무브먼츠)](https://www.movements.kr/) (Mar 2026 -- Nov 2026, 80 Mil KRW).
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.movements.kr/"><img align="center" src="/images/Movements_Logo.png" style="width : 330px; margin : 10px"></a></p>
+
+***
 ##### Mar 4th, 2026
 {:.no_toc}
 
@@ -53,6 +61,16 @@ toc_label: "Table of Contents"
 {:.no_toc}
 
 <p align="center"><img width="700" src="/images/251110.jpg"></p>
+
+***
+##### Sep 27th, 2025
+{:.no_toc}
+
+* Our research was featured in [CUK NEWS](https://www.instagram.com/p/DPGuBFyj9sN/).
+
+<p align="center"><img width="700" src="/images/250927_1.webp"></p>
+<p align="center"><img width="700" src="/images/250927_2.webp"></p>
+
 
 ***
 ##### Sep 11th, 2025
@@ -120,6 +138,15 @@ toc_label: "Table of Contents"
 * A research contribution from NS Lab @ CUK is nominated as [one of the major research achievements](https://www.catholic.ac.kr/ko/research/result.do?mode=view&articleNo=263055) of [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/).
 
 <p align="center"><img width="700" src="/images/250814.jpg"></p>
+
+***
+##### Jul 28th, 2025
+{:.no_toc}
+
+* Our research was featured in [CUK NEWS](https://www.instagram.com/p/DMpWJATPXaa/).
+
+<p align="center"><img width="700" src="/images/250728_1.webp"></p>
+<p align="center"><img width="700" src="/images/250728_2.webp"></p>
 
 ***
 ##### Jul 25th, 2025
