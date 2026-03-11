@@ -159,7 +159,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 ### M.Eng. Course
 
-#### HUANG JINXI (Mar 2026 – Present)
+#### Jinxi Huang (Mar 2026 – Present)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/HuangJinXi.png" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
@@ -167,22 +167,22 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Mar 2026 -- Present: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Sep 2020 -- Jun 2024: B.Eng. in Communication Engineering, [Yanbian University](https://en.ybu.edu.cn), Yanbian City, China
 * Research Interest: Natural Language Processing, Large Language Models, Deep Learning
-* <a href="mailto:anxinxu20020413@outlook.com"><img src="https://img.shields.io/badge/-anxinxu20020413@outlook.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="mailto:1425342453@qq.com"><img src="https://img.shields.io/badge/-1425342453@qq.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
-#### YU JUNCHENG (Mar 2026 -- Present)
+#### Juncheng Yu (Mar 2026 -- Present)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/YuJunCheng.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
 * Mar 2026 -- Present: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Research Interest: Natural Language Processing
-* <a href="mailto:anxinxu20020413@outlook.com"><img src="https://img.shields.io/badge/-anxinxu20020413@outlook.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="mailto:15328220826@163.com"><img src="https://img.shields.io/badge/-15328220826@163.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
-#### Li Yayong (Mar 2026 -- Present)
+#### Yayong Li (Mar 2026 -- Present)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/Li  Yayong.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
@@ -194,7 +194,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
-#### Du Wenbo (Mar 2026 -- Present)
+#### Wenbo Du (Mar 2026 -- Present)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/Du Wenbo.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
@@ -287,6 +287,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * <a href="mailto:loveyooforevermore@gmail.com"><img src="https://img.shields.io/badge/-loveyooforevermore@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+
 ***
 
 ## Alumni
