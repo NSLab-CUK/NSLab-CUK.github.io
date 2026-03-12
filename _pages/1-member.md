@@ -316,6 +316,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 [![YouTube](https://img.shields.io/badge/YouTube-Defense%20Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/qvEsSLBOJhk)
 * <a href="mailto:hoangvanthuy90@catholic.ac.kr"><img src="https://img.shields.io/badge/-hoangvanthuy90@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+* [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DE7Cc8rAAAAAJ)](https://scholar.google.com/citations?user=E7Cc8rAAAAAJ)
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
