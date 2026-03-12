@@ -33,6 +33,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
   * Under the supervision of [Prof. Jason J. Jung](http://intelligent.pe.kr/) within the [<img src="/images/KE_Logo.png" alt="drawing" style="height: 20px;"/> Knowledge Engineering Lab](http://ke.cau.ac.kr/Main_Page)
 * Mar 2011 -- Feb 2015: B.Eng. in Software Science, [<img src="/images/DKU_Logo1.jpg" alt="drawing" style="height: 20px;"/> Dankook University](https://www.dankook.ac.kr/), Yongin, Korea
 * <a href="mailto:ojlee@catholic.ac.kr"><img src="https://img.shields.io/badge/ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3D43GFjoYAAAAJ)](https://scholar.google.com/citations?user=43GFjoYAAAAJ)
 * Erdős Number: [6](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1361232&target=189017)
 
 
@@ -69,6 +70,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Graph Representation Learning
 * <a href="mailto:hoangvanthuy90@catholic.ac.kr"><img src="https://img.shields.io/badge/-hoangvanthuy90@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/hoangvanthuy90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+* [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DE7Cc8rAAAAAJ)](https://scholar.google.com/citations?user=E7Cc8rAAAAAJ)
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
