@@ -11,6 +11,7 @@ description: Curriculum vitae of Van Thuy Hoang
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0000-0003-4094-1123) 
 [![Scopus](https://img.shields.io/badge/Scopus%20Author%20ID-E9711C?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=58203779900) 
 [![IEEE](https://img.shields.io/badge/IEEE%20Author%20Profile-00629B?style=flat-square&logo=IEEE&logoColor=white)](https://ieeexplore.ieee.org/author/37090049424) 
+[![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://hoangvanthuy90.github.io/)
 
 <br>
 
@@ -69,4 +70,5 @@ Conference Proceedings
 
 Projects
 ============
+
 
