@@ -56,6 +56,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Mar 1991 -- Feb 1995: B.A. in French Literature and Linguistics, [<img src="/images/Inha_Logo.png" alt="drawing" style="height: 20px;"/> Inha University](https://www.inha.ac.kr/kr/index.do), Incheon, Korea
 * Research Interest: Digital Humanities and Social Sciences
 * <a href="mailto:tesniere@catholic.ac.kr"><img src="https://img.shields.io/badge/-tesniere@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3Dik1f348AAAAJ)](https://scholar.google.com/citations?user=ik1f348AAAAJ)
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
