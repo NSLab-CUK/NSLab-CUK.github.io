@@ -10,6 +10,13 @@ toc_label: "Table of Contents"
 last_modified_at: 2025-04-03 15:30:00 +0900
 ---
 
+Nature and knowledge cannot be understood in isolation.
+Every phenomenon emerges from a network of interactions.
+> *"In der großen Verkettung der Ursachen und Wirkungen darf kein Stoff und keine Tätigkeit isoliert betrachtet werden."*
+>
+> *"In the great chain of causes and effects, no substance and no activity may be considered in isolation."*
+>
+> — Alexander von Humboldt, *Ideen zu einer Geographie der Pflanzen* (1807)
 
 ***
 
