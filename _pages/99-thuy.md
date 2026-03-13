@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Van Thuy Hoang"
+title: "Van Thuy Hoang, Ph.D."
 permalink: /member/hoangvanthuy90
 image: 250228_02.jpg
 description: Curriculum vitae of Van Thuy Hoang
@@ -69,3 +69,4 @@ Conference Proceedings
 
 Projects
 ============
+
