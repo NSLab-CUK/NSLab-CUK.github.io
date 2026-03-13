@@ -329,7 +329,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/ujO.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Sep 2023 -- Present: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Sep 2023 -- Aug 2025: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Sep 2019 -- Aug 2023: B.A. in Korean Language and Literature, Jeonju University, Jeonju, Korea
 * Sep 2015 -- Aug 2019: B.P.A. in Public Administration, The Open University of China, Beijing, China
 * Research Interset: NLP Long Text Summary
@@ -356,7 +356,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/mskim2.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2019 -- Present: B.Eng. in Communications and Electronic Engineering, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea	
+* Mar 2019 -- Feb 2026: B.Eng. in Communications and Electronic Engineering, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea	
 * Research Interest: Natural Language Processing
 * <a href="mailto:kms39273@catholic.ac.kr"><img src="https://img.shields.io/badge/-kms39273@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/luckyvickyricky"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
