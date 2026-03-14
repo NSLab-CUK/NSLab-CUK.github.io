@@ -409,7 +409,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
   * _In Korean_: 인공지능 반도체용 ReRAM crossbar array(CBA) 회로 설계 및 최적화를 위한 기계학습 기반 멀티 스케일 시뮬레이션 플랫폼 개발, 과학기술정보통신부/한국연구재단(NRF)/**차세대지능형반도체기술개발사업**/2022M3F3A2A01085531
 * “Development of Veterinary Information Services based on Chatbot,” funded by [IntoCNS Co., Ltd.](https://www.intocns.com/) (Feb 2022 – Oct 2022, 150 Mil KRW) (PI: Kang-Min Kim; Co-Is: **O-Joun Lee**, Mansu Kim, and Donghwa Jeong)
   * _In Korean_: 웨어러블 디바이스를 활용한 반려동물 행동 패턴 및 질병 진단 예측 모델 개발과 챗봇 기반 동물의학정보 제공 솔루션 개발, [주식회사 인투씨엔에스](https://www.intocns.com/)/산학과제
-* “Chatbot-based Kiosk Interface and Menu Recommendation System,” funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 – Apr 2022, 20 Mil KRW) (PI: Kang-Min Kim; Co-I: **O-Joun Lee**)
+* “Chatbot-based Kiosk Interface and Menu Recommendation System,” funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 – Apr 2022, 10 Mil KRW) (PI: Kang-Min Kim; Co-I: **O-Joun Lee**)
   * _In Korean_: 챗봇 기반 장애인용 키오스크 인터페이스 및 메뉴 추천 시스템, [오더퀸 주식회사](http://www.orderqueen.co.kr/)/산학과제
 * Intramural Research Program funded by The Catholic University of Korea (Sep 2021 – Aug 2022, 7 Mil KRW) (PI: **O-Joun Lee**)
 * Intramural Research Program funded by POSTECH (Nov 2020 – Sep 2021, 50 Mil KRW) (PI: **O-Joun Lee**)
