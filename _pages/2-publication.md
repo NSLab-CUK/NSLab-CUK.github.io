@@ -537,25 +537,25 @@ This page includes only our international publications. For domestic publication
 <div class="scite-badge" data-doi="10.48550/arXiv.2511.18404" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations between Earth Observations in Global Atmospheric State Estimation by using Adaptive Graph Structure Learning. arXiv preprint 08/2025; arXiv:2508.07659. (Preprint) DOI:[10.48550/arXiv.2508.07659](https://doi.org/10.48550/arXiv.2508.07659)
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations between Earth Observations in Global Atmospheric State Estimation by using Adaptive Graph Structure Learning. arXiv preprint 08/2025; arXiv:2508.07659. (Preprint) DOI:[10.48550/arXiv.2508.07659](https://doi.org/10.48550/arXiv.2508.07659) [[Published Version](https://nslab-cuk.github.io/publication/#conference-proceedings:~:text=Hyeon%2DJu%20Jeon%2C%20Jeon%2DHo%20Kang%2C%20In%2DHyuk%20Kwon%2C%20O%2DJoun%20Lee%3A%20Discovering%20Spatial%20Correlations%20of%20Earth%20Observations%20for%20Weather%20Forecasting%20using%20Graph%20Structure%20Learning.)]
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2508.07659" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.48550/arXiv.2508.07659" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention. arXiv preprint 04/2025; arXiv:2504.15075. (Preprint) DOI:[10.48550/arXiv.2504.15075](https://doi.org/10.48550/arXiv.2504.15075)
+* Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention. arXiv preprint 04/2025; arXiv:2504.15075. (Preprint) DOI:[10.48550/arXiv.2504.15075](https://doi.org/10.48550/arXiv.2504.15075) [[Published Version](https://nslab-cuk.github.io/publication/#journal-publications:~:text=citation%20was%20made.-,Van%20Thuy%20Hoang%2C%20Hyeon%2DJu%20Jeon%2C%20O%2DJoun%20Lee%3A%20Mitigating%20Degree%20Bias%20in%20Graph%20Representation%20Learning%20with%20Learnable%20Structural%20Augmentation%20and%20Structural%20Self%2Dattention,-.%20IEEE%20Transactions%20on)]
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2504.15075" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.48550/arXiv.2504.15075" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck. arXiv preprint 12/2024; arXiv:2412.15589. (Preprint) DOI:[10.48550/arXiv.2412.15589](https://doi.org/10.48550/arXiv.2412.15589)
+* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck. arXiv preprint 12/2024; arXiv:2412.15589. (Preprint) DOI:[10.48550/arXiv.2412.15589](https://doi.org/10.48550/arXiv.2412.15589) [[Published Version](https://nslab-cuk.github.io/publication/#conference-proceedings:~:text=citation%20was%20made.-,Van%20Thuy%20Hoang%2C%20O%2DJoun%20Lee%3A%20Pre%2Dtraining%20Graph%20Neural%20Networks%20on%20Molecules%20by%20using%20Subgraph%2Dconditioned%20Graph%20Information%20Bottleneck,-.%20Proceedings%20of%20the)]
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2412.15589" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.48550/arXiv.2412.15589" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. arXiv preprint 03/2024; arXiv:2403.17384. (Preprint) DOI:[10.48550/arXiv.2403.17384](https://doi.org/10.48550/arXiv.2403.17384)
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. arXiv preprint 03/2024; arXiv:2403.17384. (Preprint) DOI:[10.48550/arXiv.2403.17384](https://doi.org/10.48550/arXiv.2403.17384) [[Published Version](https://nslab-cuk.github.io/publication/#conference-proceedings:~:text=citation%20was%20made.-,Hyeon%2DJu%20Jeon%2C%20Jeon%2DHo%20Kang%2C%20In%2DHyuk%20Kwon%2C%20O%2DJoun%20Lee%3A%20Explainable%20Graph%20Neural%20Networks%20for%20Observation%20Impact%20Analysis%20in%20Atmospheric%20State%20Estimation,-.%20Proceedings%20of%20the)]
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2403.17384" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.48550/arXiv.2403.17384" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
@@ -573,19 +573,19 @@ This page includes only our international publications. For domestic publication
 <div class="scite-badge" data-doi="10.48550/arXiv.2401.16176" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Message Passing Mechanism by Utilizing Community Structures. arXiv preprint 12/2023; arXiv:2312.16788. (Preprint) DOI:[10.48550/arXiv.2312.16788](https://doi.org/10.48550/arXiv.2312.16788)
+* Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Message Passing Mechanism by Utilizing Community Structures. arXiv preprint 12/2023; arXiv:2312.16788. (Preprint) DOI:[10.48550/arXiv.2312.16788](https://doi.org/10.48550/arXiv.2312.16788) [[Published Version](https://nslab-cuk.github.io/publication/#journal-publications:~:text=citation%20was%20made.-,Van%20Thuy%20Hoang%2C%20Hyeon%2DJu%20Jeon%2C%20O%2DJoun%20Lee%3A%20Mitigating%20Degree%20Bias%20in%20Graph%20Representation%20Learning%20with%20Learnable%20Structural%20Augmentation%20and%20Structural%20Self%2Dattention,-.%20IEEE%20Transactions%20on)]
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2312.16788" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.48550/arXiv.2312.16788" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. arXiv preprint 09/2023; arXiv:2309.03219. (Preprint) DOI:[10.48550/arXiv.2309.03219](https://doi.org/10.48550/arXiv.2309.03219)
+* Van Thuy Hoang, Sang Thanh Nguyen, Sangmyeong Lee, Jooho Lee, Luong Vuong Nguyen, O-Joun Lee: Companion Animal Disease Diagnostics based on Literal-aware Medical Knowledge Graph Representation Learning. arXiv preprint 09/2023; arXiv:2309.03219. (Preprint) DOI:[10.48550/arXiv.2309.03219](https://doi.org/10.48550/arXiv.2309.03219) [[Published Version](https://nslab-cuk.github.io/publication/#journal-publications:~:text=citation%20was%20made.-,Van%20Thuy%20Hoang%2C%20Sang%20Thanh%20Nguyen%2C%20Sangmyeong%20Lee%2C%20Jooho%20Lee%2C%20Luong%20Vuong%20Nguyen%2C%20O%2DJoun%20Lee%3A%20Companion%20Animal%20Disease%20Diagnostics%20based%20on%20Literal%2Daware%20Medical%20Knowledge%20Graph%20Representation%20Learning,-.%20IEEE%20Access%2010)]
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2309.03219" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.48550/arXiv.2309.03219" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. arXiv preprint 08/2023; arXiv:2308.09517. (Preprint) DOI:[10.48550/arXiv.2308.09517](https://doi.org/10.48550/arXiv.2308.09517)
+* Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. arXiv preprint 08/2023; arXiv:2308.09517. (Preprint) DOI:[10.48550/arXiv.2308.09517](https://doi.org/10.48550/arXiv.2308.09517) [[Published Version](https://nslab-cuk.github.io/publication/#conference-proceedings:~:text=Canada%3B%2002/2024.-,Van%20Thuy%20Hoang%2C%20O%2DJoun%20Lee%3A%20Transitivity%2DPreserving%20Graph%20Representation%20Learning%20for%20Bridging%20Local%20Connectivity%20and%20Role%2Dbased%20Similarity,-.%20Proceedings%20of%20the)]
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2308.09517" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.48550/arXiv.2308.09517" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
