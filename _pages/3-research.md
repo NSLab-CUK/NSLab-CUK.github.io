@@ -252,6 +252,9 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
   <em>Inflicting high-frequency ultrasonic wave on invasive/non-invasive breast cancer cells.</em>
 </p>
 
+* Jeong Eun Lee, Hyeon-Ju Jeon, Min-Seo Kim, Taeyang Kwon, O-Joun Lee†, Hae Gyun Lim†: AI-Assisted Ultrasonic System for Non-Invasive Glucose Classification in Whole Blood. npj Acoustics 11/2025; 1: 29. (†: Co-correspondence) <br>
+[![DOI](http://img.shields.io/:DOI-10.1038/s44384--025--00034--5-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1038/s44384-025-00034-5)
+
 * Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 04/2024; 24(7): 9626-9638. (†: Co-correspondence) <br>
 [![DOI](http://img.shields.io/:DOI-10.1109/JSEN.2024.3364682-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/JSEN.2024.3364682)
 
