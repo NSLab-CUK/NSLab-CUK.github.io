@@ -384,7 +384,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 * “Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products,” supported by NRF of Korea and funded by MOE of Korea (Apr 2024 – Nov 2024, 30 Mil KRW), by cooperating with [Shukran Korea Inc.](https://shukrankorea.com/) (PI: **O-Joun Lee**)
   * _In Korean_: 지식그래프 기반 한국 식품/화장품 글로벌 개인화 추천 솔루션, 교육부/한국연구재단(NRF)/LINC 3.0 산학공동기술개발과제-[주식회사 슈크란코리아](https://shukrankorea.com/)
 * Intramural Research Program funded by The Catholic University of Korea (Mar 2024 – Feb 2025, 7 Mil KRW) (PI: **O-Joun Lee**)
-* “Development of AI-powered Algorithms to Build Smart Cart System,” funded by [Pixel Inc.](https://www.pixel-global.com/Home.html) (Jan 2024 – Dec 2026, 150 Mil KRW) (PI: Keunsoo Ko; Co-Is: **O-Joun Lee**, Kang-Min Kim, and Youjin Shin)
+* “Development of AI-powered Algorithms to Build Smart Cart System,” funded by [Pixel Inc.](https://www.pixel-global.com/Home.html) (Jan 2024 – Dec 2024, 50 Mil KRW) (PI: Keunsoo Ko; Co-Is: **O-Joun Lee**, Kang-Min Kim, and Youjin Shin)
   * _In Korean_: 스마트 카트 구축을 위한 비콘 기반 광학 문자 인식 기술 구현, [주식회사 픽셀](https://www.pixel-global.com/Home.html)/산학과제
 * “Development of GPR Survey Result Analysis System - 1st Year,” funded by [Movements Inc.](https://www.movements.kr/) (Jun 2024 – Oct 2024, 60 Mil KRW) (PI: **O-Joun Lee**; Co-Is: Keunsoo Ko, Kang-Min Kim, and Youjin Shin)
   * _In Korean_: GPR 탐사 결과 분석 시스템 연구개발, [주식회사 무브먼츠](https://www.movements.kr/)/산학과제
