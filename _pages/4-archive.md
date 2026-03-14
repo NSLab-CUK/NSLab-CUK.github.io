@@ -59,6 +59,7 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/260219_2.jpg"></p>
 <p align="center"><img width="700" src="/images/260219_3.jpg"></p>
 <p align="center"><img width="700" src="/images/260219_4.jpg"></p>
+<p align="center"><img width="350" src="/images/260219_5.jpg"></p>
 
 ***
 ### 2025
@@ -923,6 +924,12 @@ toc_label: "Table of Contents"
 * [Sangmyeong Lee](https://nslab-cuk.github.io/member/sangmyeong) received his B.S. degree in Physics. :tada: :tada:
 
 <p align="center"><img width="700" src="/images/230216.JPG"></p>
+
+***
+##### Feb 6th, 2023
+{:.no_toc}
+
+<p align="center"><img width="700" src="/images/230206.jpg"></p>
 
 ***
 ##### Jan 26th -- 27th, 2023
