@@ -23,7 +23,7 @@ toc_label: "Table of Contents"
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/thanhdo19730)
   * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/kor)]
-  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2024)
+  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2026)
 
 * 54513-01 Study for Doctoral Thesis 1 (박사논문연구 1) - Graduate Course  
   * Instructor: O-Joun Lee
@@ -66,7 +66,7 @@ toc_label: "Table of Contents"
   * Instructor: O-Joun Lee
   * TA: [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) and [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/thanhdo19730)
   * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/kor)]
-  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2024)
+  * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2025)
 
 * 54514-01 Study for Doctoral Thesis 2 (박사논문연구 2) - Graduate Course  
   * Instructor: O-Joun Lee
