@@ -44,6 +44,12 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/260304_2.jpg"></p>
 
 ***
+##### Feb 28th, 2026
+{:.no_toc}
+
+* Ho Huu Tuong has joined NS Lab @ CUK as a combined M.S./Ph.D. course student. 
+
+***
 ##### Feb 19th, 2026
 {:.no_toc}
 
@@ -208,12 +214,6 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/250612_1.jpg"></p>
 
 <p align="center"><img width="700" src="/images/250612_2.jpg"></p>
-
-***
-##### Jun 7th, 2025
-{:.no_toc}
-
-* Thien Nguyen has joined NS Lab @ CUK as a Ph.D. course student.
 
 ***
 ##### May 27th, 2025
