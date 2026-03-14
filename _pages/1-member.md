@@ -339,7 +339,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Sep 2023 -- Aug 2025: M.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Sep 2019 -- Aug 2023: B.A. in Korean Language and Literature, Jeonju University, Jeonju, Korea
 * Sep 2015 -- Aug 2019: B.P.A. in Public Administration, The Open University of China, Beijing, China
-* Research Interset: NLP Long Text Summary
+* Research Interest: NLP Long Text Summary
 * <a href="mailto:wuyanjun@catholic.ac.kr"><img src="https://img.shields.io/badge/-wuyanjun@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
