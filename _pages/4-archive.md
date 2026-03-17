@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2026
 
 ***
+##### Mar 17th, 2026
+{:.no_toc}
+
+* We started a research project on "Environment-Conditioned Multi-Molecule Causal Learning for Practical Candidate Material Screening and Design (환경 조건을 고려한 다중 분자 인과학습 기반 실용적 후보물질 스크리닝 및 설계 모델 개발)," supported by the Outstanding Young Scientist Grants (Type A) (우수신진연구(유형A)) through NRF of Korea (한국연구재단) and funded by MSIT of Korea (과학기술정보통신부) (Mar 2026 – Feb 2029, 240 Mil KRW). 
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
+
+***
 ##### Mar 13th, 2026
 {:.no_toc}
 
