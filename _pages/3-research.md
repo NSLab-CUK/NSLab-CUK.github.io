@@ -96,7 +96,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 [![DOI](http://img.shields.io/:DOI-10.1007/s12559--025--10441--1-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1007/s12559-025-10441-1) 
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/jng6017/DHG-BERT)
 
-* O-Joun Lee, Hyeon-Ju Jeon, Jason J. Jung: Learning Multi-Resolution Representations of Research Patterns in Bibliographic Networks. Journal of Informetrics 02/2021; 15(1): 101126. <br>
+* O-Joun Lee, Hyeon-Ju Jeon, Jason J. Jung: Learning Multi-Resolution Representations of Research Patterns in Bibliographic Networks. **Journal of Informetrics** 02/2021; 15(1): 101126. <br>
 [![DOI](http://img.shields.io/:DOI-10.1016/j.joi.2020.101126-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1016/j.joi.2020.101126) 
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/Multi-resolution-Network-Embedding)
 
@@ -159,7 +159,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ### Cross-domain Recommender System for Retail Kiosk
 {:.no_toc}
 
-* Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. IEEE Internet of Things Journal 05/2024; 11(10): 18686-18697. (†: Co-correspondence) <br>
+* Nam-Gyu Jung, Van Thuy Hoang, O-Joun Lee†, Chang Choi†: Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail. **IEEE Internet of Things Journal** 05/2024; 11(10): 18686-18697. (†: Co-correspondence) <br>
 [![DOI](http://img.shields.io/:DOI-10.1109/JIOT.2024.3365144-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/JIOT.2024.3365144)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Context-Aware-Residual-Transformer)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Context-Aware-Residual-Transformer)](https://github.com/NSLab-CUK/Context-Aware-Residual-Transformer)
@@ -193,7 +193,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations between Earth Observations in Global Atmospheric State Estimation by using Adaptive Graph Structure Learning. arXiv preprint 08/2025; arXiv:2508.07659. (Preprint) <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2508.07659-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2508.07659)
 
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. Machine Learning: Science and Technology 10/2024; 5(4): 045036. <br>
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. **Machine Learning: Science and Technology** 10/2024; 5(4): 045036. <br>
 [![DOI](http://img.shields.io/:DOI-10.1088/2632--2153/ad8981-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1088/2632-2153/ad8981)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/higd963/CloudNine)
 [![GitHub stars](https://img.shields.io/github/stars/higd963/CloudNine)](https://github.com/higd963/CloudNine)
@@ -252,13 +252,13 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
   <em>Inflicting high-frequency ultrasonic wave on invasive/non-invasive breast cancer cells.</em>
 </p>
 
-* Jeong Eun Lee, Hyeon-Ju Jeon, Min-Seo Kim, Taeyang Kwon, O-Joun Lee†, Hae Gyun Lim†: AI-Assisted Ultrasonic System for Non-Invasive Glucose Classification in Whole Blood. npj Acoustics 11/2025; 1: 29. (†: Co-correspondence) <br>
+* Jeong Eun Lee, Hyeon-Ju Jeon, Min-Seo Kim, Taeyang Kwon, O-Joun Lee†, Hae Gyun Lim†: AI-Assisted Ultrasonic System for Non-Invasive Glucose Classification in Whole Blood. **npj Acoustics** 11/2025; 1: 29. (†: Co-correspondence) <br>
 [![DOI](http://img.shields.io/:DOI-10.1038/s44384--025--00034--5-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1038/s44384-025-00034-5)
 
-* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. IEEE Sensors Journal 04/2024; 24(7): 9626-9638. (†: Co-correspondence) <br>
+* Ji Won Nam, Hyeon-Ju Jeon, Jeong Eun Lee, O-Joun Lee†, Hae Gyun Lim†: Quantification of dysnatremia using single-beam acoustic microbeam and convolutional neural networks. **IEEE Sensors Journal** 04/2024; 24(7): 9626-9638. (†: Co-correspondence) <br>
 [![DOI](http://img.shields.io/:DOI-10.1109/JSEN.2024.3364682-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1109/JSEN.2024.3364682)
 
-* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. Ultrasonics 01/2024; 136: 107167. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1016/j.ultras.2023.107167-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1016/j.ultras.2023.107167)
+* Jeong Eun Lee, Hyeon-Ju Jeon, O-Joun Lee†, Hae Gyun Lim†: Diagnosis of diabetes mellitus using high frequency ultrasound and convolutional neural network. **Ultrasonics** 01/2024; 136: 107167. (†: Co-correspondence) <br>[![DOI](http://img.shields.io/:DOI-10.1016/j.ultras.2023.107167-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1016/j.ultras.2023.107167)
 
 * Hyeon-Ju Jeon, Hae Gyun Lim, K. Kirk Shung, O-Joun Lee†, Min Gon Kim†: Automated cell-type classification combining dilated convolutional neural networks with label-free acoustic sensing. Scientific Reports 11/2022; 12: 19873. (†: Co-correspondence) <br>
 [![DOI](http://img.shields.io/:DOI-10.1038/s41598--022--22075--6-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1038/s41598-022-22075-6)
@@ -287,7 +287,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
   <img width="700" src="/images/liver.png">
 </p>
 
-* Hyun-Cheol Park, YunSang Joo, O-Joun Lee, Kunkyu Lee, Tai-Kyong Song, Chang Choi, Moon Hyung Choi, Changhan Yoon: Automated classification of liver fibrosis stages using ultrasound imaging. BMC Medical Imaging 02/2024; 24: 36. <br>
+* Hyun-Cheol Park, YunSang Joo, O-Joun Lee, Kunkyu Lee, Tai-Kyong Song, Chang Choi, Moon Hyung Choi, Changhan Yoon: Automated classification of liver fibrosis stages using ultrasound imaging. **BMC Medical Imaging** 02/2024; 24: 36. <br>
 [![DOI](http://img.shields.io/:DOI-10.1186/s12880%E2%80%93024%E2%80%9301209%E2%80%934-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1186/s12880-024-01209-4)
 
 * Yunsang Joo, Hyun-Cheol Park, O-Joun Lee, Changhan Yoon, Moon Hyung Choi, Chang Choi: Classification of Liver Fibrosis from Heterogeneous Ultrasound Image. IEEE Access 01/2023; 11: 9920-9930. <br>
@@ -305,7 +305,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 
 * Minsun Cho, Jinwoo Jung, Taeheon Lee, Wolfgang Goes, Ahmed Nejim, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. [The 2024 Wiley Forum Fall Meeting](https://www.wileyforum2024.com/), Seoul, Korea; 10/2024.
 
-* Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. Journal of Materials Chemistry C 09/2024; 12(41): 16691–16700. <br>
+* Minsun Cho, Marin Franot, O-Joun Lee, Sungyeop Jung: A Neural Compact Model Based-on Transfer Learning for Organic FETs with Gaussian Disorder. **Journal of Materials Chemistry C** 09/2024; 12(41): 16691–16700. <br>
 [![DOI](http://img.shields.io/:DOI-10.1039/D4TC01224K-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1039/D4TC01224K)
 [![Drive](https://img.shields.io/badge/Drive-Journal%20Cover-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1WrzvF0TuSeqUKLfSmgWL4-ZAsjl7PZIa/view?usp=sharing)
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.hankyung.com/article/202411064407h)
@@ -326,7 +326,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ## Water Distribution Pipe Corrosion Assessment
 {:.no_toc}
 
-* Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. npj Clean Water 07/2024; 7: 63. (†: Co-correspondence) <br> 
+* Yeongho Sung, Hyeon-Ju Jeon, Daehun Kim, Min-Seo Kim, Jaeyeop Choi, Hwan Ryul Jo, Junghwan Oh, O-Joun Lee†, Hae Gyun Lim†: Internal pipe corrosion assessment method in water distribution system using ultrasound and convolutional neural networks. **npj Clean Water** 07/2024; 7: 63. (†: Co-correspondence) <br> 
 [![DOI](http://img.shields.io/:DOI-10.1038/s41545--024--00358--x-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1038/s41545-024-00358-x)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Internal-Pipe-Corrosion-Assessment-with-Ultrasound-and-CNNs)
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.news1.kr/local/busan-gyeongnam/5494391)
@@ -375,12 +375,14 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
   * _In Korean_: GPR 탐사 결과 분석 시스템 연구개발 - 3차년도, [주식회사 무브먼츠](https://www.movements.kr/)/산학과제
 * “Constructing Veterinary Knowledge Graph and Developing GraphRAG-based LLM Services,” supported by the Gyeonggi RISE Project and funded by MOE of Korea and Gyeonggi Province (Sep 2025 – Jan 2026, 30 Mil KRW), by cooperating with [Petobio Co., Ltd.](https://www.petobio.com/en) (PI: **O-Joun Lee**)
   * _In Korean_: 수의료 지식그래프 구축을 통한 GraphRAG 기반 수의료 LLM 서비스 개발, 경기도/경기도경제과학진흥원/RISE 지산학협력기술개발과제-[주식회사 페토바이오](https://www.petobio.com/)
+  * _Project Demo_: [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video%20%231-red?style=flat-square&logo=YouTube)](https://youtu.be/ocsC0aRTypg?list=PLm48VoFepFW2spWkk11lC2qYqHiCGGekK) [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video%20%232-red?style=flat-square&logo=YouTube)](https://youtu.be/EVntY9QbaHI?list=PLm48VoFepFW2spWkk11lC2qYqHiCGGekK) [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video%20%233-red?style=flat-square&logo=YouTube)](https://youtu.be/BR5d5Qm37DI?list=PLm48VoFepFW2spWkk11lC2qYqHiCGGekK)
 * “Multi-view Pre-training and Parameter-efficient Tuning for Structure-Preserving Molecular Graph Foundation Models,” supported by the Outstanding Young Scientist Grants (Seeds Grants) through NRF of Korea and funded by MSIT of Korea (Sep 2025 – Aug 2026, 80 Mil KRW) (PI: **O-Joun Lee**)
   * _In Korean_: 구조 식별력을 갖춘 분자 그래프 파운데이션 모델을 위한 다중 뷰 사전학습 및 파라미터 효율적 튜닝, 과학기술정보통신부/한국연구재단(NRF)/**우수신진연구(씨앗연구)**/RS-2025-24523038
 * “Development of Human Intrinsic AI through Unified Semantic Representation of Heterogeneous Multimodal Data,” supported by the Human‑Centric Next‑Generation Challenge‑Type AI Technology Development Program through IITP of Korea and funded by MSIT of Korea (Jul 2025 – Dec 2028, 4,533 Mil KRW) (PI: Sang-Woong Lee; Co-PIs: **O-Joun Lee**, Ick Hyun Um, and Jae-Keun Lee; Co-Is: Okran Jeong and Kang-Min Kim)
   * _In Korean_: 이기종 멀티모달 데이터의 의미 통합 표상 기반 인간지향적 인공지능 개발, 과학기술정보통신부/정보통신기획평가원(IITP)/**인간지향적차세대도전형AI기술개발**/RS-2025-25443681
 * “Knowledge Graph Construction for Major Companion Animal Diseases,” funded by [Petobio Co., Ltd.](https://www.petobio.com/en) (Jul 2025 – Oct 2025, 15 Mil KRW) (PI: **O-Joun Lee**; Co-I: Kang-Min Kim)
   * _In Korean_: 반려동물 주요질환 지식그래프 구축, [주식회사 페토바이오](https://www.petobio.com/)/산학과제
+  * _Project Demo_: [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=flat-square&logo=YouTube)](https://youtu.be/O_gmLmPHYrs?list=PLm48VoFepFW2spWkk11lC2qYqHiCGGekK)
 * Intramural Research Program funded by The Catholic University of Korea (May 2025 – Apr 2026, 7 Mil KRW) (PI: **O-Joun Lee**)
 * “Development of GPR Survey Result Analysis System - 2nd Year,” funded by [Movements Inc.](https://www.movements.kr/) (Mar 2025 – Nov 2025, 80 Mil KRW) (PI: **O-Joun Lee**)
   * _In Korean_: GPR 탐사 결과 분석 시스템 연구개발 - 2차년도, [주식회사 무브먼츠](https://www.movements.kr/)/산학과제
@@ -413,6 +415,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
   * _In Korean_: 웨어러블 디바이스를 활용한 반려동물 행동 패턴 및 질병 진단 예측 모델 개발과 챗봇 기반 동물의학정보 제공 솔루션 개발, [주식회사 인투씨엔에스](https://www.intocns.com/)/산학과제
 * “Chatbot-based Kiosk Interface and Menu Recommendation System,” funded by [Order Queen Co., Ltd.](http://www.orderqueen.co.kr/) (Feb 2022 – Apr 2022, 10 Mil KRW) (PI: Kang-Min Kim; Co-I: **O-Joun Lee**)
   * _In Korean_: 챗봇 기반 장애인용 키오스크 인터페이스 및 메뉴 추천 시스템, [오더퀸 주식회사](http://www.orderqueen.co.kr/)/산학과제
+  * _Project Demo_: [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=flat-square&logo=YouTube)](https://youtu.be/n0gDwgyqzZY?list=PLm48VoFepFW2spWkk11lC2qYqHiCGGekK)
 * Intramural Research Program funded by The Catholic University of Korea (Sep 2021 – Aug 2022, 7 Mil KRW) (PI: **O-Joun Lee**)
 * Intramural Research Program funded by POSTECH (Nov 2020 – Sep 2021, 50 Mil KRW) (PI: **O-Joun Lee**)
 * Intramural Research Program funded by RIST (Jan 2020 – Jan 2021, 224 Mil KRW) (PI: Ho-Keun Song; Co-Is: Ki Heung Kim, Choong-Hyong Lee, Jintaek Kim, Joon-Yeop Kwon, Yeongdeog Kim, Kwang-Seok Han, Sang-Joon Park, **O-Joun Lee**)
