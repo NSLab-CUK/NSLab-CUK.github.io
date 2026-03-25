@@ -51,13 +51,13 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 <details markdown="1">
   <summary>S.H. Lee, Review on "Oversmoothing, Oversquashing, Heterophily, Long-Range, and more: Demystifying Common Beliefs in Graph Machine Learning", ICLR 2026</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/c2vj6mdzl7yOqt?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/aXvwEboQk0PXpe?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>C.W. Park, Review on "NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs", ICLR 2023</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9KBjG3FTpm4yci?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3e5zSxf4nrJToa?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
