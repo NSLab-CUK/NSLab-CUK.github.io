@@ -16,7 +16,7 @@ toc_label: "Table of Contents"
 #### Spring 2026
 {:.no_toc}
 
-* Advanced Artificial Intelligence (고급 인공지능) - Graduate Course 
+* 54644-01 Advanced Artificial Intelligence (고급 인공지능) - Graduate Course 
   * Instructor: O-Joun Lee
 
 * 06837-01 Graph Mining (그래프 마이닝)
@@ -196,7 +196,7 @@ toc_label: "Table of Contents"
 #### Spring 2024
 {:.no_toc}
 
-* Advanced Artificial Intelligence (고급 인공지능) - Graduate Course 
+* 54644-01 Advanced Artificial Intelligence (고급 인공지능) - Graduate Course 
   * Instructor: O-Joun Lee
 
 * [06837-01 Graph Mining](https://ns-cuk.notion.site/06837-Graph-Mining-Spring-2024-d61162f663a141929559c406d83ca187?pvs=4) (그래프 마이닝)
