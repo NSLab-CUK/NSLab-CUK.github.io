@@ -16,22 +16,28 @@
 
       <div class="counter-box">
         {% assign window = 2 %} {% comment %} 현재 페이지 앞뒤로 2개씩 노출 {% endcomment %}
-        {% assign lower_limit = paginator.page | minus: window %}
-        {% assign upper_limit = paginator.page | plus: window %}
+        {% assign show_dots_before = false %}
+        {% assign show_dots_after = false %}
 
         {% for count in (1..paginator.total_pages) %}
-          {% comment %} 1. 숫자 노출 조건: 첫 페이지, 마지막 페이지, 혹은 현재 페이지의 앞뒤 2개 이내 {% endcomment %}
-          {% if count == 1 or count == paginator.total_pages or (count >= lower_limit and count <= upper_limit) %}
-            
+          {% comment %} 표시 조건: 첫 페이지, 마지막 페이지, 혹은 현재 페이지 기준 앞뒤 2개 이내 {% endcomment %}
+          {% if count == 1 or count == paginator.total_pages or (count >= paginator.page | minus: window and count <= paginator.page | plus: window) %}
+      
             {% if count == paginator.page %}
-              <span class="active-link" style="font-weight: bold; margin: 0 8px;">{{ count }}</span>
+              <span class="active-link" style="font-weight: bold; margin: 0 8px; color: #000;">{{ count }}</span>
             {% else %}
               <a class="count-number" style="margin: 0 8px; text-decoration: none; color: #666;" href="{% if count == 1 %}{{ site.baseurl }}/{% else %}{{ site.baseurl }}/page/{{ count }}/{% endif %}">{{ count }}</a>
             {% endif %}
 
-          {% comment %} 2. 말줄임표(...) 노출 조건: 숫자가 생략되는 구간의 '경계선'에서 딱 한 번씩만 출력 {% endcomment %}
-          {% elsif count == lower_limit | minus: 1 or count == upper_limit | plus: 1 %}
-            <span class="dots" style="color: #ccc; margin: 0 5px;">...</span>
+          {% else %}
+            {% comment %} 숫자가 생략되는 구간인데, 아직 말줄임표를 찍지 않았다면 출력 {% endcomment %}
+            {% if count < paginator.page and show_dots_before == false %}
+              <span class="dots" style="color: #ccc; margin: 0 5px;">...</span>
+              {% assign show_dots_before = true %}
+            {% elsif count > paginator.page and show_dots_after == false %}
+              <span class="dots" style="color: #ccc; margin: 0 5px;">...</span>
+              {% assign show_dots_after = true %}
+            {% endif %}
           {% endif %}
         {% endfor %}
       </div>
