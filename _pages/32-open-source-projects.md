@@ -20,7 +20,7 @@ This page serves as a repository for open source projects run by members and col
 ***
 # Graph Representation Learning
 
-The following datasets are available via [our official GitHub account](https://github.com/NSLab-CUK/). <br>
+The following open source projects are available via [our official GitHub account](https://github.com/NSLab-CUK/). <br>
 [![GitHub followers](https://img.shields.io/github/followers/NSLab-CUK)](https://github.com/NSLab-CUK/)
 [![GitHub User's stars](https://img.shields.io/github/stars/NSLab-CUK)](https://github.com/NSLab-CUK/)
 
