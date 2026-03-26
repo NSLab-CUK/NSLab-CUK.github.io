@@ -365,6 +365,8 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 * Open datasets and open source implementations created by members and collaborators of the Network Science Lab are available via the following links.<br>
 [![Link](https://img.shields.io/badge/NS@CUK-Open%20Datasets-0C2E86?style=flat-square)](https://nslab-cuk.github.io/open-datasets/)
 [![Link](https://img.shields.io/badge/NS@CUK-Open%20Source%20Projects-0C2E86?style=flat-square)](https://nslab-cuk.github.io/open-source-projects/)
+[![GitHub followers](https://img.shields.io/github/followers/NSLab-CUK)](https://github.com/NSLab-CUK/)
+[![GitHub User's stars](https://img.shields.io/github/stars/NSLab-CUK)](https://github.com/NSLab-CUK/)
 
 ***
 ## Research Grants
