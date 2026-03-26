@@ -70,6 +70,13 @@ This page includes additional research outputs beyond conventional academic publ
 
 ***
 
+* Mar 2026: Van Thuy Hoang, "The Excellence Award (우수상)", The 23rd Graduate School Academic Awards (제23회 대학원 학술상), Bucheon, Korea
+  <details markdown="1">
+    <summary>Details</summary>
+    <p align="center"><img width="700" src="/images/260311_Recipients.jpg" margin="10px"></p>
+    <p align="center"><img width="700" src="/images/260311_Awards.jpg" margin="10px"></p>
+  </details>
+
 * Feb 2025: Van Thuy Hoang, "The Best Award (최우수상)", The 22nd Graduate School Academic Awards (제22회 대학원 학술상), Bucheon, Korea
   <details markdown="1">
     <summary>Details</summary>
