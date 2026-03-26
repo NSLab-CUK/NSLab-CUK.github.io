@@ -76,6 +76,27 @@ The following datasets are available via [our official GitHub account](https://g
 ***
 ## Lecture Materials
 
+### Graph Mining - Spring 2026
+
+* **Description:** This repository is for archiving the Graph Mining class (06837-01) of the Department of Artificial Intelligence at the Catholic University of Korea. This platform is dedicated to sharing and archiving lecture materials such as exercises, assignments, and sample code for the class.
+* **Repository:** [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2026)
+[![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Graph-Mining-Spring-2026)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2026)
+[![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Graph-Mining-Spring-2026)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2026)
+
+### Graph Neural Networks - Fall 2025
+
+* **Description:** This repository is for archiving the Graph Neural Networks class (06838-01) of the Department of Artificial Intelligence at the Catholic University of Korea. This platform is dedicated to sharing and archiving lecture materials such as exercises, assignments, and sample code for the class.
+* **Repository:** [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2025)
+[![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Graph-Neural-Networks-Fall-2025)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2025)
+[![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Graph-Neural-Networks-Fall-2025)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2025)
+
+### Graph Mining - Spring 2025
+
+* **Description:** This repository is for archiving the Graph Mining class (06837-01) of the Department of Artificial Intelligence at the Catholic University of Korea. This platform is dedicated to sharing and archiving lecture materials such as exercises, assignments, and sample code for the class.
+* **Repository:** [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2025)
+[![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Graph-Mining-Spring-2025)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2025)
+[![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Graph-Mining-Spring-2025)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2025)
+
 ### Graph Neural Networks - Fall 2024
 
 * **Description:** This repository is for archiving the Graph Neural Networks class (06838-01) of the Department of Artificial Intelligence at the Catholic University of Korea. This platform is dedicated to sharing and archiving lecture materials such as exercises, assignments, and sample code for the class.
