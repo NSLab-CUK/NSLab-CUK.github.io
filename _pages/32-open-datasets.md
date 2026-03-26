@@ -12,12 +12,6 @@ toc_label: "Table of Contents"
 This page serves as a repository for open datasets created by members and collaborators of the Network Science Lab. We aim to improve the availability of open datasets and the reproducibility of experiments, especially in interdisciplinary studies using artificial intelligence and data science perspectives.
 
 ***
-
-<h5>Table of Contents</h5>
-* TOC
-{:toc}
-
-***
 # Digital Humanities and Social Sciences
 
 The following datasets are part of the **"[Open Datasets for Digital Humanities and Social Sciences](https://figshare.com/projects/Open_Datasets_for_Digital_Humanities_and_Social_Sciences/176073)"** project. This initiative seeks to enhance the availability of open datasets in the digital humanities and social sciences domains. The primary challenge in this field is the labour-intensive nature of data acquisition. Our project addresses this hurdle by providing meticulously curated, high-quality datasets and promoting their accessibility via open platforms. Spearheaded by the Network Science Lab at the Catholic University of Korea, this endeavour benefits from the collaborative efforts of scholars from diverse research institutions. 
