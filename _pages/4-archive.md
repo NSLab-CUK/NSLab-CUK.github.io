@@ -50,7 +50,7 @@ toc_label: "Table of Contents"
 ##### Mar 11th, 2026
 {:.no_toc}
 
-* Van Thuy Hoang, who recently earned his doctoral degree from the Network Science Lab @ CUK, received the Excellence Award (우수상) at the 23rd Graduate School Academic Awards (제23회 대학원 학술상) Ceremony for his outstanding research in graph learning, following his Best Award (최우수상) at the 22nd awards last year.
+* Van Thuy Hoang, who recently earned his doctoral degree from the Network Science Lab @ CUK, received the Excellence Award (우수상) at [the 23rd Graduate School Academic Awards (제23회 대학원 학술상)](https://www.catholic.ac.kr/ko/newsroom/photonews.do?mode=view&articleNo=269469&article.offset=0&articleLimit=16) Ceremony for his outstanding research in graph learning, following his Best Award (최우수상) at the 22nd awards last year.
 
 <p align="center"><img width="700" src="/images/260311_Recipients.jpg"></p>
 
@@ -322,7 +322,7 @@ toc_label: "Table of Contents"
 ##### Feb 27th, 2025
 {:.no_toc}
 
-* Van Thuy Hoang, a doctoral student at the Network Science Lab @ CUK, received the Best Award (최우수상) at the 22nd Graduate School Academic Awards (제22회 대학원 학술상) Ceremony for his outstanding research in graph learning, highlighting the Network Science Lab's leadership in graph ML.
+* Van Thuy Hoang, a doctoral student at the Network Science Lab @ CUK, received the Best Award (최우수상) at [the 22nd Graduate School Academic Awards (제22회 대학원 학술상)](https://www.catholic.ac.kr/ko/newsroom/photonews.do?mode=view&articleNo=258653&article.offset=176&articleLimit=16) Ceremony for his outstanding research in graph learning, highlighting the Network Science Lab's leadership in graph ML.
 
 <p align="center"><img width="700" src="/images/250227_Recipients.jpg"></p>
 
