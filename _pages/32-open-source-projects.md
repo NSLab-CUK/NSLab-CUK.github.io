@@ -12,12 +12,6 @@ toc_label: "Table of Contents"
 This page serves as a repository for open source projects run by members and collaborators of the Network Science Lab. We aim to improve the availability of open source implementations and the reproducibility of experiments in artificial intelligence and data science studies.
 
 ***
-
-<h5>Table of Contents</h5>
-* TOC
-{:toc}
-
-***
 # Graph Representation Learning
 
 The following open source projects are available via [our official GitHub account](https://github.com/NSLab-CUK/). <br>
