@@ -47,6 +47,16 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/260313_3.jpg"></p>
 
 ***
+##### Mar 11th, 2026
+{:.no_toc}
+
+* Van Thuy Hoang, who recently earned his doctoral degree from the Network Science Lab @ CUK, received the Excellence Award (우수상) at the 23rd Graduate School Academic Awards (제23회 대학원 학술상) Ceremony for his outstanding research in graph learning, following his Best Award (최우수상) at the 22nd awards last year.
+
+<p align="center"><img width="700" src="/images/260311_Recipients.jpg"></p>
+
+<p align="center"><img width="700" src="/images/260311_Awards.jpg"></p>
+
+***
 ##### Mar 10th, 2026
 {:.no_toc}
 
