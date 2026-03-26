@@ -15,20 +15,23 @@
       {% endif %}
 
       <div class="counter-box">
-        {% if paginator.page == 1 %}
-          <span class="active-link">1</span>
-        {% else %}
-          <a href="{{ site.baseurl }}/">1</a>
-        {% endif %}
+        {% for count in (1..paginator.total_pages) %}
+          {% comment %} 1. 첫 페이지, 마지막 페이지, 현재 페이지, 현재의 앞뒤 페이지만 표시하도록 설정 {% endcomment %}
+          {% assign lower_limit = paginator.page | minus: 1 %}
+          {% assign upper_limit = paginator.page | plus: 1 %}
+          
+          {% if count == 1 or count == paginator.total_pages or count >= lower_limit and count <= upper_limit %}
+            
+            {% if count == paginator.page %}
+              <span class="active-link">{{ count }}</span>
+            {% else %}
+              <a class="count-number" href="{% if count == 1 %}{{ site.baseurl }}/{% else %}{{ site.baseurl }}/page/{{ count }}/{% endif %}">{{ count }}</a>
+            {% endif %}
 
-
-        {% for count in (2..paginator.total_pages) %}
-
-        {% if count == paginator.page %}
-          <span class="active-link">{{ count }}</span>
-        {% else %}
-          <a class="count-number" href="{{ site.baseurl }}/page/{{ count }}/">{{ count }}</a>
-        {% endif %}
+          {% comment %} 2. 중간에 간격이 생기는 지점에 딱 한 번만 '...' 표시 {% endcomment %}
+          {% elsif count == 2 or count == paginator.total_pages | minus: 1 %}
+            <span class="dots" style="margin: 0 5px; color: #ccc;">...</span>
+          {% endif %}
         {% endfor %}
       </div>
 
