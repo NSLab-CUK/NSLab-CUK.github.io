@@ -17,7 +17,10 @@ The following open source projects are available via [our official GitHub accoun
 
 
 ***
+
 # Graph Neural Networks and Graph Transformers
+
+***
 
 ## CGT, A Novel Graph Transformer Model for Mitigating Degree Biases in Message Passing Mechanism
 
@@ -27,6 +30,7 @@ The following open source projects are available via [our official GitHub accoun
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Community-aware-Graph-Transformer)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Community-aware-Graph-Transformer)](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer)
 
+***
 
 ## UGT, A Novel Graph Transformer Model for Unifying Local and Global Graph Structural Features
 
@@ -36,6 +40,7 @@ The following open source projects are available via [our official GitHub accoun
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Unified-Graph-Transformer)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Unified-Graph-Transformer)](https://github.com/NSLab-CUK/Unified-Graph-Transformer)
 
+***
 
 ## LiteralKG, A Novel GNN Model for Learning Literal-aware Representations of Medical Knowledge Graphs
 
@@ -45,6 +50,7 @@ The following open source projects are available via [our official GitHub accoun
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/LiteralKG)](https://github.com/NSLab-CUK/LiteralKG)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/LiteralKG)](https://github.com/NSLab-CUK/LiteralKG)
 
+***
 
 ## CART, A Novel Kiosk Recommendation System for Offline Retail Environment
 
@@ -54,6 +60,7 @@ The following open source projects are available via [our official GitHub accoun
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Context-Aware-Residual-Transformer)](https://github.com/NSLab-CUK/Context-Aware-Residual-Transformer)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Context-Aware-Residual-Transformer)](https://github.com/NSLab-CUK/Context-Aware-Residual-Transformer)
 
+***
 
 ## Connector, A Novel Unified Framework for Graph Representation Learning
 
@@ -65,7 +72,10 @@ The following open source projects are available via [our official GitHub accoun
 
 
 ***
+
 # Lecture Materials
+
+***
 
 ## Graph Mining - Spring 2026
 
@@ -74,12 +84,16 @@ The following open source projects are available via [our official GitHub accoun
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Graph-Mining-Spring-2026)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2026)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Graph-Mining-Spring-2026)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2026)
 
+***
+
 ## Graph Neural Networks - Fall 2025
 
 * **Description:** This repository is for archiving the Graph Neural Networks class (06838-01) of the Department of Artificial Intelligence at the Catholic University of Korea. This platform is dedicated to sharing and archiving lecture materials such as exercises, assignments, and sample code for the class.
 * **Repository:** [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2025)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Graph-Neural-Networks-Fall-2025)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2025)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Graph-Neural-Networks-Fall-2025)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2025)
+
+***
 
 ## Graph Mining - Spring 2025
 
@@ -88,6 +102,8 @@ The following open source projects are available via [our official GitHub accoun
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Graph-Mining-Spring-2025)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2025)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Graph-Mining-Spring-2025)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2025)
 
+***
+
 ## Graph Neural Networks - Fall 2024
 
 * **Description:** This repository is for archiving the Graph Neural Networks class (06838-01) of the Department of Artificial Intelligence at the Catholic University of Korea. This platform is dedicated to sharing and archiving lecture materials such as exercises, assignments, and sample code for the class.
@@ -95,6 +111,7 @@ The following open source projects are available via [our official GitHub accoun
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Graph-Neural-Networks-Fall-2024)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2024)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Graph-Neural-Networks-Fall-2024)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2024)
 
+***
 
 ## Graph Mining - Spring 2024
 
@@ -103,6 +120,7 @@ The following open source projects are available via [our official GitHub accoun
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Graph-Mining-Spring-2024)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2024)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Graph-Mining-Spring-2024)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2024)
 
+***
 
 ## Graph Neural Networks - Fall 2023
 
@@ -111,6 +129,7 @@ The following open source projects are available via [our official GitHub accoun
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Graph-Neural-Networks-Fall-2023)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2023)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Graph-Neural-Networks-Fall-2023)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2023)
 
+***
 
 ## Graph Mining - Spring 2023
 
