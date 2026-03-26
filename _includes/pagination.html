@@ -15,22 +15,26 @@
       {% endif %}
 
       <div class="counter-box">
+        {% assign window = 2 %} {% comment %} 현재 페이지 앞뒤로 보여줄 개수 (2개로 설정) {% endcomment %}
+        {% assign lower_limit = paginator.page | minus: window %}
+        {% assign upper_limit = paginator.page | plus: window %}
+
         {% for count in (1..paginator.total_pages) %}
-          {% comment %} 1. 첫 페이지, 마지막 페이지, 현재 페이지, 현재의 앞뒤 페이지만 표시하도록 설정 {% endcomment %}
-          {% assign lower_limit = paginator.page | minus: 1 %}
-          {% assign upper_limit = paginator.page | plus: 1 %}
-          
-          {% if count == 1 or count == paginator.total_pages or count >= lower_limit and count <= upper_limit %}
-            
+          {% if count == 1 or count == paginator.total_pages or (count >= lower_limit and count <= upper_limit) %}
+            {% comment %} 1. 숫자 노출: 첫 페이지, 마지막 페이지, 혹은 현재 페이지의 앞뒤 2페이지 이내인 경우 {% endcomment %}
             {% if count == paginator.page %}
-              <span class="active-link">{{ count }}</span>
+              <span class="active-link" style="font-weight: bold; margin: 0 8px;">{{ count }}</span>
             {% else %}
-              <a class="count-number" href="{% if count == 1 %}{{ site.baseurl }}/{% else %}{{ site.baseurl }}/page/{{ count }}/{% endif %}">{{ count }}</a>
+              <a class="count-number" style="margin: 0 8px; text-decoration: none; color: #666;" href="{% if count == 1 %}{{ site.baseurl }}/{% else %}{{ site.baseurl }}/page/{{ count }}/{% endif %}">{{ count }}</a>
             {% endif %}
 
-          {% comment %} 2. 중간에 간격이 생기는 지점에 딱 한 번만 '...' 표시 {% endcomment %}
-          {% elsif count == 2 or count == paginator.total_pages | minus: 1 %}
-            <span class="dots" style="margin: 0 5px; color: #ccc;">...</span>
+          {% elsif count == 2 and lower_limit > 2 %}
+            {% comment %} 2. 앞쪽 말줄임표: 1페이지와 시작 숫자 사이에 간격이 있을 때 {% endcomment %}
+            <span class="dots" style="color: #ccc;">...</span>
+
+          {% elsif count == paginator.total_pages | minus: 1 and upper_limit < paginator.total_pages | minus: 1 %}
+            {% comment %} 3. 뒤쪽 말줄임표: 마지막 숫자와 끝 숫자 사이에 간격이 있을 때 {% endcomment %}
+            <span class="dots" style="color: #ccc;">...</span>
           {% endif %}
         {% endfor %}
       </div>
