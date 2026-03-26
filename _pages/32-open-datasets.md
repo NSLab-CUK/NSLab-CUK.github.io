@@ -14,7 +14,10 @@ This page serves as a repository for open datasets created by members and collab
 The following datasets are part of the **"[Open Datasets for Digital Humanities and Social Sciences](https://figshare.com/projects/Open_Datasets_for_Digital_Humanities_and_Social_Sciences/176073)"** project. This initiative seeks to enhance the availability of open datasets in the digital humanities and social sciences domains. The primary challenge in this field is the labour-intensive nature of data acquisition. Our project addresses this hurdle by providing meticulously curated, high-quality datasets and promoting their accessibility via open platforms. Spearheaded by the Network Science Lab at the Catholic University of Korea, this endeavour benefits from the collaborative efforts of scholars from diverse research institutions. 
 
 ***
+
 # Digital Literature
+
+***
 
 ## A Social Network of Characters Appeared in the French Novel Series "La Comédie humaine" and An Interaction Network of Novels in the Series
 
@@ -24,6 +27,8 @@ The following datasets are part of the **"[Open Datasets for Digital Humanities 
 <p align="center">
   <iframe src="https://widgets.figshare.com/articles/23994078/embed?show_title=1" width="568" height="351" frameborder="0" marginwidth="0" marginheight="0" style="max-width: 100%;" allowfullscreen></iframe>
 </p>
+
+***
 
 ## A Dynamic Social Network of Characters Appeared in the French Novel "Les Liaisons Dangereuses"
 
@@ -35,7 +40,10 @@ The following datasets are part of the **"[Open Datasets for Digital Humanities 
 </p>
 
 ***
+
 # Computational Social Sciences
+
+***
 
 ## Korean News Corpus for Changes in Child Abuse before and after COVID-19 Outbreak
 
