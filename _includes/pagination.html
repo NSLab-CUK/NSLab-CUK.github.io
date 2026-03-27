@@ -15,39 +15,31 @@
       {% endif %}
 
       <div class="counter-box">
-        {% for count in (1..paginator.total_pages) %}
-          {% comment %} 현재 페이지와의 거리 계산 {% endcomment %}
-          {% assign dist = count | minus: paginator.page | abs %}
+        {% assign currentPage = paginator.page %}
+        {% assign totalPages = paginator.total_pages %}
+        {% assign visible_pages = 1 %}
+        <!-- visible page indicates the number of page to show around the current page -->
+        {% assign show_ellipsis_start = false %}
+        {% assign show_ellipsis_end = false %}
 
-          {% if count == 1 %}
-            {% comment %} 1. 첫 페이지는 무조건 표시 {% endcomment %}
-            {% if paginator.page == 1 %}
-              <span class="active-link" style="font-weight: bold; margin: 0 8px; color: #000;">1</span>
+        {% for i in (1..totalPages) %}
+            {% assign page_diff = i | minus: currentPage | abs %}
+
+            {% if i == 1 or i == totalPages or page_diff <= visible_pages %}
+                {% if i == currentPage %}
+                    <span class="active-link" style="font-weight: bold; margin: 0 8px; color: #000;">{{ i }}</span>
+                {% else %}
+                    <a class="count-number" style="margin: 0 8px; text-decoration: none; color: #666;" href="{% if i == 1 %}{{ site.baseurl }}/{% else %}{{ site.baseurl }}/page/{{ i }}/{% endif %}">{{ i }}</a>
+                {% endif %}
             {% else %}
-              <a class="count-number" style="margin: 0 8px; text-decoration: none; color: #666;" href="{{ site.baseurl }}/">1</a>
+                {% if i < currentPage and show_ellipsis_start == false %}
+                    <span class="pagination-ellipsis" style="margin: 0 8px; color: #666;">&hellip;</span>
+                    {% assign show_ellipsis_start = true %}
+                {% elsif i > currentPage and show_ellipsis_end == false %}
+                    <span class="pagination-ellipsis" style="margin: 0 8px; color: #666;">&hellip;</span>
+                    {% assign show_ellipsis_end = true %}
+                {% endif %}
             {% endif %}
-
-          {% elsif count == paginator.total_pages %}
-            {% comment %} 2. 마지막 페이지는 무조건 표시 {% endcomment %}
-            {% if paginator.page == paginator.total_pages %}
-              <span class="active-link" style="font-weight: bold; margin: 0 8px; color: #000;">{{ count }}</span>
-            {% else %}
-              <a class="count-number" style="margin: 0 8px; text-decoration: none; color: #666;" href="{{ site.baseurl }}/page/{{ count }}/">{{ count }}</a>
-            {% endif %}
-
-          {% elsif dist <= 2 %}
-            {% comment %} 3. 현재 페이지 기준 앞뒤 2페이지(거리 2 이내) 표시 {% endcomment %}
-            {% if count == paginator.page %}
-              <span class="active-link" style="font-weight: bold; margin: 0 8px; color: #000;">{{ count }}</span>
-            {% else %}
-              <a class="count-number" style="margin: 0 8px; text-decoration: none; color: #666;" href="{{ site.baseurl }}/page/{{ count }}/">{{ count }}</a>
-            {% endif %}
-
-          {% elsif count == 2 or count == paginator.total_pages | minus: 1 %}
-            {% comment %} 4. 위 조건에 해당 안 되면서 '2번' 혹은 '마지막 직전'이면 말줄임표 표시 {% endcomment %}
-            <span class="dots" style="color: #ccc; margin: 0 5px;">...</span>
-
-          {% endif %}
         {% endfor %}
       </div>
 
