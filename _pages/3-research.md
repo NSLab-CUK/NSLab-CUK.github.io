@@ -211,6 +211,26 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 [![Website](https://img.shields.io/badge/-XAI4Sci%20Proceedings-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://xai4sci.github.io/#papers)
 
 ***
+## AI-driven Chemical Engineering
+
+* _Main Collaborator_: Prof. **Jun Young Kim**, The Catholic University of Korea
+
+### Chemical Process Design and Simulation
+{:.no_toc}
+
+* TBA
+
+### Battery Anomaly Detection
+{:.no_toc}
+
+* TBA
+
+### Self-driving Lab
+{:.no_toc}
+
+* TBA
+
+***
 # Multidisciplinary Research
 
 ***
@@ -239,6 +259,8 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ***
 ## Medical Image and Signal Processing
 {:.no_toc}
+
+* _Main Collaborator_: Prof. **Hae Gyun Lim**, Pukyong National University
 
 ### Automated Disease Diagnostics
 {:.no_toc}
@@ -298,6 +320,8 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ## Semiconductor Design and Simulation
 {:.no_toc}
 
+* _Main Collaborator_: Prof. **Sungyeop Jung**, Korea University Sejong Campus
+
 * Minsun Cho, Jinwoo Jeong, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. The 247th Electrochemical Society (ECS) Meeting, Montreal, Canada; 05/2025.
 [![DOI](http://img.shields.io/:DOI-10.1149/MA2025--01331662mtgabs-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1149/MA2025-01331662mtgabs)
 
@@ -317,10 +341,16 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 [![Drive](https://img.shields.io/badge/Drive-Poster-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1fv7gLmXkhWWx31pbOmwLEgO80h_gE0hT/view?usp=sharing)
 
 ***
-## AI-driven Chemical Process Design
+## Ground Penetrating Radar Image Analysis
 {:.no_toc}
 
-* TBA
+* Tien-Bach-Thanh Do, Jun-Hee Cho, Jin-Hyouk Park, Ki-Nam Kim, Luong Vuong Nguyen, O-Joun Lee: Ground Penetrating Radar Image Analysis for Underground Barrier Detection by Combining YOLOv12 with Channel-wise Attention and Denoising Auto-Encoder. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025. <br>
+[![DOI](http://img.shields.io/:DOI-10.1145/3769002.3769961-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1145/3769002.3769961)
+[![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/GPR-YOLOv12)
+[![YouTube](https://img.shields.io/badge/YouTube-Presentation-red?style=flat-square&logo=YouTube)](https://youtu.be/fRyjoTx6se8)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=flat-square&logo=YouTube)](https://youtu.be/69aQKUdVIJE)
+[![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/GPR-YOLOv12)](https://github.com/NSLab-CUK/GPR-YOLOv12)
+[![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/GPR-YOLOv12)](https://github.com/NSLab-CUK/GPR-YOLOv12)
 
 ***
 ## Water Distribution Pipe Corrosion Assessment
