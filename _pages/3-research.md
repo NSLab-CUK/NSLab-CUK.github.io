@@ -168,7 +168,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ***
 ## Weather Forecasting
 
-_Main Collaborator_: Hyeon-Ju Jeon, Korea Institute of Atmospheric Prediction System
+_Main Collaborator_: **Hyeon-Ju Jeon**, Korea Institute of Atmospheric Prediction System
 
 ### Solar Irradiance Forecasting
 {:.no_toc}
