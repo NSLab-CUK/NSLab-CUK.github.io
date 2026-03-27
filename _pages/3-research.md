@@ -388,6 +388,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 * Intramural Research Program funded by The Catholic University of Korea (May 2025 – Apr 2026, 7 Mil KRW) (PI: **O-Joun Lee**)
 * “Development of GPR Survey Result Analysis System - 2nd Year,” funded by [Movements Inc.](https://www.movements.kr/) (Mar 2025 – Nov 2025, 80 Mil KRW) (PI: **O-Joun Lee**)
   * _In Korean_: GPR 탐사 결과 분석 시스템 연구개발 - 2차년도, [주식회사 무브먼츠](https://www.movements.kr/)/산학과제
+  * _Project Demo_: [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=flat-square&logo=YouTube)](https://youtu.be/69aQKUdVIJE)
 * “Literary Research in the Digital Age: Analysis of Literary Works using Deep Learning-based Language Model,” supported by the Academic Research Professors Program through NRF of Korea and funded by MOE of Korea (Jun 2024 – May 2025, 20 Mil KRW) (PI: Eun-Soon You)
   * _In Korean_: 디지털 시대의 문학 연구 : 딥러닝(Deep Learning) 기반의 언어 모델(Language Model)을 활용한 문학 작품 분석, 교육부/한국연구재단(NRF)/인문사회학술연구교수(B유형)/2024S1A5B5A17037301
 * “Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products,” supported by NRF of Korea and funded by MOE of Korea (Apr 2024 – Nov 2024, 30 Mil KRW), by cooperating with [Shukran Korea Inc.](https://shukrankorea.com/) (PI: **O-Joun Lee**)
