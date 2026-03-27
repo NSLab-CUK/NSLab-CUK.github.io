@@ -168,6 +168,8 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ***
 ## Weather Forecasting
 
+_Main Collaborator_: Hyeon-Ju Jeon, Korea Institute of Atmospheric Prediction System
+
 ### Solar Irradiance Forecasting
 {:.no_toc}
 
@@ -213,7 +215,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ***
 ## AI-driven Chemical Engineering
 
-* _Main Collaborator_: Prof. **Jun Young Kim**, The Catholic University of Korea
+_Main Collaborator_: Prof. **Jun Young Kim**, The Catholic University of Korea
 
 ### Chemical Process Design and Simulation
 {:.no_toc}
@@ -260,7 +262,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ## Medical Image and Signal Processing
 {:.no_toc}
 
-* _Main Collaborator_: Prof. **Hae Gyun Lim**, Pukyong National University
+_Main Collaborator_: Prof. **Hae Gyun Lim**, Pukyong National University
 
 ### Automated Disease Diagnostics
 {:.no_toc}
@@ -320,7 +322,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 ## Semiconductor Design and Simulation
 {:.no_toc}
 
-* _Main Collaborator_: Prof. **Sungyeop Jung**, Korea University Sejong Campus
+_Main Collaborator_: Prof. **Sungyeop Jung**, Korea University Sejong Campus
 
 * Minsun Cho, Jinwoo Jeong, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. The 247th Electrochemical Society (ECS) Meeting, Montreal, Canada; 05/2025.
 [![DOI](http://img.shields.io/:DOI-10.1149/MA2025--01331662mtgabs-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1149/MA2025-01331662mtgabs)
