@@ -409,7 +409,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Prof. Hyun-Cheol Park, Korea National University of Transportation, Chungju, Korea
 * Prof. Kyungroul Lee, Mokpo National University, Muan, Korea
 * Prof. Yoewon Yoon, Dongguk University, Seoul, Korea
-* Jong-Seo Lee, [Movements Inc.](https://movements.kr/#s1), Daejeon, Korea
+* Jong-Seo Lee, AI Smart Infrastructure Construction Research Association (AIRA), Seoul, Korea
 * Daehoon Yoon, [Movements Inc.](https://movements.kr/#s1), Daejeon, Korea
 * Seung Charlie Kim, [Shukran Korea Inc.](https://www.shukrankorea.com/), Seoul, Korea
 * Hyungseok Kim, [Petobio Co., Ltd.](https://www.petobio.com/en/), Hanam, Korea
