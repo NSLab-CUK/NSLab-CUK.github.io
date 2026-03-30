@@ -31,7 +31,7 @@ toc_label: "Table of Contents"
 
 #### International Applicants
 
-We are delighted to announce the start of recruitment at NS @ CUK. We are currently seeking students for our combined MS/Ph.D. or stand-alone Ph.D. programmes who demonstrate a passion and commitment to the field. Our work primarily revolves around the methods and applications of artificial intelligence for the collection, representation and analysis of various unstructured data using graph structures.
+We are delighted to announce the start of recruitment at NS Lab @ CUK. We are currently seeking students for our combined MS/Ph.D. or stand-alone Ph.D. programmes who demonstrate a passion and commitment to the field. Our work primarily revolves around the methods and applications of artificial intelligence for the collection, representation and analysis of various unstructured data using graph structures.
 
 Recently, we have shifted our focus to the application of graph neural networks and graph transformers in diverse domains such as rumour propagation, medical knowledge graphs, recommendation/retrieval systems, renewable energy, and semiconductor design. In addition, we are dedicated to extending GNNs to provide a better understanding of graph structures. For a more detailed look at our work, please visit [our lab website](https://nslab-cuk.github.io/research/).
 
