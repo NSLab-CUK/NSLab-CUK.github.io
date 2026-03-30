@@ -31,14 +31,14 @@ toc_label: "Table of Contents"
 
 #### International Applicants
 
-We are delighted to announce the start of recruitment at NS@CUK. We are currently seeking students for our combined MS/Ph.D. or stand-alone Ph.D. programmes who demonstrate a passion and commitment to the field. Our work primarily revolves around the methods and applications of artificial intelligence for the collection, representation and analysis of various unstructured data using graph structures.
+We are delighted to announce the start of recruitment at NS @ CUK. We are currently seeking students for our combined MS/Ph.D. or stand-alone Ph.D. programmes who demonstrate a passion and commitment to the field. Our work primarily revolves around the methods and applications of artificial intelligence for the collection, representation and analysis of various unstructured data using graph structures.
 
 Recently, we have shifted our focus to the application of graph neural networks and graph transformers in diverse domains such as rumour propagation, medical knowledge graphs, recommendation/retrieval systems, renewable energy, and semiconductor design. In addition, we are dedicated to extending GNNs to provide a better understanding of graph structures. For a more detailed look at our work, please visit [our lab website](https://nslab-cuk.github.io/research/).
 
 With our diverse experience in network science, graph mining, and the analysis of other unstructured data, we are confident in the value of the research we can produce together.
 
 * Requirements
-  * Fluency in English, both spoken and written (e.g. TOEIC >= 780, IELTS >= 5.5, etc.)
+  * Fluency in English, both spoken and written (e.g., TOEIC >= 780, IELTS >= 5.5, etc.)
   * English language skills will be assessed in an interview for applicants without English test scores.
   * Basic understanding of computer science and artificial intelligence
   * A background in graph theory is an advantage
