@@ -16,11 +16,15 @@ toc_label: "Table of Contents"
 ##### Mar 25th, 2026
 {:.no_toc}
 
+* NS Lab @ CUK received a congratulatory gift from Won Pyo Hong @ JinJin System Co., Ltd. for securing an NRF research grant.
+
 <p align="center"><img width="700" src="/images/260325.jpg"></p>
 
 ***
 ##### Mar 23rd, 2026
 {:.no_toc}
+
+* NS Lab @ CUK received a congratulatory gift from the President of the Catholic University of Korea for securing an NRF research grant.
 
 <p align="center"><img width="700" src="/images/260323.jpg"></p>
 
@@ -158,11 +162,15 @@ toc_label: "Table of Contents"
 ##### Sep 1st, 2025
 {:.no_toc}
 
+* NS Lab @ CUK received a congratulatory gift from the President of the Catholic University of Korea for securing an NRF research grant.
+
 <p align="center"><img width="700" src="/images/250901.jpg"></p>
 
 ***
 ##### Aug 29th, 2025
 {:.no_toc}
+
+* NS Lab @ CUK received a congratulatory gift from the President of the Catholic University of Korea for securing an IITP research grant.
 
 <p align="center"><img width="700" src="/images/250829_1.jpg"></p>
 <p align="center"><img width="700" src="/images/250829_2.jpg"></p>
