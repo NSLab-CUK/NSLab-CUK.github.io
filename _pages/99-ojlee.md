@@ -4,6 +4,9 @@ title: "O-Joun Lee, Ph.D."
 permalink: /member/ojlee
 image: 191103.jpg
 description: Curriculum vitae of O-Joun Lee
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
 ---
 
 > Graphs illustrate intricate patterns in our perception of the world and ourselves; graph mining enhances this comprehension by highlighting overlooked details.
@@ -24,25 +27,21 @@ description: Curriculum vitae of O-Joun Lee
 
 <br>
 
-<h5>Table of Contents</h5>
-* TOC
-{:toc}
-
 ***
 
 Research Experience
 ============
-* Sep 2021 -- Present: Assistant Professor, Dept. of Artificial Intelligence, The Catholic University of Korea, Bucheon, Gyeonggi-do, Republic of Korea
-
-* Sep 2019 -- Aug 2021: Full-time Researcher, Future IT Innovation Laboratory, Pohang University of Science and Technology (POSTECH), Pohang, Gyeongsangbuk-do, Republic of Korea
+* Jun 2025 -- Present: Head of AI Center, [JinJin System Co., Ltd.](https://www.jinjin.co.kr/main.do), Seoul, Korea
+* Sep 2021 -- Present: Assistant Professor, [<img src="/images/AI_Logo.png" alt="drawing" style="height: 20px;"/> Dept. of Artificial Intelligence](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Sep 2019 -- Aug 2021: Researcher, [<img src="/images/iLab_Logo.png" alt="drawing" style="height: 20px;"/> Future IT Innovation Laboratory](https://i-lab.postech.ac.kr/), [<img src="/images/POSTECHLogo.png" alt="drawing" style="height: 20px;"/> Pohang University of Science and Technology](https://postech.ac.kr/), Pohang, Korea
 
 ***
 
 Education
 ============
-* Mar 2015 -- Aug 2019: Chung-Ang University, Seoul, Republic of Korea <br> Ph.D., Major in Application Software, School of Computer Science and Engineering
-
-* Mar 2011 -- Feb 2015: Dankook University, Yongin, Gyeonggi-do, Republic of Korea <br> Bachelor of Engineering, Dept. of Software Science
+* Mar 2015 -- Aug 2019: Ph.D. in Computer Science and Engineering, [<img src="/images/CAULogo.png" alt="drawing" style="height: 20px;"/> Chung-Ang University](https://www.cau.ac.kr/), Seoul, Korea
+  * Under the supervision of [Prof. Jason J. Jung](http://intelligent.pe.kr/) within the [<img src="/images/KE_Logo.png" alt="drawing" style="height: 20px;"/> Knowledge Engineering Lab](http://ke.cau.ac.kr/Main_Page)
+* Mar 2011 -- Feb 2015: B.Eng. in Software Science, [<img src="/images/DKU_Logo1.jpg" alt="drawing" style="height: 20px;"/> Dankook University](https://www.dankook.ac.kr/), Yongin, Korea
 
 ***
 
@@ -84,7 +83,7 @@ Academic Activities
 Membership
 ------------
 
-* [대한의용생체공학회](https://kosombe.or.kr/society/sub04.html), 학술위원, since Feb 2026
+* [대한의용생체공학회](https://kosombe.or.kr/society/sub04.html), 학술위원, 2026
 * [한국정보과학회](https://www.kiise.or.kr/) [데이터소사이어티](https://dbsociety.kr/), 이사, since Feb 2025
 * [한국스마트미디어학회](https://kism.jams.or.kr/co/main/jmMain.kci), 상임이사, since Jan 2023
 * [한국차세대컴퓨팅학회](http://www.kingpc.or.kr/wp/), 이사, since Jan 2023
@@ -102,12 +101,12 @@ Editorship
 Conference Committee
 ------------
 
+* Program Committee Member, The 35th ACM International Conference on Information and Knowledge Management (CIKM 2026), Rome, Italy, 11/2026.
 * Program Committee Member, The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026), Jeju, Korea, 08/2026.
-* Track Chair, The 2025 RIVF International Conference on Computing and Communication Technologies (RIVF 2025), Ho Chi Minh City, Vietnam, 12/2025.
 * Program Committee Member, The 31st International Conference on Database Systems for Advanced Applications (DASFAA 2026), Jeju, Korea, 04/2026.
 * Track Committee Member, The Renewable and Sustainable Energy (RSE) Track at the 40th ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2026), Thessaloniki, Greece, 03/2026.
 * Program Committee Member, The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, 01/2026.
-* Program Committee Member, The 2025 RIVF International Conference on Computing and Communication Technologies (RIVF 2025), Ho Chi Minh City, Vietnam, 12/2025.
+* Track Chair, The 2025 RIVF International Conference on Computing and Communication Technologies (RIVF 2025), Ho Chi Minh City, Vietnam, 12/2025.
 * Program Committee Member, The 34th ACM International Conference on Information and Knowledge Management (CIKM 2025), Seoul, Korea, 11/2025.
 * Track Committee Member, The Renewable and Sustainable Energy (RSE) Track at the 40th ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2025), Catania, Italy, 03/2025.
 * Poster Session Chair, The 2024 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2024), Pompeii, Italy, 10/2024.
