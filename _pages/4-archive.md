@@ -82,6 +82,8 @@ toc_label: "Table of Contents"
 ##### Mar 4th, 2026
 {:.no_toc}
 
+* NS Lab @ CUK is looking for new crews to explore the frontiers of Graph Learning.
+
 <p align="center"><img width="700" src="/images/260304_1.jpg"></p>
 
 ***
@@ -124,6 +126,8 @@ toc_label: "Table of Contents"
 ##### Nov 10th, 2025
 {:.no_toc}
 
+* NS Lab @ CUK is looking for new crews to explore the frontiers of Graph Learning.
+
 <p align="center"><img width="700" src="/images/251110.jpg"></p>
 
 ***
@@ -164,7 +168,7 @@ toc_label: "Table of Contents"
 ##### Sep 1st, 2025
 {:.no_toc}
 
-* NS Lab @ CUK received a congratulatory gift from the President of the Catholic University of Korea for securing an IITP research grant.
+* NS Lab @ CUK received a congratulatory gift from the President of the Catholic University of Korea for securing an NRF research grant.
 
 <p align="center"><img width="700" src="/images/250901.jpg"></p>
 
@@ -197,7 +201,7 @@ toc_label: "Table of Contents"
 ##### Aug 18th, 2025
 {:.no_toc}
 
-* NS Lab @ CUK received a congratulatory gift from the President of the Catholic University of Korea for securing an NRF research grant.
+* NS Lab @ CUK received a congratulatory gift from the President of the Catholic University of Korea for securing an IITP research grant.
 
 <p align="center"><img width="700" src="/images/250818.jpg"></p>
 
