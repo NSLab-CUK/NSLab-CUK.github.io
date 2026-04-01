@@ -77,7 +77,6 @@ toc_label: "Table of Contents"
 {:.no_toc}
 
 <p align="center"><img width="700" src="/images/260304_1.jpg"></p>
-<p align="center"><img width="700" src="/images/260304_2.jpg"></p>
 
 ***
 ##### Feb 28th, 2026
