@@ -22,6 +22,8 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Minsun Cho, Deokho Jang, O-Joun Lee, Chang-Hyun Kim, Sungyeop Jung: Artificial Neural Networks in Semiconductor Device Compact Modeling: A Review. Applied Physics Reviews 03/2026. (To Appear)
+
 * Doi Thi Lan, Quan T. Ngo, Luong Vuong Nguyen, O-Joun Lee: A Multi-branch Network for Cooperative Spectrum Sensing via Attention-based and CNN Feature Fusion. Scientific Reports 01/2026; 16: 5111. DOI:[10.1038/s41598-026-36031-1](https://doi.org/10.1038/s41598-026-36031-1)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-026-36031-1" data-style="small_rectangle"></span>
