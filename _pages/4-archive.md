@@ -32,6 +32,8 @@ toc_label: "Table of Contents"
 ##### Mar 19th, 2026
 {:.no_toc}
 
+* Members of NS Lab @ CUK enjoyed the 2026 Spring Festival of CUK.
+
 <p align="center"><img width="350" src="/images/260319.jpg"></p>
 
 ***
