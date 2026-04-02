@@ -147,7 +147,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 <img align="right" src="https://nslab-cuk.github.io/images/Tuong.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
 * Mar 2026 -- Present: Combined M.Eng./Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
-* Sep 2021 -- Apr 2025: B.Eng. in Artificial Intelligence, [FPT University](https://daihoc.fpt.edu.vn/), Danang, Vietnam
+* Sep 2021 -- Apr 2025: B.Eng. in Artificial Intelligence, [<img src="/images/FPTU_Logo.png" alt="drawing" style="height: 20px;"/> FPT University](https://daihoc.fpt.edu.vn/), Danang, Vietnam
 * Research Interest: Graph Representation Learning
 * <a href="mailto:tuongho.dev@gmail.com"><img src="https://img.shields.io/badge/-tuongho.dev@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/TuongHH"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
@@ -398,7 +398,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Prof. [Sang-Woong Lee](http://pr.gachon.ac.kr/), Gachon University, Seongnam, Korea
 * Prof. [Hae Gyun Lim](https://sites.google.com/view/lim-lab/home), Pukyong National University, Busan, Korea 
 * Prof. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung), Korea University Sejong Campus, Sejong, Korea
-* Dr. [Luong Vuong Nguyen](https://luongvuongnguyen.github.io/), FPT University, Da Nang, Vietnam
+* Dr. [Luong Vuong Nguyen](https://luongvuongnguyen.github.io/), [<img src="/images/FPTU_Logo.png" alt="drawing" style="height: 20px;"/> FPT University](https://daihoc.fpt.edu.vn/), Da Nang, Vietnam
 * [Nam Gyu Jung](https://namgyu97.github.io/), Gachon University, Seongnam, Korea <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/Namgyu97)
 * Dr. [Tri-Hai Nguyen](https://sites.google.com/view/tri-hai-nguyen), Van Lang University, Ho Chi Minh City, Vietnam
 * Prof. [Kang-Min Kim](https://kangmin89.com/), Kyung Hee University, Yongin, Korea
