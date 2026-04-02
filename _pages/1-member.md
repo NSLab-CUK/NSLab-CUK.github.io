@@ -141,7 +141,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
-#### Ho Huu Tuong (Mar 2026 -- Present)
+#### [Ho Huu Tuong](https://nslab-cuk.github.io/member/tuong) (Mar 2026 -- Present)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/Tuong.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
