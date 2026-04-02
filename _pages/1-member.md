@@ -97,6 +97,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Research Interest: Graph Representation Learning
 * <a href="mailto:osfa19730@catholic.ac.kr"><img src="https://img.shields.io/badge/-osfa19730@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/BachThanh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+* [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3D6xihJdgAAAAJ)](https://scholar.google.com/citations?user=6xihJdgAAAAJ)
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
@@ -149,6 +150,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Sep 2021 -- Apr 2025: B.Eng. in Artificial Intelligence, [FPT University](https://daihoc.fpt.edu.vn/), Danang, Vietnam
 * Research Interest: Graph Representation Learning
 * <a href="mailto:tuongho.dev@gmail.com"><img src="https://img.shields.io/badge/-tuongho.dev@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="https://github.com/TuongHH"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
+* [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DKwAl3jQAAAAJ)](https://scholar.google.com/citations?user=KwAl3jQAAAAJ)
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
