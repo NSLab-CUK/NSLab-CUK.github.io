@@ -343,6 +343,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Sep 2019 -- Aug 2023: B.A. in Korean Language and Literature, Jeonju University, Jeonju, Korea
 * Sep 2015 -- Aug 2019: B.P.A. in Public Administration, The Open University of China, Beijing, China
 * Research Interest: NLP Long Text Summary
+* Thesis: Optimization of Retrieval-Augmented Generation Based on Keyword Processing and Triple Matching : Enhancing Retrieval Rates and LLM Output Quality<br>
+[![Drive](https://img.shields.io/badge/Drive-Thesis-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1Gj-8IeAcWLimvKGC_GeXHPddJW9aB8gH/view?usp=sharing)
 * <a href="mailto:wuyanjun@catholic.ac.kr"><img src="https://img.shields.io/badge/-wuyanjun@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
