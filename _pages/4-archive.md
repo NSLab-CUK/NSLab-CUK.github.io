@@ -18,7 +18,7 @@ toc_label: "Table of Contents"
 
 * We started participating in the Global Regulatory Science Leader Training Program -- AI-based Drug Development (글로벌 규제과학 리더양성 사업 -- AI 기반 신약개발 분야), supported by Korea Health Industry Development Institute (KHIDI; 한국보건산업진흥원) and funded by MFDS of Korea (식품의약품안전처) (Apr 2026 -- Dec 2030, 3,325 Mil KRW), by cooperating with the College of Pharmacy at the Catholic University of Korea. 
 
-<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.iitp.kr/"><img align="center" src="/images/KHIDI_Logo.png" style="width : 130px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MFDS_Logo.jpg" style="width : 140px; margin : 10px"></a></p>
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.iitp.kr/"><img align="center" src="/images/KHIDI_Logo.png" style="width : 140px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MFDS_Logo.jpg" style="width : 140px; margin : 10px"></a></p>
 
 ***
 ##### Mar 25th, 2026
