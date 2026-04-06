@@ -106,7 +106,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <img align="right" src="https://nslab-cuk.github.io/images/kwkim.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
-* Mar 2026 -- Present: Adjunct Professor, Dept. of Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Mar 2026 -- Present: Adjunct Professor, [<img src="/images/AI_Logo.png" alt="drawing" style="height: 20px;"/> Dept. of Artificial Intelligence](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Mar 2025 -- Present: Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Mar 2012 -- Feb 2014: M.B.A. in Business Administration, 🏛 Sungkyunkwan University, Seoul, Korea
 * Mar 2005 -- Feb 2009: B.Eng. in Computer Engineering, 🏛 Sangmyung University, Seoul, Korea
