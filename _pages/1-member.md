@@ -407,8 +407,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Prof. [Jun Young Kim](https://sites.google.com/view/jykimgroup/home), The Catholic University of Korea, Bucheon, Korea
 * Prof. [Suk Min Kim](https://sites.google.com/view/bbelgroup/professor), The Catholic University of Korea, Bucheon, Korea
 * Prof. Yu-Doo Kim, Dongyang Mirae University, Seoul, Korea
-* Prof. [Youjin Shin](https://adslab0.github.io/), The Catholic University of Korea, Bucheon, Korea
-* Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), The Catholic University of Korea, Bucheon, Korea
+* Prof. Tae-Hwe Heo, The Catholic University of Korea, Bucheon, Korea
 * Prof. Hoon Ko, Sunmoon University, Asan, Korea
 * Prof. Changhan Yoon, Inje University, Gimhae, Korea
 * Prof. Hyun-Cheol Park, Korea National University of Transportation, Chungju, Korea
@@ -426,6 +425,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Dr. [Gen Li](https://scholar.google.com/citations?hl=en&user=euEki6wAAAAJ&view_op=list_works), Chengdu University, Chengdu, China
 * Dr. [Min Gon Kim](https://sites.google.com/view/mingonk), Carnegie Mellon University, Pittsburgh, PA, USA
 * Kangsan Kim, [Braincolla Inc.](https://braincolla.com/), Seoul, Korea
-
+* Prof. [Youjin Shin](https://adslab0.github.io/), The Catholic University of Korea, Bucheon, Korea
+* Prof. [Keunsoo Ko](https://imlab-cuk.github.io/), The Catholic University of Korea, Bucheon, Korea
 
 
