@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Ho Huu Tuong"
+title: "Huu-Tuong Ho"
 permalink: /member/tuong
 image: 
-description: Curriculum vitae of Ho Huu Tuong
+description: Curriculum vitae of Huu-Tuong Ho
 ---
 
 [![DBLP](https://img.shields.io/badge/DBLP-004F9F?style=flat-square&logo=dblp)](https://dblp.org/pid/362/4975.html) 
