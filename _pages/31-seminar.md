@@ -32,6 +32,22 @@ This page is an archive for papers reviewed by members of the Network Science La
 {:.no_toc}
 
 <details markdown="1">
+  <summary>T.B.T. Do, Review on "GraphGrasp: Lightweight and Efficient Graph-Guided 6-DoF Robotic Grasp Pose Estimation Network", AAAI 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hpXdCKse5igAfK?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.T. Ho, Review on "Graph Domain Adaptation via Homophily-Agnostic Reconstructing Structure", AAAI 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/EdPt28Iq3S7wfU?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+#### Mar 30th, 2026
+{:.no_toc}
+
+<details markdown="1">
   <summary>T.B.T. Do, Review on "Are Graph Transformers Necessary Efficient Long-Range Message Passing with Fractal Nodes in MPNNs​", AAAI 2026</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Gy4eo8zCMREDnF?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
