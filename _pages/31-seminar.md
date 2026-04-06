@@ -33,7 +33,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 <details markdown="1">
   <summary>T.B.T. Do, Review on "GraphGrasp: Lightweight and Efficient Graph-Guided 6-DoF Robotic Grasp Pose Estimation Network", AAAI 2026</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hpXdCKse5igAfK?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ivpk8dJXAwx2Nb?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
