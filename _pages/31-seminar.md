@@ -32,6 +32,22 @@ This page is an archive for papers reviewed by members of the Network Science La
 {:.no_toc}
 
 <details markdown="1">
+  <summary>T.B.T. Do, Review on "DW-DGAT: Dynamically Weighted Dual Graph Attention Network for Neurodegenerative Disease Diagnosis", AAAI 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/Fxg8IVEVlecNZC?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.T. Ho, Review on "Probabilistic Graph Rewiring via Virtual Nodes", NeurIPS </summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/B9bAHvH0rqTMGK?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+#### Mar 30th, 2026
+{:.no_toc}
+
+<details markdown="1">
   <summary>T.B.T. Do, Review on "GraphGrasp: Lightweight and Efficient Graph-Guided 6-DoF Robotic Grasp Pose Estimation Network", AAAI 2026</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ivpk8dJXAwx2Nb?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
