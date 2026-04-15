@@ -908,7 +908,7 @@ toc_label: "Table of Contents"
 * We started participating in a commissioned research project on "Analysis of Redundancies and Conflicts in Construction Standards (건설기준 중복.상충부 분석 용역)," funded by [Korea Institute of Civil Engineering and Building Technology (KICT)](https://www.kict.re.kr/eng/) (한국건설기술연구원) (Jun 2023 -- Nov 2023, 90 Mil KRW), by cooperating with Prof. [Kang-Min Kim](https://kangmin89.com/), Prof. [Youjin Shin](https://adslab0.github.io/), and their teams. <br>
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.yna.co.kr/view/AKR20230822132800003?input=1195m)
 
-<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="http://www.orderqueen.co.kr/"><img align="center" src="/images/KICT_Logo.png" style="width : 150px; margin : 10px"></a></p>
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.kict.re.kr/eng/"><img align="center" src="/images/KICT_Logo.png" style="width : 150px; margin : 10px"></a></p>
 
 ***
 ##### May 15th, 2023
