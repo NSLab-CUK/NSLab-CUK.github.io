@@ -31,7 +31,7 @@ toc_label: "Table of Contents"
 
 Research Experience
 ============
-* May 2026 -- Present: Visiting Researcher, [<img src="/images/KICT_Logo.png" alt="drawing" style="height: 20px;"/> Korea Institute of Civil Engineering and Building Technology (KICT)](https://www.kict.re.kr/eng/), Goyang, Korea
+* May 2026 -- Present: Visiting Researcher, [<img src="/images/KICT_Logo.png" alt="drawing" style="height: 20px;"/> Korea Institute of Civil Engineering and Building Technology](https://www.kict.re.kr/eng/), Goyang, Korea
 * Jun 2025 -- Present: Head of AI Center, [<img src="/images/JinJin_Logo.png" alt="drawing" style="height: 20px;"/> JinJin System Co., Ltd.](https://www.jinjin.co.kr/main.do), Seoul, Korea
 * Sep 2021 -- Present: Assistant Professor, [<img src="/images/AI_Logo.png" alt="drawing" style="height: 20px;"/> Dept. of Artificial Intelligence](https://cukadmin.catholic.ac.kr/cukai.eng/index.html), [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Sep 2019 -- Aug 2021: Researcher, [<img src="/images/iLab_Logo.png" alt="drawing" style="height: 20px;"/> Future IT Innovation Laboratory](https://i-lab.postech.ac.kr/), [<img src="/images/POSTECHLogo.png" alt="drawing" style="height: 20px;"/> Pohang University of Science and Technology](https://postech.ac.kr/), Pohang, Korea
