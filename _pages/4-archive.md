@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2026
 
 ***
+##### Apr 7th, 2026
+{:.no_toc}
+
+* We started an intramural research project (우수국제공동활성화연구비 -- 중진교수) funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Apr 2026 -- Mar 2027, 7 Mil KRW).
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
 ##### Apr 3rd, 2026
 {:.no_toc}
 
@@ -301,10 +309,10 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/250507.png"></p>
 
 ***
-##### May 2nd, 2025
+##### Apr 30th, 2025
 {:.no_toc}
 
-* We started an intramural research project on "Topography-aware Wind Speed and Direction Forecasting System based on Multi-modal Spatio-temporal Graph Neural Networks," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (May 2025 -- Apr 2026, 7 Mil KRW).
+* We started an intramural research project (국제공동활성화연구비 -- 중진교수) funded by [The Catholic University of Korea](https://catholic.ac.kr/) (May 2025 -- Apr 2026, 7 Mil KRW).
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
 
@@ -546,20 +554,20 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/240507.jpg"></p>
 
 ***
+##### Apr 16th, 2024
+{:.no_toc}
+
+* We started an intramural research project (국제공동활성화연구비) funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Mar 2024 -- Feb 2025, 7 Mil KRW).
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
 ##### Apr 15th, 2024
 {:.no_toc}
 
 * We started an industry-academic joint technology development project, affiliated with [Leaders in INdustry-university Cooperation 3.0 (LINC3.0)](https://linc.catholic.ac.kr/lincplus/index.html) (LINC 3.0 산학공동기술개발과제) on "Knowledge Graph-based Cross-cultural Personalized Recommendation Solution for Korean Food/Cosmetic Products (지식그래프 기반 한국 식품/화장품 글로벌 개인화 추천 솔루션)," through NRF of Korea (한국연구재단) and funded by MOE of Korea (교육부) (Apr 2024 -- Nov 2024, 30 Mil KRW), by cooperating with [Shukran Korea Inc. (주식회사 슈크란코리아)](https://www.shukrankorea.com/).
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://www.shukrankorea.com/"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 280px; margin : 10px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/Shukran_Logo.png" style="width : 220px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.moe.go.kr/"><img align="center" src="/images/MOE_Logo.png" style="width : 100px; margin : 10px"></a></p>
-
-***
-##### Apr 9th, 2024
-{:.no_toc}
-
-* We started an intramural research project on "Topography-aware Wind Speed and Direction Forecasting System based on Multi-modal Spatio-temporal Graph Neural Networks," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Mar 2024 -- Feb 2025, 7 Mil KRW).
-
-<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
 
 ***
 ##### Apr 4th, 2024 -- May 13th, 2024
@@ -956,7 +964,7 @@ toc_label: "Table of Contents"
 ##### Apr 11th, 2023
 {:.no_toc}
 
-* We started an intramural research project on "Topography-aware Wind Speed and Direction Forecasting System based on Multi-modal Spatio-temporal Graph Neural Networks," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Mar 2023 -- Feb 2024, 7 Mil KRW).
+* We started an intramural research project (국제공동활성화연구비) funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Mar 2023 -- Feb 2024, 7 Mil KRW).
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
 
@@ -1069,6 +1077,14 @@ toc_label: "Table of Contents"
 <p align="center"><a href="https://cukai.catholic.ac.kr/cukai/index.html"><img align="center" src="/images/AI_Logo.png" style="width : 100px; margin : 15px"></a><a href="https://linc.catholic.ac.kr/lincplus/index.html"><img align="center" src="/images/CUKLINK_Logo.jpg" style="width : 320px; margin : 10px"></a></p>
 
 ***
+##### Oct 26th, 2022
+{:.no_toc}
+
+* We started an intramural research project (일반연구비) funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Sep 2022 -- Aug 2023, 7 Mil KRW).
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
 ##### Oct 7th, 2022
 {:.no_toc}
 
@@ -1095,14 +1111,6 @@ toc_label: "Table of Contents"
 * We started a research project on "Organizing Korea-EU Research Group for (Semi-) Automated Diagnostics Support System based on Medical Knowledge Graph Mining (의료 지식그래프 마이닝 기반 진단보조시스템 연구를 위한 한-EU 연구그룹 구성)," supported by the Korea-EU Cooperation Promotion Program (한-EU 협력진흥사업) through NRF of Korea (한국연구재단) and funded by MSIT of Korea (과학기술정보통신부) (Oct 2022 -- Sep 2023, 25 Mil KRW). 
 
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
-
-***
-##### Sep 1st, 2022
-{:.no_toc}
-
-* We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Sep 2022 -- Aug 2023, 7 Mil KRW).
-
-<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
 
 ***
 ##### Aug 29th, 2022
@@ -1217,6 +1225,13 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/210930.jpg"></p>
 
 ***
+##### Sep 24th, 2021
+
+* We started an intramural research project (일반연구비) funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Sep 2021 -- Aug 2022, 7 Mil KRW).
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
+
+***
 ##### Sep 15th, 2021
 {:.no_toc}
 
@@ -1237,9 +1252,6 @@ toc_label: "Table of Contents"
 {:.no_toc}
 
 * Network Science Lab, CUK has been founded.
-* We started an intramural research project on "Research Team Formation based on Bibliographic Network Embedding," funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Sep 2021 -- Aug 2022, 7 Mil KRW).
-
-<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a></p>
 
 ***
 ##### Aug 27th, 2021
