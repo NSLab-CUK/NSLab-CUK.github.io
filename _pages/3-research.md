@@ -20,7 +20,7 @@ last_modified_at: 2025-03-31 15:30:00 +0900
   <em>Multi-Resolution Network Embedding.</em>
 </p>
 
-* Van Thuy Hoang, O-Joun Lee: A Survey on Structure-Preserving Graph Transformers. arXiv preprint 01/2024; arXiv:2401.16176. (Preprint) <br>
+* Van Thuy Hoang, O-Joun Lee: A Survey on Structure-Preserving Graph Transformers. arXiv preprint 01/2024; arXiv:2401.16176. <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2401.16176-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2401.16176)
 
 * Van Thuy Hoang, Hyeon-Ju Jeon, O-Joun Lee: Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-attention. **IEEE Transactions on Network Science and Engineering** 04/2025; 12(5): 3656-3670.<br>
@@ -51,7 +51,7 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 [![DOI](http://img.shields.io/:DOI-10.3390/s23084168-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.3390/s23084168)
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](http://ct.moreover.com/?a=50722602882&p=1gw&v=1&x=cSHc4cljmIjt1lrdFa24BQ)
 
-* Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv preprint 04/2023; arXiv:2304.13195. (Preprint) <br>
+* Thanh Sang Nguyen, Jooho Lee, Van Thuy Hoang, O-Joun Lee: Connector 0.5: A unified framework for graph representation learning. arXiv preprint 04/2023; arXiv:2304.13195. <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2304.13195-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2304.13195)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Connector)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/Connector)](https://github.com/NSLab-CUK/Connector)
@@ -62,13 +62,13 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1ZcadK5rmvpjQB?startSlide=1" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
-* Van Thuy Hoang, O-Joun Lee: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction. arXiv preprint 01/2026; arXiv:2601.11135. (Preprint) <br>
+* Van Thuy Hoang, O-Joun Lee: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction. arXiv preprint 01/2026; arXiv:2601.11135. <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2601.11135-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2601.11135)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/CaMol)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/CaMol)](https://github.com/NSLab-CUK/CaMol)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/CaMol)](https://github.com/NSLab-CUK/CaMol)
 
-* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on 2D and 3D Molecular Structures by using Multi-View Conditional Information Bottleneck. arXiv preprint 11/2025; arXiv:2511.18404. (Preprint) <br>
+* Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on 2D and 3D Molecular Structures by using Multi-View Conditional Information Bottleneck. arXiv preprint 11/2025; arXiv:2511.18404. <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2511.18404-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2511.18404)
 [![GitHub](https://img.shields.io/badge/GitHub-Data%20&%20Code-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/MVCIB)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/MVCIB)](https://github.com/NSLab-CUK/MVCIB)
@@ -192,7 +192,9 @@ _Main Collaborator_: **Hyeon-Ju Jeon**, Korea Institute of Atmospheric Predictio
 ### Atmospheric State Estimation
 {:.no_toc}
 
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations between Earth Observations in Global Atmospheric State Estimation by using Adaptive Graph Structure Learning. arXiv preprint 08/2025; arXiv:2508.07659. (Preprint) <br>
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations of Earth Observations for Weather Forecasting using Graph Structure Learning. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025. <br>
+_arXiv Preprint --_ Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations between Earth Observations in Global Atmospheric State Estimation by using Adaptive Graph Structure Learning. arXiv preprint 08/2025; arXiv:2508.07659. <br>
+[![DOI](http://img.shields.io/:DOI-10.1145/3769002.3769956-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1145/3769002.3769956)
 [![arXiv](https://img.shields.io/badge/arXiv-2508.07659-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2508.07659)
 
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Observation Impact Explanation in Atmospheric State Estimation using Hierarchical Message-Passing Graph Neural Networks. **Machine Learning: Science and Technology** 10/2024; 5(4): 045036. <br>
@@ -201,7 +203,7 @@ _Main Collaborator_: **Hyeon-Ju Jeon**, Korea Institute of Atmospheric Predictio
 [![GitHub stars](https://img.shields.io/github/stars/higd963/CloudNine)](https://github.com/higd963/CloudNine)
 [![GitHub forks](https://img.shields.io/github/forks/higd963/CloudNine)](https://github.com/higd963/CloudNine)
 
-* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 02/2024; arXiv:2402.14861. (Preprint) <br>
+* Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks. arXiv preprint 02/2024; arXiv:2402.14861. <br>
 [![arXiv](https://img.shields.io/badge/arXiv-2402.14861-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2402.14861)
 [![Drive](https://img.shields.io/badge/Drive-Slides-4285F4?style=flat-square&logo=Google+Drive)](https://drive.google.com/file/d/1gyXXVqs9Fg3m9joqmUTtwW6GX3uQkBOU/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=flat-square&logo=YouTube)](https://youtu.be/vqhk6fCCGR0)
@@ -458,7 +460,7 @@ _Main Collaborator_: Prof. **Sungyeop Jung**, Korea University Sejong Campus
 ### Intramural Projects
 {:.no_toc}
 
-* Intramural Research Program funded by The Catholic University of Korea (May 2025 – Apr 2026, 7 Mil KRW) (PI: **O-Joun Lee**)
+* Intramural Research Program funded by The Catholic University of Korea (Apr 2026 – Mar 2027, 7 Mil KRW) (PI: **O-Joun Lee**)
 * Intramural Research Program funded by The Catholic University of Korea (May 2025 – Apr 2026, 7 Mil KRW) (PI: **O-Joun Lee**)
 * Intramural Research Program funded by The Catholic University of Korea (Mar 2024 – Feb 2025, 7 Mil KRW) (PI: **O-Joun Lee**)
 * Intramural Research Program funded by The Catholic University of Korea (Mar 2023 – Feb 2024, 7 Mil KRW) (PI: **O-Joun Lee**)
