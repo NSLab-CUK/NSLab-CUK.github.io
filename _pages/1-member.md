@@ -297,20 +297,15 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 ***
 
-#### Tae-You Kim (Dec 2021 -- Present; Co-advised with Prof. Dong-Hwa Jeong @ CUK)
-{:.no_toc}
+* Tae-You Kim (Dec 2021 -- Present; Co-advised with Prof. Dong-Hwa Jeong @ CUK)
 
-#### Hee-Soo Kim (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
-{:.no_toc}
+* Hee-Soo Kim (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
 
-#### Seong-Jin Park (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
-{:.no_toc}
+* Seong-Jin Park (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
 
-#### Youn-Gyu Jin (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
-{:.no_toc}
+* Youn-Gyu Jin (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
 
-#### Ju-Won Seo (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
-{:.no_toc}
+* Ju-Won Seo (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
 
 
 ***
