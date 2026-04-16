@@ -297,53 +297,20 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 ***
 
-#### Tae-You Kim (Dec 2021 -- Present; Co-advisory)
+#### Tae-You Kim (Dec 2021 -- Present; Co-advised with Prof. Dong-Hwa Jeong @ CUK)
 {:.no_toc}
 
-* Co-advised with Prof. Dong-Hwa Jeong @ The Catholic University of Korea
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
-
-#### Keonvin Park (Apr 2025 -- Present; Visiting Researcher)
+#### Hee-Soo Kim (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
 {:.no_toc}
 
-<img align="right" src="https://nslab-cuk.github.io/images/kvpark.jpeg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Mar 2024 -- Present: Ph.D in [Interdisciplinary Program in Artificial Intelligence](https://gsai.snu.ac.kr/), [<img src="/images/SNU_Logo.png" alt="drawing" style="height: 20px;"/> Seoul National University](https://www.snu.ac.kr/), Seoul, Korea
-* Sep 2018 -- Aug 2020: M.Sc. in Industrial Management Engineering, [<img src="/images/KU_Logo.png" alt="drawing" style="height: 20px;"/> Korea University](https://www.korea.edu/), Seoul, Korea
-* Mar 2013 -- Aug 2017: B.Sc. in Statistics, [<img src="/images/DGU_Logo.png" alt="drawing" style="height: 20px;"/> Dongguk University](https://www.dongguk.edu/), Seoul, Korea
-* Research Interest: Spatio-Temporal GNNs
-* <a href="mailto:kbpark16@snu.ac.kr"><img src="https://img.shields.io/badge/-kbpark16@snu.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
-
-#### Hee-Soo Kim (Mar 2026 -- Present; Co-advisory)
+#### Seong-Jin Park (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
 {:.no_toc}
 
-* Co-advised with Prof. Kang-Min Kim @ Kyung Hee University
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
-
-#### Seong-Jin Park (Mar 2026 -- Present; Co-advisory)
+#### Youn-Gyu Jin (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
 {:.no_toc}
 
-* Co-advised with Prof. Kang-Min Kim @ Kyung Hee University
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
-
-#### Youn-Gyu Jin (Mar 2026 -- Present; Co-advisory)
+#### Ju-Won Seo (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
 {:.no_toc}
-
-* Co-advised with Prof. Kang-Min Kim @ Kyung Hee University
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
-
-#### Ju-Won Seo (Mar 2026 -- Present; Co-advisory)
-{:.no_toc}
-
-* Co-advised with Prof. Kang-Min Kim @ Kyung Hee University
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
 
 ***
