@@ -9,7 +9,7 @@ permalink: pretty
 paginate: 5
 paginate_path: "/page/:num"
 
-futrue: true
+future: true
 
 # Markdown Processing
 kramdown:
