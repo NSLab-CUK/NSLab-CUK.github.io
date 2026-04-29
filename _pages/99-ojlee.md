@@ -95,7 +95,7 @@ Editorship
 * Editorial Board Member, [Discover Computer Vision](https://link.springer.com/journal/44584), since May 2026
 * Editorial Board Member, [Academia AI and Applications](https://www.academia.edu/journals/academia-ai-and-applications/about/editorial-board?source=journal-top-nav), since May 2025
 * Guest Editor, Applied Sciences, Special Issue on "[Machine Learning and Artificial Intelligence for Human Information Analysis](https://www.mdpi.com/journal/applsci/special_issues/9E6QLH63AE)."
-* [Academic Editor, Plos One](https://journals.plos.org/plosone/static/editorial-board), since Dec 2022
+* Academic Editor, [Plos One](https://journals.plos.org/plosone/static/editorial-board), since Dec 2022
 * Guest Editor, Sensors, Special Issue on "[Machine Learning and AI for Medical Data Analysis](https://www.mdpi.com/journal/sensors/special_issues/mdata_analysis)."
 * Corresponding Guest Editor, Concurrency and Computation: Practice and Experience (CCPE), Special Issue on "[Multimedia Content Analysis for Explainable Recommendation and Retrieval (RACS 2020)](http://www.cc-pe.net/journalinfo/issues/2020.html#RACS2020)."
 * Corresponding Guest Editor, Sustainability, Special Issue on "[Human-Centric Urban Services](https://www.mdpi.com/journal/sustainability/special_issues/human_centric_urban_sus)."
