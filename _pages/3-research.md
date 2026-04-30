@@ -408,6 +408,8 @@ _Main Collaborator_: Prof. **Sungyeop Jung**, Korea University Sejong Campus
 ### Government-Funded Projects
 {:.no_toc}
 
+* “Graduate School for Global Regulatory Science Leaders in AI-based Drug Development,” supported by the Global Regulatory Science Leader Training Program -- AI-based Drug Development through KHIDI and funded by MFDS of Korea (Apr 2026 – Dec 2030, 3,325 Mil KRW) (PI: Han Chang Kang; Co-I: **O-Joun Lee**, etc.)
+  * _In Korean_: AI 신약개발 분야 글로벌 규제과학 리더양성 대학 운영, 식품의약품안전처/한국보건산업진흥원(KHIDI)/**글로벌 규제과학 리더양성 사업 -- AI 기반 신약개발 분야**/RS-2026-25523551
 * “Environment-Conditioned Multi-Molecule Causal Learning for Practical Candidate Material Screening and Design,” supported by the Outstanding Young Scientist Grants (Type A) through NRF of Korea and funded by MSIT of Korea (Mar 2026 – Feb 2029, 240 Mil KRW) (PI: **O-Joun Lee**)
   * _In Korean_: 환경 조건을 고려한 다중 분자 인과학습 기반 실용적 후보물질 스크리닝 및 설계 모델 개발, 과학기술정보통신부/한국연구재단(NRF)/**우수신진연구(유형A)**/RS-2026-25488766
 * “Multi-view Pre-training and Parameter-efficient Tuning for Structure-Preserving Molecular Graph Foundation Models,” supported by the Outstanding Young Scientist Grants (Seeds Grants) through NRF of Korea and funded by MSIT of Korea (Sep 2025 – Aug 2026, 80 Mil KRW) (PI: **O-Joun Lee**)
@@ -420,7 +422,7 @@ _Main Collaborator_: Prof. **Sungyeop Jung**, Korea University Sejong Campus
   * _In Korean_: 의료 지식그래프 마이닝 기반 진단보조시스템 연구를 위한 한-EU 연구그룹 구성, 과학기술정보통신부/한국연구재단(NRF)/**한-EU 협력진흥사업**/2022K1A3A1A79089461
 * “Multi-modal Transformer Model for Self-supervised Representation Learning of Dynamic Heterogeneous Networks,” supported by the Basic Science Research Program through NRF of Korea and funded by MSIT of Korea (Jun 2022 – Feb 2025, 132 Mil KRW) (PI: **O-Joun Lee**)
   * _In Korean_: 동적 이종 네트워크의 자기지도 표현학습을 위한 Multi-modal 트랜스포머 모델 개발, 과학기술정보통신부/한국연구재단(NRF)/**기본연구지원사업**/2022R1F1A1065516
-* “Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors,” supported by the Next-generation Intelligence-Type Semiconductor Development Program through NRF of Korea and funded by MSIT of Korea (Apr 2022 – Dec 2024, 550 Mil KRW) (Co-PI: Sungyeop Jung; Co-I: **O-Joun Lee**)
+* “Development of ML-based multi scale simulation platform for designing and optimizing ReRAM crossbar array (CBA) circuits for AI semiconductors,” supported by the Next-generation Intelligence-Type Semiconductor Development Program through NRF of Korea and funded by MSIT of Korea (Apr 2022 – Dec 2024, 550 Mil KRW) (PI: Hyunbo Cho; Co-PI: Sungyeop Jung, etc.; Co-I: **O-Joun Lee**, etc.)
   * _In Korean_: 인공지능 반도체용 ReRAM crossbar array(CBA) 회로 설계 및 최적화를 위한 기계학습 기반 멀티 스케일 시뮬레이션 플랫폼 개발, 과학기술정보통신부/한국연구재단(NRF)/**차세대지능형반도체기술개발사업**/2022M3F3A2A01085531
 
 ### Industry-Academic Collaboration Projects
@@ -457,6 +459,12 @@ _Main Collaborator_: Prof. **Sungyeop Jung**, Korea University Sejong Campus
   * _In Korean_: 챗봇 기반 장애인용 키오스크 인터페이스 및 메뉴 추천 시스템, [오더퀸 주식회사](http://www.orderqueen.co.kr/)/산학과제
   * _Project Demo_: [![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=flat-square&logo=YouTube)](https://youtu.be/n0gDwgyqzZY?list=PLm48VoFepFW2spWkk11lC2qYqHiCGGekK)
 
+<!--
+### Human Resources Development Projects
+{:.no_toc}
+-->
+
+
 ### Intramural Projects
 {:.no_toc}
 
@@ -467,7 +475,7 @@ _Main Collaborator_: Prof. **Sungyeop Jung**, Korea University Sejong Campus
 * Intramural Research Program funded by The Catholic University of Korea (Sep 2022 – Aug 2023, 7 Mil KRW) (PI: **O-Joun Lee**)
 * Intramural Research Program funded by The Catholic University of Korea (Sep 2021 – Aug 2022, 7 Mil KRW) (PI: **O-Joun Lee**)
 * Intramural Research Program funded by POSTECH (Nov 2020 – Sep 2021, 50 Mil KRW) (PI: **O-Joun Lee**)
-* Intramural Research Program funded by RIST (Jan 2020 – Jan 2021, 224 Mil KRW) (PI: Ho-Keun Song; Co-Is: Ki Heung Kim, Choong-Hyong Lee, Jintaek Kim, Joon-Yeop Kwon, Yeongdeog Kim, Kwang-Seok Han, Sang-Joon Park, **O-Joun Lee**)
+* Intramural Research Program funded by RIST (Jan 2020 – Jan 2021, 224 Mil KRW) (PI: Ho-Keun Song; Co-Is: Jintaek Kim, **O-Joun Lee**, etc.)
 
 ***
 ## Media Exposure
