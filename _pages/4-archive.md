@@ -296,6 +296,8 @@ toc_label: "Table of Contents"
 ##### May 15th, 2025
 {:.no_toc}
 
+* We had a wonderful Teacher's Day gathering.
+
 <p align="center"><img width="700" src="/images/250515.jpg"></p>
 
 <p align="center"><img width="700" src="/images/250515_1.jpg"></p>
@@ -548,6 +550,8 @@ toc_label: "Table of Contents"
 ***
 ##### May 15th, 2024
 {:.no_toc}
+
+* We had a wonderful Teacher's Day gathering.
 
 <p align="center"><img width="700" src="/images/240515.jpg"></p>
 
@@ -928,6 +932,8 @@ toc_label: "Table of Contents"
 ##### May 15th, 2023
 {:.no_toc}
 
+* We had a wonderful Teacher's Day gathering.
+
 <p align="center"><img width="700" src="/images/20230515.jpg"></p>
 
 ***
@@ -1165,6 +1171,8 @@ toc_label: "Table of Contents"
 ***
 ##### May 15th, 2022
 {:.no_toc}
+
+* We had a wonderful Teacher's Day gathering.
 
 <p align="center"><img width="700" height="700" src="/images/20220513.jpg"></p>
 
