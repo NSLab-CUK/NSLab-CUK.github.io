@@ -1226,6 +1226,7 @@ toc_label: "Table of Contents"
 
 ***
 ##### Sep 24th, 2021
+{:.no_toc}
 
 * We started an intramural research project (일반연구비) funded by [The Catholic University of Korea](https://catholic.ac.kr/) (Sep 2021 -- Aug 2022, 7 Mil KRW).
 
