@@ -64,6 +64,8 @@ toc_label: "Table of Contents"
 ##### Mar 13th, 2026
 {:.no_toc}
 
+* We had a memorable birthday gathering. 
+
 <p align="center"><img width="700" src="/images/260313_1.jpg"></p>
 <p align="center"><img width="700" src="/images/260313_2.jpg"></p>
 <p align="center"><img width="700" src="/images/260313_3.jpg"></p>
@@ -329,6 +331,8 @@ toc_label: "Table of Contents"
 ##### Mar 16th, 2025
 {:.no_toc}
 
+* We had a memorable birthday gathering. 
+
 <p align="center"><img width="700" src="/images/250316.jpg"></p>
 
 <p align="center"><img width="700" src="/images/250316_01.jpg"></p>
@@ -580,6 +584,8 @@ toc_label: "Table of Contents"
 ***
 ##### Mar 16th, 2024
 {:.no_toc}
+
+* We had a memorable birthday gathering. 
 
 <p align="center"><img width="700" src="/images/240316_2.jpg"></p>
 
@@ -980,6 +986,8 @@ toc_label: "Table of Contents"
 ##### Mar 16th, 2023
 {:.no_toc}
 
+* We had a memorable birthday gathering. 
+
 <p align="center"><img width="700" src="/images/230316_1.jpg"></p>
 
 <p align="center"><img width="700" src="/images/230316_2.jpg"></p>
@@ -1171,6 +1179,8 @@ toc_label: "Table of Contents"
 ***
 ##### Mar 16th, 2022
 {:.no_toc}
+
+* We had a memorable birthday gathering. 
 
 <p align="center"><img width="700" height="700" src="/images/20220316.jpg"></p>
 
