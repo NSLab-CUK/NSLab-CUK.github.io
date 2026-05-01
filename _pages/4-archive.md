@@ -772,6 +772,8 @@ toc_label: "Table of Contents"
 ##### Sep 1st, 2023
 {:.no_toc}
 
+* We had a movie night.
+
 <p align="center"><img width="700" src="/images/230901.jpg"></p>
 
 ***
