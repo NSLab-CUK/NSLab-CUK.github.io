@@ -408,6 +408,8 @@ _Main Collaborator_: Prof. **Sungyeop Jung**, Korea University Sejong Campus
 ### Government-Funded Projects
 {:.no_toc}
 
+* “Investigating the Coexistence of Literary Movements through Transformer-Based Language Models,” supported by the Academic Research Professors Program (Type B) through NRF of Korea and funded by MOE of Korea (Jun 2026 – May 2027, 20 Mil KRW) (PI: Eun-Soon You)
+  * _In Korean_: 트랜스포머 기반 언어 모델을 활용한 문학 사조 혼재 연구, 교육부/한국연구재단(NRF)/인문사회학술연구교수(B유형)/2026S1A5B5A17015739
 * “Graduate School for Global Regulatory Science Leaders in AI-based Drug Development,” supported by the Global Regulatory Science Leader Training Program -- AI-based Drug Development through KHIDI and funded by MFDS of Korea (Apr 2026 – Dec 2030, 3,325 Mil KRW) (PI: Han Chang Kang; Co-Is: **O-Joun Lee**, etc.)
   * _In Korean_: AI 신약개발 분야 글로벌 규제과학 리더양성 대학 운영, 식품의약품안전처/한국보건산업진흥원(KHIDI)/**글로벌 규제과학 리더양성 사업 -- AI 기반 신약개발 분야**/RS-2026-25523551
 * “Environment-Conditioned Multi-Molecule Causal Learning for Practical Candidate Material Screening and Design,” supported by the Outstanding Young Scientist Grants (Type A) through NRF of Korea and funded by MSIT of Korea (Mar 2026 – Feb 2029, 240 Mil KRW) (PI: **O-Joun Lee**)
