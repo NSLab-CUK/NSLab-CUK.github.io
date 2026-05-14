@@ -35,6 +35,15 @@ toc_label: "Table of Contents"
 * 54512-01 Study for Master Thesis 2 (석사논문연구 2) - Graduate Course
   * Instructor: O-Joun Lee
 
+* 54366-01 Academic Writing and Research Ethics (학술적 글쓰기와 연구윤리) - Graduate Course 
+  * Instructor: Eun-Soon You
+
+* 07085-01 Introduction to Digital Humanities (디지털 인문학 개론)
+  * Instructor: Eun-Soon You
+
+* 06298-01 Living with AI (AI와 함께 살아가기)
+  * Instructor: Eun-Soon You
+
 * 06535-01 Career exploration of Artificial Intelligence 1 (인공지능학과 진로탐색 1) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
 
@@ -44,14 +53,6 @@ toc_label: "Table of Contents"
 * 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (인공지능학과 현장실습 1 - 5) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
 
-* 54366-01 Academic Writing and Research Ethics (학술적 글쓰기와 연구윤리) - Graduate Course 
-  * Instructor: Eun-Soon You
-
-* 07085-01 Introduction to Digital Humanities (디지털 인문학 개론)
-  * Instructor: Eun-Soon You
-
-* 06298-01 Living with AI (AI와 함께 살아가기)
-  * Instructor: Eun-Soon You
 
 ***
 ### 2025
@@ -122,12 +123,6 @@ toc_label: "Table of Contents"
 * 54513-01 Study for Doctoral Thesis 1 (박사논문연구 1) - Graduate Course  
   * Instructor: O-Joun Lee
 
-* 06535-01 Career exploration of Artificial Intelligence 1 (인공지능학과 진로탐색 1) - Joint Lecture
-  * Instructor: Faculty members of Dept. of AI
-
-* 06480-01 and 06481-01 Capstone Design for Artificial Intelligence 1 and 2 (인공지능학과 캡스톤디자인 1 - 2) - Joint Lecture
-  * Instructor: Faculty members of Dept. of AI
-
 * 54366-01 Academic Writing and Research Ethics (학술적 글쓰기와 연구윤리) - Graduate Course 
   * Instructor: Eun-Soon You
 
@@ -136,6 +131,12 @@ toc_label: "Table of Contents"
 
 * 06298-01 Living with AI (AI와 함께 살아가기)
   * Instructor: Eun-Soon You
+
+* 06535-01 Career exploration of Artificial Intelligence 1 (인공지능학과 진로탐색 1) - Joint Lecture
+  * Instructor: Faculty members of Dept. of AI
+
+* 06480-01 and 06481-01 Capstone Design for Artificial Intelligence 1 and 2 (인공지능학과 캡스톤디자인 1 - 2) - Joint Lecture
+  * Instructor: Faculty members of Dept. of AI
 
 
 ***
@@ -217,18 +218,6 @@ toc_label: "Table of Contents"
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2024)
   * [![Kaggle](https://img.shields.io/badge/Kaggle-Term%20Project-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/competitions/2024-1-cuk-gm-project/overview)
 
-* 06535-01 Career exploration of Artificial Intelligence (인공지능학과 진로탐색) - Joint Lecture
-  * Instructor: Faculty members of Dept. of AI
-
-* 06480-01 Capstone Design for Artificial Intelligence I (인공지능학과 캡스톤디자인 1) - Joint Lecture
-  * Instructor: Faculty members of Dept. of AI
-
-* 06847-01 Undergraduate Research I (인공지능학과 경험랩 1) - Joint Lecture
-  * Instructor: Faculty members of Dept. of AI
-
-* 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (인공지능학과 현장실습 1 - 5) - Joint Lecture
-  * Instructor: Faculty members of Dept. of AI
-
 * 54514-01 Study for Doctoral Thesis 2 (박사논문연구 2) - Graduate Course  
   * Instructor: O-Joun Lee
 
@@ -243,6 +232,18 @@ toc_label: "Table of Contents"
 
 * 06298-01 Living with AI (AI와 함께 살아가기)
   * Instructor: Eun-Soon You
+
+* 06535-01 Career exploration of Artificial Intelligence (인공지능학과 진로탐색) - Joint Lecture
+  * Instructor: Faculty members of Dept. of AI
+
+* 06480-01 Capstone Design for Artificial Intelligence I (인공지능학과 캡스톤디자인 1) - Joint Lecture
+  * Instructor: Faculty members of Dept. of AI
+
+* 06847-01 Undergraduate Research I (인공지능학과 경험랩 1) - Joint Lecture
+  * Instructor: Faculty members of Dept. of AI
+
+* 06483-01 to 06487-01 	Internship Program for Artificial Intelligence 1 to 5 (인공지능학과 현장실습 1 - 5) - Joint Lecture
+  * Instructor: Faculty members of Dept. of AI
 
 
 ***
@@ -277,17 +278,17 @@ toc_label: "Table of Contents"
   * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/kor)]
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2023)
 
-* 54345-01 Artificial Intelligence/Robot Ethics (인공지능/로봇 윤리) - Graduate Course 
-  * Instructor: Eun-Soon You
-
-* 06298-01 Living with AI (AI와 함께 살아가기)
-  * Instructor: Eun-Soon You
-
 * 54513-01 Study for Doctoral Thesis 1 (박사논문연구 1) - Graduate Course  
   * Instructor: O-Joun Lee
 
 * 54513-01 Study for Master Thesis 1 (석사논문연구 1) - Graduate Course/Joint Lecture
   * Instructor: O-Joun Lee and Kang-Min Kim (NLP Lab)
+
+* 54345-01 Artificial Intelligence/Robot Ethics (인공지능/로봇 윤리) - Graduate Course 
+  * Instructor: Eun-Soon You
+
+* 06298-01 Living with AI (AI와 함께 살아가기)
+  * Instructor: Eun-Soon You
 
 * 06481-01 Capstone Design for Artificial Intelligence II (인공지능학과 캡스톤디자인 2) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
@@ -333,14 +334,14 @@ toc_label: "Table of Contents"
   * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-mining/kor)]
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Mining-Spring-2023)
 
-* 06535-01 Career exploration of Artificial Intelligence (인공지능학과 진로탐색 1) - Joint Lecture
-  * Instructor: Faculty members of Dept. of AI
-
 * 54366-01 Academic Writing and Research Ethics (학술적 글쓰기와 연구윤리) - Graduate Course 
   * Instructor: Eun-Soon You
 
 * 06298-01 Living with AI (AI와 함께 살아가기)
   * Instructor: Eun-Soon You
+
+* 06535-01 Career exploration of Artificial Intelligence (인공지능학과 진로탐색 1) - Joint Lecture
+  * Instructor: Faculty members of Dept. of AI
 
 
 ***
