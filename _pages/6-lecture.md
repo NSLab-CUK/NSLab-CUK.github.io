@@ -73,6 +73,15 @@ toc_label: "Table of Contents"
 * 54514-01 Study for Doctoral Thesis 2 (박사논문연구 2) - Graduate Course  
   * Instructor: O-Joun Lee
 
+* 54345-01 Artificial Intelligence/Robot Ethics (인공지능/로봇 윤리) - Graduate Course 
+  * Instructor: Eun-Soon You
+
+* 07086-01 Digital Humanities and Practice (디지털 인문학 심화)
+  * Instructor: Eun-Soon You
+
+* 06298-01 Living with AI (AI와 함께 살아가기)
+  * Instructor: Eun-Soon You
+
 * 07215-01 Career exploration of Artificial Intelligence 2 (인공지능학과 진로탐색 2) - Joint Lecture
   * Instructor: Faculty members of Dept. of AI
 
