@@ -28,7 +28,28 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2026
 
 ***
-#### May 11th, 2026
+#### May 18th, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "DecAlign: Hierarchical Cross-Modal Alignment for Decoupled Multimodal Representation Learning", ICLR 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/JQzlfpPxVwl5sN?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.T. Ho, Review on "Discrete Curvature Graph Information Bottleneck", AAAI 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/fMDRBX8jUB8ZKO?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "GCIB: Causal Intervention Guided Graph Information Bottleneck Framework", AAAI 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/q6j1oECBfq5CbQ?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 {:.no_toc}
 
 <details markdown="1">
@@ -44,7 +65,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>H.W. Kim, Review on "Topology-Aware Feature Sorting Enables Universal Modeling on  Homophilic and Heterophilic Graphs", WWW 2026</summary>
+  <summary>H.W. Kim, Review on "Topology-Aware Feature Sorting Enables Universal Modeling on Homophilic and Heterophilic Graphs", WWW 2026</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hdYupifjqlUoZc?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
