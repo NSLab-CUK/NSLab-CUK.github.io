@@ -430,6 +430,8 @@ _Main Collaborator_: Prof. **Sungyeop Jung**, Korea University Sejong Campus
 ### Industry-Academic Collaboration Projects
 {:.no_toc}
 
+* “Development of an Automated Veterinary Clinical Document Generation System Using Iterative Retrieval and a Multi-Agent Architecture,” supported by the Gyeonggi RISE Project and funded by MOE of Korea and Gyeonggi Province (Jun 2026 – Dec 2026, 30 Mil KRW), by cooperating with [Petobio Co., Ltd.](https://www.petobio.com/en) (PI: **O-Joun Lee**)
+  * _In Korean_: 반복적 검색 및 다중 에이전트 구조를 활용한 수의료 임상 문서 작성 자동화 시스템 개발, 경기도/경기도경제과학진흥원/RISE 지산학협력기술개발과제-[주식회사 페토바이오](https://www.petobio.com/)
 * “Development of GPR Survey Result Analysis System - 3rd Year,” funded by [Movements Inc.](https://www.movements.kr/) (Mar 2026 – Nov 2026, 80 Mil KRW) (PI: **O-Joun Lee**)
   * _In Korean_: GPR 탐사 결과 분석 시스템 연구개발 - 3차년도, [주식회사 무브먼츠](https://www.movements.kr/)/산학과제
 * “Constructing Veterinary Knowledge Graph and Developing GraphRAG-based LLM Services,” supported by the Gyeonggi RISE Project and funded by MOE of Korea and Gyeonggi Province (Sep 2025 – Jan 2026, 30 Mil KRW), by cooperating with [Petobio Co., Ltd.](https://www.petobio.com/en) (PI: **O-Joun Lee**)
