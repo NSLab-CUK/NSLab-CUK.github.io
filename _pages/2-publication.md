@@ -28,7 +28,7 @@ This page includes only our international publications. For domestic publication
 <div class="scite-badge" data-doi="10.1109/ACCESS.2026.3690727" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
-* Minsun Cho, Deokho Jang, O-Joun Lee, Chang-Hyun Kim, Sungyeop Jung: Artificial Neural Networks in Semiconductor Device Compact Modeling: A Review. Applied Physics Reviews 03/2026. (To Appear) [DOI:10.1063/5.0333553](https://doi.org/10.1063/5.0333553)
+* Minsun Cho, Deokho Jang, O-Joun Lee, Chang-Hyun Kim, Sungyeop Jung: Artificial Neural Networks in Semiconductor Device Compact Modeling: A Review. Applied Physics Reviews 03/2026. (To Appear) DOI:[10.1063/5.0333553](https://doi.org/10.1063/5.0333553)
 [![Link](https://img.shields.io/badge/IF%2011.6%20--%20JCR%202024%20Top%207.8%25-0C2E86?style=flat-square)](https://pubs.aip.org/aip/apr)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1063/5.0333553" data-style="small_rectangle"></span>
