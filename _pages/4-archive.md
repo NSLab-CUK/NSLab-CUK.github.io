@@ -21,6 +21,17 @@ toc_label: "Table of Contents"
 <p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://www.petobio.com/en"><img align="center" src="/images/Petobio_Logo.png" style="width : 300px; margin : 10px"></a><a href="https://www.gg.go.kr/"><img align="center" src="/images/Gyeonggi_Logo.png" style="width : 120px; margin : 10px"></a><a href="https://www.moe.go.kr/"><img align="center" src="/images/MOE_Logo.png" style="width : 100px; margin : 10px"></a></p>
 
 ***
+##### May 15th, 2026
+{:.no_toc}
+
+* We had a wonderful Teacher's Day gathering.
+
+<p align="center"><img width="700" src="/images/260515_1.jpg"></p>
+<p align="center"><img width="700" src="/images/260515_2.jpg"></p>
+<p align="center"><img width="700" src="/images/260515_3.jpg"></p>
+<p align="center"><img width="700" src="/images/260515_4.jpg"></p>
+
+***
 ##### Apr 7th, 2026
 {:.no_toc}
 
