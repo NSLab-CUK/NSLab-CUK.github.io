@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2026
 
 ***
+##### May 22nd, 2026
+{:.no_toc}
+
+* Co-advised students Hee-Soo Kim, Seong-Jin Park, Youn-Gyu Jin, and Ju-Won Seo have successfully completed their M.Eng. thesis defenses.
+
+<p align="center"><img width="700" src="/images/260522.jpg"></p>
+
+***
 ##### May 19th, 2026
 {:.no_toc}
 
