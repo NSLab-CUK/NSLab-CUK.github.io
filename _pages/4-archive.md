@@ -21,6 +21,14 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/260522.jpg"></p>
 
 ***
+##### May 21st, 2026
+{:.no_toc}
+
+* Members of NS Lab @ CUK enjoyed the 2026 Summer Festival of CUK.
+
+<p align="center"><img width="350" src="/images/260521.jpg"></p>
+
+***
 ##### May 19th, 2026
 {:.no_toc}
 
