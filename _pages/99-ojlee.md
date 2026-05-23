@@ -24,6 +24,7 @@ toc_label: "Table of Contents"
 [![WOS](https://img.shields.io/badge/Web%20of%20Science-black?style=flat-square&logo=Clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/537246) 
 [![IEEE](https://img.shields.io/badge/IEEE%20Author%20Profile-00629B?style=flat-square&logo=IEEE&logoColor=white)](https://ieeexplore.ieee.org/author/37090048494) 
 [![Website](https://img.shields.io/badge/-Personal%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://o-jounlee.github.io/)
+[![Website](https://img.shields.io/badge/-Faculty%20Page-0C2E86?style=flat-square&logo=%2Fe%2F&logoColor=FFFFFF)](https://ai.catholic.ac.kr/ai/faculty/faculty.do?mode=view&persNo=212110766)
 
 <br>
 
