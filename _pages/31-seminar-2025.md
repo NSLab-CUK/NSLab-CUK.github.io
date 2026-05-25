@@ -215,7 +215,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 <details markdown="1">
   <summary>T.T.T. Nguyen, Review on "Think-on-graph 2.0: Deep and faithful large language model reasoning with knowledge-guided retrieval augmented generation", ICLR 2025</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/GUOhRkAdwZq5Tv?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/9lYtZWinCTtEZ5?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
