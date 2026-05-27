@@ -93,6 +93,7 @@ Membership
 Editorship
 ------------
 
+* Editorial Board Member, [Scientific Reports](https://www.nature.com/srep/), since May 2026
 * Editorial Board Member, [Discover Computer Vision](https://link.springer.com/journal/44584), since May 2026
 * Editorial Board Member, [Academia AI and Applications](https://www.academia.edu/journals/academia-ai-and-applications/about/editorial-board?source=journal-top-nav), since May 2025
 * Guest Editor, Applied Sciences, Special Issue on "[Machine Learning and Artificial Intelligence for Human Information Analysis](https://www.mdpi.com/journal/applsci/special_issues/9E6QLH63AE)."
