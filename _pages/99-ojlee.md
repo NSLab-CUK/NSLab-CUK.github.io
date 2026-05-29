@@ -106,6 +106,7 @@ Conference Committee
 ------------
 
 * Program Committee Member, The 35th ACM International Conference on Information and Knowledge Management (CIKM 2026), Rome, Italy, 11/2026.
+* Scientific Program Committee Member, The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering (APCMBE 2026), Daegu, Korea, 11/2026.
 * Program Committee Member, The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026), Jeju, Korea, 08/2026.
 * Program Committee Member, The 31st International Conference on Database Systems for Advanced Applications (DASFAA 2026), Jeju, Korea, 04/2026.
 * Track Committee Member, The Renewable and Sustainable Energy (RSE) Track at the 40th ACM/SIGAPP Symposium On Applied Computing (ACM SAC 2026), Thessaloniki, Greece, 03/2026.
