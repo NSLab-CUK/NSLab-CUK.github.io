@@ -205,9 +205,11 @@ This page includes additional research outputs beyond conventional academic publ
 
 ***
 
-* O-Joun Lee: Writing a commissioned technical article on adversarial vulnerabilities in object‑recognition models for autonomous driving, Telecommunications Technology Association (TTA), Seongnam, Korea, 08/2025 -- 09/2025
+* O-Joun Lee: 2026 Operation of Korea Construction Standards Center - Research on the Development of Digital Construction Standards (2026년 국가건설기준센터 운영 - 디지털 건설기준 개발연구), Korea Institute of Civil Engineering and Building Technology (KICT; 한국건설기술연구원), Goyang, Korea, 05/2026 -- 12/2026
 
-* O-Joun Lee: Writing a commissioned technical article on defining an ontology schema for abnormal driving scenarios of autonomous vehicles, Telecommunications Technology Association (TTA), Seongnam, Korea, 08/2025 -- 09/2025
+* O-Joun Lee: Writing a commissioned technical article on adversarial vulnerabilities in object‑recognition models for autonomous driving (자율주행차의 인식취약점 검증 방안에 관한 연구 동향조사), Telecommunications Technology Association (TTA; 한국정보통신기술협회), Seongnam, Korea, 08/2025 -- 09/2025
+
+* O-Joun Lee: Writing a commissioned technical article on defining an ontology schema for abnormal driving scenarios of autonomous vehicles (비정상 주행상황 시나리오 온토롤지 스키마 구축), Telecommunications Technology Association (TTA; 한국정보통신기술협회), Seongnam, Korea, 08/2025 -- 09/2025
 
 * O-Joun Lee: Consulting for development of a big data-based sports science analysis system for the Korean Para Sports Association, Jinjin System Co., Ltd., Seoul, Korea, 06/2025 -- 06/2026
 
