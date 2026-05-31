@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2026
 
 ***
+##### May 29th, 2026
+{:.no_toc}
+
+* We had a wonderful annual Homecoming Day.
+
+<p align="center"><img width="700" src="/images/260529.jpg"></p>
+
+***
 ##### May 22nd, 2026
 {:.no_toc}
 
