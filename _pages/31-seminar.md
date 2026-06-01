@@ -28,7 +28,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2026
 
 ***
-#### May 25th, 2026
+#### Jun 01st, 2026
 {:.no_toc}
 
 <details markdown="1">
