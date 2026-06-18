@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2026
 
 ***
+##### Jun 17th, 2026
+{:.no_toc}
+
+* We had a memorable birthday gathering for [Huu-Tuong Ho](https://nslab-cuk.github.io/member/tuong). 
+
+<p align="center"><img width="700" src="/images/260617.jpg"></p>
+
+***
 ##### May 29th, 2026
 {:.no_toc}
 
