@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2026
 
 ***
+##### Jun 22nd, 2026
+{:.no_toc}
+
+* We had a memorable birthday gathering for Hyun Woo Kim. 
+
+<p align="center"><img width="700" src="/images/260622.jpg"></p>
+
+***
 ##### Jun 17th, 2026
 {:.no_toc}
 
