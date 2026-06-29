@@ -1,4 +1,4 @@
----
+<img width="2392" height="175" alt="image" src="https://github.com/user-attachments/assets/6e038739-fec0-4b5f-a353-566538e7845f" />---
 layout: page
 title: NS-CUK Weekly Seminar
 permalink: /seminar/
@@ -26,6 +26,34 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2026
+
+***
+#### Jun 29th, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Layer Embedding Deep Fusion Graph Neural Network", CVPR 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/koCc6goySNZxBW?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.T. Ho, Review on "negMIX: Negative Mixup for OOD Generalization in Open-Set Node Classification", WWW 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1q0sA6wbT5Kn3l?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "Empowering Graph Invariance Learning with Deep Spurious Infomax", ICML 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/cPSo6nv45RYEU7?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.H. Cho, Review on "PAPM: A Physics-aware Proxy Model for Process Systems", ICML 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/zqahSfMwWnRO6?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
 
 ***
 #### Jun 22nd, 2026
