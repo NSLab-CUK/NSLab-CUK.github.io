@@ -1,4 +1,4 @@
-<img width="2392" height="175" alt="image" src="https://github.com/user-attachments/assets/6e038739-fec0-4b5f-a353-566538e7845f" />---
+---
 layout: page
 title: NS-CUK Weekly Seminar
 permalink: /seminar/
@@ -23,6 +23,9 @@ This page is an archive for papers reviewed by members of the Network Science La
 * [2024](https://nslab-cuk.github.io/seminar/2024/)
 * [2023](https://nslab-cuk.github.io/seminar/2023/)
 * [2022](https://nslab-cuk.github.io/seminar/2022/)
+
+***
+### 2026
 
 ***
 ### 2026
