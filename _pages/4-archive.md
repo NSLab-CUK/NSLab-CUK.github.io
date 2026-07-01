@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2026
 
 ***
+##### Jun 30th, 2026
+{:.no_toc}
+
+* NS Lab @ CUK is looking for new crews to explore the frontiers of Graph Learning.
+
+<p align="center"><img width="700" src="/images/260630.jpg"></p>
+
+***
 ##### Jun 22nd, 2026
 {:.no_toc}
 
