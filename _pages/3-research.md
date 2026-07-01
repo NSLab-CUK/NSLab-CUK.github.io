@@ -192,6 +192,8 @@ _Main Collaborator_: **Hyeon-Ju Jeon**, Korea Institute of Atmospheric Predictio
 ### Atmospheric State Estimation
 {:.no_toc}
 
+* Hyeon-Ju Jeon, Rae-Seol Park, Hyun-Jun Han, Eun-Hee Lee, Jeon-Ho Kang, Gil Lee, In-Hyuk Kwon, Junghan Kim, Won Moo Kim, O-Joun Lee: [KIAPS Team](https://aiweatherquest.ecmwf.int/team/kiaps/), AI Weather Quest, European Centre for Medium-Range Weather Forecasts (ECMWF).
+
 * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations of Earth Observations for Weather Forecasting using Graph Structure Learning. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025. <br>
 _arXiv Preprint --_ Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Discovering Spatial Correlations between Earth Observations in Global Atmospheric State Estimation by using Adaptive Graph Structure Learning. arXiv preprint 08/2025; arXiv:2508.07659. <br>
 [![DOI](http://img.shields.io/:DOI-10.1145/3769002.3769956-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1145/3769002.3769956)
