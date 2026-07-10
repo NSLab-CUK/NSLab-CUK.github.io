@@ -105,6 +105,7 @@ Editorship
 Conference Committee
 ------------
 
+* Program Committee Member, The 32nd International Conference on Database Systems for Advanced Applications (DASFAA 2027), Shenyang, China, 05/2027.
 * Program Committee Member, The 41st Annual AAAI Conference on Artificial Intelligence (AAAI 2027), Montréal, Canada, 02/2027.
 * Program Committee Member, The 35th ACM International Conference on Information and Knowledge Management (CIKM 2026), Rome, Italy, 11/2026.
 * Scientific Program Committee Member, The 13th IFMBE Asian Pacific Conference on Medical & Biological Engineering (APCMBE 2026), Daegu, Korea, 11/2026.
