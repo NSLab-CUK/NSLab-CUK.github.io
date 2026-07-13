@@ -28,6 +28,34 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2026
 
 ***
+#### Jul 13th, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Knowledge-Enpowered Dynamic Graph Network for Irregularly Sampled Medical Time Series", NeurIPS 2024</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/LEBvr9rmehzMV1?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.T. Ho, Review on "Graph Pointer Neural Networks", AAAI 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3KXyJfHmb003Vb?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "Enhancing Graph Invariant Learning from a Negative Inference Perspective", ICML 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/2UeSGNxEOat1mp?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.H. Cho, Review on "Safety-Polarized and Prioritized Reinforcement Learning", ICML 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/aJA8sbrG1ZmaXn?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Jul 06th, 2026
 {:.no_toc}
 
