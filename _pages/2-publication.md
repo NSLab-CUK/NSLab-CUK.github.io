@@ -22,6 +22,8 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Huu-Tuong Ho, O-Joun Lee, Duc-Tin Ly, Luong Vuong Nguyen: Hybrid Retrieval-Augmented Generation for Hallucination Mitigation in Domain-Specific Educational QA Systems. Ho Chi Minh City Open University Journal of Science - Engineering and Technology 07/2026. (To Appear)
+
 * Minsun Cho, Deokho Jang, O-Joun Lee, Chang-Hyun Kim, Sungyeop Jung: Artificial Neural Networks in Semiconductor Device Compact Modeling: A Review. Applied Physics Reviews 05/2026; 13(2): 021327. DOI:[10.1063/5.0333553](https://doi.org/10.1063/5.0333553)
 [![Link](https://img.shields.io/badge/IF%2011.6%20--%20JCR%202024%20Top%207.8%25-0C2E86?style=flat-square)](https://pubs.aip.org/aip/apr)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
