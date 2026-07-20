@@ -29,6 +29,14 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/260630.jpg"></p>
 
 ***
+##### Jun 23rd, 2026
+{:.no_toc}
+
+* Gwangcheol Lee presented his recent research outcomes on applying AI to public administration at the 2026 Korean Public Administration Summer Conference and Annual KAPA International Conference, Busan, Korea. 
+
+<p align="center"><img width="700" src="/images/260623.jpg"></p>
+
+***
 ##### Jun 22nd, 2026
 {:.no_toc}
 
