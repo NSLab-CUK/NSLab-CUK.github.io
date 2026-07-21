@@ -28,6 +28,34 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2026
 
 ***
+#### Jul 20th, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Graph Neural Controlled Differential Equations for Traffic Forecasting", AAAI 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/dqWToEDgeLAgfX?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.T. Ho, Review on Message Passing on the Edge: Towards Scalable and Expressive GNNs", ICML 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/ndQBh8VkSuZ1qb?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "From Distribution to Geometry: Stable Graph Generalization via Invariant Barycenters", ICML 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/3WSmAebSG9sRQB?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.H. Cho, Review on "GraFITi: Graphs for Forecasting Irregularly Sampled Time Series", AAAI 2022</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/HC0zEvaNWvY3R9?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Jul 13th, 2026
 {:.no_toc}
 
