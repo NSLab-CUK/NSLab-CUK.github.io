@@ -19,7 +19,7 @@ toc_label: "Table of Contents"
 * We celebrated selection as one of the '2025 Top 20 Researchers' at the Catholic University of Korea.
 
 <p align="center"><img width="700" src="/images/260730_1.jpg"></p>
-<p align="center"><img width="700" src="/images/260730_2.jpg"></p>
+<p align="center"><img width="700" src="/images/260730_3.jpg"></p>
 
 ***
 ##### Jul 10th, 2026
