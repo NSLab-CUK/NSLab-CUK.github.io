@@ -28,6 +28,28 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2026
 
 ***
+#### Aug 10th, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "DHG-BENCH: A COMPREHENSIVE BENCHMARK FOR DEEP HYPERGRAPH LEARNING", ICLR 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/xKa8S5gOXL3Z3R?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.T. Ho, Review on "ALL-IN: Bridging Input Feature Spaces for Universal Graph Foundation Models", ICLR 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/LNXJ3hvN4oLAet?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.H. Cho, Review on "EARL-BO: Reinforcement Learning for Multi-Step Lookahead in High-Dimensional Bayesian Optimization", ICML 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/DyUVaQCsq6nf9S?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Aug 03rd, 2026
 {:.no_toc}
 
@@ -68,12 +90,6 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 <details markdown="1">
   <summary>H.W. Kim, Review on "Topology-Aware Dynamic Reweighting for Distribution Shifts on Graph", ICML 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/tqD9A8a00PPRFa?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
-style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
-</details>
-
-<details markdown="1">
-  <summary>J.H. Cho, Review on "CoPINN: Cognitive Physics-Informed Neural Networks", ICML 2025</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/JS0NuWR4Csh6aX?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
