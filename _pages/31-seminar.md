@@ -28,6 +28,34 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2026
 
 ***
+#### Aug 17th, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "TEMPORAL GRAPH THUMBNAIL: ROBUST REPRESENTATION LEARNING WITH GLOBAL EVOLUTIONARY SKELETON", ICLR 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bCrM9ULgqwqAyU?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.T. Ho, Review on "Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction", ICML 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/7uz57IJX3N3Jvz?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.W. Kim, Review on "GLOBAL AND LOCAL TOPOLOGY-AWARE GRAPH GENERATION VIA DUAL CONDITIONING DIFFUSION", ICLR 2026</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4ndJt3BdAXvDN9?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Eom Nahae, Review on "EdGCL: Disentangling Social and Cognitive Homophily in Graph-Based Educational Recommender Systems", ACM RecSys 2025</summary>
+  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/xbRQjgZTaRbkyO?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Aug 10th, 2026
 {:.no_toc}
 
