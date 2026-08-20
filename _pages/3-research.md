@@ -410,6 +410,8 @@ _Main Collaborator_: Prof. **Sungyeop Jung**, Korea University Sejong Campus
 ### Government-Funded Projects
 {:.no_toc}
 
+* “Graph Neural Network-Driven Small Molecule Immunotherapy for Selective Reprogramming of TNF Signaling,” supported by the Future Challenge Research Program through NRF of Korea and funded by MSIT of Korea (Sep 2026 – Aug 2031, 800 Mil KRW) (PI: Tae-Hwe Heo; Co-I: **O-Joun Lee**)
+  * _In Korean_: TNF 신호 선택적 재구성을 위한 그래프신경망 기반 저분자 면역치료 전략, 과학기술정보통신부/한국연구재단(NRF)/**미래도전연구**/RS-2026-25564539
 * “Investigating the Coexistence of Literary Movements through Transformer-Based Language Models,” supported by the Academic Research Professors Program (Type B) through NRF of Korea and funded by MOE of Korea (Jun 2026 – May 2027, 20 Mil KRW) (PI: Eun-Soon You)
   * _In Korean_: 트랜스포머 기반 언어 모델을 활용한 문학 사조 혼재 연구, 교육부/한국연구재단(NRF)/인문사회학술연구교수(B유형)/2026S1A5B5A17015739
 * “Graduate School for Global Regulatory Science Leaders in AI-based Drug Development,” supported by the Global Regulatory Science Leader Training Program -- AI-based Drug Development through KHIDI and funded by MFDS of Korea (Apr 2026 – Dec 2030, 3,325 Mil KRW) (PI: Han Chang Kang; Co-Is: **O-Joun Lee**, etc.)
