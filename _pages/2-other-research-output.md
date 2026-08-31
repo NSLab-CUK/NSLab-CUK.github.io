@@ -118,6 +118,12 @@ This page includes additional research outputs beyond conventional academic publ
 
 ***
 
+* [Panelist] O-Joun Lee: From KREONET to AI. The Catholic University of Korea & KISTI, Seoul, Korea, 09/2026.
+  <details markdown="1">
+    <summary>Photos</summary>
+    <p align="center"><img width="700" data-action="zoom" src="/images/260902_Poster.webp" alt="absolute"></p>
+  </details>
+
 * O-Joun Lee: Introduction to Graph Neural Networks. Van Lang University, Ho Chi Minh, Vietnam, 06/2026
 
 * O-Joun Lee: Toward Molecular Foundation Models: Pre-training GNNs for Effectiveness, Generalizability, and Interpretability. Van Lang University, Ho Chi Minh, Vietnam, 11/2025
