@@ -329,8 +329,6 @@ This page includes only our international publications. For domestic publication
 
 * Van Thuy Hoang, O-Joun Lee, Viet Long Hoang, Thi Thanh Nga Do: Edge-GAT4IDS: Edge-Aware Graph Attention Networks for Network Intrusion Detection. Proceedings of the 3rd International Conference on Cryptography and Information Security (VCRIS 2026), Hanoi, Vietnam; 10/2026.
 
-* Jae-Eon Ahn, Ju-Won Seo, Kang-Min Kim, O-Joun Lee: Meta-Cobi: A Metadata-Augmented Vision-Language Framework for Multi-view Canine Body Condition Scoring. Proceedings of the 13th Multidisciplinary International Social Networks Conference (MISNC 2026), Danang, Vietnam; 08/2026.
-
 * Tri-Hai Nguyen, Huy T. Nguyen, Vo Nguyen Quoc Bao, Thanh-Dat Le, Luong Vuong Nguyen, O-Joun Lee: Energy-Efficient Resource Allocation in O-RAN Using Soft Actor-Critic. Proceedings of the 2025 RIVF International Conference on Computing and Communication Technologies (RIVF 2025), Ho Chi Minh, Vietnam; 12/2025. DOI:[10.1109/RIVF68649.2025.11365239](https://doi.org/10.1109/RIVF68649.2025.11365239)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1109/RIVF68649.2025.11365239" data-style="small_rectangle"></span>
@@ -499,6 +497,12 @@ This page includes only our international publications. For domestic publication
 # Book Chapters
 
 ***
+
+* Jae-Eon Ahn, Ju-Won Seo, Kang-Min Kim, O-Joun Lee: Meta-Cobi: A Metadata-Augmented Vision-Language Framework for Multi-view Canine Body Condition Scoring.  Multidisciplinary Social Networks Research - Proceedings of the 13th Multidisciplinary International Social Networks Conference (MISNC 2026), Danang, Vietnam; 08/2026, Edited by Dario Liberona, Luong Vuong Nguyen, I-Hsien Ting, Kai Wang; Communications in Computer and Information Science (CCIS, volume 3091): pages 638-650; Springer, Cham., ISBN: 978-3-032-33384-1, DOI:[10.1007/978-3-032-33384-1_45](https://doi.org/10.1007/978-3-032-33384-1_45)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-032-33384-1_45" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.1007/978-3-032-33384-1_45" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
 
 * Huu-Tuong Ho, Minh-Tien Pham, Quang-Duong Tran, Quang-Huy Pham, Quang Dieu Tran, Nguyen Ngoc Phi, O-Joun Lee, Luong Vuong Nguyen: MoviePoster-Grounded Contextual Visualization Using Multimodal Techniques. Intelligence of Things: Technologies and Applications - Proceedings of the 3rd International Conference on Intelligence of Things (ICIT 2024), Da Nang, Vietnam, 09/2024, Edited by Nhu-Ngoc Dao, Quang-Dung Pham, Sungrae Cho, Ngoc Thanh Nguyen; Lecture Notes on Data Engineering and Communications Technologies (LNDECT, volume 230): pages 88-99; Springer, Cham., ISBN: 978-3-031-75595-8, DOI:[10.1007/978-3-031-75596-5_9](https://doi.org/10.1007/978-3-031-75596-5_9)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
