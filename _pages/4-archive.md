@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2026
 
 ***
+##### Sep 2nd, 2026
+{:.no_toc}
+
+* We participated in the CUK/KISTI Joint Symposium, titled "From KREONET to AI," serving as an invited panelist.
+
+<p align="center"><img width="700" src="/images/260902_Poster.webp"></p>
+
+***
 ##### Jul 30th, 2026
 {:.no_toc}
 
@@ -176,7 +184,7 @@ toc_label: "Table of Contents"
 ##### Mar 10th, 2026
 {:.no_toc}
 
-* We have participated in the 2026 Technology Matching Day for Private R&D Councils, Universities, and Government-funded Research Institutes (2026년 민간R&D협의체-대학·출연연 기술 매칭 데이). 
+* We participated in the 2026 Technology Matching Day for Private R&D Councils, Universities, and Government-funded Research Institutes (2026년 민간R&D협의체-대학·출연연 기술 매칭 데이). 
 
 <p align="center"><img width="700" src="/images/260310.jpg"></p>
 
@@ -221,7 +229,7 @@ toc_label: "Table of Contents"
 ##### Nov 15th, 2025 -- Nov 19th, 2025
 {:.no_toc}
 
-* We have participated in [ACM RACS 2025](https://www.sigapp.org/RACS/RACS2025/), held in Ho Chi Minh City, Vietnam. Tien-Bach-Thanh Do, Thien Nguyen, Jun Hee Cho, and Hyun Woo Kim presented our latest research outcomes from ongoing academic–industry collaboration projects.
+* We participated in [ACM RACS 2025](https://www.sigapp.org/RACS/RACS2025/), held in Ho Chi Minh City, Vietnam. Tien-Bach-Thanh Do, Thien Nguyen, Jun Hee Cho, and Hyun Woo Kim presented our latest research outcomes from ongoing academic–industry collaboration projects.
   * Tien-Bach-Thanh Do, Jun-Hee Cho, Jin-Hyouk Park, Ki-Nam Kim, Luong Vuong Nguyen, O-Joun Lee: Ground Penetrating Radar Image Analysis for Underground Barrier Detection by Combining YOLOv12 with Channel-wise Attention and Denoising Auto-Encoder. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025.
   * Thien Nguyen, Eun-Soon You, Hyun Woo Kim, Van Thuy Hoang, Luong Vuong Nguyen, O-Joun Lee: Constructing a Companion Animal Disease Knowledge Graph by Utilizing LLMs in Data Preprocessing and Pseudo Annotation. Proceedings of the 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025), Ho Chi Minh, Vietnam; 11/2025.
 
@@ -461,7 +469,7 @@ toc_label: "Table of Contents"
 ##### Feb 25th, 2025 -- Mar 4th, 2025
 {:.no_toc}
 
-* We have participated in [AAAI 2025](https://aaai.org/aaai-conference/), Philadelphia, Pennsylvania, USA. Our team's steady stream of research on graph learning has been published as one paper.
+* We participated in [AAAI 2025](https://aaai.org/aaai-conference/), Philadelphia, Pennsylvania, USA. Our team's steady stream of research on graph learning has been published as one paper.
   * Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by using Subgraph-conditioned Graph Information Bottleneck. The 39th AAAI Conference on Artificial Intelligence (AAAI 2025), Philadelphia, PA, USA; 02/2025.
 
 <p align="center"><img width="700" src="/images/250228_01.jpg"></p>
@@ -723,7 +731,7 @@ toc_label: "Table of Contents"
 ##### Feb 20th, 2024 -- Feb 27th, 2024
 {:.no_toc}
 
-* We have participated in [AAAI 2024](https://aaai.org/aaai-conference/), Vancouver, Canada. Our team's steady stream of research on graph learning has been published as two papers.
+* We participated in [AAAI 2024](https://aaai.org/aaai-conference/), Vancouver, Canada. Our team's steady stream of research on graph learning has been published as two papers.
   * Van Thuy Hoang, O-Joun Lee: Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-based Similarity. The 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
   * Hyeon-Ju Jeon, Jeon-Ho Kang, In-Hyuk Kwon, O-Joun Lee: Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation. The Explainable Machine Learning for Sciences Workshop (XAI4Sci) held in conjunction with the 38th AAAI Conference on Artificial Intelligence (AAAI 2024), Vancouver, Canada; 02/2024.
 
@@ -896,7 +904,7 @@ toc_label: "Table of Contents"
 ##### Aug 6th, 2023 -- Aug 10th, 2023
 {:.no_toc}
 
-* We have participated in [ACM RACS 2023](https://www.sigapp.org/RACS/RACS2023/), [Gdańsk](https://goo.gl/maps/9Bsfz87mC4K7Z4rd7), Poland. We will continue to dedicate ourselves to organizing future conferences sponsored or cooperated by [ACM SIGAPP](https://www.sigapp.org/), including ACM RACS and SMA.
+* We participated in [ACM RACS 2023](https://www.sigapp.org/RACS/RACS2023/), [Gdańsk](https://goo.gl/maps/9Bsfz87mC4K7Z4rd7), Poland. We will continue to dedicate ourselves to organizing future conferences sponsored or cooperated by [ACM SIGAPP](https://www.sigapp.org/), including ACM RACS and SMA.
 
 <p align="center"><img width="700" src="/images/230809.jpg"></p>
 
