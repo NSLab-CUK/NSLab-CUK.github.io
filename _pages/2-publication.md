@@ -327,6 +327,8 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Van Thuy Hoang, O-Joun Lee, Viet Long Hoang, Thi Thanh Nga Do: Edge-GAT4IDS: Edge-Aware Graph Attention Networks for Network Intrusion Detection. Proceedings of the 3rd International Conference on Cryptography and Information Security (VCRIS 2026), Hanoi, Vietnam; 10/2026.
+
 * Jae-Eon Ahn, Ju-Won Seo, Kang-Min Kim, O-Joun Lee: Meta-Cobi: A Metadata-Augmented Vision-Language Framework for Multi-view Canine Body Condition Scoring. Proceedings of the 13th Multidisciplinary International Social Networks Conference (MISNC 2026), Danang, Vietnam; 08/2026.
 
 * Tri-Hai Nguyen, Huy T. Nguyen, Vo Nguyen Quoc Bao, Thanh-Dat Le, Luong Vuong Nguyen, O-Joun Lee: Energy-Efficient Resource Allocation in O-RAN Using Soft Actor-Critic. Proceedings of the 2025 RIVF International Conference on Computing and Communication Technologies (RIVF 2025), Ho Chi Minh, Vietnam; 12/2025. DOI:[10.1109/RIVF68649.2025.11365239](https://doi.org/10.1109/RIVF68649.2025.11365239)
