@@ -33,7 +33,7 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 <details markdown="1">
   <summary>T.B.T. Do, Review on "Underground Plant Exploration: Non-Destructive 3D Root Assessment with GPR Based on Point Graph Neural Network", CVPR 2026</summary>
-  <p align="center"><iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/8676f16da9064ff19e8355aaa1e4deb9" allowfullscreen="true" style="border: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 90%; aspect-ratio: 16 / 9;"></iframe></p>
+  <p align="center"><iframe src="https://speakerdeck.com/player/8676f16da9064ff19e8355aaa1e4deb9" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
