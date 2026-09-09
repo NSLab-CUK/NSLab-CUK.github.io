@@ -22,6 +22,8 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Luong Vuong Nguyen, Dang Huy Le, Van Hon Nguyen, Thuy-Trang Pham, Vy-Rin Nguyen, O-Joun Lee: Deep Learning-based profanity detection in social media: A survey in the context of toxic language detection. PeerJ Computer Science 09/2026. (To Appear)
+
 * Huu-Tuong Ho, O-Joun Lee, Duc-Tin Ly, Luong Vuong Nguyen: Hybrid Retrieval-Augmented Generation for Hallucination Mitigation in Domain-Specific Educational QA Systems. Ho Chi Minh City Open University Journal of Science - Engineering and Technology 07/2026. (To Appear)
 
 * Yoewon Yoon, Hee-Ju Kang, Juae Park, Jooho Lee, Kyoung Yeon Moon, O-Joun Lee: Media Discourse and Child Maltreatment in Korea: A Semantic Network Analysis of Policy-Driven Narrative Shifts. Journal of Social Work and Welfare Policy 05/2026; 4(1): 197. DOI:[10.33790/jswwp1100197](https://doi.org/10.33790/jswwp1100197)
