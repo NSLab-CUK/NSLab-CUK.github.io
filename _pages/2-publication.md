@@ -22,6 +22,8 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Tien-Bach-Thanh Do, Hyeon-Ju Jeon, Luong Vuong Nguyen, Trang Thuy Pham, Tri-Hai Nguyen, O-Joun Lee: A survey on Graph Representation Learning in Computer Vision: Perspectives on the Granularity of Visual entities and tasks. PeerJ Computer Science 09/2026. (To Appear)
+
 * Luong Vuong Nguyen, Dang Huy Le, Van Hon Nguyen, Thuy-Trang Pham, Vy-Rin Nguyen, O-Joun Lee: Deep Learning-based profanity detection in social media: A survey in the context of toxic language detection. PeerJ Computer Science 09/2026. (To Appear)
 
 * Huu-Tuong Ho, O-Joun Lee, Duc-Tin Ly, Luong Vuong Nguyen: Hybrid Retrieval-Augmented Generation for Hallucination Mitigation in Domain-Specific Educational QA Systems. Ho Chi Minh City Open University Journal of Science - Engineering and Technology 07/2026. (To Appear)
