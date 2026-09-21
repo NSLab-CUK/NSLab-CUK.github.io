@@ -39,7 +39,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 <details markdown="1">
   <summary>H.T. Ho, Review on "Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes", ICLR 2025</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bPDBIwYgpg0UtE?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0NQFtIaPJ_KoWpXlPpy9-uoq7lgldDLr5McuuC23dyEJ54tFUxOJqHxy3GjcnHA/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
