@@ -331,6 +331,8 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Tri-Hai Nguyen, Ngo Hoang Tu, Huy T. Nguyen, Vo Nguyen Quoc Bao, Luong Vuong Nguyen, O-Joun Lee: DRL-Based Energy-Efficient Trajectory and Resource Allocation in Maritime UAV-Assisted 6G Logistics. Proceedings of the 5th International Conference on Logistics and Industrial Engineering (ICLIE 2026), Ho Chi Minh, Vietnam; 12/2026. (To Appear)
+
 * Van Thuy Hoang, Thi Thanh Nga Do, Viet Long Hoang, O-Joun Lee: Edge-GAT4IDS: Edge-Aware Graph Attention Networks for Network Intrusion Detection. Proceedings of the 3rd International Conference on Cryptography and Information Security (VCRIS 2026), Hanoi, Vietnam; 10/2026. (To Appear)
 
 * Tri-Hai Nguyen, Huy T. Nguyen, Vo Nguyen Quoc Bao, Thanh-Dat Le, Luong Vuong Nguyen, O-Joun Lee: Energy-Efficient Resource Allocation in O-RAN Using Soft Actor-Critic. Proceedings of the 2025 RIVF International Conference on Computing and Communication Technologies (RIVF 2025), Ho Chi Minh, Vietnam; 12/2025. DOI:[10.1109/RIVF68649.2025.11365239](https://doi.org/10.1109/RIVF68649.2025.11365239)
