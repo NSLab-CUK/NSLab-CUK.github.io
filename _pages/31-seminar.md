@@ -33,13 +33,13 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 <details markdown="1">
   <summary>T.B.T. Do, Review on "ST-HHOL: SPATIO-TEMPORAL HIERARCHICAL HYPERGRAPH ONLINE LEARNING FOR CRIME PREDICTION", ICLR 2026</summary>
-  <p align="center"><iframe src="https://speakerdeck.com/player/8676f16da9064ff19e8355aaa1e4deb9" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9PKLtTkeQbBCbw3vIpL7Fnn6fAWgQU63WXhhd7kcEPn1ry6zxTAwsxruBGNy0QQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>H.T. Ho, Review on "Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes", ICLR 2025</summary>
-  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0NQFtIaPJ_KoWpXlPpy9-uoq7lgldDLr5McuuC23dyEJ54tFUxOJqHxy3GjcnHA/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR12vhOxgiNDwxeLh6aFMdeCLOXiry2LTCX9Xi81R3g5uDnExDTOEzY5WHIrbeXVQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -49,13 +49,13 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 <details markdown="1">
   <summary>T.B.T. Do, Review on "Heterophily-aware Contrastive Learning for Heterophilic Hypergraphs", AAAI 2026</summary>
-  <p align="center"><iframe src="https://speakerdeck.com/player/8676f16da9064ff19e8355aaa1e4deb9" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2uG7CriKatBJqek88sQBUfp4zAArRh-QkNjrXdZBHl4uZAtsNGjeng2Af3Mi2kQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>H.T. Ho, Review on "Enhancing Graph Invariant Learning from a Negative Inference Perspective", ICLR 2025</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bPDBIwYgpg0UtE?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDNJJOCUIC7M4QO0Vgp0mAiQUbsYF9Vyr8JLXIMHxuQj4xStKKrorcRKm4-HJO3Q/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -65,13 +65,13 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 <details markdown="1">
   <summary>T.B.T. Do, Review on "Underground Plant Exploration: Non-Destructive 3D Root Assessment with GPR Based on Point Graph Neural Network", CVPR 2026</summary>
-  <p align="center"><iframe src="https://speakerdeck.com/player/8676f16da9064ff19e8355aaa1e4deb9" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQl8FHfYHffyaTP7atkr1znojQkpFO-7rs4ispf0-vkvNcUr6_0xwmS8BbN15b_iw/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>H.T. Ho, Review on "Equivalence is All: A Unified View for Self-supervised Graph Learning", ICML 2025</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bPDBIwYgpg0UtE?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYhQGD4fZpDet0hwd4BeIp7Bs5XKWyjfYvBB-_57KBvRu_97H5F8jrFiduhxsycw/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
@@ -81,19 +81,19 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 <details markdown="1">
   <summary>T.B.T. Do, Review on "Gamba: Mamba-based graph convolutional network with dynamic graph topology learning for action recognition", CVPR 2026</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/BHhE3G2RFuRgW0?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ-SxQt24J1TvA6HK6Xe9sL0f8UUwx-kKTiqSln5rYbIZhk2NTcZThAo7BJJKPtkQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>H.T. Ho, Review on "Graph is a Substrate Across Data Modalities", ICML 2026</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bPDBIwYgpg0UtE?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSy-ZerAZdx0g9bI8sPHuLeQ2RhcdtzBCo7BT4XZPo1apfpAZt2ZKXAcD7Ic4T7IQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>H.W. Kim, Review on "Geometric Representation Condition Improves Equivariant Molecule Generation", ICML 2025</summary>
-  <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4ndJt3BdAXvDN9?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ6FZ6Z27TdSdPBuohqAIbXC1sWsgUUtbl_TW0tQA3eHIVfuAF_oTWrqHsQfTSTfg/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
