@@ -584,6 +584,12 @@ This page includes only our international publications. For domestic publication
 <div class="scite-badge" data-doi="10.48550/arXiv.2504.15075" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 </div>
 
+* Van Thuy Hoang, Tien-Bach-Thanh Do, Jinho Seo, Seung Charlie Kim, Luong Vuong Nguyen, Duong Nguyen Minh Huy, Hyeon-Ju Jeon, O-Joun Lee: Halal or Not: Knowledge Graph Completion for Predicting Cultural Appropriateness of Daily Products. arXiv preprint 01/2025; arXiv:2501.05768. (Preprint) DOI:[10.48550/arXiv.2501.05768](https://doi.org/10.48550/arXiv.2501.05768) [[Published Version](https://nslab-cuk.github.io/publication/#conference-proceedings:~:text=Halal%20or%20Not%3A%20Knowledge%20Graph%20Completion%20for%20Predicting%20Cultural%20Appropriateness%20of%20Daily%20Products)]
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2501.05768" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.48550/arXiv.2501.05768" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
+
 * Van Thuy Hoang, O-Joun Lee: Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck. arXiv preprint 12/2024; arXiv:2412.15589. (Preprint) DOI:[10.48550/arXiv.2412.15589](https://doi.org/10.48550/arXiv.2412.15589) [[Published Version](https://nslab-cuk.github.io/publication/#conference-proceedings:~:text=citation%20was%20made.-,Van%20Thuy%20Hoang%2C%20O%2DJoun%20Lee%3A%20Pre%2Dtraining%20Graph%20Neural%20Networks%20on%20Molecules%20by%20using%20Subgraph%2Dconditioned%20Graph%20Information%20Bottleneck,-.%20Proceedings%20of%20the)]
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2412.15589" data-style="small_rectangle"></span>
