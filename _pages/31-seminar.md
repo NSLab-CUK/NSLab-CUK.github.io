@@ -38,13 +38,13 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Jungmin Kim, Review on "L2DGCN: Learnable Enhancement and Label Selection Dynamic Graph Convolutional Networks for Mitigating Degree Bias", NeurIPS 2025</summary>
+  <summary>J.M. Kim, Review on "L2DGCN: Learnable Enhancement and Label Selection Dynamic Graph Convolutional Networks for Mitigating Degree Bias", NeurIPS 2025</summary>
   <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR12vhOxgiNDwxeLh6aFMdeCLOXiry2LTCX9Xi81R3g5uDnExDTOEzY5WHIrbeXVQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
-  <summary>Eom Nahae, Review on "HSADP: Structure-Enhanced Adapter for Self-Supervised Heterogeneous Graph Learning", AAAI 2026</summary>
+  <summary>N.H. Eom, Review on "HSADP: Structure-Enhanced Adapter for Self-Supervised Heterogeneous Graph Learning", AAAI 2026</summary>
   <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9PKLtTkeQbBCbw3vIpL7Fnn6fAWgQU63WXhhd7kcEPn1ry6zxTAwsxruBGNy0QQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -158,7 +158,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Eom Nahae, Review on "EdGCL: Disentangling Social and Cognitive Homophily in Graph-Based Educational Recommender Systems", ACM RecSys 2025</summary>
+  <summary>N.H. Eom, Review on "EdGCL: Disentangling Social and Cognitive Homophily in Graph-Based Educational Recommender Systems", ACM RecSys 2025</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/xbRQjgZTaRbkyO?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -202,7 +202,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>Eom Nahae, Review on "EdGCL: Disentangling Social and Cognitive Homophily in Graph-Based Educational Recommender Systems", AAAI 2026</summary>
+  <summary>N.H. Eom, Review on "EdGCL: Disentangling Social and Cognitive Homophily in Graph-Based Educational Recommender Systems", AAAI 2026</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hnIbG75Icl6aZD?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
