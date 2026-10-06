@@ -19,7 +19,7 @@ toc_label: "Table of Contents"
 * 54347-01 Advanced Graph Mining (고급 그래프 마이닝) - Graduate Course 
   * Instructor: O-Joun Lee
 
-* [06838-01 Graph Neural Networks](https://ns-cuk.notion.site/06838-Graph-Neural-Networks-Fall-2024-e0b7776e069c4218a3b900c0bbc6210a?pvs=4) (그래프 신경망)
+* [06838-01 Graph Neural Networks](https://nslab-cuk.github.io/Graph-Neural-Networks-Fall-2026/) (그래프 신경망)
   * Instructor: O-Joun Lee
   * TA: [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) and [Huu-Tuong Ho](https://nslab-cuk.github.io/member/tuong)
   * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/kor)]
