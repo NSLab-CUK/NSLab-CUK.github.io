@@ -22,6 +22,8 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Juncheng Yu, Jinxi Huang, O-Joun Lee: MRER: Mitigating Alignment Bias in Multimodal Sentiment Analysis via Reliability-Aware Fusion and Evidence-Preserving Reconstruction. IEEE Access 10/2026. (To Appear)
+
 * Tien-Bach-Thanh Do, Hyeon-Ju Jeon, Luong Vuong Nguyen, Trang Thuy Pham, Tri-Hai Nguyen, O-Joun Lee: A survey on Graph Representation Learning in Computer Vision: Perspectives on the Granularity of Visual entities and tasks. PeerJ Computer Science 09/2026. (To Appear)
 
 * Luong Vuong Nguyen, Dang Huy Le, Van Hon Nguyen, Thuy-Trang Pham, Vy-Rin Nguyen, O-Joun Lee: Deep Learning-based profanity detection in social media: A survey in the context of toxic language detection. PeerJ Computer Science 09/2026. (To Appear)
