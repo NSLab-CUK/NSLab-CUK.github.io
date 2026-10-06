@@ -54,7 +54,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "ST-HHOL: SPATIO-TEMPORAL HIERARCHICAL HYPERGRAPH ONLINE LEARNING FOR CRIME PREDICTION", ICLR 2026</summary>
+  <summary>T.B.T. Do, Review on "ST-HHOL: Spatio-Temporal Hierarchical Hypergraph Online Learning for Crime Prediction", ICLR 2026</summary>
   <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9PKLtTkeQbBCbw3vIpL7Fnn6fAWgQU63WXhhd7kcEPn1ry6zxTAwsxruBGNy0QQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -140,7 +140,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "TEMPORAL GRAPH THUMBNAIL: ROBUST REPRESENTATION LEARNING WITH GLOBAL EVOLUTIONARY SKELETON", ICLR 2026</summary>
+  <summary>T.B.T. Do, Review on "Temporal Graph Thumbnail: Robust Representation Learning with Global Evolutionary Skeleton", ICLR 2026</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/bCrM9ULgqwqAyU?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -152,7 +152,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 </details>
 
 <details markdown="1">
-  <summary>H.W. Kim, Review on "GLOBAL AND LOCAL TOPOLOGY-AWARE GRAPH GENERATION VIA DUAL CONDITIONING DIFFUSION", ICLR 2026</summary>
+  <summary>H.W. Kim, Review on "Global and Local Topology-Aware Graph Generation via Dual Conditioning Diffusion", ICLR 2026</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/4ndJt3BdAXvDN9?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
@@ -168,7 +168,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 {:.no_toc}
 
 <details markdown="1">
-  <summary>T.B.T. Do, Review on "DHG-BENCH: A COMPREHENSIVE BENCHMARK FOR DEEP HYPERGRAPH LEARNING", ICLR 2026</summary>
+  <summary>T.B.T. Do, Review on "DHG-Bench: A Comprehensive Benchmark for Deep Hypergraph Learning", ICLR 2026</summary>
   <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/xKa8S5gOXL3Z3R?hostedIn=slideshare&page=upload" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
