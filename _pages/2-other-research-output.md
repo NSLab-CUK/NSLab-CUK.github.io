@@ -118,15 +118,17 @@ This page includes additional research outputs beyond conventional academic publ
 
 ***
 
+* O-Joun Lee: Generative AI for Genomic Data Analysis and Its Applications. Ministry of Food and Drug Safety (MFDS), Cheongju, Korea, 10/2026.
+
 * [Panelist] O-Joun Lee: From KREONET to AI. The Catholic University of Korea & KISTI, Seoul, Korea, 09/2026.
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center"><img width="700" data-action="zoom" src="/images/260902_Poster.webp" alt="absolute"></p>
   </details>
 
-* O-Joun Lee: Introduction to Graph Neural Networks. Van Lang University, Ho Chi Minh, Vietnam, 06/2026
+* O-Joun Lee: Introduction to Graph Neural Networks. Van Lang University, Ho Chi Minh, Vietnam, 06/2026.
 
-* O-Joun Lee: Toward Molecular Foundation Models: Pre-training GNNs for Effectiveness, Generalizability, and Interpretability. Van Lang University, Ho Chi Minh, Vietnam, 11/2025
+* O-Joun Lee: Toward Molecular Foundation Models: Pre-training GNNs for Effectiveness, Generalizability, and Interpretability. Van Lang University, Ho Chi Minh, Vietnam, 11/2025.
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center"><img width="700" data-action="zoom" src="/images/Talk-VLU-2025.webp" alt="absolute"></p>
@@ -134,7 +136,7 @@ This page includes additional research outputs beyond conventional academic publ
     <p align="center"><img width="700" data-action="zoom" src="/images/Talk-VLU-2025_2.jpg" alt="absolute"></p>
   </details>
 
-* **[Keynote]** O-Joun Lee: Toward Molecular Foundation Models: Pre-training GNNs for Effectiveness, Generalizability, and Interpretability. [The 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025)](https://www.sigapp.org/RACS/RACS2025/keynote_speakers.php), Ho Chi Minh, Vietnam, 11/2025
+* **[Keynote]** O-Joun Lee: Toward Molecular Foundation Models: Pre-training GNNs for Effectiveness, Generalizability, and Interpretability. [The 2025 ACM International Conference on Research in Adaptive and Convergent Systems (RACS 2025)](https://www.sigapp.org/RACS/RACS2025/keynote_speakers.php), Ho Chi Minh, Vietnam, 11/2025.
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center"><img width="700" data-action="zoom" src="/images/Talk-RACS-2025.webp" alt="absolute"></p>
@@ -143,25 +145,25 @@ This page includes additional research outputs beyond conventional academic publ
     <p align="center"><img width="700" data-action="zoom" src="/images/Talk-RACS-2025_3.webp" alt="absolute"></p>
   </details>
 
-* O-Joun Lee: An Overview of Graph Learning Models in Molecular Structure Analysis. Daegyeong Technology Application Division, [Korea Institute of Industrial Technology (KITECH)](https://eng.kitech.re.kr/main/), Daegu, Korea, 07/2025
+* O-Joun Lee: An Overview of Graph Learning Models in Molecular Structure Analysis. Daegyeong Technology Application Division, [Korea Institute of Industrial Technology (KITECH)](https://eng.kitech.re.kr/main/), Daegu, Korea, 07/2025.
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center"><img width="700" data-action="zoom" src="/images/250716.jpg" alt="absolute"></p>
   </details>
 
-* O-Joun Lee: An Overview of Graph Learning Models in Molecular Structure Analysis. [The 9th IEEE/IEIE International Conference on Consumer Electronics Asia (ICCE-Asia 2024)](https://icce-asia2024.org/2024/), Danang, Vietnam, 11/2024 
+* O-Joun Lee: An Overview of Graph Learning Models in Molecular Structure Analysis. [The 9th IEEE/IEIE International Conference on Consumer Electronics Asia (ICCE-Asia 2024)](https://icce-asia2024.org/2024/), Danang, Vietnam, 11/2024. 
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center"><img width="700" data-action="zoom" src="/images/241104.jpg" alt="absolute"></p>
   </details>
 
-* O-Joun Lee: Molecular Structure Analysis using Graph Neural Networks. [The 2024 Summer Workshop of Korean Institute of Next Generation Computing](https://www.manuscriptlink.com/society/kingpc/event/kingpc2024), Jeju, Korea, 08/2024
+* O-Joun Lee: Molecular Structure Analysis using Graph Neural Networks. [The 2024 Summer Workshop of Korean Institute of Next Generation Computing](https://www.manuscriptlink.com/society/kingpc/event/kingpc2024), Jeju, Korea, 08/2024.
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center"><img width="700" data-action="zoom" src="/images/240822.jpg" alt="absolute"></p>
   </details>
 
-* O-Joun Lee: Analyzing Molecular Structures with Graph Neural Networks. [The 2024 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2024s/pages/special_session.vm), Jeju, Korea, 06/2024
+* O-Joun Lee: Analyzing Molecular Structures with Graph Neural Networks. [The 2024 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2024s/pages/special_session.vm), Jeju, Korea, 06/2024.
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center">
@@ -170,9 +172,9 @@ This page includes additional research outputs beyond conventional academic publ
     </p>
   </details>
 
-* O-Joun Lee: Knowledge Graph Reasoning and its Applications. [Telecommunications Technology Association (TTA)](https://www.tta.or.kr/eng/index.do), Seongnam, Korea, 09/2023
+* O-Joun Lee: Knowledge Graph Reasoning and its Applications. [Telecommunications Technology Association (TTA)](https://www.tta.or.kr/eng/index.do), Seongnam, Korea, 09/2023.
 
-* O-Joun Lee: Semiconductor Design with Graph Neural Networks. [The 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm), Jeju, Korea, 06/2023
+* O-Joun Lee: Semiconductor Design with Graph Neural Networks. [The 2023 Summer Annual Conference of the Institute of Electronics and Information Engineers](https://conf.theieie.org/2023s/pages/guest_lecture.vm), Jeju, Korea, 06/2023.
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center">
@@ -181,7 +183,7 @@ This page includes additional research outputs beyond conventional academic publ
     </p>
   </details>
 
-* **[Keynote]** O-Joun Lee: Spatio-Temporal Forecasting Models for Renewable Energy. [The 1st International Conference on Intelligence of Things (ICIT 2022)](https://icit2022.humg.edu.vn/), Hanoi, Vietnam, 08/2022
+* **[Keynote]** O-Joun Lee: Spatio-Temporal Forecasting Models for Renewable Energy. [The 1st International Conference on Intelligence of Things (ICIT 2022)](https://icit2022.humg.edu.vn/), Hanoi, Vietnam, 08/2022.
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center">
@@ -189,7 +191,7 @@ This page includes additional research outputs beyond conventional academic publ
     </p>
   </details>
 
-* O-Joun Lee: Character Network Embedding for Computational Narrative Analytics. [The 2022 Summer Workshop of Korean Institute of Next Generation Computing](https://kingpc.or.kr/), Pyeongchang, Korea, 07/2022
+* O-Joun Lee: Character Network Embedding for Computational Narrative Analytics. [The 2022 Summer Workshop of Korean Institute of Next Generation Computing](https://kingpc.or.kr/), Pyeongchang, Korea, 07/2022.
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center">
@@ -197,9 +199,9 @@ This page includes additional research outputs beyond conventional academic publ
     </p>
   </details>
 
-* O-Joun Lee: Heterogeneous Network Embedding and its Applications. [The 2021 Fall Conference of Korean Institute of Smart Media](https://www.manuscriptlink.com/society/kism/conference/sma2021f/programBook), Gwangju, Korea, 11/2021
+* O-Joun Lee: Heterogeneous Network Embedding and its Applications. [The 2021 Fall Conference of Korean Institute of Smart Media](https://www.manuscriptlink.com/society/kism/conference/sma2021f/programBook), Gwangju, Korea, 11/2021.
 
-* O-Joun Lee: Trends in Interdisciplinary Research and Collaboration Opportunities. Vietnam National University, Hanoi - International School (VNU - IS), Virtual, 09/2021
+* O-Joun Lee: Trends in Interdisciplinary Research and Collaboration Opportunities. Vietnam National University, Hanoi - International School (VNU - IS), Virtual, 09/2021.
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center">
