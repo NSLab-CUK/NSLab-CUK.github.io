@@ -22,7 +22,10 @@ This page includes only our international publications. For domestic publication
 
 ***
 
-* Juncheng Yu, Jinxi Huang, O-Joun Lee: MRER: Mitigating Alignment Bias in Multimodal Sentiment Analysis via Reliability-Aware Fusion and Evidence-Preserving Reconstruction. IEEE Access 10/2026. (To Appear)
+* Juncheng Yu, Jinxi Huang, O-Joun Lee: MRER: Mitigating Alignment Bias in Multimodal Sentiment Analysis via Reliability-Aware Fusion and Evidence-Preserving Reconstruction. IEEE Access 10/2026. (To Appear) DOI:[10.1109/ACCESS.2026.3741714](https://doi.org/10.1109/ACCESS.2026.3741714)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2026.3741714" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.1109/ACCESS.2026.3741714" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
 
 * Tien-Bach-Thanh Do, Hyeon-Ju Jeon, Luong Vuong Nguyen, Trang Thuy Pham, Tri-Hai Nguyen, O-Joun Lee: A survey on Graph Representation Learning in Computer Vision: Perspectives on the Granularity of Visual entities and tasks. PeerJ Computer Science 09/2026. (To Appear)
 
