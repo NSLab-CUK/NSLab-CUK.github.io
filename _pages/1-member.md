@@ -301,12 +301,16 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 {:.no_toc}
 
 #### Hee-Soo Kim (Mar 2026 -- Aug 2026; Co-advised with Prof. Kang-Min Kim @ KHU)
+{:.no_toc}
 
 #### Seong-Jin Park (Mar 2026 -- Aug 2026; Co-advised with Prof. Kang-Min Kim @ KHU)
+{:.no_toc}
 
 #### Youn-Gyu Jin (Mar 2026 -- Aug 2026; Co-advised with Prof. Kang-Min Kim @ KHU)
+{:.no_toc}
 
 #### Ju-Won Seo (Mar 2026 -- Aug 2026; Co-advised with Prof. Kang-Min Kim @ KHU)
+{:.no_toc}
 
 #### [Yanjun Wu](https://nslab-cuk.github.io/member/WYJ) (Sep 2023 -- Aug 2025)
 {:.no_toc}
