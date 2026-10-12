@@ -264,8 +264,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 ***
 
-* Tae-You Kim (Dec 2021 -- Present; Co-advised with Prof. Dong-Hwa Jeong @ CUK)
-
+#### Tae-You Kim (Dec 2021 -- Present; Co-advised with Prof. Dong-Hwa Jeong @ CUK)
+{:.no_toc}
 
 ***
 
