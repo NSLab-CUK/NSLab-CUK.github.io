@@ -235,17 +235,6 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
-#### Soo Haeng Lee (Sep 2025 -- Present)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/Soo Haeng Lee.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Mar 2018 -- Present: B.A. in Philosophy, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
-* Research Interest: Graph Representation Learning
-* <a href="mailto:soo7121@gmail.com"><img src="https://img.shields.io/badge/-soo7121@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
-
 #### Min Seo Kwon (Jan 2026 -- Present)
 {:.no_toc}
 
@@ -254,28 +243,6 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Jan 2026 -- Present: B.Eng. in Data Science, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Research Interest: Graph-based NLP
 * <a href="mailto:minssoo666@gmail.com"><img src="https://img.shields.io/badge/-minssoo666@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
-
-#### Da Sol Kim (Jan 2026 -- Present)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/Da Sol Kim.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Mar 2024 -- Present: B.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
-* Research Interest: Graph Representation Learning
-* <a href="mailto:dasol040509@catholic.ac.kr"><img src="https://img.shields.io/badge/-dasol040509@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
-
-<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
-
-#### Chae Won Park (Jan 2026 -- Present)
-{:.no_toc}
-
-<img align="right" src="https://nslab-cuk.github.io/images/Chae Won Park.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
-
-* Mar 2024 -- Present: B.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
-* Research Interest: Graph Representation Learning
-* <a href="mailto:codnjsld@catholic.ac.kr"><img src="https://img.shields.io/badge/-codnjsld@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
@@ -298,14 +265,6 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ***
 
 * Tae-You Kim (Dec 2021 -- Present; Co-advised with Prof. Dong-Hwa Jeong @ CUK)
-
-* Hee-Soo Kim (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
-
-* Seong-Jin Park (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
-
-* Youn-Gyu Jin (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
-
-* Ju-Won Seo (Mar 2026 -- Present; Co-advised with Prof. Kang-Min Kim @ KHU)
 
 
 ***
@@ -340,6 +299,14 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 ### M.Eng.
 {:.no_toc}
+
+#### Hee-Soo Kim (Mar 2026 -- Aug 2026; Co-advised with Prof. Kang-Min Kim @ KHU)
+
+#### Seong-Jin Park (Mar 2026 -- Aug 2026; Co-advised with Prof. Kang-Min Kim @ KHU)
+
+#### Youn-Gyu Jin (Mar 2026 -- Aug 2026; Co-advised with Prof. Kang-Min Kim @ KHU)
+
+#### Ju-Won Seo (Mar 2026 -- Aug 2026; Co-advised with Prof. Kang-Min Kim @ KHU)
 
 #### [Yanjun Wu](https://nslab-cuk.github.io/member/WYJ) (Sep 2023 -- Aug 2025)
 {:.no_toc}
