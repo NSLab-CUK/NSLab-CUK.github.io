@@ -290,6 +290,17 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
+#### Ye Eun Choi (Jul 2026 -- Present)
+{:.no_toc}
+
+<img align="right" src="https://nslab-cuk.github.io/images/YeEun.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
+
+* Mar 2024 -- Present: B.Eng. in Biotechnology, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
+* Research Interest: Molecular Property Prediction
+* <a href="mailto:yeeun567@catholic.ac.kr"><img src="https://img.shields.io/badge/-yeeun567@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+
+<br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
+
 ***
 
 ## Visiting & Co-advised Researchers
