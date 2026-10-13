@@ -27,14 +27,34 @@ This page includes only our domestic publications. For international publication
 * Eun-Soon You, O-Joun Lee: Training AI Experts for the Fourth Industrial Revolution Era: A Case Study of the Department of Artificial Intelligence at the Catholic University of Korea (4차 산업혁명 시대를 대비한 인공지능 전문가 양성 : 가톨릭대학교 인공지능학과의 사례를 중심으로). [Information and Communications Magazine (정보와 통신 : 한국통신학회지) 08/2024; 41(8)](https://www.kics.or.kr/html/?pmode=Bpublication&page=3&smode=view&seq=4337&searchValue=&searchTitle=strTitle): 23-27. (In Korean)
 
 * Eun-Soon You, Sun-Jung Ryu, O-Joun Lee: A Study on the ‘Esprit’ Indices of The Barber of Seville and The Marriage of Figaro Using the Vocabulary-Based Text Analysis Tool LIWC-22 (텍스트 분석 도구 LIWC-22를 활용한 『세빌리아의 이발사』와 『피가로의 결혼』의 ‘에스프리’ 지표 연구). Story & Image Telling (스토리앤이미지텔링) 06/2024; 27: 93-119. (In Korean) DOI:[10.22758/sni.2024.27.093](https://doi.org/10.22758/sni.2024.27.093)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.22758/sni.2024.27.093" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.22758/sni.2024.27.093" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
 
 * Sun-Jung Ryu, Eun-Soon You: Literary Research Using Digital Analysis Tools: A Case Study of 『Dangerous Liaisons』 (디지털 분석 도구를 활용한 문학 연구 : 라클로의 『위험한 관계Les liaisons dangereuses』를 중심으로). The Journal of the Convergence on Culture Technology (문화기술의 융합) 05/2024; 10(3): 173-180. (In Korean) DOI:[10.17703/JCCT.2024.10.3.173](https://doi.org/10.17703/JCCT.2024.10.3.173)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.17703/JCCT.2024.10.3.173" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.17703/JCCT.2024.10.3.173" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
 
-* Eun-Soon You, Sun-Jung Ryu: Étude sur l'enseignement de la littérature française à l'ère numérique (디지털 시대의 프랑스 문학 교육을 위한 소고). Enseignement de Langue et Littérature Françaises (프랑스어문교육) 03/2024; 84: 151-187. (In Korean) DOI:10.36747/ellf84.6
+* Eun-Soon You, Sun-Jung Ryu: Étude sur l'enseignement de la littérature française à l'ère numérique (디지털 시대의 프랑스 문학 교육을 위한 소고). Enseignement de Langue et Littérature Françaises (프랑스어문교육) 03/2024; 84: 151-187. (In Korean) DOI:[10.36747/ellf84.6](https://doi.org/10.36747/ellf84.6)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.36747/ellf84.6" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.36747/ellf84.6" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
 
 * Eun-Soon You, Sun-Jung Ryu: New reading literature in the digital age : Construction of Albert Camus’ digital literature house (디지털 시대의 새로운 문학 읽기 : 알베르 카뮈(Albert Camus)의 디지털문학관 구축). Humanities Contents (인문콘텐츠) 12/2023; (71): 107-135. (In Korean) DOI:[10.18658/humancon.2023.12.107](https://doi.org/10.18658/humancon.2023.12.107)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.18658/humancon.2023.12.107" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.18658/humancon.2023.12.107" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
 
 * Eun-Soon You, O-Joun Lee, Jin-Taek Kim: Computational Narrative Generation: A Survey (전산학적 스토리 자동 생성 연구에 대한 고찰). Journal of Information Technology and Applied Engineering (정보기술융합공학논문지) 06/2020; 10(1): 9-18. (In Korean), DOI:[10.22733/JITAE.2020.10.01.002](https://doi.org/10.22733/JITAE.2020.10.01.002)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.22733/JITAE.2020.10.01.002" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.22733/JITAE.2020.10.01.002" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
 
 
 ***
