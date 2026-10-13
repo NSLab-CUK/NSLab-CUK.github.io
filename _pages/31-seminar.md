@@ -33,19 +33,19 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 <details markdown="1">
   <summary>W.J. Jeong, Review on "Graph Structure Refinement with Energy-based Contrastive Learning", AAAI 2025</summary>
-  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-Vm36fWWuHXmdNgu6wUXrFkXfjwoJ7RZkNKO9URgnKdC8nuHQMiJz33FumPJaCw/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMf-jSLeLSVtKC8kxzYbZafsSv3derIlGjvUxFKTI0-bbpfk1K85_m3XFAufxk7A/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>W.L. Kim, Review on "GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring", ICLR 2025</summary>
-  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQfI0L1m70GQOoFS14w2XjWngsgpXj-6bDuX2GCVTMdyoCD9HZOch7q-90sZY2hA/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTDgpmVoD8fMIG3H4KAFWBNjdwx-qESB3yQ4GpSWBeuRw25yc8lbrRiA3k4_2rBQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
 <details markdown="1">
   <summary>Y.E. Choi, Review on "ReCoG:Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction", ICML 2026</summary>
-  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROB4QO7elMy_Z4fYf7VVOp5KH-gGSmvGvXGvQ4m7DzlqPSZqiLHLfRDqTnn2-OoQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRVplrNhMpmGerPuxmIq3mr0LZvZB8zLXSYPr0Aa7UkdHjyqCoangLPT8sWv8_2ZQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
