@@ -88,3 +88,52 @@ This page includes only our domestic publications. For international publication
 
 <br>
 
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const isMobile = window.matchMedia("only screen and (max-width: 768px)").matches;
+    const badges = document.querySelectorAll('span.__dimensions_badge_embed__, div.scite-badge');
+
+    let scriptsLoaded = { dimensions: false, scite: false };
+
+    function loadScript(src) {
+        return new Promise(resolve => {
+            let script = document.createElement('script');
+            script.src = src;
+            script.async = true;
+            script.onload = resolve;
+            document.body.appendChild(script);
+        });
+    }
+
+    const observer = new IntersectionObserver((entries, observer) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                if (entry.target.classList.contains('__dimensions_badge_embed__') && !scriptsLoaded.dimensions) {
+                    scriptsLoaded.dimensions = true;
+                    loadScript("https://badge.dimensions.ai/badge.js");
+                }
+
+                if (!isMobile && entry.target.classList.contains('scite-badge') && !scriptsLoaded.scite) {
+                    scriptsLoaded.scite = true;
+                    loadScript("https://cdn.scite.ai/badge/scite-badge-latest.min.js");
+                }
+
+                observer.unobserve(entry.target);
+            }
+        });
+    }, { rootMargin: "200px" });
+
+    badges.forEach(badge => {
+        if (isMobile && badge.classList.contains('scite-badge')) {
+            badge.style.display = 'none';  // 모바일 환경에서만 scite 숨김 처리
+        } else {
+            observer.observe(badge);
+        }
+    });
+});
+
+</script>
+
+
