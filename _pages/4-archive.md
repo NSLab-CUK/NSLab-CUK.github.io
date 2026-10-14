@@ -22,6 +22,7 @@ toc_label: "Table of Contents"
 
 ***
 ##### Aug 5th, 2026 -- Aug 7th, 2026
+{:.no_toc}
 
 * We took a refreshing break from research to enjoy our annual Summer Retreat.
 
