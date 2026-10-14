@@ -32,7 +32,11 @@ This page includes only our international publications. For domestic publication
 
 * Luong Vuong Nguyen, Dang Huy Le, Van Hon Nguyen, Thuy-Trang Pham, Vy-Rin Nguyen, O-Joun Lee: Deep Learning-based profanity detection in social media: A survey in the context of toxic language detection. PeerJ Computer Science 09/2026. (To Appear)
 
-* Huu-Tuong Ho, O-Joun Lee, Duc-Tin Ly, Luong Vuong Nguyen: Hybrid Retrieval-Augmented Generation for Hallucination Mitigation in Domain-Specific Educational QA Systems. Ho Chi Minh City Open University Journal of Science - Engineering and Technology 07/2026. (To Appear)
+* Huu-Tuong Ho, O-Joun Lee, Duc-Tin Ly, Luong Vuong Nguyen: Hybrid Retrieval-Augmented Generation for Hallucination Mitigation in Domain-Specific Educational QA Systems. Ho Chi Minh City Open University Journal of Science - Engineering and Technology 10/2026; 16(3): 55-68. DOI:[10.46223/HCMCOUJS.tech.en.16.3.5733.2026](https://doi.org/10.46223/HCMCOUJS.tech.en.16.3.5733.2026)
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.46223/HCMCOUJS.tech.en.16.3.5733.2026" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.46223/HCMCOUJS.tech.en.16.3.5733.2026" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
 
 * Yoewon Yoon, Hee-Ju Kang, Juae Park, Jooho Lee, Kyoung Yeon Moon, O-Joun Lee: Media Discourse and Child Maltreatment in Korea: A Semantic Network Analysis of Policy-Driven Narrative Shifts. Journal of Social Work and Welfare Policy 05/2026; 4(1): 197. DOI:[10.33790/jswwp1100197](https://doi.org/10.33790/jswwp1100197)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
