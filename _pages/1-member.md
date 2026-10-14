@@ -318,8 +318,11 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 ***
 
-#### Tae-You Kim (Dec 2021 -- Present; Co-advised with Prof. Dong-Hwa Jeong @ CUK)
+#### Tae-You Kim (Dec 2021 -- Present)
 {:.no_toc}
+
+* Co-advised with Prof. Dong-Hwa Jeong @ CUK
+
 
 ***
 
@@ -354,17 +357,25 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 ### M.Eng.
 {:.no_toc}
 
-#### Hee-Soo Kim (Mar 2026 -- Aug 2026; Co-advised with Prof. Kang-Min Kim @ KHU)
+#### Hee-Soo Kim (Mar 2026 -- Aug 2026)
 {:.no_toc}
 
-#### Seong-Jin Park (Mar 2026 -- Aug 2026; Co-advised with Prof. Kang-Min Kim @ KHU)
+* Co-advised with Prof. Kang-Min Kim @ KHU
+
+#### Seong-Jin Park (Mar 2026 -- Aug 2026)
 {:.no_toc}
 
-#### Youn-Gyu Jin (Mar 2026 -- Aug 2026; Co-advised with Prof. Kang-Min Kim @ KHU)
+* Co-advised with Prof. Kang-Min Kim @ KHU
+
+#### Youn-Gyu Jin (Mar 2026 -- Aug 2026)
 {:.no_toc}
 
-#### Ju-Won Seo (Mar 2026 -- Aug 2026; Co-advised with Prof. Kang-Min Kim @ KHU)
+* Co-advised with Prof. Kang-Min Kim @ KHU
+
+#### Ju-Won Seo (Mar 2026 -- Aug 2026)
 {:.no_toc}
+
+* Co-advised with Prof. Kang-Min Kim @ KHU
 
 #### [Yanjun Wu](https://nslab-cuk.github.io/member/WYJ) (Sep 2023 -- Aug 2025)
 {:.no_toc}
