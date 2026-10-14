@@ -308,7 +308,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 * Mar 2023 -- Present: B.Eng. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Research Interest: Graph Representation Learning
-* * <a href="mailto:yeeun567@catholic.ac.kr"><img src="https://img.shields.io/badge/-yeeun567@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="mailto:yeeun567@catholic.ac.kr"><img src="https://img.shields.io/badge/-yeeun567@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
