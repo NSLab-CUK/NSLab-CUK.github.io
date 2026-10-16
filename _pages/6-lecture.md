@@ -25,6 +25,9 @@ toc_label: "Table of Contents"
   * Syllabus: [[English Version](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/eng)] [[국문 버전](https://nslab-cuk.github.io/lecture/syllabus/graph-neural-networks/kor)]
   * [![GitHub](https://img.shields.io/badge/GitHub-Practice%20&%20Assignment-9B9B9B?style=flat-square&logo=GitHub)](https://github.com/NSLab-CUK/Graph-Neural-Networks-Fall-2026)
 
+* 07276-01 Advanced Technical Writing (기술적글쓰기심화)
+  * Instructor: O-Joun Lee
+
 * 54513-01 Study for Doctoral Thesis 1 (박사논문연구 1) - Graduate Course  
   * Instructor: O-Joun Lee
 
