@@ -28,6 +28,8 @@ This page includes additional research outputs beyond conventional academic publ
 
 * O-Joun Lee, Van Thuy Hoang: Method for pre-training graph neural network for 2D and 3D molecular structures and system thereof (분자의 2차원 및 3차원 구조에 대한 그래프 신경망 사전학습 방법 및 그 시스템). Ref. No: KR 1020250169745, 11/2025
 
+* Sungyeop Jung, Taeheon Lee, O-Joun Lee, Minsun Cho, Jinwoo Jeong: Data-based Automatic Calibration Method and System for Electrical Models of ReRAM (저항변화메모리를 위한 전기적 모델의 데이터 기반 자동 캘리브레이션 방법 및 시스템). Ref. No: KR 1020250133828, 09/2025
+
 * O-Joun Lee, Van Thuy Hoang: Method for pre-training using graph information bottleneck based on subgraph and system thereof (서브그래프 기반 그래프 정보 병목 기법을 이용한 사전학습 방법 및 그 시스템). Ref. No: KR 1020250030478, 03/2025
 
 * O-Joun Lee, Van Thuy Hoang, Hochan Yang, Ju Hee Shim, Seung Kim, SungGyu Kim: System of Recommending Halal Cosmetics based on Knowledge Graph Representation Learning (지식 그래프 표현 학습에 기반한 할랄 화장품 추천 시스템). Ref. No: KR 1020240159542, 11/2024 (Transferred to **[Shukran Korea Inc.](https://www.shukrankorea.com/), 6 Mil KRW**)
