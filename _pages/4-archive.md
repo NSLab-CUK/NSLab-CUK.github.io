@@ -16,7 +16,7 @@ toc_label: "Table of Contents"
 ##### Sep 4th, 2026
 {:.no_toc}
 
-* Na Hae Oem and her team were awarded the Grand Prize at the 171th Anniversary CUK Biohealthcare Competition 2026.
+* Na Hae Eom and her team were awarded the Grand Prize at the 171th Anniversary CUK Biohealthcare Competition 2026.
 
 <p align="center"><img width="700" src="/images/260904.jpg"></p>
 
