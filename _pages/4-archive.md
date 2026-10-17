@@ -13,6 +13,22 @@ toc_label: "Table of Contents"
 ### 2026
 
 ***
+##### Oct 17th, 2025
+{:.no_toc}
+
+* Na Hae Oem and his team were awarded the Grand Prize at the 170th Anniversary CUK Biohealthcare Competition 2025.
+
+<p align="center"><img width="700" src="/images/250905.jpg"></p>
+
+***
+##### Sep 1st, 2025
+{:.no_toc}
+
+* NS Lab @ CUK received a congratulatory gift from the President of the Catholic University of Korea for securing an NRF research grant.
+
+<p align="center"><img width="700" src="/images/250901.jpg"></p>
+
+***
 ##### Sep 2nd, 2026
 {:.no_toc}
 
