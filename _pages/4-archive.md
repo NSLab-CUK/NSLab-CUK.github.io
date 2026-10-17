@@ -13,12 +13,12 @@ toc_label: "Table of Contents"
 ### 2026
 
 ***
-##### Oct 17th, 2025
+##### Sep 04th, 2026
 {:.no_toc}
 
-* Na Hae Oem and his team were awarded the Grand Prize at the 170th Anniversary CUK Biohealthcare Competition 2025.
+* Na Hae Oem and her team were awarded the Grand Prize at the 171th Anniversary CUK Biohealthcare Competition 2026.
 
-<p align="center"><img width="700" src="/images/250905.jpg"></p>
+<p align="center"><img width="700" src="/images/260904.jpg"></p>
 
 ***
 ##### Sep 1st, 2025
