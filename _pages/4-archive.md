@@ -21,7 +21,7 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/260904.jpg"></p>
 
 ***
-##### Sep 1st, 2025
+##### Sep 1st, 2026
 {:.no_toc}
 
 * NS Lab @ CUK received a congratulatory gift from the President of the Catholic University of Korea for securing an NRF research grant.
