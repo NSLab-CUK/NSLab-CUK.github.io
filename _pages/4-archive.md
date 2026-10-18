@@ -13,20 +13,20 @@ toc_label: "Table of Contents"
 ### 2026
 
 ***
+##### Oct 16th, 2026
+{:.no_toc}
+
+* We enjoyed a wonderful dinner with Dr. Luong Vuong Nguyen, Dr. Thanh Phung Truong, Dr. Si Van-Tien Tran, and fellow Vietnamese researchers.
+
+<p align="center"><img width="700" src="/images/261016.jpg"></p>
+
+***
 ##### Sep 4th, 2026
 {:.no_toc}
 
 * Na Hae Eom and her team were awarded the Grand Prize at the 171th Anniversary CUK Biohealthcare Competition 2026.
 
 <p align="center"><img width="700" src="/images/260904.jpg"></p>
-
-***
-##### Sep 1st, 2026
-{:.no_toc}
-
-* NS Lab @ CUK received a congratulatory gift from the President of the Catholic University of Korea for securing an NRF research grant.
-
-<p align="center"><img width="700" src="/images/250901.jpg"></p>
 
 ***
 ##### Sep 2nd, 2026
