@@ -259,10 +259,17 @@ toc_label: "Table of Contents"
 
 <p align="center"><img width="700" src="/images/251118_1.jpg"></p>
 <p align="center"><img width="700" src="/images/251118_2.jpg"></p>
-<p align="center"><img width="700" src="/images/251118_3.jpg"></p>
 <p align="center"><img width="700" src="/images/251118_4.jpg"></p>
 <p align="center"><img width="700" src="/images/251118_5.jpg"></p>
 <p align="center"><img width="700" src="/images/251118_6.jpg"></p>
+
+***
+##### Nov 15th, 2025
+{:.no_toc}
+
+* We enjoyed a wonderful dinner with Dr. Luong Vuong Nguyen, Dr. Tri-Hai Nguyen, and fellow Vietnamese researchers.
+
+<p align="center"><img width="700" src="/images/251118_3.jpg"></p>
 
 ***
 ##### Nov 10th, 2025
