@@ -26,6 +26,21 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2026
+***
+#### Oct 16th, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis", ICML 2026</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ8zM0W4d2HaqreQGQyY6T6HZ1IPjJDLlsUu1yNohZz1rqiyVh--bnQwqwwHyVgLQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.T. Ho, Review on "GraphFLEx: Scalable Structure Learning for Large, Expanding Graphs", ICML 2026</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFNtZ0X-oRBBMFk2R9UB3z8wonGtGKxTdK1QGlV0lFtK-g02bhkdavlMi9ZYgdlA/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
 
 ***
 #### Oct 12th, 2026
@@ -83,7 +98,7 @@ style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 10
 
 <details markdown="1">
   <summary>H.T. Ho, Review on "Test-time Adaptation on Graphs via Adaptive Subgraph-based Selection and Regularized Prototypes", ICLR 2025</summary>
-  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT1E0F1Sl2hcRa9r_dGkytIxCK_siS6eDGR_Clbq6sbrAUeP2K_FbOudXkndz3Yxw/pubembed?start=false&loop=false&delayms=300" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT1E0F1Sl2hcRa9r_dGkytIxCK_siS6eDGR_Clbq6sbrAUeP2K_FbOudXkndz3Yxw/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
 style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 </details>
 
