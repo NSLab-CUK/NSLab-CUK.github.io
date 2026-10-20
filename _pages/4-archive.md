@@ -37,6 +37,14 @@ toc_label: "Table of Contents"
 <p align="center"><img width="700" src="/images/260902_Poster.webp"></p>
 
 ***
+##### Aug 20th, 2026
+{:.no_toc}
+
+* We started participating in a research project on "Graph Neural Network-Driven Small Molecule Immunotherapy for Selective Reprogramming of TNF Signaling (TNF 신호 선택적 재구성을 위한 그래프신경망 기반 저분자 면역치료 전략)," supported by the Future Challenge Research Program (미래도전연구) through NRF of Korea (한국연구재단) and funded by MSIT of Korea (과학기술정보통신부) (Sep 2026 – Aug 2031, 800 Mil KRW), by cooperating with Prof. Tae-Hwe Heo and his team. 
+
+<p align="center"><a href="https://nslab-cuk.github.io/"><img align="center" src="/images/Logo_Square.png" style="width : 110px; margin : 10px"></a><a href="https://catholic.ac.kr/"><img align="center" src="/images/CUKLogo.png" style="width : 100px; margin : 10px"></a><a href="https://nrf.re.kr/"><img align="center" src="/images/NRFLogo.png" style="width : 100px; margin : 10px"></a><a href="https://www.msit.go.kr/"><img align="center" src="/images/MSITLogo.png" style="width : 150px; margin : 10px"></a></p>
+
+***
 ##### Aug 5th, 2026 -- Aug 7th, 2026
 {:.no_toc}
 
