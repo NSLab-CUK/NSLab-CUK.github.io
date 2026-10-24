@@ -94,7 +94,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 * Mar 2024 -- Present: Ph.D. in Artificial Intelligence, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Sep 2020 -- Feb 2023: M.Eng. in AI Convergence, [<img src="/images/CNU_Logo.png" alt="drawing" style="height: 20px;"/> Chonnam National University](https://www.jnu.ac.kr/), Gwangju, Korea
-* Sep 2015 -- Aug 2020: B.Eng. in Information Systems, [<img src="/images/UIT_Logo.png" alt="drawing" style="height: 20px;"/> University of Information Technology, Ho Chi Minh City](https://en.uit.edu.vn/), Vietnam
+* Sep 2015 -- Aug 2020: B.Eng. in Information Systems, [<img src="/images/UIT_Logo.png" alt="drawing" style="height: 20px;"/> University of Information Technology](https://en.uit.edu.vn/), Ho Chi Minh City, Vietnam
 * Research Interest: Graph Representation Learning
 * <a href="mailto:osfa19730@catholic.ac.kr"><img src="https://img.shields.io/badge/-osfa19730@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 * <a href="https://github.com/BachThanh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub"></a>
