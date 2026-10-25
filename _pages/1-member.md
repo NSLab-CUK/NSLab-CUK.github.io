@@ -465,7 +465,8 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Dr. Nam D. Vo, FPT University, Danang, Vietnam
 * Dr. Phuong-Mai Nguyen, International School, Vietnam National University, Hanoi, Vietnam
 * Dr. Khac-Hoai Nam Bui, Viettel Cyberspace Center, Viettel, Hanoi, Vietnam
-* Dr. [Gen Li](https://scholar.google.com/citations?hl=en&user=euEki6wAAAAJ&view_op=list_works), Chengdu University, Chengdu, China
+* Prof. [Gen Li](https://scholar.google.com/citations?hl=en&user=euEki6wAAAAJ&view_op=list_works), Chengdu University, Chengdu, China
+* Prof. [Ciyuan Peng](https://ciyuanpeng.orgshares.org/home), Chengdu University of Technology, Chengdu, China
 * Dr. [Min Gon Kim](https://sites.google.com/view/mingonk), Carnegie Mellon University, Pittsburgh, PA, USA
 * Kangsan Kim, [Braincolla Inc.](https://braincolla.com/), Seoul, Korea
 * Prof. [Youjin Shin](https://adslab0.github.io/), The Catholic University of Korea, Bucheon, Korea
