@@ -26,8 +26,25 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2026
+
 ***
-#### Oct 16th, 2026
+#### Oct 26th, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>J.M. Kim, Review on "Structure-Centric Graph Foundation Model via Geometric Bases", ICML 2026</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQAV2PKBAawpHfeHTOQXn2uHM2oNXsYlbVaUsNvqJPQFtsShD6zIK1gEmbDVqUBfA/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>N.H. Eom, Review on "MDGFM: Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment", ICML 2025</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTv6r9PABi9jRipPVaVl8z8e63lSlD8YIWY81tR2tAQLc49k1hljmgfTocYDD7BNA/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
+#### Oct 19th, 2026
 {:.no_toc}
 
 <details markdown="1">
