@@ -312,14 +312,14 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
-#### Jeong Woo Kim (Sep 2025 -- Present)
+#### Jeong Woo Jin (Sep 2025 -- Present)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/JeongWoo.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
 
 * Mar 2023 -- Present: B.Eng. in Information, Communications and Electronic Engineering, [<img src="/images/CUKLogo.png" alt="drawing" style="height: 20px;"/> The Catholic University of Korea](https://www.catholic.ac.kr/), Bucheon, Korea
 * Research Interest: Graph Representation Learning, Reinforcement Learning
-* <a href="mailto:ehddus516@catholic.ac.kr"><img src="https://img.shields.io/badge/-ehddus516@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
+* <a href="mailto:gappez@catholic.ac.kr"><img src="https://img.shields.io/badge/-gappez@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=FFFFFF"></a>
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
