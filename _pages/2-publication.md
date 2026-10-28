@@ -345,11 +345,13 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Tri-Hai Nguyen, Ngo Hoang Tu, Huy T. Nguyen, Vo Nguyen Quoc Bao, Luong Vuong Nguyen, O-Joun Lee: Multi-Agent Deep Continuous Reinforcement Learning for V2X Sidelink Resource Allocation. Proceedings of the 20th RIVF International Conference on Computing and Communication Technologies (RIVF 2026), Hanoi, Vietnam; 12/2026. (To Appear)
+
 * Tri-Hai Nguyen, Ngo Hoang Tu, Huy T. Nguyen, Vo Nguyen Quoc Bao, Luong Vuong Nguyen, O-Joun Lee: DRL-Based Energy-Efficient Trajectory and Resource Allocation in Maritime UAV-Assisted 6G Logistics. Proceedings of the 5th International Conference on Logistics and Industrial Engineering (ICLIE 2026), Ho Chi Minh, Vietnam; 12/2026. (To Appear)
 
 * Van Thuy Hoang, Thi Thanh Nga Do, Viet Long Hoang, O-Joun Lee: Edge-GAT4IDS: Edge-Aware Graph Attention Networks for Network Intrusion Detection. Proceedings of the 3rd International Conference on Cryptography and Information Security (VCRIS 2026), Hanoi, Vietnam; 10/2026. (To Appear)
 
-* Tri-Hai Nguyen, Huy T. Nguyen, Vo Nguyen Quoc Bao, Thanh-Dat Le, Luong Vuong Nguyen, O-Joun Lee: Energy-Efficient Resource Allocation in O-RAN Using Soft Actor-Critic. Proceedings of the 2025 RIVF International Conference on Computing and Communication Technologies (RIVF 2025), Ho Chi Minh, Vietnam; 12/2025. DOI:[10.1109/RIVF68649.2025.11365239](https://doi.org/10.1109/RIVF68649.2025.11365239)
+* Tri-Hai Nguyen, Huy T. Nguyen, Vo Nguyen Quoc Bao, Thanh-Dat Le, Luong Vuong Nguyen, O-Joun Lee: Energy-Efficient Resource Allocation in O-RAN Using Soft Actor-Critic. Proceedings of the 19th RIVF International Conference on Computing and Communication Technologies (RIVF 2025), Ho Chi Minh, Vietnam; 12/2025. DOI:[10.1109/RIVF68649.2025.11365239](https://doi.org/10.1109/RIVF68649.2025.11365239)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.1109/RIVF68649.2025.11365239" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.1109/RIVF68649.2025.11365239" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
