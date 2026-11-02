@@ -102,7 +102,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
-#### Kunwoo Kim (Mar 2026 -- Present; Part-time)
+#### Kun Woo Kim (Mar 2026 -- Present; Part-time)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/kwkim.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
@@ -120,7 +120,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 
 <br style="clear: both; line-height: 0; font-size: 0; margin: 0; padding: 0;" />
 
-#### Gwangcheol Lee (Mar 2026 -- Present; Part-time)
+#### Gwang Cheol Lee (Mar 2026 -- Present; Part-time)
 {:.no_toc}
 
 <img align="right" src="https://nslab-cuk.github.io/images/gclee.jpg" style="width : 120px; margin-left: 10px !important; margin-right: 0px !important; margin-top: 0px !important; margin-bottom: 0px !important; max-width: 50%;">
