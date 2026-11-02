@@ -28,6 +28,28 @@ This page is an archive for papers reviewed by members of the Network Science La
 ### 2026
 
 ***
+#### Noc 02nd, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>W.J. Jeong, Review on "RAGRAPH: A General Retrieval-Augmented Graph Learning Framework", NeurIPS 2024</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9RVLcxCi98gTj9yDkqbbNkqYuXbaZjJin_LLOnDsG7KjbtLt5HquRjN6NRldlVw/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>W.L. Kim, Review on "Position: Graph Foundation Models Are Already Here", ICML 2024</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNTjeWTX7-OQmwFPjqBgbr0GkAT-zOEZ6t1RTmNUxSqq0oYt92yu4iXY8nHWkn3g/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Y.E. Choi, Review on "One for All: Towards Training One Graph Model for All Classification Tasks", ICLR 2024</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTxokTaGIquQiZKL8tZ29XrUQzE0Iy6QIZKt_Sig_VXnTMXYEDr8hhtfcuLy8KVIg/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Oct 26th, 2026
 {:.no_toc}
 
