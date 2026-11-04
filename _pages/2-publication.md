@@ -22,6 +22,9 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Van Thuy Hoang, Huu-Tuong Ho, O-Joun Lee: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction. IEEE Transactions on Computational Biology and Bioinformatics 11/2026. (To Appear)
+[![Link](https://img.shields.io/badge/IF%204.1%20--%20JCR%202025%20Top%204.4%25-0C2E86?style=flat-square)](https://pubs.aip.org/aip/apr)
+
 * Tien-Bach-Thanh Do, Hyeon-Ju Jeon, Luong Vuong Nguyen, Trang Thuy Pham, Tri-Hai Nguyen, O-Joun Lee: A survey on Graph Representation Learning in Computer Vision: Perspectives on the Granularity of Visual entities and tasks. PeerJ Computer Science 09/2026. (To Appear)
 
 * Luong Vuong Nguyen, Dang Huy Le, Van Hon Nguyen, Thuy-Trang Pham, Vy-Rin Nguyen, O-Joun Lee: Deep Learning-based profanity detection in social media: A survey in the context of toxic language detection. PeerJ Computer Science 10/2026; 12: e4127. DOI:[10.7717/peerj-cs.4127](https://doi.org/10.7717/peerj-cs.4127)
