@@ -58,7 +58,10 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/Connector)](https://github.com/NSLab-CUK/Connector)
 
 ***
-## Molecular Structure Analysis
+## Molecular Machine Learning
+
+### Molecular Property Prediction
+{:.no_toc}
 
 <p align="center"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1ZcadK5rmvpjQB?startSlide=1" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
 
@@ -88,6 +91,13 @@ _arXiv Preprint --_ Van Thuy Hoang, O-Joun Lee: Mitigating Degree Biases in Mess
 [![Press](https://custom-icon-badges.demolab.com/badge/Press-0C2E86.svg?style=flat-square&logo=newspaper3&logoColor=FFFFFF)](https://www.news1.kr/society/education/5693005)
 [![GitHub stars](https://img.shields.io/github/stars/NSLab-CUK/S-CGIB)](https://github.com/NSLab-CUK/S-CGIB)
 [![GitHub forks](https://img.shields.io/github/forks/NSLab-CUK/S-CGIB)](https://github.com/NSLab-CUK/S-CGIB)
+
+### De Novo Drug Design
+{:.no_toc}
+
+_Main Collaborators_: Prof. **Tae-Hwe Heo** and Prof. **Seung-Hyun Jung**, The Catholic University of Korea
+
+* TBA
 
 ***
 ## Bibliographic Network Analysis
