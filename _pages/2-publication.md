@@ -23,7 +23,7 @@ This page includes only our international publications. For domestic publication
 ***
 
 * Van Thuy Hoang, Huu-Tuong Ho, O-Joun Lee: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction. IEEE Transactions on Computational Biology and Bioinformatics 11/2026. (To Appear)
-[![Link](https://img.shields.io/badge/IF%204.1%20--%20JCR%202025%20Top%204.4%25-0C2E86?style=flat-square)](https://pubs.aip.org/aip/apr)
+[![Link](https://img.shields.io/badge/IF%204.1%20--%20JCR%202025%20Top%204.4%25-0C2E86?style=flat-square)](https://www.computer.org/csdl/journal/bb)
 
 * Tien-Bach-Thanh Do, Hyeon-Ju Jeon, Luong Vuong Nguyen, Trang Thuy Pham, Tri-Hai Nguyen, O-Joun Lee: A survey on Graph Representation Learning in Computer Vision: Perspectives on the Granularity of Visual entities and tasks. PeerJ Computer Science 09/2026. (To Appear)
 
@@ -579,7 +579,7 @@ This page includes only our international publications. For domestic publication
 
 ***
 
-* Van Thuy Hoang, O-Joun Lee: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction. arXiv preprint 01/2026; arXiv:2601.11135. (Preprint) DOI:[10.48550/arXiv.2601.11135](https://doi.org/10.48550/arXiv.2601.11135)
+* Van Thuy Hoang, O-Joun Lee: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction. arXiv preprint 01/2026; arXiv:2601.11135. (Preprint) DOI:[10.48550/arXiv.2601.11135](https://doi.org/10.48550/arXiv.2601.11135) [[Published Version](https://nslab-cuk.github.io/publication/#:~:text=Context%2Daware%20Graph%20Causality%20Inference%20for%20Few%2DShot%20Molecular%20Property%20Prediction.%20IEEE%20Transactions%20on%20Computational%20Biology%20and%20Bioinformatics)]
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2601.11135" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.48550/arXiv.2601.11135" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
