@@ -22,8 +22,12 @@ This page includes only our international publications. For domestic publication
 
 ***
 
-* Van Thuy Hoang, Huu-Tuong Ho, O-Joun Lee: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction. IEEE Transactions on Computational Biology and Bioinformatics 11/2026. (To Appear)
-[![Link](https://img.shields.io/badge/IF%204.1%20--%20JCR%202025%20Top%204.4%25-0C2E86?style=flat-square)](https://www.computer.org/csdl/journal/bb)
+* Van Thuy Hoang, Huu-Tuong Ho, O-Joun Lee: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction. IEEE Transactions on Computational Biology and Bioinformatics 11/2026. (To Appear) DOI:[10.1109/TCBBIO.2026.3751415](https://doi.org/10.1109/TCBBIO.2026.3751415)
+[![Link](https://img.shields.io/badge/IF%204.1%20--%20JCR%202025%20Top%204.4%25-0C2E86?style=flat-square)](https://www.computer.org/csdl/journal/bb) 
+<div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TCBBIO.2026.3751415" data-style="small_rectangle"></span>
+<div class="scite-badge" data-doi="10.1109/TCBBIO.2026.3751415" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
+</div>
 
 * Tien-Bach-Thanh Do, Hyeon-Ju Jeon, Luong Vuong Nguyen, Trang Thuy Pham, Tri-Hai Nguyen, O-Joun Lee: A survey on Graph Representation Learning in Computer Vision: Perspectives on the Granularity of Visual entities and tasks. PeerJ Computer Science 09/2026. (To Appear)
 
