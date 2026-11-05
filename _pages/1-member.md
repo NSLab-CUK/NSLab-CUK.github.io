@@ -453,7 +453,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Prof. [Chang Choi](https://sites.google.com/site/phdchangchoi/), Gachon University, Seongnam, Korea
 * Prof. [Sang-Woong Lee](http://pr.gachon.ac.kr/), Gachon University, Seongnam, Korea
 * Prof. [Hae Gyun Lim](https://sites.google.com/view/lim-lab/home), Pukyong National University, Busan, Korea 
-* Prof. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung), Korea University Sejong Campus, Sejong, Korea
+* Prof. [Sungyeop Jung](https://sites.google.com/view/sungyeopjung), Korea University - Sejong Campus, Sejong, Korea
 * Dr. [Luong Vuong Nguyen](https://luongvuongnguyen.github.io/), [<img src="/images/FPTU_Logo.png" alt="drawing" style="height: 20px;"/> FPT University](https://daihoc.fpt.edu.vn/), Da Nang, Vietnam
 * Dr. [Nam Gyu Jung](https://namgyu97.github.io/), Gachon University, Seongnam, Korea <br>[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)](https://github.com/Namgyu97)
 * Dr. [Tri-Hai Nguyen](https://sites.google.com/view/tri-hai-nguyen), Van Lang University, Ho Chi Minh City, Vietnam
@@ -462,6 +462,7 @@ O-Joun Lee has been an assistant professor at [the Catholic University of Korea]
 * Prof. [Suk Min Kim](https://sites.google.com/view/bbelgroup/professor), The Catholic University of Korea, Bucheon, Korea
 * Prof. Yu-Doo Kim, Dongyang Mirae University, Seoul, Korea
 * Prof. Tae-Hwe Heo, The Catholic University of Korea, Bucheon, Korea
+* Prof. Seung-Hyun Jung, The Catholic University of Korea - Songeui Medical Campus, Seoul, Korea
 * Prof. Hoon Ko, Sunmoon University, Asan, Korea
 * Prof. Changhan Yoon, Inje University, Gimhae, Korea
 * Prof. Hyun-Cheol Park, Korea National University of Transportation, Chungju, Korea
