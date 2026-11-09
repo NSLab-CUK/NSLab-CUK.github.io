@@ -26,9 +26,24 @@ This page is an archive for papers reviewed by members of the Network Science La
 
 ***
 ### 2026
+***
+#### Nov 09th, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning Across Broad Atlases and Disorders", ICLR 2026</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxfP6AEudT9C8ugTk9fUJ2r1lni5rGE4e-lrt7UfCqhBdBkbHAB9yTYwu-aflBoA/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.T. Ho, Review on "GRAVER: Generative Graph Vocabularies for Robust Graph Foundation Models Fine-tuning", NeurIPS 2025</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwc4JizDEsq1LUB-roH98zhS6qhAFw2szO3WVygDY-rwHhTdmrpzvX4JDA7uCm-Q/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
 
 ***
-#### Noc 02nd, 2026
+#### Nov 02nd, 2026
 {:.no_toc}
 
 <details markdown="1">
