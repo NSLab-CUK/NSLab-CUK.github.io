@@ -13,6 +13,14 @@ toc_label: "Table of Contents"
 ### 2026
 
 ***
+##### Nov 11th, 2026
+{:.no_toc}
+
+* Bringing some early Christmas cheer to the lab, starting with a mini tree and big energy!
+
+<p align="center"><img width="700" src="/images/261111.jpg"></p>
+
+***
 ##### Oct 16th, 2026
 {:.no_toc}
 
