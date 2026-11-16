@@ -27,6 +27,28 @@ This page is an archive for papers reviewed by members of the Network Science La
 ***
 ### 2026
 ***
+#### Nov 16th, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>N.H. Eom, Review on "Are Graph Transformers Necessary? : Efficient Long-Range Message Passing with Fractal Nodes in MPNNs", AAAI 2026</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR73eXfBDI7ikEimETSpeaZ3Hp5_xtSp6zzhKFHAs8uY1gic679WToVws8DXn-DIQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>W.L. Kim, Review on "Improving the Effective Receptive Field of Message-Passing Neural Networks", ICML 2025</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjS7PwU0ksyg9Ym28Wcq4SPgB_f88b82ySurkVc28I9lv76Vys_ZI-At1ozMZEIQ/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>Y.E. Choi, Review on "Learning Long Range Dependencies on Graphs via Random Walks", ICLR 2025</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHtjwQJuUAB3Qm0HgUXw0xDCFZDFQNwQjbMI_52ToTHp5K9Xg1Ivzccrw9gXeDZg/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Nov 09th, 2026
 {:.no_toc}
 
