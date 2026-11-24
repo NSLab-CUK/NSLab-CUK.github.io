@@ -27,6 +27,28 @@ This page is an archive for papers reviewed by members of the Network Science La
 ***
 ### 2026
 ***
+#### Nov 23rd, 2026
+{:.no_toc}
+
+<details markdown="1">
+  <summary>T.B.T. Do, Review on "S3GNN: Efficient Global Mixing and Local Message Passing for Long-Range Graph Learning", ICML 2026</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTX8cQ2G7iuq_rSCxvrACP19xzr1APsnzwgDLSbyLG_HMTmlxb8_qqdZTgvGLzzaw/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>H.T. Ho, Review on "Return of ChebNet: Understanding and Improving an Overlooked GNN on Long Range Tasks", NeurIPS 2025</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQBhmC0S3iwGx-nIcsilpLLRoDKoHbKiggolehYJi9g4QKLPzf_Mk3i-E8Ifi-S1A/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+<details markdown="1">
+  <summary>J.M. Kim, Review on "On Vanishing Gradients, Over-Smoothing, and Over-Squashing in GNNs: Bridging Recurrent and Graph Learning", NeurIPS 2025</summary>
+  <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeJSoKH06KG7AyericGnSSJHRtIu8JtERN86G4VvQLv-x0kRzqAgXOOObuGTJ6lA/pubembed?start=false&loop=false&delayms=3000" width="90%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe></p>
+</details>
+
+***
 #### Nov 16th, 2026
 {:.no_toc}
 
