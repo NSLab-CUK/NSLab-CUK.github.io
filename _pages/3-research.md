@@ -339,7 +339,10 @@ _Main Collaborator_: Prof. **Hae Gyun Lim**, Pukyong National University
 
 _Main Collaborator_: Prof. **Sungyeop Jung**, Korea University Sejong Campus
 
-* Minsun Cho, Jinwoo Jeong, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. The 247th Electrochemical Society (ECS) Meeting, Montreal, Canada; 05/2025.
+* Minsun Cho, Deokho Jang, O-Joun Lee, Chang-Hyun Kim, Sungyeop Jung: Artificial Neural Networks in Semiconductor Device Compact Modeling: A Review. **Applied Physics Reviews** 05/2026; 13(2): 021327. <br>
+[![DOI](http://img.shields.io/:DOI-10.1063/5.0333553-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1063/5.0333553)
+
+* Minsun Cho, Jinwoo Jeong, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Data-Driven Auto-Calibration of a Dynamic Compact Model for Resistive Switching Memories. The 247th Electrochemical Society (ECS) Meeting, Montreal, Canada; 05/2025. <br>
 [![DOI](http://img.shields.io/:DOI-10.1149/MA2025--01331662mtgabs-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1149/MA2025-01331662mtgabs)
 
 * Minsun Cho, Taeheon Lee, O-Joun Lee, Sungyeop Jung: Transfer Learning for Semiconductor Device Simulation. The 9th IEEE/IEIE International Conference On Consumer Electronics Asia (ICCE-Asia 2024), Danang, Vietnam; 11/2024.
