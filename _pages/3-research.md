@@ -269,7 +269,8 @@ _Main Collaborator_: Prof. **Jun Young Kim**, The Catholic University of Korea
 ## Computational Social Sciences
 {:.no_toc}
 
-* TBA
+* Yoewon Yoon, Hee-Ju Kang, Juae Park, Jooho Lee, Kyoung Yeon Moon, O-Joun Lee: Media Discourse and Child Maltreatment in Korea: A Semantic Network Analysis of Policy-Driven Narrative Shifts. Journal of Social Work and Welfare Policy 05/2026; 4(1): 197. <br>
+[![DOI](http://img.shields.io/:DOI-10.33790/jswwp1100197-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.33790/jswwp1100197)
 
 
 ***
