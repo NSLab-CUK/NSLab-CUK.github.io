@@ -122,10 +122,11 @@ This page includes additional research outputs beyond conventional academic publ
 
 * O-Joun Lee: Generative AI for Genomic Data Analysis and Its Applications. Ministry of Food and Drug Safety (MFDS), Cheongju, Korea, 10/2026.
 
-* [Panelist] O-Joun Lee: From KREONET to AI. The Catholic University of Korea & KISTI, Seoul, Korea, 09/2026.
+* [Panelist] O-Joun Lee: [From KREONET to AI](https://kreonet.net/notifications/post/notice/5009;jsessionid=W92i6WpXibyULmD41tg3LIQopCV2UaLp7bIGPSRAq5gOGTTxTINo61pasrDmoexa.ar211_servlet_engine15?t=1793232000040#). The Catholic University of Korea & KISTI, Seoul, Korea, 09/2026.
   <details markdown="1">
     <summary>Photos</summary>
     <p align="center"><img width="700" data-action="zoom" src="/images/260902_Poster.webp" alt="absolute"></p>
+    <p align="center"><img width="700" data-action="zoom" src="/images/260902.jpg" alt="absolute"></p>
   </details>
 
 * O-Joun Lee: Introduction to Graph Neural Networks. Van Lang University, Ho Chi Minh, Vietnam, 06/2026.
