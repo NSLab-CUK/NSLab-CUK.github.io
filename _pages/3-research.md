@@ -253,6 +253,9 @@ _Main Collaborator_: Prof. **Jun Young Kim**, The Catholic University of Korea
 ## Digital Literature
 {:.no_toc}
 
+* Eun-Soon You: Literary Studies in the Age of Artificial Intelligence: A Deep Learning-Based Analysis of Balzac's ≪ La Comedie humaine ≫. Trans- 02/2026; 20: 193-218. (In Korean) <br>
+[![DOI](http://img.shields.io/:DOI-10.23086/trans.2026.20.06-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.23086/trans.2026.20.06)
+
 * Eun-Soon You, Sun-Jung Ryu, O-Joun Lee: A Study on the ‘Esprit’ Indices of The Barber of Seville and The Marriage of Figaro Using the Vocabulary-Based Text Analysis Tool LIWC-22. Story & Image Telling 06/2024; 27: 93-119. (In Korean) <br>
 [![DOI](http://img.shields.io/:DOI-10.22758/sni.2024.27.093-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.22758/sni.2024.27.093)
 
