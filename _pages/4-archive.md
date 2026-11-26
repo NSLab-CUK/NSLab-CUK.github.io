@@ -40,9 +40,10 @@ toc_label: "Table of Contents"
 ##### Sep 2nd, 2026
 {:.no_toc}
 
-* We participated in the CUK/KISTI Joint Symposium, titled "From KREONET to AI," serving as an invited panelist.
+* We participated in the CUK/KISTI Joint Symposium, titled "[From KREONET to AI](https://kreonet.net/notifications/post/notice/5009;jsessionid=W92i6WpXibyULmD41tg3LIQopCV2UaLp7bIGPSRAq5gOGTTxTINo61pasrDmoexa.ar211_servlet_engine15?t=1793232000040#)," serving as an invited panelist.
 
 <p align="center"><img width="700" src="/images/260902_Poster.webp"></p>
+<p align="center"><img width="700" src="/images/260902.jpg"></p>
 
 ***
 ##### Aug 20th, 2026
