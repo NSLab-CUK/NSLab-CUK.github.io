@@ -24,7 +24,7 @@ This page includes only our domestic publications. For international publication
 
 * Hyun-Woo Kim, O-Joun Lee: Recent Advances in Agentic AI for Science: A Focus on Applications in Chemistry (과학을 위한 Agentic AI의 최신 발전 동향: 화학 분야의 활용을 중심으로). [Information and Communications Magazine (정보와 통신 : 한국통신학회지) 10/2026; 43(10)](https://www.kics.or.kr/html/?pmode=Bpublication&page=1&smode=view&seq=4981&searchValue=&searchTitle=strTitle): 68-75. (In Korean)
 
-* Eun-Soon You: Literary Studies in the Age of Artificial Intelligence: A Deep Learning-Based Analysis of Balzac's ≪ La Comedie humaine ≫ (인공지능 시대의 문학 연구: 딥러닝 모델을 활용한 발자크의 ≪인간희극≫ 분석). Trans- (트랜스-) 02/2024; 20: 193-218. (In Korean) DOI:[10.23086/trans.2026.20.06](https://doi.org/10.23086/trans.2026.20.06)
+* Eun-Soon You: Literary Studies in the Age of Artificial Intelligence: A Deep Learning-Based Analysis of Balzac's ≪ La Comedie humaine ≫ (인공지능 시대의 문학 연구: 딥러닝 모델을 활용한 발자크의 ≪인간희극≫ 분석). Trans- (트랜스-) 02/2026; 20: 193-218. (In Korean) DOI:[10.23086/trans.2026.20.06](https://doi.org/10.23086/trans.2026.20.06)
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
 <span class="__dimensions_badge_embed__" data-doi="10.23086/trans.2026.20.06" data-style="small_rectangle"></span>
 <div class="scite-badge" data-doi="10.23086/trans.2026.20.06" data-layout="horizontal" data-show-zero="true" data-small="true" data-show-labels="false" data-tally-show="true" data-tooltip-placement="right"></div>
