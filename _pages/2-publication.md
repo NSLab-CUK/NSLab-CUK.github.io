@@ -22,6 +22,9 @@ This page includes only our international publications. For domestic publication
 
 ***
 
+* Minsun Cho, Taeheon Lee, Jinwoo Jung, Wolfgang Goes, Ahmed Nejim, O-Joun Lee†, Sungyeop Jung†: Data-Driven Autocalibration of a Dynamic Compact Model for Resistive Switching Memories. Advanced Functional Materials 11/2026. (To Appear) (†: Co-correspondence)
+[![Link](https://img.shields.io/badge/IF%2019.9%20--%20JCR%202025%20Top%204.2%25-0C2E86?style=flat-square)](https://advanced.onlinelibrary.wiley.com/journal/16163028) 
+
 * Van Thuy Hoang, Huu-Tuong Ho, O-Joun Lee: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction. IEEE Transactions on Computational Biology and Bioinformatics 11/2026. (To Appear) DOI:[10.1109/TCBBIO.2026.3751415](https://doi.org/10.1109/TCBBIO.2026.3751415)
 [![Link](https://img.shields.io/badge/IF%204.1%20--%20JCR%202025%20Top%204.4%25-0C2E86?style=flat-square)](https://www.computer.org/csdl/journal/bb) 
 <div style="display: flex; align-items: center; gap: 10px; margin-left: 1em; margin-top: -10px; margin-bottom: 15px; align-items: center;">
